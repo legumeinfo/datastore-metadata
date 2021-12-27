@@ -1,2 +1,16 @@
 *.html
 *.gz
+*.md5
+*.txt
+*.tbi
+*.fai
+*.gzi
+*.csi
+*.bam
+*.bai
+*.bz2
+*.xls
+*.xlsx
+*.pdf
+*.jpg
+MANIFEST.*
