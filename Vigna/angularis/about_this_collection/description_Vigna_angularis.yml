@@ -1,20 +1,20 @@
 ---
-organism.taxid: 3914
-organism.genus: Vigna
-organism.species: angularis
-organism.abbrev: vigan
-organism.commonName: adzuki bean
-organism.description: "Adzuki bean (Vigna angularis) is a diploid legume crop (2n = 2x = 22). Adzuki beans are commonly sweetened before eating by boiling the beans with sugar, resulting in red bean paste. The adzuki bean is a good dietary source for a variety of minerals including; magnesium, potassium and zinc. Genome assemblies have been generated for several accessions."
+taxid: 3914
+genus: Vigna
+species: angularis
+abbrev: vigan
+commonName: adzuki bean
+description: "Adzuki bean (Vigna angularis) is a diploid legume crop (2n = 2x = 22). Adzuki beans are commonly sweetened before eating by boiling the beans with sugar, resulting in red bean paste. The adzuki bean is a good dietary source for a variety of minerals including; magnesium, potassium and zinc. Genome assemblies have been generated for several accessions."
 
-organism.resources:
-
-organism.strains:
-  - identifier: Gyeongwon
+strains:
+  -
+    identifier: Gyeongwon
     accession: IT213134
     name: Gyeongwon
     origin: South Korea
     description: "Adzuki bean cultivar Gyeongwon was developed in South Korea for agronomic and seed-quality characteristics. This line was used to generate a genome assembly described in Kang et al., 2015 (10.1038/srep08069)"
-  - identifier: Shumari
+  -
+    identifier: Shumari
     accession: Shumari
     name: Shumari
     origin: Japan

@@ -1,15 +1,14 @@
 ---
-organism.taxid: 130453
-organism.genus: Arachis
-organism.species: duranensis
-organism.abbrev: aradu
-organism.commonName: diploid wild peanut - A-genome
-organism.description: "Arachis duranensis, a wild herb native to Argentina, Bolivia, and Paraguay, is thought to be one of the diploid ancestors of cultivated peanut. Its genome has been sequenced as part of the Peanut Genomics Initiative, to help in the accurate assembly of the more important cultivated peanut, A. hypogaea. Cultivated peanut derived all of its genetic material from two wild ancestors, A. duranensis and A. ipaensis whose genomes merged several thousand years ago, in a rare genetic event. The wild species, therefore, have half as much genetic material as cultivated peanut. These two simpler genomes have first been sequenced toward achieving its ultimate goal: the complete genomic sequence for cultivated peanut. The cultivated peanut is an allotetraploid (2n=4x=40) that carries both the A and B genomes and A. duranensis (2n=2x=20) has likely contributed the A genome, the smaller set of chromosomes in the karyotype. These two ancestral diploids separated from each other about 3 million years ago. The genome merger, allopolyploidy event, ocurred relatively very recently, five to ten thousand years ago, followed by domestication in South America from where it appeared in most part of the world by 1600. Arachis duranensis is described further in Bertioli et al., 2016 (doi:10.1038/ng.3517)"
+taxid: 130453
+genus: Arachis
+species: duranensis
+abbrev: aradu
+commonName: diploid wild peanut - A-genome
+description: "Arachis duranensis, a wild herb native to Argentina, Bolivia, and Paraguay, is thought to be one of the diploid ancestors of cultivated peanut. Its genome has been sequenced as part of the Peanut Genomics Initiative, to help in the accurate assembly of the more important cultivated peanut, A. hypogaea. Cultivated peanut derived all of its genetic material from two wild ancestors, A. duranensis and A. ipaensis whose genomes merged several thousand years ago, in a rare genetic event. The wild species, therefore, have half as much genetic material as cultivated peanut. These two simpler genomes have first been sequenced toward achieving its ultimate goal: the complete genomic sequence for cultivated peanut. The cultivated peanut is an allotetraploid (2n=4x=40) that carries both the A and B genomes and A. duranensis (2n=2x=20) has likely contributed the A genome, the smaller set of chromosomes in the karyotype. These two ancestral diploids separated from each other about 3 million years ago. The genome merger, allopolyploidy event, ocurred relatively very recently, five to ten thousand years ago, followed by domestication in South America from where it appeared in most part of the world by 1600. Arachis duranensis is described further in Bertioli et al., 2016 (doi:10.1038/ng.3517)"
 
-organism.resources:
-
-organism.strains:
-  - identifier: V14167
+strains:
+  -
+    identifier: V14167
     accession: V14167
     name: V14167
     origin: Argentina, via USDA National Plant Germplasm Repository

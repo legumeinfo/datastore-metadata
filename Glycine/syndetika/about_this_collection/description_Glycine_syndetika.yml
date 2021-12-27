@@ -1,15 +1,13 @@
 ---
-organism.taxid: 713886
-organism.genus: Glycine
-organism.species: syndetika
-organism.abbrev: glysy
-organism.commonName: 
-organism.description: "Glycine syndetika (B.E. Pfeil & Craven) is a twining perennial plant with three leathery, often persistent leaflets. Flowers are somewhat clustered towards to the top of the inflorescences and pods contain 4-9 relatively large square seeds (Pfeil. BE et al., 2006). G. syndetika is diploid (2n = 40) member of the A-genome clade. (This species was formerly part of the Glycine tomentella species complex and was referred to as G. tomentella D4. ) It is has a restricted range in the Eastern Queensland region of Australia (Ratnaparkhe et al 2011; Gonzalez-Orozco et al., 2012)."
+taxid: 713886
+genus: Glycine
+species: syndetika
+abbrev: glysy
+description: "Glycine syndetika (B.E. Pfeil & Craven) is a twining perennial plant with three leathery, often persistent leaflets. Flowers are somewhat clustered towards to the top of the inflorescences and pods contain 4-9 relatively large square seeds (Pfeil. BE et al., 2006). G. syndetika is diploid (2n = 40) member of the A-genome clade. (This species was formerly part of the Glycine tomentella species complex and was referred to as G. tomentella D4. ) It is has a restricted range in the Eastern Queensland region of Australia (Ratnaparkhe et al 2011; Gonzalez-Orozco et al., 2012)."
 
-organism.resources:
-
-organism.strains:
-  - identifier: G1300
+strains:
+  -
+    identifier: G1300
     accession: G1300
     name: G. syndetika (B.E. Pfeil & Craven)
     origin: Eastern Queensland region of Australia

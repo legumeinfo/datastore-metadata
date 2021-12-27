@@ -1,15 +1,14 @@
 ---
-organism.taxid: 3821
-organism.genus: Cajanus
-organism.species: cajan
-organism.abbrev: cajca
-organism.commonName: pigeonpea
-organism.description: "Pigeonpea (Cajanus cajan) is a member of the millettioid (warm-season legume) clade within the sub-family Papilionoideae. Pigeonpea is the main protein source for more than a billion people in the developing world. It is grown mainly in the semi-arid tropical regions (Asia, Africa and Central/South America)."
+taxid: 3821
+genus: Cajanus
+species: cajan
+abbrev: cajca
+commonName: pigeonpea
+description: "Pigeonpea (Cajanus cajan) is a member of the millettioid (warm-season legume) clade within the sub-family Papilionoideae. Pigeonpea is the main protein source for more than a billion people in the developing world. It is grown mainly in the semi-arid tropical regions (Asia, Africa and Central/South America)."
 
-organism.resources:
-
-organism.strains:
-  - identifier: ICPL87119
+strains:
+  -
+    identifier: ICPL87119
     accession: ICPL87119
     name: ICPL87119
     origin: International Crops Research Inst. for the Semi-Arid Tropics (ICRISAT) 

@@ -1,15 +1,14 @@
 ---
-organism.taxid: 561484
-organism.genus: Aeschynomene
-organism.species: evenia
-organism.abbrev: aesev
-organism.commonName: shrubby jointvetch
-organism.description: "The legume genus Aeschynomene L. includes approximately 150 tropical and subtropical species, part of them having a semi-aquatic lifestyle. Some hydrophytic Aeschynomene species display unusual symbiotic features such as stem nodulation and the presence of a Nod factor-independent infection process with some Bradyrhizobium strains. To decipher the mechanisms of this original symbiotic process, Aeschynomene evenia has emerged as a new model legume because of its advantageous genetic and developmental characteristics for molecular genetics. A. evenia (2n=20, 400 Mb/1C) is an autogamous diploid species that is annual or short-lived perennial, consisting of various genotypes."
+taxid: 561484
+genus: Aeschynomene
+species: evenia
+abbrev: aesev
+commonName: shrubby jointvetch
+description: "The legume genus Aeschynomene L. includes approximately 150 tropical and subtropical species, part of them having a semi-aquatic lifestyle. Some hydrophytic Aeschynomene species display unusual symbiotic features such as stem nodulation and the presence of a Nod factor-independent infection process with some Bradyrhizobium strains. To decipher the mechanisms of this original symbiotic process, Aeschynomene evenia has emerged as a new model legume because of its advantageous genetic and developmental characteristics for molecular genetics. A. evenia (2n=20, 400 Mb/1C) is an autogamous diploid species that is annual or short-lived perennial, consisting of various genotypes."
 
-organism.resources:
-
-organism.strains:
-  - identifier: CIAT22838
+strains:
+  -
+    identifier: CIAT22838
     accession: CIAT22838
     name: CIAT22838
     origin: Malawi

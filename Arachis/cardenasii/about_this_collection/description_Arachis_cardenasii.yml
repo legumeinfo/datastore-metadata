@@ -1,15 +1,14 @@
 ---
-organism.taxid: 51121
-organism.genus: Arachis
-organism.species: cardenasii
-organism.abbrev: araca
-organism.commonName: Mani silvestre (wild peanut)
-organism.description: "Arachis cardenasii Krapov. & W.C. Greg. is a wild peanut relative native to Bolivia. It has been used by peanut breeders and geneticists in interspecific hybrids with cultivated peanut (A. hypogaea) as a source of pest and disease resistance. A. cardenasii is a diploid  species in the 'A-genome' group of Arachis, similar to A. duranensis, which contributed one of the two subgenomes to tetraploid cultivated peanut."
+taxid: 51121
+genus: Arachis
+species: cardenasii
+abbrev: araca
+commonName: Mani silvestre (wild peanut)
+description: "Arachis cardenasii Krapov. & W.C. Greg. is a wild peanut relative native to Bolivia. It has been used by peanut breeders and geneticists in interspecific hybrids with cultivated peanut (A. hypogaea) as a source of pest and disease resistance. A. cardenasii is a diploid  species in the 'A-genome' group of Arachis, similar to A. duranensis, which contributed one of the two subgenomes to tetraploid cultivated peanut."
 
-organism.resources:
-
-organism.strains:
-  - identifier: K10017
+strains:
+  -
+    identifier: K10017
     accession: PI 262141
     name: GKP10017
     origin: Robore, Bolivia

@@ -1,16 +1,14 @@
 ---
-organism.taxid: 185702
-organism.genus: Apios
-organism.species: americana
-organism.abbrev: apiam
-organism.commonName: potato bean
-organism.description: "Potato bean (Apios americana) produces starchy, high-protein tubers that were used by indigenous Native Americans. Apios americana is found throughout eastern and central North America, from Louisiana in the south to Quebec in the north. A breeding program was begun in the 1980s by Dr. Bill Blackmon and Berthal Reynolds with the goal of creating a more marketable domesticated tuber."
+taxid: 185702
+genus: Apios
+species: americana
+abbrev: apiam
+commonName: potato bean
+description: "Potato bean (Apios americana) produces starchy, high-protein tubers that were used by indigenous Native Americans. Apios americana is found throughout eastern and central North America, from Louisiana in the south to Quebec in the north. A breeding program was begun in the 1980s by Dr. Bill Blackmon and Berthal Reynolds with the goal of creating a more marketable domesticated tuber."
 
-organism.resources:
-
-organism.strains:
-  - identifier: LA2155
-    accession: NULL
+strains:
+  -
+    identifier: LA2155
     name: LA2155
     origin: Louisiana, United States
     description: "Apios americana strain LA2155 was selected by Drs. Bill Blackmon and Mr. Berthal Reynolds in the late 1980s, from crosses derived from wild A. americana accessions collected from the southern U.S. (primarily Louisiana). This accession is described in Belamkar et al., 2015 (doi:10.2135/cropsci2014.04.0281) and Belamkar et al., 2016 (doi: 10.1038/srep34908)."

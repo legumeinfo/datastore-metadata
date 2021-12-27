@@ -1,22 +1,21 @@
 ---
-organism.taxid: 3848
-organism.genus: Glycine
-organism.species: soja
-organism.name: Glycine soja
-organism.abbrev: glyso
-organism.commonName: wild soybean
-organism.description: "Glycine soja is the closest wild relative of soybean, Glycine max. Populations of G. soja exist in the wild in China, Japan, Korea, and Russia. Analysis of genetic differences between the two species suggests that the two separated approximately 200 thousand years ago. The species remain interfertile, and G. soja accessions are used in breeding projects in order to introgress traits such as tolerance to particular diseases or environmental stresses."
+taxid: 3848
+genus: Glycine
+species: soja
+abbrev: glyso
+commonName: wild soybean
+description: "Glycine soja is the closest wild relative of soybean, Glycine max. Populations of G. soja exist in the wild in China, Japan, Korea, and Russia. Analysis of genetic differences between the two species suggests that the two separated approximately 200 thousand years ago. The species remain interfertile, and G. soja accessions are used in breeding projects in order to introgress traits such as tolerance to particular diseases or environmental stresses."
 
-organism.resources:
-
-organism.strains:
-  - identifier: PI483463
+strains:
+  -
+    identifier: PI483463
     accession: PI 483463
-    name: 
+    name: PI 483463
     origin: Shanxi Sheng, China
     description: "Glycine soja accession PI 483463 has been identified as being unusually tolerant (Lee et al., 2009; https://doi.org/10.1093/jhered/esp027). The genome for this accession has been sequenced, partly on the basis of this salt-tolerance trait."
-  - identifier: W05
-    accession: 
+  -
+    identifier: W05
+    accession: W05
     name: W05
     origin: Henan Province, China
     description: "Glycine soja accession W05 is a salt-tolerant wild soybean whose genome has been sequenced to serve as a reference genome assembly. The W05 accession has been used for genetic studies of several traits, including indeterminacy, seed size, pod number per plant, and seed color (Xie et al., 2019; https://doi.org/10.1038/s41467-019-09142-9)."

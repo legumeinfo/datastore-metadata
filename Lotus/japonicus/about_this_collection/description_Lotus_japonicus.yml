@@ -1,15 +1,14 @@
 ---
-organism.taxid: 34305
-organism.genus: Lotus
-organism.species: japonicus
-organism.abbrev: lotja
-organism.commonName: birdsfoot trefoil
-organism.description: "Lotus japonicus, a forage crop (much like clover), is widely used as a model in legume biology. It is physically small in stature, with a small genome, and a short generation time, and it is relatively easily transformable (for gene functional studies). Genome version available on LIS is version Lj2.5 and Lj3.0, publication associated with this genome version is available here: Sato et al., 2008 (doi:10.1093/dnares/dsn008)."
+taxid: 34305
+genus: Lotus
+species: japonicus
+abbrev: lotja
+commonName: birdsfoot trefoil
+description: "Lotus japonicus, a forage crop (much like clover), is widely used as a model in legume biology. It is physically small in stature, with a small genome, and a short generation time, and it is relatively easily transformable (for gene functional studies). Genome version available on LIS is version Lj2.5 and Lj3.0, publication associated with this genome version is available here: Sato et al., 2008 (doi:10.1093/dnares/dsn008)."
 
-organism.resources:
-
-organism.strains:
-  - identifier: MG20
+strains:
+  -
+    identifier: MG20
     accession: MG-20
     name: Miyakojima
     origin: Miyakojima, Japan

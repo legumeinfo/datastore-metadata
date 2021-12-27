@@ -1,8 +1,3 @@
 ---
-organism.taxid:	3803
-organism.genus:	Gene
-organism.species:	families
-organism.abbrev:	genfa
-organism.commonName:	legume gene families
-organism.description:	The legume gene families in this data collection were generated in 2018, as part of the Legume Federation NSF project. They are described in Ren et al., 2019 (doi:10.1111/nph.15770) and Stai et al., 2019 (doi:10.3389/fpls.2019.00345).
+description: The legume gene families in this data collection were generated in 2018, as part of the Legume Federation NSF project. They are described in Ren et al., 2019 (doi:10.1111/nph.15770) and Stai et al., 2019 (doi:10.3389/fpls.2019.00345).
 
