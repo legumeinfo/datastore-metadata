@@ -1,5 +1,5 @@
 ---
-identifier: JD7C
+identifier: G27455.gnm1.ann1.JD7C
 
 provenance: "The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
@@ -15,25 +15,18 @@ bioproject: PRJNA596114
 
 scientific_name_abbrev: phalu
 
-genotype: G27455
+genotype:
+  - G27455
 
 description: "Genome annotations for the Phaseolus lunatus G27455 V1 genome assembly."
 
-dataset_doi:
+original_file_creation_date: "2020-07-01"
 
-genbank_accession:
+local_file_creation_date: "2020-07-01"
 
-original_file_creation_date: 2020-07
+dataset_release_date: "2020-09-09"
 
-local_file_creation_date: 2020-07
-
-publication_doi:
-
-dataset_release_date: 2020-09-09
-
-publication_title:
-
-contributors: "Maria Isabel Chac�n, Jorge Duitama, Paul Gepts and Clara Bermudez"
+contributors: "María Isabel Chacón, Jorge Duitama, Paul Gepts and Clara Bermudez"
 
 data_curators: Andrew Farmer
 
@@ -42,6 +35,3 @@ public_access_level: public
 license: open 
 
 keywords: lima bean
-
-citations:
-
