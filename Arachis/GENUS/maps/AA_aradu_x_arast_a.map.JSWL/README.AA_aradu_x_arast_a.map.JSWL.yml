@@ -1,0 +1,47 @@
+---
+identifier: JSWL 
+
+provenance: "Downloaded from paper"
+
+source: "https://static-content.springer.com/esm/art%3A10.1186%2F1471-2229-9-112/MediaObjects/12870_2009_454_MOESM1_ESM.xls"
+
+synopsis: AA_A.duranensis_x_A.stenosperma_a, an interspecific genetic map created from a cross of A. duranensis and A. stenosperma
+
+scientific_name: Arachis duranensis, Arachis stenosperma
+
+taxid: 130453, 217475
+
+bioproject:
+
+scientific_name_abbrev: aradu, arast
+
+genotype: K7988, V10309
+
+description: "A diploid A-genome genetic map created F2 plants  from a cross of A. duranensis (K7988) and A. stenosperma (V10309)."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2009-08-22
+
+local_file_creation_date: 2015-05-29
+
+publication_doi: https://doi.org/10.1186/1471-2229-9-112 
+
+dataset_release_date: 2018-10-26
+
+publication_title: "Identification of candidate genome regions controlling disease resistance in Arachis"
+
+contributors: "Soraya CM Leal-Bertioli, Ana Carolina VF José, Dione MT Alves-Freitas, Márcio C Moretzsohn, Patrícia M Guimarães, Stephan Nielen, Bruna S Vidigal, Rinaldo W Pereira, Jodie Pike, Alessandra P Fávero, Martin Parniske, Rajeev K Varshney, David J Bertioli"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: 
+
+license: open
+
+keywords: 
+
+citations: "Soraya CM Leal-BertioliEmail author, Ana Carolina VF José, Dione MT Alves-Freitas, Márcio C Moretzsohn, Patrícia M Guimarães, Stephan Nielen, Bruna S Vidigal, Rinaldo W Pereira, Jodie Pike, Alessandra P Fávero, Martin Parniske, Rajeev K Varshney, David J Bertioli. Identification of candidate genome regions controlling disease resistance in Arachis. BMC Plant Biology 9:112 (2009)."
+

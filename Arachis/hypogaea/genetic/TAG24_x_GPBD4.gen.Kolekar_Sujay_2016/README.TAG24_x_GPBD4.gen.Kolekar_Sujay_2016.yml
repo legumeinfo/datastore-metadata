@@ -1,0 +1,49 @@
+identifier: TAG24_x_GPBD4.gen.Kolekar_Sujay_2016
+  
+provenance: 
+
+source: 
+
+synopsis: "An F6 mapping population of 266 recombinant inbred lines (RILs) was advanced by single seed descent from a cross of the late leaf spot and rust disease susceptible line TAG 24 and the resistant variety GPBD 4. QTLs were found for Late leaf spot and Puccinia rust."
+
+related_to: 
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: 
+
+scientific_name_abbrev: Arahy
+
+genotype: 
+  - TAG 24 x GPBD 4
+
+description: "A cultivated peanut (Arachis hypogaea L.) F6 mapping population of 266 recombinant inbred lines (RILs) was advanced by single seed descent from a cross of the late leaf spot and rust disease susceptible line TAG 24 and the resistant variety GPBD 4.  The parents TAG 24 and GPBD 4 were screened with 1954 newly available markers that included 1079 A. hypogaea genomic microsatellites (AHGS), 470 A. hypogaea EST microsatellites (AHS), and 405 A. hypogaea transposable element (AhTE) AhMITE1 markers.  Polymorphism between the parents was shown for 139 markers out of the 1954 tested.  Data were also employed for 188 microsatellite markers used in previous studies on the TAG 24 x GPBD 4 population [Khedikar, Gowda et al., 2010a; Sujay, Gowda et al., 2012a].  The 327 total polymorphic markers were used to genotype the population of 266 RILs for linkage map construction.  The final genetic map includes 289 marker loci.  Four markers [GM1971, GM2724, pPGSSeq18A05, AhFAD2A.2] amplified two loci each, so that 285 unique markers appear on the map.  The map contains 22 linkage groups, a total length of 1730.8 cM, and an average inter-marker distance of 6.0 cM.  The sizes of linkage groups ranged from 26.7 cM to 155.9 cM.  This enhanced linkage map is superior to the one published earlier by Sujay, Gowda et al. (2012a) [188 microsatellites, 1922.4 cM, 12.69 cM mean inter-locus distance]."
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 
+
+local_file_creation_date: 
+
+publication_doi: 10.1007/s10681-016-1651-0
+
+dataset_release_date: 
+
+publication_title: "QTL Mapping for Late Leaf Spot and Rust Resistance using an Improved Genetic Map and Extensive Phenotypic Data on a Recombinant Inbred Line Population in Peanut (Arachis hypogaea L.)"
+
+contributors: "Kolekar, R M; Sujay, V; Shirasawa, Kenta; Sukruth, M; Khedikar, Y P; Gowda, M V C; Pandey, M K; Varshney, R K; Bhat, R S"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: 
+
+citations: "Kolekar, R. M. et al. QTL mapping for late leaf spot and rust resistance using an improved genetic map and extensive phenotypic data on a recombinant inbred line population in peanut (Arachis hypogaea L.). Euphytica vol. 209 147–156 (2016)" 
+

@@ -1,0 +1,16 @@
+---
+organism.taxid: 96944
+organism.genus: Glycine
+organism.species: stenophita
+organism.abbrev: glyst
+organism.commonName: 
+organism.description: "Glycine stenophita (B.E. Pfeil & Tind.) is a scrambling or climbing perennial that is glabrous or with sparse white hairs covering the stems. Pods are 4 to 6 seeded and seeds are generally barrel shaped with some variation in shape from elliptical to square. G. stenophita is a diploid (2n = 40) member of the B-genome group. It occurs in the Australian states of Queensland and New South Wales (Ratnaparkhe et al 2011; Gonzalez-Orozco et al., 2012)."
+
+organism.resources:
+
+organism.strains:
+  - identifier: G1974
+    accession: G1974
+    name: "G. stenophita (B.E. Pfeil & Tind.)"
+    origin: Australian states of Queensland and New South Wales
+    description: "Glycine stenophita (B.E. Pfeil & Tind.) is a scrambling or climbing perennial that is glabrous or with sparse white hairs covering the stems. Pods are 4 to 6 seeded and seeds are generally barrel shaped with some variation in shape from elliptical to square."

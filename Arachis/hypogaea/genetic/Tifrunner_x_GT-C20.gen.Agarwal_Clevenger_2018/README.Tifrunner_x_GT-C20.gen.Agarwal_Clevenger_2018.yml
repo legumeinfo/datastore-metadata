@@ -1,0 +1,51 @@
+identifier: Tifrunner_x_GT-C20.gen.Agarwal_Clevenger_2018
+  
+provenance:  
+
+source: 
+
+synopsis: "Genetic map of Tifrunner x GT-C20 for the study of early and late leaf spots (ELS and LLS) and tomato spotted wilt virus (TSWV)."
+
+related_to: 
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: 
+
+scientific_name_abbrev: arahy
+
+genotype:
+  - Tifrunner x GT-C20
+
+description: "Whole-genome resequencing (WGRS) of a recombinant inbred line (RIL) mapping population was used to develop a SNP-based high-density genetic linkage map for Arachis hypogaea.  This 'T-population' was produced from a cross of the female-ovule parent Tifrunner and the male-pollen parent GT-C20.  Whole-genome resequencing of genomic DNA extracted from leaf tissues was performed using the inbred parental lines and 91 of the RILs.  The map is composed of 8,869 SNPs distributed across 20 linkage groups; however, many SNPs have identical cM positions such that the 8,869 SNPs are equivalent to 2,156 marker loci exhibiting independent recombination.  The length of the map is 3,120.71 cM and the average distance between markers is 1.45 cM.  There is an average of 107.8 mapped loci per linkage group with a range of 38 (B07) to 179 (A03) marker loci.  The A-subgenome was composed of 1,219 marker loci spanning 1,637.8 cM at a 1.34 cM average marker distance, whereas the B-subgenome was composed of 937 marker loci spanning 1,484.91 cM at a 1.58 cM average marker distance.  SNPs that were identified (called) using a chromosome belonging to either the A- or B-reference diploid genome (Arachis duranensis v. 1.0, A. ipaensis v. 1.0), yet were mapped onto a corresponding linkage group found within the other subgenome, are described as homeologous SNPs.  There are 422 homeologous SNP markers identified from alignment with the A-subgenome that are mapped to B-subgenome linkage groups, and 317 such markers identified using the B-subgenome that appeared on A-subgenome linkage groups.  Similarly, SNPs that were identified using a chromosome belonging to either the A- or B-reference diploid genome, yet were mapped onto another linkage group that was neither the orginal linkage group nor its homeologue in the corresponding A- or B-subgenome, are described as translocated SNPs.  There are 309 and 104 translocated SNP markers that were incorporated into the A-subgenome and B-subgenome linkage groups, respectively.  The authors then incorporated 15 of the 19 major-QTL linked microsatellite markers from the publication Pandey, Wang et al., (2017a) into the SNP-based genetic map; 13 of the 15 markers joined the same linkage groups as demonstrated earlier (A04, A05, A06, A07, B06), although the two markers originally mapped to linkage group A03 were now included in B03.  Addition of the microsatellites to the SNP-based map increased the genetic map lengths of the relevant linkage groups; the overall length of the now 8,884 marker map has been expanded to 3,287.38 cM. Leaf spots, including early leaf spot (ELS) and late leaf spot (LLS), and Tomato spotted wilt virus (TSWV) are devastating diseases in peanut causing significant yield loss. We generated WGRS data on a recombinant inbred line population, developed a SNP-based high-density genetic map, and conducted fine mapping, candidate gene discovery and marker validation for ELS, LLS and TSWV. The first sequence-based high-density map was constructed with 8869 SNPs assigned to 20 linkage groups, representing 20 chromosomes, for the ‘T’ population (Tifrunner x GT-C20) with a map length of 3120 cM and an average distance of 1.45 cM. The quantitative trait locus (QTL) analysis using high-density genetic map and multiple season phenotyping data identified 35 main-effect QTLs with phenotypic variation explained (PVE) from 6.32% to 47.63%. Among major-effect QTLs mapped, there were two QTLs for ELS on B05 with 47.42% PVE and B03 with 47.38% PVE, two QTLs for LLS on A05 with 47.63% and B03 with 34.03% PVE and one QTL for TSWV on B09 with 40.71% PVE. The epistasis and environment interaction analyses identified significant environmental effects on these traits. The identified QTL regions had disease resistance genes including R-genes and transcription factors. KASP markers were developed for major QTLs and validated in the population and are ready for further deployment in genomics-assisted breeding in peanut."
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 
+
+local_file_creation_date: 
+
+publication_doi: 10.1111/pbi.12930
+
+dataset_release_date: 
+
+publication_title: "High-Density Genetic Map Using Whole-Genome Resequencing for Fine Mapping and Candidate Gene Discovery for Disease Resistance in Peanut"
+
+contributors: "Gaurav Agarwal, Josh Clevenger, Manish K. Pandey, Hui Wang, Yaduru Shasidhar, Ye Chu, Jake C. Fountain, Divya Choudhary, Albert K. Culbreath, Xin Liu, Guodong Huang, Xingjun Wang, Rupesh Deshmukh, C. Corley Holbrook, David J. Bertioli, Peggy Ozias-Akins, Scott A. Jackson, Rajeev K. Varshney, and Baozhu Guo"
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: Arachis hypogaea, peanut, leaf spot, tomato spotted wilt virus, ELS, LLS, TSWV
+
+citations: "Agarwal, G. et al. High-density genetic map using whole-genome resequencing for fine mapping and candidate gene discovery for disease resistance in peanut. Plant Biotechnol. J. 16, 1954–1967 (2018)"
+
+genotyping_platform: TPop_map_Agarwai2018
+

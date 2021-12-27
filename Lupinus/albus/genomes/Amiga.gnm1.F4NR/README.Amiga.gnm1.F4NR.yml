@@ -1,0 +1,49 @@
+---
+identifier: Amiga.gnm1.F4NR
+
+provenance: "The files in this directory originated from https://www.whitelupin.fr/download.html
+The whitelupin repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://www.whitelupin.fr/download.html"
+
+synopsis: genome assembly, including both nuclear pseudomolecules, unplaced contigs and organelle sequences
+
+scientific_name: Lupinus albus
+
+taxid: 3870
+
+bioproject: PRJNA575804
+
+scientific_name_abbrev: lupal
+
+genotype: 
+  - Amiga
+
+description: "Genome assembly for Lupinus albus."
+
+dataset_doi:
+
+genbank_accession: GCA_009771035.1
+
+original_file_creation_date: 
+
+local_file_creation_date: 2020-02-12
+
+publication_doi: 10.1038/s41467-019-14197-9
+
+dataset_release_date: 2019-12-20
+
+publication_title: "High-quality genome sequence of white lupin provides insight into soil exploration and seed quality."
+
+contributors: "Hufnagel B, Marques A, Soriano A, Marquès L, Divol F, Doumas P, Sallet E, Mancinotti D, Carrere S, Marande W, Arribat S, Keller J, Huneau C, Blein T, Aimé D, Laguerre M, Taylor J, Schubert V, Nelson M, Geu-Flores F, Crespi M, Gallardo K, Delaux PM, Salse J, Bergès H, Guyot R, Gouzy J, Pé"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: white lupine, Lupinus albus
+
+citations: "Hufnagel B, Marques A, Soriano A, Marquès L, Divol F, Doumas P, Sallet E, Mancinotti D, Carrere S, Marande W, Arribat S, Keller J, Huneau C, Blein T, Aimé D, Laguerre M, Taylor J, Schubert V, Nelson M, Geu-Flores F, Crespi M, Gallardo K, Delaux PM, Salse J, Bergès H, Guyot R, Gouzy J, Péret B. High-quality genome sequence of white lupin provides insight into soil exploration and seed quality. Nat Commun. 2020 Jan 24;11(1):492. doi: 10.1038/s41467-019-14197-9. PMID: 31980615; PMCID: PMC6981116."
+

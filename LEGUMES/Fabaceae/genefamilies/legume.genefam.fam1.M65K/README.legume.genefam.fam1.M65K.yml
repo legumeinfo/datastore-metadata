@@ -1,0 +1,49 @@
+---
+identifier: M65K
+
+provenance: "The files in this directory are considered the primary instancess. The files here are held as part of the LegumeFederation and associated projects, e.g. LegumeInfo, PeanutBase, etc."
+
+source: "https://legumefederation.org/data/public and mirrored at LegumeInfo and affiliated sites."
+
+synopsis: gene families and phylogenetic trees for the legume family
+
+milies here: https://legumeinfo.org/data/public/Gene_families/legume.genefam.fam1.M65K/
+
+scientific_name: Fabaceae
+
+taxid: 3803
+
+bioproject:
+
+scientific_name_abbrev: legume
+
+genotype: genefam
+
+description: "Files in this directory include the main results for gene families constructed for the legume family. Methods are documented at https://github.com/LegumeFederation/legfed_gene_families. Briefly, the methods are based on gene pairs filtered for per-species Ks values. These were clustered using Markov clustering. Sequence match scores of each sequence in a family were used to identify outliers, on the basis of score value relative to the median score for the family. Remaining sequences were re-clustered, added to the HMM set. Then all sequences were searched against all HMMs, realigned, re-screened relative to median match score, and finally used to generate alignments and phylogenetic trees (using RAxML). The trees are rooted, when possible, using the closest outgroup from among five outgroup species: Arabidopsis thaliana, Prunus persica, Cucumis sativa, Solanum lycopersicum, and Vitis vinifera."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2018-03-21
+
+local_file_creation_date: 2018-03-23
+
+publication_doi:
+
+dataset_release_date: 2018-03-23
+
+publication_title:
+
+contributors: "Steven Cannon, David Fernandez-Baca, Akshay Yadav, Jacob Stai, Andrew Farmer"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: legumes, gene family, Glycine max, Phaseolus vulgaris, Vigna angularis, Vigna radiata, Vigna unguiculata, Cajanus cajan, Medicago truncatula, Cicer arietinum, Trifolium pratense, Lotus japonicus, Lupinus angustifolius, Arachis duranensis, Arachis ipaensis, Arachis hypogaea
+
+citations: "Legume Federation project gene families, NSF DBI 1444806"
+

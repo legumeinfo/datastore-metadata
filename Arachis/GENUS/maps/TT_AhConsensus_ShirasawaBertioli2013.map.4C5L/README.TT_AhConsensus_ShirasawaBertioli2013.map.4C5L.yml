@@ -1,0 +1,47 @@
+---
+identifier: 4C5L 
+
+provenance: "Downloaded from paper."
+
+source: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/dnaresearch/20/2/10.1093/dnares/dss042/2/dss042-dss042supp_table3.xls?Expires=2147483647&Signature=pa9tO9GPlZ8aKw2~zA06APFK38UUNUr1kvy0GTz4hIgfx1ZZX57I7-sin0CUX-Pvv1F9SqOoqaxrIAkKmT0olW7FTWYMq0MBseBrQUurxjggjzcX5r859aMFTQtzHeueDFvH0cidD~WC-kL-v8FoJmQAgAHqQHjc9bb0SwQN-XkrovKEwOqdnuZNdhf~oDkKmAjdoYAoeLGZql5WWrlSoKm5DOfgp5uM4jort9HAA300JeIEpJ3fNFO9j3RvVEd7Ok1Rot8M5vaMzDRY7GlUcOjvIDH7UK0vo4LADoWEenl64Q0brLMEw4jUoQ76OLdbrVr697v0Qr-KyGQ1wpfu3A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+
+synopsis: TT_AhConsensus_ShirasawaBertioli2013_a, an interspecies consensus map for A. hypogaea.
+
+scientific_name: Arachis hypogaea, Arachis duranensis, Arachis ipaensis, Arachis stenosperma, and Arachis magna
+
+taxid: 3818, 130453, 130454, 217475, 108213
+
+bioproject:
+
+scientific_name_abbrev: arahy, aradu, araip, arast, arama
+
+genotype: 
+
+description: "A tetraploid consensus map derived from interspecies maps comprised of A. hypogaea, A. duranensis, A. ipaensis, A. magna, and A. stenosperma."
+
+dataset_doi:
+
+genbank_accession: 
+
+original_file_creation_date: 2012-01-12
+
+local_file_creation_date: 2014-08-28
+
+publication_doi: https://doi.org/10.1093/dnares/dss042 
+
+dataset_release_date: 2018-10-26
+
+publication_title: "Integrated Consensus Map of Cultivated Peanut and Wild Relatives Reveals Structures of the A and B Genomes of Arachis and Divergence of the Legume Genomes"
+
+contributors: "Kenta Shirasawa, David J. Bertioli, Rajeev K. Varshney, Marcio C. Moretzsohn, Soraya C.M. Leal-Bertioli, Mahendar Thudi, Manish K. Pandey, Jean-Francois Rami, Daniel Foncéka, Makanahally V.C. Gowda, Hongde Qin, Baozhu Guo, Yanbin Hong, Xuanqiang Liang, Hideki Hirakawa, Satoshi Tabata, Sachiko Isobe"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Arachis spp., Comparative genomics, Genetic linkage map, Integrated consensus map, Legume genome 
+
+citations: "Kenta Shirasawa, David J. Bertioli, Rajeev K. Varshney, Marcio C. Moretzsohn, Soraya C.M. Leal-Bertioli, Mahendar Thudi, Manish K. Pandey, Jean-Francois Rami, Daniel Foncéka, Makanahally V.C. Gowda, Hongde Qin, Baozhu Guo, Yanbin Hong, Xuanqiang Liang, Hideki Hirakawa, Satoshi Tabata, Sachiko Isobe. Integrated Consensus Map of Cultivated Peanut and Wild Relatives Reveals Structures of the A and B Genomes of Arachis and Divergence of the Legume Genomes. DNA Research, vol. 20, issue 2, pp 173-184 (2013)."
+

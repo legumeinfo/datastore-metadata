@@ -1,0 +1,10 @@
+---
+taxid: 3820
+genus: Cajanus 
+commonName: Pigeon pea
+description: "The genus Cajanus is a member of the plant family Fabaceae. There are 37 species, mainly distributed across Africa, Asia and Australasia. Species include the pigeon pea (C. cajan), which is a significant food crop."
+
+species:
+ - cajan
+
+resources:

@@ -1,0 +1,16 @@
+---
+organism.taxid: 45689
+organism.genus: Glycine
+organism.species: cyrtoloba
+organism.abbrev: glycy
+organism.commonName: 
+organism.description: "G. cyrotoloba (Tind) is a perennial plant with twining and stiff stems. G. cyrotoloba pods are curved and somewhat mottled in appearance containing 3-9 seeds that and are dark brown to black in color (Tindale, MD et al., 1984). G. cyrotoloba is a diploid (2n=40) member of the C-genome of Glycine. It is found along the coast of Queensland and Northern New South Wales (Ratnaparkhe et al 2011 ; Gonzalez-Orozco et al., 2012)."
+
+organism.resources:
+
+organism.strains:
+  - identifier: G1267
+    accession: G1267
+    name: G. cyrotoloba
+    origin: Australian coasts of Queensland and Northern New South Wales
+    description: "G. cyrotoloba (Tind) is a perennial plant with twining and stiff stems. G. cyrotoloba pods are curved and somewhat mottled in appearance containing 3-9 seeds that and are dark brown to black in color (Tindale, MD et al., 1984)."

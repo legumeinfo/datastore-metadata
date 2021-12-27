@@ -1,0 +1,54 @@
+identifier: mixed.gen.Herniter_Muñoz-Amatriaín_2018
+  
+provenance: 
+
+source: 
+
+synopsis: "Four populations were used to study black seed coat and pod tip color: two biparental RIL populations, the UC-Riverside eight-parent MAGIC population, and a diversity minicore population."
+
+related_to: 
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+bioproject: 
+
+scientific_name_abbrev: vigun
+
+genotype: 
+  - CB27 x IT82E-18
+  - Sanzi x Vita 7
+  - MAGIC-2017
+  - UC-Riverside diversity minicore
+    
+description: "This study of black seed coat and pod tip color in cowpea used: (1) 94 F6-8 RILs derived from California Blackeye 27 (CB27), which has a medium-sized black eye seed coat and purple pod tips, and IT82E-18, which has a solid brown coat and green pod tips; (2) a RIL population provided by the IITA with 121 F6-8 RILs derived from a cross between Sanzi, a landrace with a speckled black and purple seed coat and purple pod tips, and Vita 7, which has a solid tan coat and green pod tips; (3) the UC-Riverside MAGIC population of 305 F8 RILs; (4) the UC-Riverside minicore population of 367. Accessions within the minicore population show great phenotypic diversity, including in seed coat color traits."
+
+dataset_doi: 
+
+genbank_accession: 
+
+genotyping_platform: Cowpea1MSelectedSNPs
+
+original_file_creation_date: 
+
+local_file_creation_date: 
+
+publication_doi: 10.1534/g3.118.200521
+
+dataset_release_date: 
+
+publication_title: "Identification of Candidate Genes Controlling Black Seed Coat and Pod Tip Color in Cowpea (Vigna unguiculata [L.] Walp)"
+
+contributors: "Herniter, Ira A; Muñoz-Amatriaín, María; Lo, Sassoum; Guo, Yi-Ning; Close, Timothy J"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: 
+
+citations: "Herniter, I. A., Muñoz-Amatriaín, M., Lo, S., Guo, Y.-N. & Close, T. J. Identification of Candidate Genes Controlling Black Seed Coat and Pod Tip Color in Cowpea (Vigna unguiculata [L.] Walp). G3  8, 3347–3355 (2018)"
+

@@ -1,0 +1,47 @@
+---
+identifier: KNWV
+
+provenance: "The files in this directory are considered the primary instances. The files here are held as part of the PeanutBase and associated projects, e.g. PeanutBase, LegumeInfo, etc. There is also an instance of the data at the National Ag Library, https://data.nal.usda.gov/dataset/data-genotypic-characterization-us-peanut-core-collection"
+
+source: "https://peanutbase.org/data/public/Arachis_hypogaea"
+
+synopsis: Electronic supplementary material for the paper "Genotypic characterization of the U.S. peanut core collection", PI Otyama, R Kulkarni, ... EK Cannon et al., 2020
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy
+
+genotype: multiple
+
+description: "Files in this directory are the electronic supplementary materials for Genotypic characterization of the U.S. peanut core collection, PI Otyama, R Kulkarni, ... EK Cannon et al., 2020"
+
+dataset_doi: XX
+
+genbank_accession:
+
+original_file_creation_date: 2020-03
+
+local_file_creation_date: 2020-03
+
+publication_doi: not yet assigned 
+
+dataset_release_date: 2020-04-15
+
+publication_title: "Genotypic characterization of the U.S. peanut core collection"
+
+contributors: "Paul I. Otyama, Roshan Kulkarni, Kelly Chamberlain?, Peggy Ozias-Akins, Ye Chu, Lori Lincoln, Gregory E. MacDonald, Noelle Anglin, Sudhansu Dash, David Bertioli, David Fernandez-Baca, Michelle Graham, Steven B. Cannon, Ethalinda K.S. Cannon"
+
+data_curators: Ethy Cannon, Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Arachis hypogaea, SNP genotyping, Affymetix array
+
+citations: "Genotypic characterization of the U.S. peanut core collection, PI Otyama, R Kulkarni, ... EK Cannon et al., 2020 (submitted)"
+

@@ -1,0 +1,47 @@
+---
+identifier: SHSZ
+
+provenance: "This repository is considered the primary source for these files. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects."
+
+source: "https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse"
+
+synopsis: Genomic repetitive elements
+
+scientific_name: Arachis (several species)
+
+taxid: 3817
+
+bioproject:
+
+scientific_name_abbrev: arasp
+
+genotype: several
+
+description: "File arasp.mixed.rpt2.SHSZ.repeats_AA011416.fna.gz (previously mobile-elements-AA011416.fasta) contains mixed repeats from A. ipaensis, A. duranensis, and A. hypogaea. This file is from David Bertioli, 2016-01-14, with credits to Dongying Gao, Bruna Vidigal, Ana Claudia Guerra Araujo, Scott Jackson, David Bertioli."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2016-01-14
+
+local_file_creation_date: 2017-10-16
+
+publication_doi:
+
+dataset_release_date: 2016
+
+publication_title: "The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. AND Characterization of active miniature inverted-repeat transposable elements in the peanut genome."
+
+contributors: "The International Peanut Genome Initiative; Dongying Gao, Bruna Vidigal, Ana Claudia Guerra Araujo, Scott Jackson, David Bertioli."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Arachis, peanut, transposable elements
+
+citations: "Bertioli DJ, Cannon SB, Froenicke L, Huang G, Farmer AD, Cannon EK, Liu X, Gao D, Clevenger J, Dash S, Ren L, Moretzsohn MC, Shirasawa K, Huang W, Vidigal B, Abernathy B, Chu Y, Niederhuth CE, Umale P, Araújo AC, Kozik A, Do Kim K, Burow MD, Varshney RK, Wang X, Zhang X, Barkley N, Guimarães PM, Isobe S, Guo B, Liao B, Stalker HT, Schmitz RJ, Scheffler BE, Leal-Bertioli SC, Xun X, Jackson SA, Michelmore R, Ozias-Akins P. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nature Genetics 48:438-S446 (2016). doi: 10.1038/ng.3517. PubMed PMID: 26901068"
+

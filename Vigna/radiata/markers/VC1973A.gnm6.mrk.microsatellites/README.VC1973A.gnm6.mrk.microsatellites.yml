@@ -1,0 +1,48 @@
+identifier: VC1973A.gnm6.mrk.microsatellites
+
+provenance: The files in this directory were submitted by Dr. Yasin Jeshima, at the Indian Council of Agricultural Research - National Bureau of Plant Genetic Resources. Files in this directory are derived, and may have changes as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. Markers, marker associated genes and QTLs, saturated physical map of markers, phylogenies, genome browsers, etc.) and for further use by researchers, to extend research  analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data either from the primary repository or from the present directory, 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://www.nbpgr.ernet.in/Personnel/Scientists/sid/104.aspx
+
+synopsis: SSR markers and genomic locations on the genome sequence of Vigna radiata, accession VC1973A
+
+related_to: Vigna radiata genome GCF_000741045.1 files at Vigna_radiata/VC1973A.gnm6.ann1
+
+scientific_name: Vigna radiata
+
+taxid: 157791
+
+bioproject: PRJNA243847
+
+scientific_name_abbrev: vigra
+
+genotype:
+  - VC1973A
+
+description: SSR markers from Genome assembly (scaffolds and pseudomolecules) of Vigna radiata. SSRs were predicted using the MISA MIcroSAtellite identification tool (http://pgrc.ipk-gatersleben.de/misa/)
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2017
+
+local_file_creation_date: 2018-08-01
+
+publication_doi:
+
+dataset_release_date: 2018-08-03
+
+publication_title: 
+
+contributors: "Sakshi Chaudhary and Jeshima Khan Yasin, DGR Lab 2, Division of Genomic Resources, ICAR-NBPGR, PUSA campus, New Delhi-110012"
+
+data_curators: Steven Cannon, Wei Huang
+
+public_access_level: public
+
+license: open
+
+keywords: molecular maps, legume, vigna, mung, physical map, SSRs
+
+citations: 

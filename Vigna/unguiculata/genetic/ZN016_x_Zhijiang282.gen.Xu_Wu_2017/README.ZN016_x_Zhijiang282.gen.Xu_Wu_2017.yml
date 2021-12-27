@@ -1,0 +1,53 @@
+identifier: ZN016_x_Zhijiang282.gen.Xu_Wu_2017
+  
+provenance: 
+
+source: 
+
+synopsis: "A novel genotyping assay for over 50,000 SNPs was employed to delineate genomic regions governing cowpea pod length."
+
+related_to: 
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+bioproject: 
+
+scientific_name_abbrev: vigun
+
+genotype: 
+  - ZN016 x Zhijiang282
+
+description: "The population used in genetic mapping included 132 recombinant inbred lines (F6:8, ‘ZZ’ population) developed by single‐seed descent from the cross ZN016 x Zhijiang282. ZN016 is a landrace vegetable cowpea accession originating from southern China with medium‐long pods (~38 cm) while Zhijiang282 is a typical asparagus bean cultivar with long pods."
+
+genotyping_platform: Cowpea1MSelectedSNPs
+
+genotyping_method: "Standardized DNA for the samples, the majority at a concentration of 50 ng/μL and a small fraction 10–30 ng/μL, were hybridized to the Cowpea iSelect Consortium Array according to the standard protocol. Single‐base extension was performed and the chips were scanned using the Illumina iScan. The clustering algorithm of GenomeStudio Genotyping Module (V 1.9.4, Illumina, Inc.) was used for SNP calling."
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 
+
+local_file_creation_date: 
+
+publication_doi: 10.1111/pbi.12639
+
+dataset_release_date: 
+
+publication_title: "Huynh, B.-L. et al. A major QTL corresponding to the Rk locus for resistance to root-knot nematodes in cowpea (Vigna unguiculata L. Walp.). Theor. Appl. Genet. 129, 87–95 (2016)"
+
+contributors: "Xu, Pei; Wu, Xinyi; Muñoz-Amatriaín, María; Wang, Baogen; Wu, Xiaohua; Hu, Yaowen; Huynh, Bao-Lam; Close, Timothy J; Roberts, Philip A; Zhou, Wen; Lu, Zhongfu; Li, Guojing"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: 
+
+citations: "Xu, P. et al. Genomic regions, cellular components and gene regulatory basis underlying pod length variations in cowpea (V. unguiculata L. Walp). Plant Biotechnol. J. 15, 547–557 (2017)"
+

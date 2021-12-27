@@ -1,0 +1,47 @@
+---
+identifier: YJWS
+
+provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
+
+source: "https://legumefederation.org/data/ and mirrored at SoyBase, LegumeInfo, PeanutBase, and CyVerse"
+
+synopsis: Glycine soja accession PI 483463 genome assembly, v1.0
+
+scientific_name: Glycine soja
+
+taxid: 3848
+
+bioproject: PRJNA407822
+
+scientific_name_abbrev: glyso
+
+genotype: PI 483463
+
+description: "The aims of this project were to generate a high-quality reference genome assembly for Glycine soja accession PI 483463, which shows high genotypic diversity with respect to elite cultivars from Glycine max (soybean). The assembly incorporates Illumina sequence and optical mapping from NRGene. Pseudomolecule anchoring of scaffolds was accomplished using two dense genetic maps as well as synteny comparisons with the Glycine max reference assembly for cultivar Williams 82 (JGI Glyma.Wm82.a2) and Glycine max cultivar Lee. This assembly corresponds to quality control round 13 (QC13), Nov 7, 2017"
+
+dataset_doi:
+
+genbank_accession: PGFP00000000
+
+original_file_creation_date: 2017-11-08
+
+local_file_creation_date: 2017-11-08
+
+publication_doi:
+
+dataset_release_date: 2017-11-08
+
+publication_title:
+
+contributors: "Henry T. Nguyen, Babu Valliyodan, Steven Cannon, Hon Ming Lam, Dave Edwards, Philipp Bayer, Jacqueline Campbell, Ting-Fung Chan, Jeremy Schmutz, Qijian Song"
+
+data_curators: Jacqueline Campbell, Steven Cannon
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: soybean
+
+citations: "[initial, provisional citation, pre-publication:] Glycine max cv Lee and Glycine soja PI 483463 sequencing consortium, pre-publication"
+

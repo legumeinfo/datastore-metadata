@@ -1,0 +1,47 @@
+---
+identifier: VZYK 
+
+provenance: "Downloaded from paper"
+
+source: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/dnaresearch/20/2/10.1093/dnares/dss042/2/dss042-dss042supp_table1.xls?Expires=2147483647&Signature=seMtw21azP0UHMUIsU~i1EaA8MjlS8S5E~PrXRrHO7579Ppm-ZAIKQEE~klWjGuxvIKBEvWCaEyUO6bxm6oB37PcIqKdhRJR5pw2XdmLqqfwqpDyVKwK0lMpsYn2I~oifF3xmq~rxDzitJI5ndwSpFyODXphtZx9sZzbLe14CKRQRmQOOIvQPZ25QXxS44GD9IUtg72oEnjRN~-PpdrzK025zy59wbNNwGCwALBR3d9m0R6GYrfprqd0Dezt-kbBzhdI5b6Cr5QHypn~otaAar1vex6PTfcCgGX1qGUQ0kk2UNohcBmsix70E3XQRanLHomFHg5kJxVkCfG~rz9ijw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+
+synopsis: AA_A.duranensis_x_A.stenosperma_b, SSR-based map generated from A. duranensis 'K7988' crossed with A. stenosperma 'V10309'
+
+scientific_name: Arachis spp.
+
+taxid: 1753
+
+bioproject:
+
+scientific_name_abbrev: arachis
+
+genotype: K7988, V10309
+
+description: "An SSR-based genetic map composed of F5 plants produced by a cross of A. duranensis 'K7988' with A. stenosperma 'V10309'."
+
+dataset_doi: 
+
+genbank_accession:
+
+original_file_creation_date: 2012-01-12
+
+local_file_creation_date: 2014-08-28
+
+publication_doi: https://doi.org/10.1093/dnares/dss042 
+
+dataset_release_date: 2018-10-26
+
+publication_title: "Integrated Consensus Map of Cultivated Peanut and Wild Relatives Reveals Structures of the A and B Genomes of Arachis and Divergence of the Legume Genomes"
+
+contributors: "Kenta Shirasawa, David J. Bertioli, Rajeev K. Varshney, Marcio C. Moretzsohn, Soraya C.M. Leal-Bertioli, Mahendar Thudi, Manish K. Pandey, Jean-Francois Rami, Daniel Foncéka, Makanahally V.C. Gowda, Hongde Qin, Baozhu Guo, Yanbin Hong, Xuanqiang Liang, Hideki Hirakawa, Satoshi Tabata, Sachiko Isobe"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Arachis spp., Comparative genomics, Genetic linkage map, Integrated consensus map, Legume genome 
+
+citations: "Kenta Shirasawa, David J. Bertioli, Rajeev K. Varshney, Marcio C. Moretzsohn, Soraya C.M. Leal-Bertioli, Mahendar Thudi, Manish K. Pandey, Jean-Francois Rami, Daniel Foncéka, Makanahally V.C. Gowda, Hongde Qin, Baozhu Guo, Yanbin Hong, Xuanqiang Liang, Hideki Hirakawa, Satoshi Tabata, Sachiko Isobe. Integrated Consensus Map of Cultivated Peanut and Wild Relatives Reveals Structures of the A and B Genomes of Arachis and Divergence of the Legume Genomes. DNA Research, vol. 20, issue 2, pp 173-184 (2013)."
+

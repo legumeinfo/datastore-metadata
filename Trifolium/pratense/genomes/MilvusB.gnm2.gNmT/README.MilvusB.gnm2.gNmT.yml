@@ -1,0 +1,48 @@
+---
+identifier: gNmT
+
+provenance: "Data in this directory derives from a project from the The Genome Analysis Centre TGAC, IBERS/Aberystwyth, and BBSRC, http://www.bbsrc.ac.uk/news/food-security/2015/151130-pr-clover-red-genome-help-sustainable-farming/"
+Additional work on the annotation files was done by Pooja Umale, Steven Cannon, Wei Huang, Andrew Farmer, Jose DeVega in January, 2016
+
+source:
+
+synopsis: genome assembly
+
+scientific_name: Trifolium pratense
+
+taxid: 57577
+
+bioproject: PRJNA304715
+
+scientific_name_abbrev: tripr
+
+genotype: MilvusB
+
+description: "Genome assembly (seudomolecules) for Trifolium pratense, Milvus B"
+
+dataset_doi:
+
+genbank_accession: GCA_900079335.1
+
+original_file_creation_date: 2016-01
+
+local_file_creation_date: 2016-01
+
+publication_doi: https://doi.org/10.1038/srep17394
+
+dataset_release_date: 2016-01
+
+publication_title: "Red clover (Trifolium pratense L.) draft genome provides a platform for trait improvement"
+
+contributors: "Jose J. De Vega, Sarah Ayling, Matthew Hegarty, Dave Kudrna, Jose L. Goicoechea, shild Ergon, Odd A. Rognli, Charlotte Jones, Martin Swain, Rene Geurts, Chunting Lang, Klaus F. X. Mayer, Stephan Rossner, Steven Yates, Kathleen J. Webb, Iain S. Donnison, Giles E. D. Oldroyd, Rod A. Wing, Mario Caccamo, Wayne Powell, Michael T. Abberton & Leif Skot"
+
+data_curators: Pooja Umale, Steven Cannon, Wei Huang, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: Red clover, Trifolium pratense
+
+citations: "Jose J. De Vega, Sarah Ayling, Matthew Hegarty, Dave Kudrna, Jose L. Goicoechea, shild Ergon, Odd A. Rognli, Charlotte Jones, Martin Swain, Rene Geurts, Chunting Lang, Klaus F. X. Mayer, Stephan Rossner, Steven Yates, Kathleen J. Webb, Iain S. Donnison, Giles E. D. Oldroyd, Rod A. Wing, Mario Caccamo, Wayne Powell, Michael T. Abberton & Leif Skot. Red clover (Trifolium pratense L.) draft genome provides a platform for trait improvement. Scientific Reports 5, Article number: 17394 (2015). https://doi.org/10.1038/srep17394"
+

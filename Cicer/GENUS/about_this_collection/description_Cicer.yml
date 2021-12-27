@@ -1,0 +1,10 @@
+---
+taxid: 3826
+genus: Cicer
+commonName: Chickpea
+description: "Cicer is a genus of the legume family, Fabaceae, and the only genus found in tribe Cicereae. It is included within the IRLC, and its native distribution is across the Middle East and Asia. Its best-known and only domesticated member is Cicer arietinum, the chickpea."
+
+species:
+ - arietinum
+
+resources:

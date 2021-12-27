@@ -1,0 +1,16 @@
+---
+organism.taxid: 45690
+organism.genus: Glycine
+organism.species: falcata
+organism.abbrev: glyfa
+organism.commonName: 
+organism.description: "Glycine falcata (Benth.) is unique among perennial Glycine species in that it does not form a vine but rather short, erect stems from a fibrous woody root system instead of the more common taproot. Seeds are round and smooth similar to the annual species. G. falcata is a diploid (2n = 40) and is the sole member of the F-genome. It is sister to the remainder of subgenus Glycine, and is distinctive ecologically, characteristically growing in the black soil region of Queensland and possessing both chasmogamous and below- ground cleistogamous flowers, the latter producing geocarpic fruits (Ratnaparkhe et al 2011; Gonzalez-Orozco et al., 2012)."
+
+organism.resources:
+
+organism.strains:
+  - identifier: G1718
+    accession: G1718
+    name: G. falcata
+    origin: Queensland, Australia
+    description:  "Glycine falcata (Benth.) is unique among perennial Glycine species in that it does not form a vine but rather short, erect stems from a fibrous woody root system instead of the more common taproot. Seeds are round and smooth similar to the annual species."

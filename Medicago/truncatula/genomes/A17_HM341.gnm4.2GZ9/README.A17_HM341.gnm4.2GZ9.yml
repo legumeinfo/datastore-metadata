@@ -1,0 +1,44 @@
+---
+identifier: 2GZ9
+
+provenance: "The files in this directory originated from http://www.medicagogenome.org, from the Plant Genomics Lab of Prof. Christopher D. Town. The http://www.medicagogenome.org site is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "http://www.medicagogenome.org/downloads/"
+
+synopsis: Directory of scaffold assemblies and pseudomolecule assemblies.
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+bioproject: PRJNA10791
+
+scientific_name_abbrev: medtr
+
+genotype: A17_HM341
+
+description: "Genome assembly (scaffolds and pseudomolecules) for Medicago truncatula (version Mt4.0)"
+
+dataset_doi:
+
+genbank_accession: GCF_000219495.3
+
+original_file_creation_date: 
+local_file_creation_date: 2017-11-07
+
+publication_doi: https://doi.org/10.1186/1471-2164-15-312
+
+dataset_release_date: 
+publication_title: "An improved genome release (version Mt4.0) for the model legume Medicago truncatula"
+
+contributors: "Haibao Tang, Vivek Krishnakumar, Shelby Bidwell, Benjamin Rosen, Agnes Chan, Shiguo Zhou, Laurent Gentzbittel, Kevin L Childs, Mark Yandell, Heidrun Gundlach, Klaus FX Mayer, David C Schwartz and Christopher D Town"
+
+data_curators: Vivek Krishnakumar
+
+public_access_level: Public
+
+license: Open
+
+keywords: 
+citations: "Tang, H., Krishnakumar, V., Bidwell, S., Rosen, B., Chan, A., Zhou, S., ... & Mayer, K. F. (2014). An improved genome release (version Mt4. 0) for the model legume Medicago truncatula. BMC genomics, 15(1), 312."
+

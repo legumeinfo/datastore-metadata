@@ -1,0 +1,47 @@
+---
+identifier: WFVT
+
+provenance: "Data in this directory consists of phenotype descriptions and values for South American Germplasm of peanut and wild relatives, collected 1977-1986 by Charles Simpson and other team leaders including Antonio Krapovickas, Walton Gregory, José Valls and Don Banks, and other colleagues. This evaluation work was a collaboration between the International Board for Plant Genetic Resources (now known as Bioversity International) and The Texas Agricultural Experiment Station (now Texas A&M AgriLife Research). Phenotyping was done at Stephenville, TX 76401, between 1982 and 1988. The primary source of the data is the Texas A&M publication: Simpson, C.E., Higgins, D.L., Thomas, G.D., Howard, E.R. Catalog of passport data and minimum descriptors of Arachis hypogaea L. germplasm collected in South America 1977-1986  [1992]. The peanutbase repository can be considered the primary location of the electronic representation of the data."
+
+source: "https://peanutbase.org/public/"
+
+synopsis: Phenotypic evaluations of South American Germplasm collected 1977-1986 by Charles Simpson and other team leaders including Antonio Krapovickas, Walton Gregory, José Valls and Don Banks, and other colleagues.
+
+scientific_name: Arachis species (several)
+
+taxid: 130453, 130454, 3818, 217475, 51121, 108210
+
+bioproject:
+
+scientific_name_abbrev: arasp
+
+genotype: multiple
+
+description: "Assessment of South American Germplasm collected 1977-1986 by Charles Simpson and other team leaders including Antonio Krapovickas, Walton Gregory, José Valls and Don Banks, and other colleagues. This evaluation work was a collaboration between the International Board for Plant Genetic Resources (now known as Bioversity International) and The Texas Agricultural Experiment Station (now Texas A&M AgriLife Research). Phenotyping was done at Stephenville, TX 76401, between 1982 and 1988."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 1992
+
+local_file_creation_date: 2018-07-01
+
+publication_doi: Texas Agr. Expt. Sta. MP-1737.
+
+dataset_release_date: 2018-07-09
+
+publication_title: "Catalog of passport data and minimum descriptors of Arachis hypogaea L. germplasm collected in South America 1977-1986"
+
+contributors: "Charles E. Simpson, D.L. Higgins, G.D. Thomas, E.R. Howard, Antonio Krapovickas, Walton Gregory, José Vall, Don Banks"
+
+data_curators: Ethy Cannon 
+
+public_access_level: public
+
+license: open
+
+keywords: Arachis, peanut, South American Arachis germplasm, phenotype, trait descriptors
+
+citations: "Simpson, C.E., Higgins, D.L., Thomas, G.D., Howard, E.R. Catalog of passport data and minimum descriptors of Arachis hypogaea L. germplasm collected in South America 1977-1986 (1992). Texas Agr. Expt. Sta. MP-1737"
+

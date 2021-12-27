@@ -1,0 +1,23 @@
+---
+organism.taxid: 3870
+organism.genus: Lupinus
+organism.species: albus
+organism.abbrev: lupal
+organism.commonName: White lupin
+organism.description: "White lupin (Lupinus albus) has been used as a model to study the development of dense root hairs, for phosphorous uptake, in phosphorous-deficient soils. See O'Rourke et al., 2013 (DOI:10.1104/pp.112.209254)."
+
+organism.resources:
+
+organism.strains:
+  - identifier: LAGI01
+    accession: LAGI01
+    name: LAGI01
+    origin: Northern United States
+    description: "Lupinus albus strain LAGI01 was used in a study of response to low-phosphorous stress, in O'Rourke et al., 2013 (DOI:10.1104/pp.112.209254). The strain identifier 'LAGI01' is informal, being an abbreviation of 'Lupinus albus Gene Index', and does not uniquely identify a particular accession."
+  - identifier: Amiga
+    accession: P27174 and 14 others
+    name: Amiga
+    origin: "Mediterranean region, center of origin believed to be Greece, Western Turkey and southern Balkans"
+    description: "A modern improved cultivar used as the basis of whole genome sequencing and assembly (Hufnagel et al. 2020 https://doi.org/10.1038/s41467-019-14197-9)"
+
+

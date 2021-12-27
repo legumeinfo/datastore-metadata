@@ -1,0 +1,47 @@
+---
+identifier: BYVP 
+
+provenance: "Extracted from image in paper."
+
+source:
+
+synopsis: TT_TAG24_x_ICGV86031_a, an SSR genetic map from a cross of A. hypogaea cultivars 'TAG 24' and 'ICGV 86031'
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy
+
+genotype: TAG 24, ICGV 86031
+
+description: "This genetic map was developed from a population of F8:9:10 recombinant inbred lines (RILs) derived from the cross of 'TAG 24' with 'ICGV 86031'."
+
+dataset_doi: 
+
+genbank_accession:
+
+original_file_creation_date: 2010-12-30
+
+local_file_creation_date: 2015-05-21
+
+publication_doi: https://doi.org/10.1007/s00122-010-1517-0 
+
+dataset_release_date: 2018-10-26
+
+publication_title: "Identification of several small main-effect QTLs and a large number of epistatic QTLs for drought tolerance related traits in groundnut (Arachis hypogaea L.)"
+
+contributors: "K. Ravi, V. Vadez, S. Isobe, R.R. Mir, Y. Guo, S.N. Nigam, M.V.C. Gowda, T. Radhakrishnan, D.J. Bertioli, S.J. Knapp, R.K. Varshney"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Peanut, Drought tolerance, Genetic map, Molecular markers, Main-effect QTLs, Epistatic QTLs, Molecular breeding
+
+citations: "K. Ravi, V. Vadez, S. Isobe, R.R. Mir, Y. Guo, S.N. Nigam, M.V.C. Gowda, T. Radhakrishnan, D.J. Bertioli, S.J. Knapp, R.K. Varshney. Identification of several small main-effect QTLs and a large number of epistatic QTLs for drought tolerance related traits in groundnut (Arachis hypogaea L.). Theoretical and Applied Genetics vol. 122, issue 6, pp 1119-1132 (2011)"
+

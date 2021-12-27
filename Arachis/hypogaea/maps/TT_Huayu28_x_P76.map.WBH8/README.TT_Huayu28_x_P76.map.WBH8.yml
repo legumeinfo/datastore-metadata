@@ -1,0 +1,48 @@
+---
+identifier: WBH8
+
+provenance: "Downloaded from paper"
+
+source: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-018-23873-7/MediaObjects/41598_2018_23873_MOESM3_ESM.xlsx"
+
+synopsis: TT_Huayu28_x_P76_a, a high-density genetic map for A. hypogaea 
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: 
+
+scientific_name_abbrev: arahy
+
+genotype: Huayu28, P76 
+
+description: "A mapping population of 146 F2:11 recombinant inbred lines (RILs) produced from a cross of 'Huayu28' and 'P76'. The map is composed of 2,334 markers (2,266 SNPs and 68 microsatellites) on 20 linkage groups."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2018-04-03
+
+local_file_creation_date: 2019-03-27
+
+publication_doi: doi.org/10.1038/s41598-018-23873-7
+
+dataset_release_date: 2018-03-27
+
+publication_title: "High-Density Genetic Map Construction and Identification of QTLs Controlling Oleic and Linoleic Acid in Peanut using SLAF-seq and SSRs"
+
+contributors: "X. H. Hu, S. Z. Zhang, H. R. Miao, F. G. Cui, Y. Shen, W. Q. Yang, T. T. Xu, N. Chen, X. Y. Chi, Z. M. Zhang & J. Chen"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: 
+
+citations:
+  - X. H. Hu, S. Z. Zhang, H. R. Miao, F. G. Cui, Y. Shen, W. Q. Yang, T. T. Xu, N. Chen, X. Y. Chi, Z. M. Zhang & J. Chen. High-Density Genetic Map Construction and Identification of QTLs Controlling Oleic and Linoleic Acid in Peanut using SLAF-seq and SSRs. Scientific Reportsvolume 8, Article number: 5479 (2018). 
+

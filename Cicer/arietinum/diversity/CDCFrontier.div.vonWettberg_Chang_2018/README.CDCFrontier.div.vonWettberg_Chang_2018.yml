@@ -1,0 +1,47 @@
+---
+identifier: vonWettberg_Chang_2018
+
+provenance: "This repository constitutes the primary instance of these files. They were deposited by Dr. Doug Cook and colleagues. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://legumeinfo.org/data/public/Cicer_arietinum/"
+
+synopsis: Variant data, from genome resequencing of 279 Cicer accessions, called relative to Cicer arietium CDCFrontier (kabuli type)
+
+scientific_name: Cicer arietinum
+
+taxid: 3827
+
+bioproject: PRJNA353637
+
+scientific_name_abbrev: cicar
+
+genotype: mixed
+
+description: "Variant data for 279 Cicer accessions, called relative to Cicer arietium CDCFrontier (kabuli type)"
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2019-10
+
+local_file_creation_date: 2019-10-30
+
+publication_doi: 10.1038/s41467-018-02867-z
+
+dataset_release_date: XX Doug?
+
+publication_title: "Ecology and genomics of an important crop wild relative as a prelude to agricultural innovation."
+
+contributors: "Eric J.B. von Wettberg, Peter L. Chang, Fatma Basdemir, Noelia Carrasquila-Garcia, Lijalem Balcha Korbu, Susan M. Moenga, Gashaw Bedada, Alex Greenlon, Ken S. Moriuchi, Vasantika Singh, Matilde A. Cordeiro, Nina V. Noujdina, Kassaye Negash Dinegde, Syed Gul Abbas Shah Sani, Tsegaye Getahun, Lisa Vance, Emily Bergmann, Donna Lindsay, Bullo Erena Mamo, Emily J. Warschefsky, Emmanuel Dacosta-Calheiros, Edward Marques, Mustafa Abdullah Yilmaz, Ahmet Cakmak, Janna Rose, Andrew Migneault, Christopher P. Krieg, Sevgi Saylak, Hamdi Temel, Maren L. Friesen, Eleanor Siler, Zhaslan Akhmetov, Huseyin Ozcelik, Jana Kholova, Canan Can, Pooran Gaur, Mehmet Yildirim, Hari Sharma, Vincent Vadez, Kassahun Tesfaye, Asnake Fikre Woldemedhin, Bunyamin Tar'an, Abdulkadir Aydogan, Bekir Bukun, R. Varma Penmetsa, Jens Berger, Abdullah Kahraman, Sergey V. Nuzhdin, Douglas R. Cook"
+
+data_curators: Peter Chang, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords:
+
+citations: "von Wettberg, E., Chang, P.L., Basdemir, F. et al. Ecology and genomics of an important crop wild relative as a prelude to agricultural innovation. Nat Commun 9, 649 (2018) doi:10.1038/s41467-018-02867-z"
+

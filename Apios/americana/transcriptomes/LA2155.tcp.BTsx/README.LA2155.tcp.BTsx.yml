@@ -1,0 +1,47 @@
+---
+identifier: BTsx
+
+provenance: "The files in this directory are the primary, initial source. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects."
+
+source: "http://legumeinfo.org"
+
+synopsis: Transcriptome assemblies
+
+scientific_name: Apios americana
+
+taxid: 185702
+
+bioproject:
+
+scientific_name_abbrev: apiam
+
+genotype: AA-2155
+
+description: "Files in this directory include the Trinity-derived transcriptome assemblies of the genotype indicated above. Assembly method: Trinity v 2.0.2, using default settings. Open reading frames (ORFs) using Transdecoder v 2.0.1 (https://transdecoder.github.io/) with parameters, -search_pfam and -m 67. The transcripts were scanned against the UniProt database with parameters (-e-value 1e-5 -num_threads 6 - -outfmt 6). The longest spliced variant was retained from each gene model to develop a set of unique transcripts. The remaining contigs were compared against each other to identify redundant contigs (sequence similarity >= 95%). Only the longest contigs from the latter analysis were used and placed with other unique contigs. The remaining contigs were compared again using the CD-Hit-EST program (Li and Godzik 2006) and the resulting unique sequences were used to create low-redundancy reduced reference transcriptome."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2015-09-27
+
+local_file_creation_date: 2017-05-19
+
+publication_doi: https://doi.org/10.1007/s00122-017-3004-3
+
+dataset_release_date: 2017-05-19
+
+publication_title: "A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes"
+
+contributors: "Jugpreet Singh, Scott R. Kalberer, Vikas Belamkar, Teshale Mamo, Matthew N. Nelson, Andrew D. Farmer, William J. Blackmon, Steven B. Cannon"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open access. 
+
+keywords: Apios americana, potato bean, transcriptome
+
+citations: "Jugpreet Singh, Scott R. Kalberer, Vikas Belamkar, Teshale Mamo, Matthew N. Nelson, Andrew D. Farmer, William J. Blackmon, Steven B. Cannon. A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes. Theoretical and Applied Genetics 131:333 (2018). doi: https://doi.org/10.1007/s00122-017-3004-3 PMID: 29071392"
+

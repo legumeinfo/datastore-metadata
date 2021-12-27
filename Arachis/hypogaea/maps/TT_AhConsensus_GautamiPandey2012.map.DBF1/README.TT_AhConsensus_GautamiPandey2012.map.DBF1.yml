@@ -1,0 +1,47 @@
+---
+identifier: DBF1 
+
+provenance: "Constructed from image in paper and download from supplementary materials."
+
+source: "https://static-content.springer.com/esm/art%3A10.1007%2Fs11032-011-9660-0/MediaObjects/11032_2011_9660_MOESM14_ESM.xls"
+
+synopsis: TT_AhConsensus_GautamiPandey2012_a, a consensus genetic map for A. hypogaea
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy
+
+genotype:
+
+description: "Consensus map for A. hypogaea, developed from three maps generated from RIL lines."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2012-07-01
+
+local_file_creation_date: 2015_05_22
+
+publication_doi: https://doi.org/10.1007/s11032-011-9660-0
+
+dataset_release_date: 2018-10-26
+
+publication_title: "Quantitative trait locus analysis and construction of consensus genetic map for drought tolerance traits based on three recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.)"
+
+contributors: "B. Gautami, M.K. Pandey, V. Vadez, S.N. Nigam, P. Ratnakumar, L. Krishnamurthy, T. Radhakrishnan, M.V.C. Gowda, M.L. Narasu, D.A. Hoisington, S.J. Knapp, R.K. Varshney"
+
+data_curators: Scott Kalberer
+
+public_access_level: public
+
+license: open
+
+keywords: Peanut, Drought tolerance, Consensus map, QTL analysis, Main-effect QTL, Epistatic QTL, Molecular breeding
+
+citations: "B. Gautami, M.K. Pandey, V. Vadez, S.N. Nigam, P. Ratnakumar, L. Krishnamurthy, T. Radhakrishnan, M.V.C. Gowda, M.L. Narasu, D.A. Hoisington, S.J. Knapp, R.K. Varshney. Quantitative trait locus analysis and construction of consensus genetic map for drought tolerance traits based on three recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding, vol 30, issue 2, pp 757-772 (2012)"
+

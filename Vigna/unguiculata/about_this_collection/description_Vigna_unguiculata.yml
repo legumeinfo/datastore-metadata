@@ -1,0 +1,46 @@
+---
+organism.taxid: 3917
+organism.genus: Vigna
+organism.species: unguiculata
+organism.abbrev: vigun
+organism.commonName: cowpea
+organism.description: Cowpea (Vigna unguiculata) is used in many parts of the world for its high-protein seeds, but also for its nutrient-rich edible leaves, forage, and soil enrichment. Cowpea is generally more heat-tolerant than common bean. Cowpeas are one of the most important food legume crops in the semi-arid tropics that cover Asia, Africa, southern Europe and Central and South America. A drought-tolerant and warm-weather crop, cowpeas are well-adapted to the drier regions of the tropics, where other food legumes do not perform as well. It also has the useful ability to fix atmospheric nitrogen through its root nodules, and it grows well in poor soils. 
+
+organism.resources:
+
+organism.strains:
+  - identifier: IT97K-499-35
+    accession: PI 642160
+    name: IT97K-499-35
+    origin: IITA, Nigeria
+    description: "Cowpea variety is an elite breeding line developed at the International Institute of Tropical Agriculture (IITA, Nigeria). This accession was used for generation of the reference genome assembly described in Lonardi et al., 2019 (DOI:10.1111/tpj.14349)."
+  - identifier: CB5-2
+    accession: 
+    name: CB5-2
+    origin: USA
+    description: CB5-2 is a fully inbred stock that is closely related to CB5, which was the predominant Blackeye of the US Southwest for several decades. CB5 (Blackeye 8415) was bred by WW Mackie at the University of California (Mackie, 1946) to add resistances to Fusarium wilt and nematodes to a previously preferred California Blackeye landrace
+  - identifier: Sanzi
+    accession: 
+    name: Sanzi
+    origin: Ghana
+    description: Sanzi is an early flowering, small-seeded landrace from Ghana with resistance to flower bud thrips (Boukar et al. 2013).
+  - identifier: Suvita2
+    accession: PI 583259
+    name: Suvita2
+    origin: Burkina Faso
+    description: Suvita2, also known as Gorom Local (IITA accession TVu-15553, US NPGR PI 583259), is resistant to bruchids and some races of Striga, and is relatively drought tolerant. This landrace was collected from a local market by VD Aggarwal at the Institut de l'Environnement et de Recherches Agricoles (INERA) in Burkina Faso (Aggarwal et al. 1984).
+  - identifier: TZ30
+    accession: 
+    name: TZ30
+    origin: Asia
+    description: Elite longbean accession from the Asian sub-population, representing the sesquipedalis cultivar group.
+  - identifier: UCR779
+    accession: PI 583014
+    name: UCR779
+    origin: Botswana
+    description: UCR779 (PI 583014) is a landrace from Botswana, provided to UC Riverside as BOTS 19A in 1987 by CJ DeMooy of Colorado State University.
+  - identifier: ZN016
+    accession: 
+    name: ZN016
+    origin: 
+    description: Landrace longbean accession from the Asian sub-population, representing the sesquipedalis culitvar group.

@@ -1,0 +1,43 @@
+---
+identifier: Otyama_Wilkey_2019
+
+provenance: "Received from lead author of paper before publication."
+
+source: 
+
+synopsis: Genotype data for US Peanut Mini Core collection.
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype: 
+
+description: "Genotype data for US Peanut Mini Core collection collected via the 58K Affymetrix SNP array, Axiom_Arachis."
+
+dataset_doi: 
+
+original_file_creation_date: 2018-05-04
+
+local_file_creation_date: 2018-10-22
+
+publication_doi: 
+
+dataset_release_date: 2018-10-26 
+
+publication_title: "Evaluation of linkage disequilibrium, population structure, and genetic diversity in the U.S. peanut mini core collection"
+
+contributors: "Paul I. Otyama, Andrew Wilkey, Roshan Kulkarni, Teshale Assefa, Ye Chu, Josh Clevenger, Dan O'Connor, Graeme Wright, Stanley W. Dezern, Gregory E. Macdonald, Noelle L. Anglin, Ethalinda K.S. Cannon, Peggy Ozias-Akins, Steven B. Cannon"
+
+data_curators: Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Linkage disequilibrium, Population structure, Phylogenetic network tree, Genetic diversity, Genome wide association. 
+
+citations: "Paul I. Otyama, Andrew Wilkey, Roshan Kulkarni, Teshale Assefa, Ye Chu, Josh Clevenger, Dan O'Connor, Graeme Wright, Stanley W. Dezern, Gregory E. Macdonald, Noelle L. Anglin, Ethalinda K.S. Cannon, Peggy Ozias-Akins, Steven B. Cannon. Evaluation of linkage disequilibrium, population structure, and genetic diversity in the U.S. peanut mini core collection. 2019"
+

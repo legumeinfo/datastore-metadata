@@ -1,0 +1,48 @@
+---
+identifier: GpKx
+
+provenance: "Data in this directory derives from a project from Dr. Doug Cook. The BAC library information was originally stored at http://cajca.comparative-legumes.org/#resources, but this has been replaced by the Legume Federation / LegumeInfo Data Store directory that this README describes."
+
+source: "http://cajca.comparative-legumes.org/#resources"
+
+synopsis: Description of BAC libraries (CccABb and CccABa) for the "Asha" (ICPL 87119) genotype of Cajanus cajan.
+
+scientific_name: Cajanus cajan
+
+taxid: 3821
+
+bioproject:
+
+scientific_name_abbrev: Cajca
+
+genotype:
+  - Asha / ICPL 87119
+
+description: "There are two BAC libraries, CccABa and CccABb, prepared and described as follows: Pigeonpea (Cajanus cajan) accession Asha was grown under greenhouse conditions to the seedling stage and transferred to continuous darkness for 2 days prior to use. Nuclei were isolated and embedded in low melting point agarose, restriction digested with BamHI and size selected by means of two rounds of pulsed field gel electrophoresis. Large size DNA fragments were ligated in vector pCC1BAC and transformed by electroporation in to Epicenter's E. coli EPI300-T1R cells. 34,560 clones from were obtained, with an average insert size of 115 kbp. BAC end sequences were obtained from ~25,000 clones."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2012-01-11
+
+local_file_creation_date: 2016-12-30
+
+publication_doi:
+
+dataset_release_date: 2017-01-09
+
+publication_title:
+
+contributors: "Doug Cook"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Cajanus cajan, pigeonpea, BAC library
+
+citations:
+

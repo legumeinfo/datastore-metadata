@@ -1,0 +1,49 @@
+identifier: Gyeongwon.gnm3.JyYC
+
+provenance: The files in this directory originated from the Crop Genomics Lab of Dr. Suk-Ha Lee. That repository is considered primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+
+source: http://plantgenomics.snu.ac.kr
+
+synopsis: genome assembly
+
+related_to: See associated annotation files
+
+scientific_name: Vigna angularis
+
+taxid: 3914
+
+bioproject: PRJNA266852
+
+scientific_name_abbrev: vigan
+
+genotype:
+  - Gyeongwon, IT213134
+
+description: Genome assembly (scaffolds, pseudomolecules, and information about scaffold placement in pseudomolecules)
+
+dataset_doi:
+
+genbank_accession: GCA_000465365.1
+
+original_file_creation_date: 2014-11-21
+
+local_file_creation_date: 2016-03-04
+
+publication_doi: 10.1038/srep08069
+
+dataset_release_date:
+  
+publication_title: Draft genome sequence of adzuki bean, Vigna angularis
+
+contributors: Yang Jae Kang, Dani Satyawan, Sangrea Shim, Taeyoung Lee, Jayern Lee, Won Joo Hwang, Sue K. Kim, Puji Lestari, Kularb Laosatit, Kil Hyun Kim, Tae Joung Ha, Annapurna Chitikineni, Moon Young Kim, Jong-Min Ko, Jae-Gyun Gwag, Jung-Kyung Moon, Yeong-Ho Lee, Beom-Seok Park, Rajeev K. Varshney & Suk-Ha Lee
+
+data_curators: Pooja Umale, Steven Cannon, Wei Huang, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords:
+  
+citations: "Kang, Y. J. et al. Draft genome sequence of adzuki bean, Vigna angularis. Sci. Rep. 5, 8069 (2015)"
+

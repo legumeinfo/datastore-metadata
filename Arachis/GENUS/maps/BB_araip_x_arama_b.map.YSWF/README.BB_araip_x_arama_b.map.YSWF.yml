@@ -1,0 +1,47 @@
+---
+identifier: YSWF 
+
+provenance: "Supplemental data from paper"
+
+source: "http://www.g3journal.org/highwire/filestream/472605/field_highwire_adjunct_files/0/FileS1.xlsx"
+
+synopsis: BB_A.ipaensis_x_A.magna_b, a genetic map derived from a cross of A. ipaensis (K30076) and A. magna (K30097)
+
+scientific_name: Arachis ipaensis, Arachis magna
+
+taxid: 130454, 108213
+
+bioproject:
+
+scientific_name_abbrev: araip, arama
+
+genotype: K30076, K30097
+
+description: "Genetic map created from an F6 RIL population derived from the cross of the Rust-susceptible maternal parent Arachis ipaensis (K30076) with the Rust-resistant paternal parent Arachis magna (K30097)."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2015-07-01
+
+local_file_creation_date: 2018-08-08
+
+publication_doi: https://doi.org/10.1534/g3.115.018796
+
+dataset_release_date: 2018-10-26
+
+publication_title: "Identification of QTLs for Rust Resistance in the Peanut Wild Species Arachis magna and the Development of KASP Markers for Marker-Assisted Selection"
+
+contributors: "Soraya C. M. Leal-Bertioli, Uiara Cavalcante, Ediene G. Gouvea, Carolina Ballén-Taborda, Kenta Shirasawa, Patrícia M. Guimarães, Scott A. Jackson, David J. Bertioli, Márcio C. Moretzsohn"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Arachis, Peanut, Marker-assisted selection, Rust, Molecular breeding
+
+citations: "Soraya C. M. Leal-Bertioli, Uiara Cavalcante, Ediene G. Gouvea, Carolina Ballén-Taborda, Kenta Shirasawa, Patrícia M. Guimarães, Scott A. Jackson, David J. Bertioli, Márcio C. Moretzsohn. Identification of QTLs for Rust Resistance in the Peanut Wild Species Arachis magna and the Development of KASP Markers for Marker-Assisted Selection. G3: Genes, Genomes, Genetics vol. 5 no. 7 pp 1403-1413 (2015)."
+

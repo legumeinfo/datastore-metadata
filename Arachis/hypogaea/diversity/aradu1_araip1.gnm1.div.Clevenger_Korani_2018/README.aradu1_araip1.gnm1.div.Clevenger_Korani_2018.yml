@@ -1,0 +1,52 @@
+---
+identifier: Clevenger_Korani_2018 
+
+provenance: 
+Ghana (James Asibuo and Richard Oteng-Frimpong, CSIR),  Malawi (Justus Chintu, DARS), Mali (Dramane Sako, CRRA/IER), Mozambique (Amade Muita, IIAM), Niger (Adama Coulibaly, INRAN), Senegal (Issa Faye, ISRA), Togo (Essohouna Banla), Uganda (David Okello, NARI), and Zambia (Lutangu Makweti, Zari) were assembled in Senegal for individual plant grow-out and DNA extraction. Breeders were requested to nominate only inbred lines which should be homozygous at most loci.  
+
+source:
+
+synopsis: Genotyping of African germplasm collection
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: 
+
+scientific_name_abbrev: arahy 
+
+genotype:
+
+description: 
+DNA from a single plant of each of 1049 lines was genotyped using the Axiom_Arachis2 SNP array (Clevenger et al. 2018; Korani et al. 2018).  Genotypes were output using Axiom Analysis Software and co-analysis of the three plates containing all genotypes from which a total of 8911 SNPs was reliably called.   When only two genotype clusters were observed and one of those was called as heterozygous (no minor homozygous), the genotype was converted to the alternate homozygous class.  Rationale underlying this decision is that features on the array typically detect loci in both sub genomes; therefore, apparent heterozygotes are not true heterozygotes, instead they are homozygotes for alternate alleles in the two sub genomes resulting in signal from both alleles. 
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2019-06-18
+
+local_file_creation_date: 2019-06-18
+
+publication_doi:
+
+dataset_release_date: 2019-07-03
+
+publication_title: 
+
+contributors: 
+The project was funded by the Feed the Future Peanut Innovation Lab supported by USAID, PIs Peggy Ozias-Akins (University of Georgia) and Daniel Fonceka (CIRAD/CERAAS); Collaborators Ye Chu (University of Georgia), Josh Clevenger (Mars-Wrigley), Jean-Francois Rami (CIRAD); Breeders, James Asibuo and Richard Oteng-Frimpong, CSIR, Ghana; Justus Chintu, DARS,Malawi; Dramane Sako, CRRA/IER, Mali; Amade Muita, IIAM,Mozambique; Adama Coulibaly, INRAN, Niger, Issa Faye, ISRA,Senegal; Togo, David Okello, NARI, Uganda; and Lutangu Makweti, ZARI, Zambia
+
+data_curators: Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: 
+
+citations:
+  - Clevenger J.P., Korani W., Ozias-Akins P., Jackson S. 2018. Haplotype-based genotyping in polyploids. Front. Plant Sci. 9:564. https://doi.org/10.3389/fpls.2018.00564
+  - Korani W., Clevenger J., Chu Y., Ozias-Akins P. 2018. Machine learning as an effective method for identifying true SNPs in polyploid plants. BioRxiv prepublication https://doi.org/10.1101/274407; The Plant Genome 2019 12:180023 doi:10.3835/plantgenome2018.05.0023.
+

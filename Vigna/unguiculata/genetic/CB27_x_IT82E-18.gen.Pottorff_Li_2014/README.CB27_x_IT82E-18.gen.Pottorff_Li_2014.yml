@@ -1,0 +1,41 @@
+identifier: CB27_x_IT82E-18.gen.Pottorff_Li_2014
+
+synopsis: "MSTmap genotype file containing calls for 162 F8 RILs descended from CB27 (resistant) and IT82E-18/Big Buff (susceptible) for a study of Fot race 4 resistance."
+
+related_to: Vigna unguiculata reference genome IT97K-499-35.gnm1
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+bioproject:
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - CB27 × IT82E-18/Big Buff
+
+genotyping_platform: Cowpea1MSelectedSNPs
+
+genotyping_method: "All populations and parental lines were genotyped at the F8 generation with bi-allelic SNP markers using the 1536 Illumina GoldenGate Assay."
+  
+description: "Three cowpea RIL populations which segregate for Fot race 4 resistance were used for QTL mapping studies. The CB27 (resistant) × IT82E-18/Big Buff (susceptible) population consisted of 162 RILs and was advanced to the F8 generation by single seed descent. IT82E-18 is an advanced breeding line developed at IITA which was released as cultivar Big Buff in Australia (Imrie 1995). IT82E-18 is highly susceptible to Fot race 4. A/a=CB27 genotype; B/b=IT82E-18 genotype; U=uncalled; X=heterozygous."
+
+publication_doi: 10.1007/s11032-013-9991-0
+
+dataset_release_date:
+
+publication_title: "Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vigna unguiculata (L.) Walp]"
+
+contributors: Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A.
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: cowpea, Fusarium resistance, genotyping
+
+citations: "Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A. Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vignaunguiculata (L.) Walp]. Mol. Breed. 33, 779–791 (2014)"
+

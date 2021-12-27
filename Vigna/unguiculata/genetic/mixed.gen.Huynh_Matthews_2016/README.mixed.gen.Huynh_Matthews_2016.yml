@@ -1,0 +1,53 @@
+identifier: mixed.gen.Huynh_Matthews_2016
+  
+provenance: 
+
+source: 
+
+synopsis: "87 RILs from CB27×24-125-B-1; 170 F2:3 families from IT84S-2049×UCR779; 132 F2:3 families from IT93K-503-1×UCR779 are used to study root-knot nematode (RKN) resistance."
+
+related_to: 
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+bioproject: 
+
+scientific_name_abbrev: vigun
+
+genotype: 
+  - CB27 x 24-125-B-1
+  - IT84S-2049 x UCR779
+  - IT93K-503-1 x UCR779
+
+description: "Cowpea is a susceptible host of root-knot nematodes (RKN), major plant-parasitic pests in global agriculture. To facilitate marker-based selection, we aimed to identify and map quantitative trait loci (QTL) conferring the resistance trait. Three cowpea segregating populations used in genetic mapping included (1) 87 recombinant inbred lines (RILs) from the cross CB27 × 24-125-B-1, (2) 170 F2:3 families from the cross IT84S-2049 × UCR779 and (3) 132 F2:3 families from the cross IT93K-503-1 × UCR779."
+
+dataset_doi: 
+
+genbank_accession: 
+
+genotyping_platform: Cowpea1MSelectedSNPs
+
+original_file_creation_date: 
+
+local_file_creation_date: 
+
+publication_doi: 10.1007/s00122-015-2611-0
+
+dataset_release_date: 
+
+publication_title: "A major QTL corresponding to the Rk locus for resistance to root-knot nematodes in cowpea (Vigna unguiculata L. Walp.)"
+
+contributors: "Huynh, Bao-Lam; Matthews, William C; Ehlers, Jeffrey D; Lucas, Mitchell R; Santos, Jansen R P; Ndeve, Arsenio; Close, Timothy J; Roberts, Philip A"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: 
+
+citations: "Huynh, B.-L. et al. A major QTL corresponding to the Rk locus for resistance to root-knot nematodes in cowpea (Vigna unguiculata L. Walp.). Theor. Appl. Genet. 129, 87–95 (2016)"
+

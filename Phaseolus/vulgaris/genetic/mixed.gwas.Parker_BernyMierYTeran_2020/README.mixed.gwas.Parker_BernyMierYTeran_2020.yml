@@ -1,0 +1,52 @@
+identifier: mixed.gwas.Parker_BernyMierYTeran_2020
+  
+provenance: 
+
+source: 
+
+synopsis: "GWAS study of pod dehiscence in Phaseolus vulgaris dry beans, using the Andean and Mesoamerican Diversity Panels."
+
+related_to: 
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+bioproject: 
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - "The BeanCAP Andean and Mesoamerican Diversity Panels"
+
+description: "GWAS study of pod dehiscence in Phaseolus vulgaris dry beans, using the Andean and Mesoamerican Diversity Panels. Association mapping was carried out with generalized linear models and results were visualized with the QQMAN package in R.  Regions of significance were delimited as the areas between the first and last significant SNPs on a chromosome.  A Bonferroni-corrected alpha of 0.05 was used to determine the significance of SNPs after they met the threshold established as a minor allele frequency (MAF) of 0.1."
+
+dataset_doi: 
+
+genbank_accession: 
+
+genotyping_platform: BARCBean6K
+
+original_file_creation_date: 
+
+local_file_creation_date: 2021-12-09
+
+publication_doi: "10.1111/nph.16164"
+
+dataset_release_date: 
+
+publication_title: "Pod indehiscence is a domestication and aridity resilience trait in common bean"
+
+contributors: "Travis A. Parker, Jorge C. Berny Mier y Teran, Antonia Palkovic, Judy Jernstedt, Paul Gepts"
+
+data_curators: Scott Kalberer, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: 
+
+citations: "Parker TA, Berny Mier Y Teran JC, Palkovic A, Jernstedt J, Gepts P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 2020 Jan;225(1):558-570. doi: 10.1111/nph.16164. Epub 2019 Oct 11. PMID: 31486530."
+
+

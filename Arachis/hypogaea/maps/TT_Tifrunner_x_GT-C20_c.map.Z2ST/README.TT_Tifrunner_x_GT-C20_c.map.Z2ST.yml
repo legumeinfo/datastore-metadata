@@ -1,0 +1,49 @@
+---
+identifier: Z2ST 
+
+provenance: 
+Original files provided by lead author on paper (Guarav Agarwal).
+Alignments on A. hypogaea Tifrunner genome assembly v10.0 provided by PeanutBase team.
+
+source:
+
+synopsis: TT_Tifrunner_x_GT-C20_c, a high density genetic SNP map for Arachis hypogaea
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy
+
+genotype: Tifrunner X GT-C20
+
+description: "Whole-genome resequencing (WGRS) of a recombinant inbred line (RIL) mapping population was used to develop this SNP-based high-density genetic linkage map for Arachis hypogaea. This 'T-population' was a cross of maternal parent Tifrunner and paternal parent GT-C20. The authors also add 15 of the 19 major-QTL linked microsatellite markers from the publication Pandey, Wang et al., (2017). Flanking sequence was used to generate a physical map relative to assembly Tifrunner.gnm1."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date:
+
+local_file_creation_date: 2018-08_21
+
+publication_doi: https://doi.org/10.1111/pbi.12930
+
+dataset_release_date: 2018-10-26
+
+publication_title: "High-Density Genetic Map Using Whole-Genome Resequencing for Fine Mapping and Candidate Gene Discovery for Disease Resistance in Peanut"
+
+contributors: "Gaurav Agarwal, Josh Clevenger, Manish K. Pandey, Hui Wang, Yaduru Shasidhar, Ye Chu, Jake C. Fountain, Divya Choudhary, Albert K. Culbreath, Xin Liu, Guodong Huang, Xingjun Wang, Rupesh Deshmukh, C. Corley Holbrook, David J. Bertioli, Peggy Ozias‐Akins, Scott A. Jackson, Rajeev K. Varshney, Baozhu Guo"
+
+data_curators: Scott Kalberer, Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Whole-genome resequencing, High-density genetic map, Quantitative trait loci, Early leaf spot, Late leaf spot, Tomato spotted wilt virus
+
+citations: "Gaurav Agarwal, Josh Clevenger, Manish K. Pandey, Hui Wang, Yaduru Shasidhar, Ye Chu, Jake C. Fountain, Divya Choudhary, Albert K. Culbreath, Xin Liu, Guodong Huang, Xingjun Wang, Rupesh Deshmukh, C. Corley Holbrook, David J. Bertioli, Peggy Ozias‐Akins, Scott A. Jackson, Rajeev K. Varshney, Baozhu Guo. High-Density Genetic Map Using Whole-Genome Resequencing for Fine Mapping and Candidate Gene Discovery for Disease Resistance in Peanut. Plant Biotechnology Journal vol 16, issue 11, pp 1954-1967 (2018)."
+

@@ -1,0 +1,47 @@
+---
+identifier: XJGZ
+
+provenance: "This repository is a secondary source for these files. The primary repository is the NCBI GSS database, under accessions DE998420-DE998923 and DH968257-DH968767. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects."
+
+source: "https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse"
+
+synopsis: Genomic repetitive elements: miniature inverted-repeat transposable elements (MITEs)
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy
+
+genotype: several; see reference below
+
+description: "File arasp.mixed.rpt1.XJGZ.repeats_MITE1.fna (formerly AhMITE1.txt) is from Kenta Shirasawa and David Bertioli, May 24, 2013. These sequences are also deposited to the NCBI GSS database under the accession no. DE998420-DE998923 and DH968257-DH968767."
+
+dataset_doi: 10.1007/s00122-012-1798-6
+
+genbank_accession: DE998420-DE998923 and DH968257-DH968767, for arasp.mixed.rpt1.XJGZ.repeats_MITE1.fna
+
+original_file_creation_date: 2016-01-14
+
+local_file_creation_date: 2017-10-16
+
+publication_doi: https://doi.org/10.1007/s00122-012-1798-6
+
+dataset_release_date: 2014
+
+publication_title: "Characterization of active miniature inverted-repeat transposable elements in the peanut genome"
+
+contributors: "Kenta Shirasawa, Hideki Hirakawa, Satoshi Tabata, Makoto Hasegawa, Hiroyuki Kiyoshima, Sigeru Suzuki, Sigemi Sasamoto, Akiko Watanabe, Tsunakazu Fujishiro, Sachiko Isobe"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Arachis, peanut, MITE, transposable elements
+
+citations: "Kenta Shirasawa, Hideki Hirakawa, Satoshi Tabata, Makoto Hasegawa, Hiroyuki Kiyoshima, Sigeru Suzuki, Sigemi Sasamoto, Akiko Watanabe, Tsunakazu Fujishiro, Sachiko Isobe. Characterization of active miniature inverted-repeated transposable elements in the peanut genome. Theor Appl Genet (2012) 124: 1429. https://doi.org/10.1007/s00122-012-1798-6"
+

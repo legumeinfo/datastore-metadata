@@ -1,0 +1,26 @@
+---
+identifier: 4H6Z
+provenance: "LIS expression dataset cajca1 (Pigeonpea gene expression atlas from germination to senescence in genotype Asha(ICPL87119))."
+source: "SRA, PRJNA354681."
+synopsis: "Cajanus cajan accession ICPL87119 gene expression atlas"
+scientific_name: Cajanus cajan
+taxid: 3821
+bioproject: PRJNA210619
+scientific_name_abbrev: cajca
+genotype: 
+  - ICPL87119
+description: "A gene expression atlas of Cajanus cajan has been developed in this study using 30 samples from Asha genotype (ICPL 87119), representing different developmental stages from germination to senescence. This dataset at LIS uses reads mapped to the ICPL87119 pigeonpea reference genome ICPL87119.gnm1.ann1."
+dataset_doi: 
+genbank_accession: 
+original_file_creation_date: 
+local_file_creation_date: Mar 2020
+publication_doi: doi.org/10.1093/jxb/erx010
+dataset_release_date:  
+publication_title: "Gene expression atlas of pigeonpea and its application to gain insights into genes associated with pollen fertility implicated in seed formation."
+contributors: 
+data_curators: 
+public_access_level: 
+license: open
+keywords: 
+citations: "Pazhamala, L. T., Purohit, S., Saxena, R. K., Garg, V., Krishnamurthy, L., Verdier, J., & Varshney, R. K. (2017). Gene expression atlas of pigeonpea and its application to gain insights into genes associated with pollen fertility implicated in seed formation. Journal of Experimental Botany, 68(8), 2037–2054. http://doi.org/10.1093/jxb/erx010"
+expression_unit: TPM

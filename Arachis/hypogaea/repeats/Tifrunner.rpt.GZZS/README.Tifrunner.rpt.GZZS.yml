@@ -1,0 +1,47 @@
+---
+key_name: GZZS
+
+provenance: "This repository is considered the primary source for these files. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. Please also see the associated usage_policy.txt."
+
+source: "https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse"
+
+synopsis: Genomic repetitive elements for Arachis hypogaea. Provided by Dongying Gao.
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy
+
+genotype: Tifrunner
+
+description: "File arahy.Tifrunner.rpt.GZZS.repeats.fna (formerly Ah_repeats_V2) contains mixed repeats from A. hypogaea. This file is from Dongying Gao, 2017-12-05."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2017-12-05
+
+local_file_creation_date: 2017-12-06
+
+publication_doi:
+
+dataset_release_date: 2018-07-25
+
+publication_title:
+
+contributors: "The International Peanut Genome Initiative; Dongying Gao, Bruna Vidigal, Ana Claudia Guerra Araujo, Scott Jackson, David Bertioli."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: peanut, Archis, repetitive elements
+
+citations:
+

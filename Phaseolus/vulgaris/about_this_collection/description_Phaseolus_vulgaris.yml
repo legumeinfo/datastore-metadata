@@ -1,0 +1,26 @@
+---
+organism.taxid: 3885
+organism.genus: Phaseolus
+organism.species: vulgaris
+organism.abbrev: phavu
+organism.commonName: common bean
+organism.description: "Common bean (Phaseolus vulgaris) was likely domesticated independently both in Central America and in the Andes, from distinct wild gene pools that exist in the two regions. Beans were also carried into North America and were grown by Native Americans there for many centuries. They were carried to Europe by early explorers of the New World, and have undergone about 500 years of additional domestication and selection in Europe. The species has great agricultural variety, and is of critical importance as a high-protein food across the world."
+
+organism.resources:
+
+organism.strains:
+  - identifier: G19833
+    accession: 
+    name: G19833
+    origin: Peru
+    description: "Andean landrace G19833 was selected for genome sequencing partly due to its resistance to numerous diseases, including bean rust (Uromyces appendiculatus), as well as anthracnose, angular leaf spot, Aschochyta blight, and the bean golden mosaic and bean common mosaic viruses (Hurtado-Gonzales et al., 2017; https://digitalcommons.unl.edu/usdaarsfacpub/1664/). This accession has also been used to generate populations for mapping traits such as phosphorous acquisition and agronomic performance."
+  - identifier: BAT93
+    accession: PI 633451
+    name: BAT93
+    origin: CIAT
+    description: "Accession BAT93 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies."
+  - identifier: UI111
+    accession: PI 549535, PI 599011, PI 599012, PI 599013
+    name: 
+    origin: US National Plant Germplasm System
+    description: "Bean variety UI111 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies.It is a pinto-type bean, with indeterminate climbing habit."

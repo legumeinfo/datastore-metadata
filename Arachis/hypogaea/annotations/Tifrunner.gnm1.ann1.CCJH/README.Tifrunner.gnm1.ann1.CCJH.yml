@@ -1,0 +1,48 @@
+identifier: Tifrunner.gnm1.ann1.CCJH
+
+provenance: "The files in this directory are the initial assembly versions, provided here prior to deposition into GenBank. The GenBank version (GCF_003086295.1) is the primary, authoritative instance. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects."
+
+source: https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse
+
+synopsis: Arachis hypogaea accession Tifrunner annotation files from genome assembly 1.0
+
+related_to: Genome assembly arahy.Tifrunner.gnm1.KYV3
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: PRJNA291488
+
+scientific_name_abbrev: arahy
+
+genotype: 
+  - Tifrunner
+
+description: "Genome annotation for Arachis hypogaea cultivar Tifrunner, generated with the MAKER pipeline, version 2.31.9. Evidence included gene models from Arachis ipaensis and Arachis duranensis and two transcriptome assemblies: one generated as a genome-guided assembly of 22 tissues from Clevenger et al., 2016 (https://doi.org/10.3389/fpls.2016.01446) and one generated as a genome-guided assembly of 12 libraries from additional tissues and stress conditions (Ozias-Akins et al., unpublished)."
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2018-02-15
+
+local_file_creation_date: 2018-02-15
+
+publication_doi: 10.1038/s41588-019-0405-z
+
+dataset_release_date: 2018-02-15
+
+publication_title:
+
+contributors: "The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins; annotation group Andrew Farmer, Jacqueline Campbell, Nathan Weeks"
+
+data_curators: Steven Cannon, Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: peanut, Arachis hypogaea, Tifrunner
+
+citations: "Bertioli et al., 2019; https://doi.org/10.1038/s41588-019-0405-z"

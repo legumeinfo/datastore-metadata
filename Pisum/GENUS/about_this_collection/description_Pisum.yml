@@ -1,0 +1,10 @@
+---
+taxid: 3887
+genus: Pisum
+commonName: Pea
+description: "Pisum is a genus of the family Fabaceae, native to southwest Asia and northeast Africa. It contains one to five species, depending on taxonomic interpretation; the International Legume Database (ILDIS) accepts three species: Pisum abyssinicum, Pisum fulvum, and Pisum sativum. Pisum sativum (the field or garden pea) is a major human food crop."
+
+species:
+ - sativum
+
+resources:

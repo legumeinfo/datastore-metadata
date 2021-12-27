@@ -1,0 +1,49 @@
+identifier: SunOleic97R_x_NC94022.gen.Qin_Feng_2012
+  
+provenance: 
+
+source: 
+
+synopsis: "SSR-based genetic map constructed using a F5:6 RIL population derived from the cross of SunOleic 97R with NC94022 along with a Tomato spotted wilt virus QTL"
+
+related_to: 
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: 
+
+scientific_name_abbrev: Arahy
+
+genotype:
+  - SunOleic97R x NC94022
+
+description: "This SSR-based genetic map was constructed using a F5:6 RIL population derived from the cross of SunOleic 97R with NC94022.  The map is composed of 22 linkage groups (five of which had only 2 markers each).  There are 172 mapped loci that comprise 170 SSR loci and 2 CAPS markers for ahFAD2A and adFAD2B.  The map covers a total distance of 920.7 cM, exhibits an average distance between markers of 5.7 cM, and displays a range of linkage group lengths from 11.2 to 127.2 cM. A derived QTL for Tomato spotted wilt virus is reported."
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 
+
+local_file_creation_date: 
+
+publication_doi: 10.1007/s00122-011-1737-y
+
+dataset_release_date: 
+
+publication_title: "An integrated genetic linkage map of cultivated peanut (Arachis hypogaea L.) constructed from two RIL populations"
+
+contributors: "Qin, Hongde; Feng, Suping; Chen, Charles; Guo, Yufang; Knapp, Steven; Culbreath, Albert; He, Guohao; Wang, Ming Li; Zhang, Xinyou; Holbrook, C Corley; Ozias-Akins, Peggy; Guo, Baozhu"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: 
+
+citations: "Qin, H. et al. An integrated genetic linkage map of cultivated peanut (Arachis hypogaea L.) constructed from two RIL populations. Theor. Appl. Genet. 124, 653–664 (2012)" 
+

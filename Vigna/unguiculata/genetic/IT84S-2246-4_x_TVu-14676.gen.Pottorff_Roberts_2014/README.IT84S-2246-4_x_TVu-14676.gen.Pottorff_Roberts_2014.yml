@@ -1,0 +1,41 @@
+identifier: IT84S-2246-4_x_TVu-14676.gen.Pottorff_Roberts_2014
+
+synopsis: "Genotype file containing calls for 136 F8 RILs from IT84S-2246 x TVu-14676 for a study of heat-induced browning of seed coats."
+
+related_to: Vigna unguiculata reference genome IT97K-499-35.gnm1
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+bioproject:
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - IT84S-2246-4 x TVu-14676
+
+genotyping_platform: Cowpea1MSelectedSNPs
+
+genotyping_method: "The IT84S-2246 x TVu-14676 population was genotyped at the F8 generation using biallelic SNP markers using the 1536 Illumina Golden Gate Assay."
+
+description: "In this study, we identified three QTLs: Hbs-1, Hbs-2, and Hbs-3, associated with heat-induced browning of seed coats using the cowpea RIL populations IT93K-503-1 x CB46 and IT84S-2246 x TVu14676. SNP markers were identified which co-segregated with the heat-induced browning of seed coats phenotype in the Hbs-1 and Hbs-3 loci, and could be used for indirect selection in breeding a higher quality cowpea grain. Additionally, ethylene forming enzymes were identified as a cowpea candidate gene for the Hbs-1 locus and an ACC synthase 1 gene was identified as a cowpea candidate gene for the Hbs-3 locus."
+
+publication_doi: 10.1186/1471-2164-15-328
+
+dataset_release_date:
+
+publication_title: "Identification of candidate genes and molecular markers for heat-induced brown discoloration of seed coats in cowpea [Vigna unguiculata (L.) Walp]"
+
+contributors: "Pottorff, Marti; Roberts, Philip A; Close, Timothy J; Lonardi, Stefano; Wanamaker, Steve; Ehlers, Jeffrey D"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: cowpea, heat-induced browning, seed coats, genotyping
+
+citations: "Pottorff, M. et al. Identification of candidate genes and molecular markers for heat-induced brown discoloration of seed coats in cowpea [Vigna unguiculata (L.) Walp]. BMC Genomics 15, 328 (2014)"
+

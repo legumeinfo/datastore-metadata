@@ -1,0 +1,48 @@
+---
+identifier: SBGP
+
+provenance: "The files in this directory originated from http://www.icrisat.org/gt-bt/iipg/Genome_Manuscript.html. That repository is considered primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "http://www.icrisat.org/gt-bt/iipg/Genome_Manuscript.html"
+
+synopsis: Cajanus cajon accession ICPL87119 genome assembly, v1.0
+
+scientific_name: Cajanus cajan
+
+taxid: 3821
+
+bioproject: PRJNA72815
+
+scientific_name_abbrev: Cajca
+
+genotype:
+  - Asha / ICPL 87119
+
+description: "Files in this directory included the AGP file, which specifices how a chromosome is assembled from components and a fasta file with assembled pseudomolecules for C. cajan genome version 1.0."
+
+dataset_doi:
+
+genbank_accession: GCA_000340665.1 
+
+original_file_creation_date: 2011-11-12
+
+local_file_creation_date: 2017-11-22
+
+publication_doi: http://dx.doi.org/10.1038/nbt.2022
+
+dataset_release_date: 2011-11-12
+
+publication_title: "Draft genome sequence of pigeonpea (Cajanus cajan), an orphan legume crop of resource-poor farmers"
+
+contributors: "Rajeev K. Varshney, Wenbin Chen, Yupeng Li, Arvind K. Bharti, Rachit K. Saxena, Jessica A. Schlueter, Mark T.A. Donoghue, Sarwar Azam, Guangyi Fan, Adam M. Whaley, Andrew D. Farmer, Jaime Sheridan, Aiko Iwata, Reetu Tuteja, R. Varma Penmetsa, Wei Wu, Hari D. Upadhyaya, Shiaw-Pyng Yang, Trushar Shah, K.B. Saxena, Todd Michael, W. Richard McCombie, Bicheng Yang, Gengyun Zhang, Huanming Yang, Jun Wang, Charles Spillane, Douglas R. Cook, Gregory D. May, Xun Xu & Scott A. Jackson"
+
+data_curators: Jacqueline D. Campbell, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: genome, pigeonpea, Cajanus cajan
+
+citations: "Rajeev K. Varshney, Wenbin Chen, Yupeng Li, Arvind K. Bharti, Rachit K. Saxena, Jessica A. Schlueter, Mark T.A. Donoghue, Sarwar Azam, Guangyi Fan, Adam M. Whaley, Andrew D. Farmer, Jaime Sheridan, Aiko Iwata, Reetu Tuteja, R. Varma Penmetsa, Wei Wu, Hari D. Upadhyaya, Shiaw-Pyng Yang, Trushar Shah, K.B. Saxena, Todd Michael, W. Richard McCombie, Bicheng Yang, Gengyun Zhang, Huanming Yang, Jun Wang, Charles Spillane, Douglas R. Cook, Gregory D. May, Xun Xu & Scott A. Jackson. Draft genome sequence of pigeonpea (Cajanus cajan), an orphan legume crop of resource-poor farmers. Nature Biotechnology 30, 83-89 (2012) DOI: http://dx.doi.org/10.1038/nbt.2022"
+

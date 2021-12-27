@@ -1,0 +1,12 @@
+---
+taxid: 3913
+genus: Vigna
+commonName: Vigna Savi
+description: "Vigna is a genus of flowering plants in the legume family, Fabaceae, with a pantropical distribution. It includes some well-known cultivated species, including many types of beans. Some are former members of the genus Phaseolus."
+
+species:
+ - angularis
+ - radiata
+ - unguiculata
+
+resources:

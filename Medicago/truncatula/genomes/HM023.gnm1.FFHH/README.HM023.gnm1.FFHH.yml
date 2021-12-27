@@ -1,0 +1,47 @@
+---
+identifier: FFHH
+
+provenance: "Data in this directory derives from the NSF-funded Medicago HapMap project; project website: http://www.medicagohapmap.org"
+
+source: "http://www.medicagohapmap.org/downloads/assemblies"
+
+synopsis: genome assembly
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+bioproject: PRJNA256006
+
+scientific_name_abbrev: medtr
+
+genotype: HM023
+
+description: "DESCRIPTION"
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2015-04-29
+
+local_file_creation_date: 2018-04-07
+
+publication_doi: 10.1186/s12864-017-3654-1
+
+dataset_release_date: 2018-04-13
+
+publication_title: "Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes"
+
+contributors: "Peng Zhou, Kevin A. T. Silverstein, Thiruvarangan Ramaraj, Joseph Guhlin, Roxanne Denny, Junqi Liu, Andrew D. Farmer, Kelly P. Steele, Robert M. Stupar, Jason R. Miller, Peter Tiffin, Joann Mudge, Nevin D. Young"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords:
+
+citations: "Zhou P, Silverstein KA, Ramaraj T, Guhlin J, Denny R, Liu J, Farmer AD, Steele KP, Stupar RM, Miller JR, Tiffin P, Mudge J, Young ND. Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes. BMC Genomics. 2017 Mar 27;18(1):261. doi: 10.1186/s12864-017-3654-1."
+

@@ -1,0 +1,9 @@
+---
+Identifier:	us_core_oil
+Name:	Otyama Cannon et al. 2021
+Synopsis:	GWAS study of fatty acid composition in peanut, conducted on 687 accessions from the U.S. Core collection, genotyped using the Axiom_Arachis2 array.
+Description:	This study reports association data in peanut for fatty acid composition of seed oil, based on 687 genotyped plant introduction accessions of the USDA peanut core collection, plus select improved cultivars.
+PlatformName:	Axiom_Arachis2
+PlatformDetails:	SNPs were filtered for MAF > 5%, yielding 11,308 SNP markers out 13480 high quality SNPs
+PMID:	
+

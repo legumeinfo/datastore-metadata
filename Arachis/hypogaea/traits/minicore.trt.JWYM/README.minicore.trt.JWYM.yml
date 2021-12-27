@@ -1,0 +1,45 @@
+---
+identifier: JWYM 
+
+provenance: "Received from author"
+
+synopsis: Phenotype data collected for the US Peanut Mini Core collection
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject:
+
+scientific_name_abbrev: arahy 
+
+genotype: 
+
+description: "Phenotype data collected for the US Peanut Mini Core collection in 2013 and 2015 at the University of Florida Plant Science Research and Education Unit, in Citra, FL."
+
+dataset_doi: 
+
+genbank_accession:
+
+original_file_creation_date: 2018
+
+local_file_creation_date: 2018-08-29
+
+publication_doi: 
+
+dataset_release_date: 2018-10-29
+
+publication_title: "Phenotypic and Biochemical Characterization of the United States Department of Agriculture Core Peanut (Arachis hypogaea L.) Germplasm Collection"
+
+contributors: "Stanley Will Dezern"
+
+data_curators: Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords:  
+
+citations: "Stanley Will Dezern. Phenotypic and Biochemical Characterization of the United States Department of Agriculture Core Peanut (Arachis hypogaea L.) Germplasm Collection. Masters Thesis (2018). Received from author."
+

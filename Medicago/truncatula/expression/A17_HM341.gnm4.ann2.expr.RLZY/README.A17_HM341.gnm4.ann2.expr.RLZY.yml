@@ -1,0 +1,55 @@
+identifier: A17_HM341.gnm4.ann2.expr.RLZY
+
+provenance: 
+
+source: 
+
+related_to:
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+bioproject:
+
+scientific_name_abbrev: medtr
+
+genotype:
+  - A17_HM341
+
+synopsis: "Affymetrix GeneChip expression data from the Noble Medicago truncatula Gene Expression Atlas"
+
+description: "Medicago truncatula A17_HM341 microarray gene expression profiles from the Noble Medicago truncatula Gene Expression Atlas. Affymetrix probesets were mapped to A17_HM341 genes by INRAE."
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: 
+
+local_file_creation_date:
+
+publication_doi: 10.1186/1471-2105-10-441
+
+dataset_release_date:  
+
+publication_title: "The Medicago truncatula gene expression atlas web server"
+
+contributors: "Ji He, Vagner A Benedito, Mingyi Wang, Jeremy D Murray, Patrick X Zhao, Yuhong Tang, and Michael K Udvardi"
+
+data_curators: Sam Hokin, INRAE
+
+public_access_level: 
+
+license: 
+
+keywords: 
+
+citations: "He, J. et al. The Medicago truncatula gene expression atlas web server. BMC Bioinformatics 10, 441 (2009)"
+
+expression_unit: RMA
+
+sraproject: 
+
+geoseries: 
+

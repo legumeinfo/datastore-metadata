@@ -1,0 +1,47 @@
+---
+identifier: 6LMX
+
+provenance: "Data in this directory derives from a project from the publication by O'Rourke et al., 2013 (see citation field). The data was originally made available at http://lupal.comparative-legumes.org/#tabs-3 - a precursor to the legumeinfo.org/data repository."
+
+source: "http://lupal.comparative-legumes.org/#tabs-3"
+
+synopsis: Transcriptome assembly and annotations of white lupin gene index (LAGI 1.0), described in O'Rourke et al., and annotations, assigned using Putative functions for LAGI 1.0 sequences were assigned using BLASTX searches against the Arabidopsis and soybean (Glycine max) proteomes, and using Gene Ontology functional classes and MapMan functional classifications (per O'Rourke et al., 2013)
+
+scientific_name: Lupinus albus
+
+taxid: 3870
+
+bioproject: PRJNA144943
+
+scientific_name_abbrev: lupal
+
+genotype: not indicated
+
+description:
+
+dataset_doi:
+
+genbank_accession:
+
+original_file_creation_date: 2012-11-29
+
+local_file_creation_date: 2016-12-15
+
+publication_doi: 10.1104/pp.112.209254
+
+dataset_release_date: 2016-12-15
+
+publication_title: "An RNA-Seq Transcriptome Analysis of Orthophosphate-Deficient White Lupin Reveals Novel Insights into Phosphorus Acclimation in Plants"
+
+contributors: "Jamie O'Rourke et al. (see citation)"
+
+data_curators: Steven Cannon and Jacqueline D. Campbell
+
+public_access_level: public
+
+license: Open
+
+keywords: Lupinus albus, transcriptome assembly
+
+citations: "O'Rourke JA, Yang SS, Miller SS, et al. An RNA-Seq Transcriptome Analysis of Orthophosphate-Deficient White Lupin Reveals Novel Insights into Phosphorus Acclimation in Plants. Plant Physiology. 2013;161(2):705-724. doi:10.1104/pp.112.209254."
+

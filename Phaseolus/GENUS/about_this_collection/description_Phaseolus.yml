@@ -1,0 +1,11 @@
+---
+taxid: 3883
+genus: Phaseolus
+commonName: Bean
+description: "Phaseolus (bean, wild bean) is a genus of herbaceous to woody annual and perennial vines in the family Fabaceae containing about 70 plant species, all native to the Americas, primarily Mesoamerica. It is one of the most economically important legume genera. Five of the species have been domesticated since pre-Columbian times for their beans: P. acutifolius (tepary bean), P. coccineus (runner bean), P. dumosus (year bean), P. lunatus (lima bean), and P. vulgaris (common bean). Most prominent among these is the common bean, P. vulgaris, which today is cultivated worldwide in tropical, semitropical, and temperate climates."
+
+species:
+  - lunatus
+  - vulgaris
+
+resources:

@@ -1,0 +1,55 @@
+identifier: Shitouqi.gnm1.L4VP
+
+provenance: This repository is a secondary source for these files. The primary repository is GenBank, under assembly accession GCA_003713155.1. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects.
+
+source: https://www.ncbi.nlm.nih.gov/assembly/GCA_003713155.1 
+
+synopsis: Genome assembly for peanut cultivar Shitouqui, from Zhuang et al., 2019.
+
+related_to: 
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: PRJNA480120
+
+scientific_name_abbrev: arahy
+
+genotype: Shitouqi
+
+description: Files in this directory are pseudomolecule assemblies for Arachis hypogaea cultivar Shitouqi.
+
+dataset_doi: #DOI string
+
+genbank_accession:
+
+original_file_creation_date: 2018-07-20
+
+local_file_creation_date: 2019-05
+
+publication_doi: not yet assigned 
+
+dataset_release_date: 2019-05
+
+publication_title: The Arachis hypogaea genome elucidates legume karyotypes, polyploid evolution and crop domestication 
+
+contributors: Weijian Zhuang, Hua Chen, Meng Yang, Jianping Wang, Manish K. Pandey, Chong Zhang, Wen-Chi Chang, Liangsheng Zhang, Xingtan Zhang, Ronghua Tang, Vanika Garg, Xingjun Wang, Haibao Tang, Chi-Nga Chow, Jinpeng Wang, Ye Deng, Depeng Wang, Aamir W. Khan, Qiang Yang, Tie-Cheng Cai, Prasad Bajaj, Kangcheng Wu, Baozhu Guo, Xinyou Zhang, Jingjing Li, Fan Liang, Jiang Hu, Boshou Liao, Shengyi Liu, Annapurna Chitikineni, Songhan Yan, Yixiong Zheng, Shihua Shan, Qinzheng Liu, Dongyang Xie, Zhenyi Wang, Shahid Ali Khan, Niaz Ali, Chuanzhi Zhao, Xinguo Li, Ziliang Luo, Shubiao Zhang, Rui-Rong Zhuang, Ze Peng, Shuai-Yin Wang, Gandeka Mamadou, Yuhui Zhuang, Zifan Zhao, Weichang Yu, Faqian Xiong, Weipeng Quan, Mei Yuan, Yu Li, Huashong Zou, Han Xia, Li Zha1, Junpeng Fan, Jigao Yu, Wenping Xie, Jiaqing Yuan, Kun Chen, Shanshan Zhao, Wenting Chu, Yuting Chen, Pengchuan Sun, Fanbo Meng, Tao Zhuo, Yuhao Zhao, Chun-Juan Li, Guohao He, Yongli Zhao, Congcong Wang, Polavarapu Bilhan Kavikishor, Rong-Long Pan, Andrew H. Paterson, Xiyin Wang, Ray Ming, Rajeev K Varshney.
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Arachis hypogaea, tetraploidy, homeologous recombination
+
+citations: 
+
+file_transformation: 
+  - perl -pi -e 's/>Chr/>arahy.Shitouqi.gnm1.chr/' arahy.Shitoqi.gnm1.L4VP.genome_main.fna
+  - perl -pi -e 's/>Unassemble_00/>arahy.Shitouqi.gnm1.Unplaced/' arahy.Shitoqi.gnm1.L4VP.genome_main.fna
+
+changes:
+ - 2019-03-25 Initial repository creation
+

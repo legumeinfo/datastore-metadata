@@ -1,0 +1,11 @@
+---
+Identifier:	29325965
+Name:	Li, Zhao et al., 2018
+Synopsis:	GWAS study of soybean seed protein and oil, conducted on 298 accessions, genotyped with a panel of 1536 SNPs.
+Description:	A GWAS study of seed protein and oil content using a population of 185 soybean (Glycine max) accessions from China and across the northern hemisphere.  Specific length amplified fragment sequencing (SLAF-seq) technology detected 12,072 SNPs across 20 chromosomes showing a marker density of 78.7 kbp.  Thirty-one SNPs, and their 31 beneficial alleles, placed on 12 of the chromosomes represented QTLs associated with protein and oil.  In both 2015 and 2016, the SNPs rs15774585 and rs15783346 (Chr 7) were correlated with seed oil, and the SNPs rs53140888 (Chr 01), rs19485676 (Chr 13), and rs24787338 (Chr 20) with seed protein.
+PlatformName:	29325965
+PlatformDetails:	Custom SLAF-seq marker set
+CurationNotes:	Curated by Scott Kalberer and Steven Cannon, 2020-12
+PMID:	29325965
+DOI:	10.1016/j.ygeno.2018.01.004
+
