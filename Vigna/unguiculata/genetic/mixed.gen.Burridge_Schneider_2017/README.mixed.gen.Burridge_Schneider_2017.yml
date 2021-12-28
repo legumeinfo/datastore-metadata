@@ -1,12 +1,6 @@
 identifier: mixed.gen.Burridge_Schneider_2017
   
-provenance: 
-
-source: 
-
 synopsis: "A 189-entry diversity panel was used to study root architecture phenes."
-
-related_to: 
 
 scientific_name: Vigna unguiculata
 
@@ -21,21 +15,11 @@ genotype:
 
 description: "This study implemented manual phenotyping (shovelomics) and automated image phenotyping (DIRT) on a 189-entry diversity panel of cowpea to reveal biologically important variation and genome regions affecting root architecture phenes. A diversity panel of 189 entries including traditional cultivars (landraces) and elite breeding lines representing worldwide cowpea genetic diversity was assembled and seed-multiplied by University of California—Riverside (UCR)."
 
-dataset_doi: 
-
-genbank_accession:
-
 genotyping_platform: Cowpea1MSelectedSNPs
 
-genotyping_method: "A consensus genetic map was constructed based on genotyping of 6 bi-parental recombinant inbred line (RIL) populations using an Illumina GoldenGate assay for 1,536 EST-derived SNP markers. The map resolution was improved by genotyping seven additional RIL populations."
-
-original_file_creation_date: 
-
-local_file_creation_date: 
+genotyping_method: "Six bi-parental RIL populations were genotyped with an Illumina GoldenGate assay for 1,536 EST-derived SNP markers. The map resolution was improved by genotyping seven additional RIL populations."
 
 publication_doi: 10.1007/s00122-016-2823-y
-
-dataset_release_date: 
 
 publication_title: "Genome-wide association mapping and agronomic impact of cowpea root architecture"
 
@@ -47,7 +31,4 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Burridge, J. D. et al. Genome-wide association mapping and agronomic impact of cowpea root architecture. Theor. Appl. Genet. 130, 419–431 (2017)"
-
+citation: "Burridge, J. D. et al. Genome-wide association mapping and agronomic impact of cowpea root architecture. Theor. Appl. Genet. 130, 419–431 (2017)"

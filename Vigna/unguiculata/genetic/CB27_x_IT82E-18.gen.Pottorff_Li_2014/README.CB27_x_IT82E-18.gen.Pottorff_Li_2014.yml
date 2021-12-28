@@ -8,8 +8,6 @@ scientific_name: Vigna unguiculata
 
 taxid: 3917
 
-bioproject:
-
 scientific_name_abbrev: vigun
 
 genotype:
@@ -23,8 +21,6 @@ description: "Three cowpea RIL populations which segregate for Fot race 4 resist
 
 publication_doi: 10.1007/s11032-013-9991-0
 
-dataset_release_date:
-
 publication_title: "Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vigna unguiculata (L.) Walp]"
 
 contributors: Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A.
@@ -37,5 +33,4 @@ license: Open
 
 keywords: cowpea, Fusarium resistance, genotyping
 
-citations: "Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A. Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vignaunguiculata (L.) Walp]. Mol. Breed. 33, 779–791 (2014)"
-
+citation: "Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A. Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vignaunguiculata (L.) Walp]. Mol. Breed. 33, 779–791 (2014)"

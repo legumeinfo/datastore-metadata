@@ -1,18 +1,10 @@
 identifier: iSelect-consensus-2016.gen.Muñoz-Amatriaín_Mirebrahim_2017
   
-provenance: 
-
-source: 
-
 synopsis: "Illumina Cowpea iSelect Consortium Array, built from 37 cowpea accessions"
-
-related_to: 
 
 scientific_name: Vigna unguiculata
 
 taxid: 3917
-
-bioproject: 
 
 scientific_name_abbrev: vigun
 
@@ -23,15 +15,7 @@ description: "The Illumina Cowpea iSelect Consortium Array was built from 37 cow
 
 dataset_doi: 10.1111/tpj.13404
 
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 
-
 publication_doi: 10.1111/tpj.13404
-
-dataset_release_date: 
 
 publication_title: "Genome resources for climate-resilient cowpea, an essential crop for food security"
 
@@ -43,7 +27,4 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Muñoz-Amatriaín, M. et al. Genome resources for climate-resilient cowpea, an essential crop for food security. Plant J. 89, 1042–1054 (2017)"
-
+citation: "Muñoz-Amatriaín, M. et al. Genome resources for climate-resilient cowpea, an essential crop for food security. Plant J. 89, 1042–1054 (2017)"

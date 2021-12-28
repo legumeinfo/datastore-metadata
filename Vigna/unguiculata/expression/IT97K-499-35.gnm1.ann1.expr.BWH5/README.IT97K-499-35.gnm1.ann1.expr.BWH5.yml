@@ -4,13 +4,13 @@ synopsis: "Black-eyed pea gene expression atlas (IT97K-499-35)"
 
 provenance: Cowpea expression atlas
 
-source: NCBI:SRP108689, NCBI:PRJNA389300.
-
 related_to: "Reads have been mapped to reference genome version vigun.IT97K-499-35.gnm1.ann1."
 
 scientific_name: Vigna unguiculata
 
 taxid: 3917 
+
+sraproject: SRP108689
 
 bioproject: PRJNA389300
 
@@ -23,29 +23,12 @@ expression_unit: TPM
 
 description: "The black-eyed pea reference genotype has been used to generate a gene expression atlas of the major plant tissues (i.e. leaf, root, stem, flower, pod and seed), with a developmental time series for pods and seeds. From these various organs, 27 cDNA libraries were generated and sequenced, resulting in more than one billion reads. Following filtering, these reads were de novo assembled into 36 529 transcript sequences that were annotated and quantified across the different tissues. A set of 24,866 unique transcript sequences, called Unigenes, was identified. All the information related to transcript identification, annotation and quantification were stored into a gene expression atlas webserver (http://vugea.noble.org), providing a user-friendly interface and necessary tools to analyse transcript expression in black-eyed pea organs and to compare data with other legume species. Using this gene expression atlas, we inferred details of molecular processes that are active during seed development, and identified key putative regulators of seed maturation. Additionally, we found evidence for conservation of regulatory mechanisms involving miRNA in plant tissues subjected to drought and seeds undergoing desiccation."
 
-dataset_doi: 
-
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 2017-11-01
+local_file_creation_date: "2017-11-01"
 
 publication_doi: 10.1111/tpj.13279
-
-dataset_release_date:  
 
 publication_title: "The Vigna unguiculata Gene Expression Atlas (VuGEA) from de novo assembly and quantification of RNA-seq data provides insights into seed maturation mechanisms"
 
 contributors: "Yao, Shaolun; Jiang, Chuan; Huang, Ziyue; Torres-Jerez, Ivone; Chang, Junil; Zhang, Heng; Udvardi, Michael; Liu, Renyi; Verdier, Jerome"
 
-data_curators: 
-
-public_access_level: 
-
 license: open
-
-keywords: 
-
-citations: 
-

@@ -8,8 +8,6 @@ scientific_name: Vigna unguiculata
 
 taxid: 3917
 
-bioproject:
-
 scientific_name_abbrev: vigun
 
 genotype:
@@ -20,8 +18,6 @@ genotyping_platform: Cowpea1MSelectedSNPs
 description: "Three cowpea RIL populations which segregate for Fot race 4 resistance were used for QTL mapping studies. The IT93K-503-1 (resistant) × CB46 (susceptible) population consisted of 113 lines advanced to the F10 generation using single seed descent. IT93K-503-1 is an advanced breeding line developed by the International Institute for Tropical Agriculture (IITA) with strong resistance to Fot race 4. CB46 was bred for resistance to Fot race 3 but is highly susceptible to Fot race 4."
 
 publication_doi: 10.1007/s11032-013-9991-0
-
-dataset_release_date:
 
 publication_title: "Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vigna unguiculata (L.) Walp]"
 
@@ -35,5 +31,4 @@ license: Open
 
 keywords: cowpea, Fusarium resistance, genotyping
 
-citations: "Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A. Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vignaunguiculata (L.) Walp]. Mol. Breed. 33, 779–791 (2014)"
-
+citation: "Pottorff, M. O., Li, G., Ehlers, J. D., Close, T. J. & Roberts, P. A. Genetic mapping, synteny, and physical location of two loci for Fusarium oxysporum f. sp. tracheiphilum race 4 resistance in cowpea [Vignaunguiculata (L.) Walp]. Mol. Breed. 33, 779–791 (2014)"

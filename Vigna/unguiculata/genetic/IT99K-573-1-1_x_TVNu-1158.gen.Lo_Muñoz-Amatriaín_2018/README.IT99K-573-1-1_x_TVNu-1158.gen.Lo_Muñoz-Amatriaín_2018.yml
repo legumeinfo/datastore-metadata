@@ -1,12 +1,6 @@
 identifier: IT99K-573-1-1_x_TVNu-1158.gen.Lo_Muñoz-Amatriaín_2018
   
-provenance: 
-
-source: 
-
 synopsis: "215 F8 RILs developed from the cultivated (IT99K-573-1-1) and wild-type (TVNu-1158) accessions were used in mapping to study domestication-related traits."
-
-related_to: 
 
 scientific_name: Vigna unguiculata
 
@@ -21,19 +15,9 @@ genotype:
 
 description: "Cowpea domestication-related traits (DRTs) were studied with a biparental mapping population of F8 RILs derived from a cross between IT99K-573-1-1 and TVNu-1158, cultivated and wild cowpea accessions, respectively. IT99K-573-1-1 is an early-maturing, white-seeded, high-yielding and Striga-resistant variety that was released in Nigeria under the name SAMPEA 14. TVNu-1158 is small seeded and has a perennial growth habit. "
 
-dataset_doi: 
-
-genbank_accession: 
-
 genotyping_platform: Cowpea1MSelectedSNPs
 
-original_file_creation_date: 
-
-local_file_creation_date: 
-
 publication_doi: 10.1038/s41598-018-24349-4
-
-dataset_release_date: 
 
 publication_title: "Identification of QTL controlling domestication-related traits in cowpea (Vigna unguiculata L. Walp)"
 
@@ -45,7 +29,4 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Lo, S. et al. Identification of QTL controlling domestication-related traits in cowpea (Vigna unguiculata L. Walp). Sci. Rep. 8, 6261 (2018)"
-
+citation: "Lo, S. et al. Identification of QTL controlling domestication-related traits in cowpea (Vigna unguiculata L. Walp). Sci. Rep. 8, 6261 (2018)"

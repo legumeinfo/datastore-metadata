@@ -8,8 +8,6 @@ scientific_name: Vigna unguiculata
 
 taxid: 3917
 
-bioproject:
-
 scientific_name_abbrev: vigun
 
 genotype:
@@ -21,8 +19,6 @@ description: "A MAGIC (Multi-parent Advanced Generation Inter-Cross) population 
 
 publication_doi: 10.1111/tpj.13827
 
-dataset_release_date:
-
 publication_title: "A multi-parent advanced generation inter-cross (MAGIC) population for genetic analysis and improvement of cowpea (Vigna unguiculata L. Walp.)"
 
 contributors: "Bao-Lam Huynh, Jeffrey D. Ehlers, Bevan Emma Huang, Marıa Munoz-Amatriain, Stefano Lonardi, Jansen R. P. Santos, Arsenio Ndeve, Benoit J. Batieno, Ousmane Boukar, Ndiaga Cisse, Issa Drabo, Christian Fatokun, Francis Kusi, Richard Y. Agyare, Yi-Ning Guo, Ira Herniter, Sassoum Lo, Steve I. Wanamaker, Shizhong Xu, Timothy J. Close, and Philip A. Roberts"
@@ -33,7 +29,4 @@ public_access_level: public
 
 license: Open
 
-keywords:
-
-citations: "Huynh, B.-L. et al. A multi-parent advanced generation inter-cross (MAGIC) population for genetic analysis and improvement of cowpea (Vigna unguiculata L. Walp.). Plant J. 93, 1129–1142 (2018)"
-
+citation: "Huynh, B.-L. et al. A multi-parent advanced generation inter-cross (MAGIC) population for genetic analysis and improvement of cowpea (Vigna unguiculata L. Walp.). Plant J. 93, 1129–1142 (2018)"
