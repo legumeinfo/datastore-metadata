@@ -1,37 +1,27 @@
-identifier: 82HL 
+identifier: PI475887_x_Grif15036.gen.Nagy_Guo_2012  
 
-provenance: Downloaded from publication
+source: "https://static-content.springer.com/esm/art%3A10.1186%2F1471-2164-13-469/MediaObjects/12864_2011_4559_MOESM6_ESM.xlsx"
 
-source: https://static-content.springer.com/esm/art%3A10.1186%2F1471-2164-13-469/MediaObjects/12864_2011_4559_MOESM6_ESM.xlsx
-
-synopsis: AA_A.duranensis_x_A.duranensis_a, SNP and SSR-based genetic map of Arachis duranensis from a cross of 'PI 475887' and 'Grif 15036'.
-
-related_to: 
+synopsis: "AA_A.duranensis_x_A.duranensis_a, SNP and SSR-based genetic map of Arachis duranensis from a cross of 'PI 475887' and 'Grif 15036'."
 
 scientific_name: Arachis duranensis
 
 taxid: 130453
-
-bioproject:
 
 scientific_name_abbrev: aradu
 
 genotype: 
   - PI 475887 x Grif 15036
 
-description: A SNP and SSR-based genetic map of Arachis duranensis, developed an F2 population resulting from the cross of A. duranensis 'PI 475887' with A. duranensis 'Grif 15036'. 
+description: "A SNP and SSR-based genetic map of Arachis duranensis, developed an F2 population resulting from the cross of A. duranensis 'PI 475887' with A. duranensis 'Grif 15036'."
 
-dataset_doi:
+original_file_creation_date: "2012-08-30"
 
-genbank_accession:
-
-original_file_creation_date: 2012-08-30
-
-local_file_creation_date: 2015-05-11
+local_file_creation_date: "2015-05-11"
 
 publication_doi: 10.1186/1471-2164-13-469 
 
-dataset_release_date: 2018-10-26
+dataset_release_date: "2018-10-26"
 
 publication_title: A high-density genetic map of Arachis duranensis, a diploid ancestor of cultivated peanut 
 
@@ -43,6 +33,4 @@ public_access_level: public
 
 license: open
 
-keywords: 
-
-citations: Ervin D Nagy, Yufang Guo, Shunxue Tang, John E Bowers, Rebecca A Okashah, Christopher A Taylor, Dong Zhang, Sameer Khanal, Adam F Heesacker, Nelly Khalilian, Andrew D Farmer, Noelia Carrasquilla-Garcia, R Varma Penmetsa, Douglas Cook, H Thomas Stalker, Niels Nielsen, Peggy Ozias-Akins, Steven J Knapp. A high-density genetic map of Arachis duranensis, a diploid ancestor of cultivated peanut. BMC Genomics 13:469 (2012).
+citation: Ervin D Nagy, Yufang Guo, Shunxue Tang, John E Bowers, Rebecca A Okashah, Christopher A Taylor, Dong Zhang, Sameer Khanal, Adam F Heesacker, Nelly Khalilian, Andrew D Farmer, Noelia Carrasquilla-Garcia, R Varma Penmetsa, Douglas Cook, H Thomas Stalker, Niels Nielsen, Peggy Ozias-Akins, Steven J Knapp. A high-density genetic map of Arachis duranensis, a diploid ancestor of cultivated peanut. BMC Genomics 13:469 (2012).
