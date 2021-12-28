@@ -2,11 +2,9 @@ identifier: Fuhuasheng.gnm1.XX5Y
 
 provenance: This repository is a secondary source for these files. The primary repository is GenBank, under assembly accession GCA_004170445.1. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects.
 
-source: https://www.ncbi.nlm.nih.gov/assembly/GCA_004170445.1 
+source: "https://www.ncbi.nlm.nih.gov/assembly/GCA_004170445.1"
 
 synopsis: Genome assembly for tetraploid peanut cultivar Fuhuasheng, from Chen et al., 2019 
-
-related_to: 
 
 scientific_name: Arachis hypogaea
 
@@ -16,25 +14,24 @@ bioproject: PRJNA500997
 
 scientific_name_abbrev: arahy
 
-genotype: Fuhuasheng (GDAAS-fuhuasheng2018)
+genotype:
+  - Fuhuasheng (GDAAS-fuhuasheng2018)
 
 description: Files in this directory are pseudomolecule assemblies for Arachis hypogaea cultivar Fuhuasheng.
 
-dataset_doi: #DOI string
-
 genbank_accession: GCA_004170445.1
 
-original_file_creation_date: 2019-02-12
+original_file_creation_date: "2019-02-12"
 
-local_file_creation_date: 2019-05
+local_file_creation_date: "2019-05-01"
 
 publication_doi: 10.1016/j.molp.2019.03.005 
 
-dataset_release_date: 2019-05
+dataset_release_date: "2019-05-01"
 
 publication_title: Sequencing of cultivated peanut, Arachis hypogaea, yields insights into genome evolution and oil improvement 
 
-contributors: Xiaoping Chen, Qing Lu, Hao Liu, Jianan Zhang, Yanbin Hong, Haofa Lan, Haifen Li, Jinpeng Wang, Haiyan Liu, Shaoxiong Li, Manish K. Pandey, Zhikang Zhang, Guiyuan Zhou, Jigao Yu, Guoqiang Zhang, Jiaqing Yuan, Xingyu Li, Shijie Wen, Fanbo Meng, Shanlin Yu, Xiyin Wang, Kadambot H.M. Siddique, Zhong-Jian Liu, Andrew H. Paterson, Rajeev K. Varshney, Xuanqiang Liang.
+contributors: "Xiaoping Chen, Qing Lu, Hao Liu, Jianan Zhang, Yanbin Hong, Haofa Lan, Haifen Li, Jinpeng Wang, Haiyan Liu, Shaoxiong Li, Manish K. Pandey, Zhikang Zhang, Guiyuan Zhou, Jigao Yu, Guoqiang Zhang, Jiaqing Yuan, Xingyu Li, Shijie Wen, Fanbo Meng, Shanlin Yu, Xiyin Wang, Kadambot H.M. Siddique, Zhong-Jian Liu, Andrew H. Paterson, Rajeev K. Varshney, Xuanqiang Liang."
 
 data_curators: Steven Cannon
 
@@ -44,11 +41,4 @@ license: open
 
 keywords: Arachis hypogaea, cultivated peanut
 
-citations: Chen X., Lu Q., Liu H., Zhang J., Hong Y., Lan H., Li H., Wang J., Liu H., Li S., Pandey M.K., Zhang Z., Zhou G., Yu J., Zhang G., Yuan J., Li X., Wen S., Meng F., Yu S., Wang X., Siddique K.H.M, Liu Z.-J., Paterson A.H., Varshney R.K., and Liang X. (2019). Sequencing of cultivated peanut, Arachis hypogaea, yields insights into genome evolution and oil improvement. Mol. Plant. doi https://doi.org/10.1016/j.molp.2019.03.005.
-
-file_transformation: 
-  - Add chromosome prefix arahy.Fuhuasheng.gnm1.chr, numbering chromosomes 01-20
-
-changes:
- - 2019-04-25 Initial repository creation
-
+citation: "Chen X., Lu Q., Liu H., Zhang J., Hong Y., Lan H., Li H., Wang J., Liu H., Li S., Pandey M.K., Zhang Z., Zhou G., Yu J., Zhang G., Yuan J., Li X., Wen S., Meng F., Yu S., Wang X., Siddique K.H.M, Liu Z.-J., Paterson A.H., Varshney R.K., and Liang X. (2019). Sequencing of cultivated peanut, Arachis hypogaea, yields insights into genome evolution and oil improvement. Mol. Plant."
