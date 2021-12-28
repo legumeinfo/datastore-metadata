@@ -1,18 +1,14 @@
 identifier: Shumari.gnm1.ann1.8BRS
 
-provenance: The files in this directory originated from http://viggs.dna.affrc.go.jp/download. The viggs repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+provenance: "The files in this directory originated from http://viggs.dna.affrc.go.jp/download. The viggs repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
-source: http://viggs.dna.affrc.go.jp/
+source: "http://viggs.dna.affrc.go.jp/"
 
 synopsis: Vigna angularis accession Shumari genome annotation files
-
-related_to:
 
 scientific_name: Vigna angularis
 
 taxid: 3914
-
-bioproject:
 
 scientific_name_abbrev: vigan
 
@@ -21,19 +17,11 @@ genotype:
 
 description: Gene models for Vigna angularis, accession Shumari
 
-dataset_doi:
+original_file_creation_date: "2016-01-01"
 
-genbank_accession:
+local_file_creation_date: "2018-08-01"
 
-original_file_creation_date: 2016
-
-local_file_creation_date: 2018-08
-
-publication_doi: https://doi.org/10.1038/srep16780
-
-dataset_release_date:
-
-publication_title:
+publication_doi: 10.1038/srep16780
 
 contributors: Hiroaki Sakai, Ken Naito, Yu Takahashi, Toshiyuki Sato, Toshiya Yamamoto, Isamu Muto, Takeshi Itoh, Norihiko Tomooka
 
@@ -45,4 +33,4 @@ license: open
 
 keywords: adzuki bean
 
-citations: "Sakai, H. et al. The power of single molecule real-time sequencing technology in the de novo assembly of a eukaryotic genome. Sci. Rep. 5, 16780 (2015)"
+citation: "Sakai, H. et al. The power of single molecule real-time sequencing technology in the de novo assembly of a eukaryotic genome. Sci. Rep. 5, 16780 (2015)"
