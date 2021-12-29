@@ -2,8 +2,6 @@ identifier: Tifrunner.gnm2.ann1.4K0L
 
 provenance: The files in this directory are considered the primary instances. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. 
 
-source: https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse
-
 synopsis: Gene models for genome assembly 2 for Arachis hypogaea, cultivar Tifrunner. 
 
 related_to: arahy.Tifrunner.gnm2.J5K5.genome_main.fna
@@ -16,25 +14,22 @@ bioproject: PRJNA291488
 
 scientific_name_abbrev: arahy
 
-genotype: Tifrunner
+genotype:
+  - Tifrunner
 
-description: Genome annotation for Arachis hypogaea cultivar Tifrunner, assembly version 2 (Tifrunner.gnm2). Gene models (gene_models_main.gff3) have been projected from Tifrunner.gnm1 into Tifrunner.gnm2 using CrossMap and chain files derived from MUMmer comparisons between the respective assemblies. The CDS, protein, and transcript files are identical to those from Tifrunner.gnm1.ann1.CCJH. Gene model mappings are incomplete: 145 models could not be automatically projected into Tifrunner.gnm2 using CrossMap. See file arahy.Tifrunner.gnm2.ann1.4K0L.info_unmapped_models.txt for the listing of unmapped genes.
+description: "Genome annotation for Arachis hypogaea cultivar Tifrunner, assembly version 2 (Tifrunner.gnm2). Gene models (gene_models_main.gff3) have been projected from Tifrunner.gnm1 into Tifrunner.gnm2 using CrossMap and chain files derived from MUMmer comparisons between the respective assemblies. The CDS, protein, and transcript files are identical to those from Tifrunner.gnm1.ann1.CCJH. Gene model mappings are incomplete: 145 models could not be automatically projected into Tifrunner.gnm2 using CrossMap. See file arahy.Tifrunner.gnm2.ann1.4K0L.info_unmapped_models.txt for the listing of unmapped genes."
 
-dataset_doi:
+original_file_creation_date: "2019-07-26"
 
-genbank_accession: 
-
-original_file_creation_date: 2019-07-26
-
-local_file_creation_date: 2019-07-26
+local_file_creation_date: "2019-07-26"
 
 publication_doi: 10.1038/s41588-019-0405-z
 
-dataset_release_date: 2019-07-26
+dataset_release_date: "2019-07-26"
 
 publication_title: The genome sequence of segmental allotetraploid peanut Arachis hypogaea
 
-contributors: The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins; HiC assessments and corrections: Melanie Pham, Olga Dudchenko; Erez Lieberman Aiden lab. Projection of gene models from Tifrunner.gnm1 into Tifrunner.gnm2: Steven Cannon.
+contributors: "The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins; HiC assessments and corrections: Melanie Pham, Olga Dudchenko; Erez Lieberman Aiden lab. Projection of gene models from Tifrunner.gnm1 into Tifrunner.gnm2: Steven Cannon."
 
 data_curators: Ethalinda Cannon, Steven Cannon
 
@@ -44,39 +39,4 @@ license: Open
 
 keywords: peanut, Arachis hypogaea, Tifrunner
 
-citations: Bertioli et al., 2019; https://www.nature.com/articles/s41588-019-0405-z
-
-file_transformation: 
-  - 2019-07-26 finished CrossMap projections from gnm1 into gnm2. See file crossmap_arahy_v05.sh for details (S. Cannon)
-
-changes: 
-  - 2018-07-26 Initial repository preparation
-  - 2020-04-21 Corrected GFF and fasta files to deal with 26 gene models that were duplicated in gnm2.ann1 relative to gnm1.ann1 (24 on 05 and 12 and one on 03 and 13; the latter is not strictly speaking a duplication but a split of the old gene model into two pieces resulting in two smaller models). The previously duplicated models have been renamed on the following chromosomes. The ID modification differs from the original ID string by the last character (changing to Z or 0).
-    - Arahy.13 from M66GIB to M66GIZ
-    - Arahy.05 from D5QJZZ to D5QJZ0
-    - Arahy.05 from Y72RXW to Y72RXZ
-    - Arahy.05 from D1YXCG to D1YXCZ
-    - Arahy.05 from PL6VNF to PL6VNZ
-    - Arahy.05 from PFH739 to PFH73Z
-    - Arahy.05 from E9WDF1 to E9WDFZ
-    - Arahy.05 from V1AVP1 to V1AVPZ
-    - Arahy.05 from C24P33 to C24P3Z
-    - Arahy.05 from 2XVX2B to 2XVX2Z
-    - Arahy.05 from ZIF87W to ZIF87Z
-    - Arahy.05 from 942P0F to 942P0Z
-    - Arahy.05 from NRP8RH to NRP8RZ
-    - Arahy.05 from C3UJQ4 to C3UJQZ
-    - Arahy.05 from 10QJ8K to 10QJ8Z
-    - Arahy.05 from VRT43M to VRT43Z
-    - Arahy.05 from 9RVJ5A to 9RVJ5Z
-    - Arahy.05 from XEJ3YL to XEJ3YZ
-    - Arahy.05 from FJ4QJG to FJ4QJZ
-    - Arahy.05 from 1M918L to 1M918Z
-    - Arahy.05 from T4T98J to T4T98Z
-    - Arahy.05 from 60JIWJ to 60JIWZ
-    - Arahy.05 from 3C43J1 to 3C43JZ
-    - Arahy.05 from X4R883 to X4R88Z
-    - Arahy.05 from 56DA4Y to 56DA4Z
-    - Arahy.05 from 6M2V35 to 6M2V3Z
-  - 2020-09-17 added explicit gene family mappings file arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M65K.gfa.tsv.gz
-
+citation: Bertioli et al., 2019
