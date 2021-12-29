@@ -1,8 +1,11 @@
 ---
-Identifier:	KGK20171018.1
-Name:	Yan, Hofmann et al. 2017
-Synopsis:	GWAS study of seed weight in soybean, conducted on 166 from the USDA soybean collection, genotyped using the SoySNP50K BeadChip.
-PlatformName:	SoySNP50K
-PlatformDetails:	Illumina Infinium SoySNP50K BeadChip
-DOI:	10.1186/s12864-017-3922-0
-
+identifier: mixed.gwas.Yan_Hofmann_2017
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: Yan, Hofmann et al. (2017)
+synopsis: GWAS study of seed weight in soybean, conducted on 166 from the USDA soybean collection, genotyped using the SoySNP50K BeadChip.
+description: GWAS study of seed weight in soybean, conducted on 166 from the USDA soybean collection, genotyped using the SoySNP50K BeadChip.
+genotyping_platform: SoySNP50K
+genotyping_method: Illumina Infinium SoySNP50K BeadChip
+publication_doi: 10.1186/s12864-017-3922-0

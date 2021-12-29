@@ -1,8 +1,12 @@
 ---
-Identifier:	LBC20180516.2
-Name:	Zhang, Song et al. 2015
-Synopsis:	GWAS study of flowering time, maturity dates and plant height in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip.
-PlatformName:	SoySNP50K
-PlatformDetails:	Illumina Infinium SoySNP50K BeadChip
-DOI:	10.1186/s12864-015-1441-4
+identifier: mixed.gwas.Zhang_Song_2015
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: Zhang, Song et al. 2015
+synopsis: GWAS study of flowering time, maturity dates and plant height in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip.
+description: GWAS study of flowering time, maturity dates and plant height in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip.
+genotyping_platform: SoySNP50K
+genotyping_method: Illumina Infinium SoySNP50K BeadChip
+publication_doi: 10.1186/s12864-015-1441-4
 

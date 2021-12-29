@@ -1,8 +1,12 @@
 ---
-Identifier:	LBC20180625.2
-Name:	Wang, Chu et al. 2016
-Synopsis:	GWAS study of domestication-related traits in soybean, conducted on 105 wild and 262 cultivated soybeans, genotyped using the NJAU 355K SoySNP array.
-PlatformName:	NJAU355K
-PlatformDetails:	NJAU355_KSoySNP: Affymetrix Axiom Genome-Wide BOS1 Assay
-DOI:	10.1038/srep20728
+identifier: mixed.gwas.Wang_Chu_2016
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: "Wang, Chu et al. (2016)"
+description: "GWAS study of domestication-related traits in soybean, conducted on 105 wild and 262 cultivated soybeans, genotyped using the NJAU 355K SoySNP array."
+synopsis: "GWAS study of domestication-related traits in soybean, conducted on 105 wild and 262 cultivated soybeans, genotyped using the NJAU 355K SoySNP array."
+genotyping_platform: NJAU355K
+genotyping_method: "NJAU355_KSoySNP: Affymetrix Axiom Genome-Wide BOS1 Assay"
+publication_doi: 10.1038/srep20728
 

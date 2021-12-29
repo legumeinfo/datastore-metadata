@@ -1,8 +1,11 @@
 ---
-Identifier:	KGK20170714.1
-Name:	Bandillo, Jarquin et al. 2015
-Synopsis:	GWAS of soybean seed protein and oil, using 12,000 accessions from the USDA soybean collection and the SoySNP50K BeadChip.
-PlatformName:	SoySNP50K
-PlatformDetails:	Illumina Infinium SoySNP50K BeadChip
-DOI:	10.3835/plantgenome2015.04.0024
-
+identifier: mixed.gwas.Bandillo_Jarquin_2015
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+taxid: 3847
+citation: "Bandillo, Jarquin et al. (2015)"
+synopsis: "GWAS of soybean seed protein and oil, using 12,000 accessions from the USDA soybean collection and the SoySNP50K BeadChip."
+description: "GWAS of soybean seed protein and oil, using 12,000 accessions from the USDA soybean collection and the SoySNP50K BeadChip."
+genotyping_platform: SoySNP50K
+genotyping_method: Illumina Infinium SoySNP50K BeadChip
+publication_doi: 10.3835/plantgenome2015.04.0024

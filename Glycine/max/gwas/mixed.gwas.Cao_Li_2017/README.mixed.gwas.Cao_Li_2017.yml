@@ -1,8 +1,9 @@
 ---
-Identifier:	KGK20171006.1
-Name:	Cao, Li et al. 2017
-Synopsis:	GWAS and QTL study of soybean seed oil, conducted on 279 lines from a Chinese breeding population, genotyped with 59,845 SNPs.
-PlatformName:	various
-PlatformDetails:	
-DOI:	10.3389/fpls.2017.01222
-
+identifier: mixed.gwas.Cao_Li_2017
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: Cao, Li et al. (2017)
+synopsis: "GWAS and QTL study of soybean seed oil, conducted on 279 lines from a Chinese breeding population, genotyped with 59,845 SNPs."
+description: "GWAS and QTL study of soybean seed oil, conducted on 279 lines from a Chinese breeding population, genotyped with 59,845 SNPs."
+publication_doi: 10.3389/fpls.2017.01222

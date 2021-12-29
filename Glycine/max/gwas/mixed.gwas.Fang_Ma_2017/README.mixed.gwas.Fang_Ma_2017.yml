@@ -1,8 +1,10 @@
 ---
-Identifier:	KGK20171027.1
-Name:	Fang, Ma et al. 2017
-Synopsis:	GWAS of 84 agronomic traits, conducted on 809 soybean accessions, with genotyping by resequencing.
-PlatformName:	various
-PlatformDetails:	
-DOI:	10.1186/s13059-017-1289-9
+identifier: mixed.gwas.Fang_Ma_2017
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: "Fang, Ma et al. (2017)"
+description: GWAS of 84 agronomic traits, conducted on 809 soybean accessions, with genotyping by resequencing.
+synopsis: GWAS of 84 agronomic traits, conducted on 809 soybean accessions, with genotyping by resequencing.
+publication_doi: 10.1186/s13059-017-1289-9
 

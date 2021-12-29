@@ -1,8 +1,12 @@
 ---
-Identifier:	LBC20180601.3
-Name:	Che, Liu et al. 2017
-Synopsis:	GWAS of Soybean mosaic virus (SMV), conducted on 165 lines from parents with differing susceptibility, genotyped with the 355K SoySNP array.
-PlatformName:	NJAU355K
-PlatformDetails:	NJAU355K Soy SNP assay
-DOI:	10.3389/fpls.2017.01771
+identifier: mixed.gwas.Che_Liu_2017
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: "Che, Liu et al. (2017)"
+synopsis: "GWAS of Soybean mosaic virus (SMV), conducted on 165 lines from parents with differing susceptibility, genotyped with the 355K SoySNP array."
+description: "GWAS of Soybean mosaic virus (SMV), conducted on 165 lines from parents with differing susceptibility, genotyped with the 355K SoySNP array."
+genotyping_platform: NJAU355K
+genotyping_method: NJAU355K Soy SNP assay
+publication_doi: 10.3389/fpls.2017.01771
 

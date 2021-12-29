@@ -1,9 +1,11 @@
 ---
-Identifier:	KGK20170808.1
-Name:	Zhang, Song et al. 2016
-Synopsis:	GWAS study of seed weight in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip.
-Description:	A GWAS in a population of 309 soybean germplasm accessions using 31,045 SNPs estimated the prediction accuracy of genomic selection and marker-assisted selection for seed weight.
-PlatformName:	SoySNP50K
-PlatformDetails:	Illumina Infinium SoySNP50K BeadChip
-DOI:	10.1007/s00122-015-2614-x
-
+identifier: mixed.gwas.Zhang_Song_2016
+citation: "Zhang, Song et al. (2016)"
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+synopsis: "GWAS study of seed weight in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip."
+description: "A GWAS in a population of 309 soybean germplasm accessions using 31,045 SNPs estimated the prediction accuracy of genomic selection and marker-assisted selection for seed weight."
+genotyping_platform: SoySNP50K
+genotyping_method: Illumina Infinium SoySNP50K BeadChip
+publication_doi: 10.1007/s00122-015-2614-x
