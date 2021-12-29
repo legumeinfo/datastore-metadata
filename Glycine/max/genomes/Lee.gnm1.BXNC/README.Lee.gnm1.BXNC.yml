@@ -1,9 +1,7 @@
 ---
-key_name: BXNC
+identifier: Lee.gnm1.BXNC
 
 provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
-
-source: "https://legumefederation.org/data/ and mirrored at SoyBase, LegumeInfo, PeanutBase, and CyVerse"
 
 synopsis: Genome assembly
 
@@ -15,23 +13,18 @@ bioproject: PRJNA407817
 
 scientific_name_abbrev: glyma
 
-genotype: Lee
+genotype:
+  - Lee
 
 description: "Initial genome assembly for Glycine max cultivar Lee. The assembly incorporates Illumina sequence and optical mapping from NRGene. Pseudomolecule anchoring of scaffolds was accomplished using two dense genetic maps as well as synteny comparisons with Glycine max reference assembly for cultivar Williams 82 and Glycine soja PI 483463. This assembly corresponds to quality control round 12 (QC12), Oct 26, 2017"
 
-dataset_doi:
-
 genbank_accession: PELE00000000
 
-original_file_creation_date: 2017-10-26
+original_file_creation_date: "2017-10-26"
 
-local_file_creation_date: 2017-10-26
+local_file_creation_date: "2017-10-26"
 
-publication_doi:
-
-dataset_release_date: 2017-10-26
-
-publication_title:
+dataset_release_date: "2017-10-26"
 
 contributors: "Henry T. Nguyen, Babu Valliyodan, Steven Cannon, Hon Ming Lam, Dave Edwards, Philipp Bayer, Jacqueline Campbell, Ting-Fung Chan, Jeremy Schmutz, Qijian Song"
 
@@ -42,6 +35,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: soybean, Lee
-
-citations: "[initial, provisional citation, pre-publication:] Glycine max cv Lee and Glycine soja PI 483463 sequencing consortium, pre-publication"
-

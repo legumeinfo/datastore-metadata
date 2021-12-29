@@ -1,5 +1,5 @@
 ---
-key_name: F177
+identifier: FiskebyIII.gnm1.F177
 
 provenance: "The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
@@ -11,27 +11,18 @@ scientific_name: Glycine max
 
 taxid: 3847
 
-bioproject: 
-
 scientific_name_abbrev: glyma
 
-genotype: Fiskeby III
+genotype:
+  - Fiskeby III
 
 description: "Files in this diretory are genome assembly files for genome type Fiskeby III, Stupar (2020)"
 
-dataset_doi:
+original_file_creation_date: "2020-09-15"
 
-genbank_accession:
+local_file_creation_date: "2021-04-15"
 
-original_file_creation_date: 2020-09-15
-
-local_file_creation_date: 2021-04-15
-
-publication_doi:
-
-dataset_release_date:  2021-05-24
-
-publication_title:
+dataset_release_date: "2021-05-24"
 
 contributors: "Bob Stupar(UMN), Jeremy Schmutz"
 
@@ -42,6 +33,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: Glycine max, Fiskeby III
-
-citations: "[initial, provisional citation, pre-publication:]"
-
