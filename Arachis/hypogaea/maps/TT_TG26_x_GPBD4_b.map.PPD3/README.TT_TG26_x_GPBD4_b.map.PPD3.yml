@@ -1,9 +1,5 @@
 ---
-identifier: PPD3 
-
-provenance: "Extracted from image in paper"
-
-source: 
+identifier: TT_TG26_x_GPBD4_b.map.PPD3
 
 synopsis: TT_TG26_x_GPBD4_b, an SSR map created from a cross of the A. hypogaea cultivars 'TG 26' and 'GPBD 4'.
 
@@ -11,25 +7,20 @@ scientific_name: Arachis hypogaea
 
 taxid: 3818
 
-bioproject:
-
 scientific_name_abbrev: arahy
 
-genotype: TG 26, GPBD 4
+genotype:
+  - TG 26 x GPBD 4
 
 description: "An SSR-based genetic map created from a F9:10 generation derived from the cross of A. hypogaea cultivars 'TG 26' with 'GPBD 4'"
 
-dataset_doi:
+original_file_creation_date: "2011-04-28"
 
-genbank_accession:
+local_file_creation_date: "2015-07-08"
 
-original_file_creation_date: 2011-04-28
+publication_doi: 10.1016/j.fcr.2011.02.010 
 
-local_file_creation_date: 2015-07-08
-
-publication_doi: https://doi.org/10.1016/j.fcr.2011.02.010 
-
-dataset_release_date: 2018-10-26 
+dataset_release_date: "2018-10-26"
 
 publication_title: "Identification of quantitative trait loci for protein content, oil content and oil quality for groundnut (Arachis hypogaea L.)"
 
@@ -43,5 +34,4 @@ license: open
 
 keywords: Groundnut, Nutritional traits, Molecular markers, SSRs, QTLs, Molecular mapping
 
-citations: "Cholin Sarvamanga, M.V.C. Gowdaa, R.K. Varshney. Identification of quantitative trait loci for protein content, oil content and oil quality for groundnut (Arachis hypogaea L.). Field Crops Research vol. 122, issue 1, pp 49-59 (2011)"
-
+citation: "Cholin Sarvamanga, M.V.C. Gowdaa, R.K. Varshney. Identification of quantitative trait loci for protein content, oil content and oil quality for groundnut (Arachis hypogaea L.). Field Crops Research vol. 122, issue 1, pp 49-59 (2011)"
