@@ -1,35 +1,28 @@
 ---
-identifier: Singh_Kalberer_2018
+identifier: LA2155.tcp.div.Singh_Kalberer_2018
 
 provenance: "The files in this directory are the primary, initial source. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects."
 
-source: "http://legumeinfo.org"
-
-synopsis: SNP calls on a collection of accessions, relative to a reference sequence (derived from a transcriptome assembly)
+synopsis: SNP calls on a collection of accessions, relative to a reference sequence (derived from a transcriptome assembly of Apios americana)
 
 scientific_name: Apios americana
 
 taxid: 185702
 
-bioproject:
-
 scientific_name_abbrev: apiam
 
-genotype: multiple accessions, called relative to reference accession apiam.AA-2155
+genotype:
+  - multiple accessions, called relative to reference accession AA-2155
 
 description: "Files in this directory include the SNP calls, made using the Alpheus pipeline (Miller et al. 2008), relative to the Trinity-derived transcriptome assemblies of the genotype indicated above."
 
-dataset_doi:
+original_file_creation_date: "2015-09-27"
 
-genbank_accession:
+local_file_creation_date: "2017-05-19"
 
-original_file_creation_date: 2015-09-27
+publication_doi: 10.1007/s00122-017-3004-3
 
-local_file_creation_date: 2017-05-19
-
-publication_doi: https://doi.org/10.1007/s00122-017-3004-3
-
-dataset_release_date: 2017-05-19
+dataset_release_date: "2017-05-19"
 
 publication_title: "A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes"
 
@@ -43,5 +36,4 @@ license: Open access.
 
 keywords: Apios americana, potato bean, transcriptome
 
-citations: "Jugpreet Singh, Scott R. Kalberer, Vikas Belamkar, Teshale Mamo, Matthew N. Nelson, Andrew D. Farmer, William J. Blackmon, Steven B. Cannon. A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes. Theor Appl Genet (2018) 131: 333. DOI: https://doi.org/10.1007/s00122-017-3004-3 PMID: 29071392"
-
+citation: "Jugpreet Singh, Scott R. Kalberer, Vikas Belamkar, Teshale Mamo, Matthew N. Nelson, Andrew D. Farmer, William J. Blackmon, Steven B. Cannon. A Transcriptome-SNP-derived Linkage Map of Apios americana (Potato bean) Provides Insights about Genome Re-organization and Synteny Conservation in the Phaseolid Legumes. Theor Appl Genet (2018) 131: 333."
