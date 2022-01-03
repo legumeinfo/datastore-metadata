@@ -5,6 +5,22 @@ species: soja
 abbrev: glyso
 commonName: wild soybean
 description: "Glycine soja is the closest wild relative of soybean, Glycine max. Populations of G. soja exist in the wild in China, Japan, Korea, and Russia. Analysis of genetic differences between the two species suggests that the two separated approximately 200 thousand years ago. The species remain interfertile, and G. soja accessions are used in breeding projects in order to introgress traits such as tolerance to particular diseases or environmental stresses."
+resources:
+  - name: SoyMine
+    URL: "https://mines.legumeinfo.org/soymine/begin.do"
+    description: "InterMine interface for accessing genetic and genomic data for several species in Glycine."
+  - name: ZZBrowse
+    URL: "https://zzbrowse.legumeinfo.org/?tab=WhGen&datasets=Peanut%20GWAS&chr=Arahy.01&selected=100000&window=250000&datasets2=Soybean%20GWAS&chr2=Gm01&selected2=100000&window2=250000"
+    description: "Association viewers (QTL, GWAS)"
+  - name: GCViT
+    URL: "https://soybase.org/gcvit"
+    description: "Genotype comparison visualization tool "
+  - name: Genome Context Viewer
+    URL: "https://legumeinfo.org/gcv2/gene;lis=glyma.Glyma.15G255600?q=Glyma.15G255600&sources=lis&algorithm=repeat&match=10&mismatch=-1&gap=-1&score=30&threshold=25&bmatched=20&bintermediate=10&bmask=10&linkage=average&cthreshold=20&neighbors=10&matched=4&intermediate=5&bregexp=&border=chromosome&regexp=&order=distance"
+    description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
+  - name: Grin Data Explorer
+    URL: "https://soybase.org/grindata/"
+    description: "Tool to facilitate searches of GRIN Descriptor Data"
 
 strains:
   -
@@ -13,9 +29,18 @@ strains:
     name: PI 483463
     origin: Shanxi Sheng, China
     description: "Glycine soja accession PI 483463 has been identified as being unusually tolerant (Lee et al., 2009; https://doi.org/10.1093/jhered/esp027). The genome for this accession has been sequenced, partly on the basis of this salt-tolerance trait."
+    resources:
+      - name: Soybase Genome Browser (GBrowse)
+        URL: "https://soybase.org/gb2/gbrowse/glyso.PI483463.gnm1"
+        description: "GBrowse for Glycine soja PI483463 genome assembly version 1"
   -
     identifier: W05
     accession: W05
     name: W05
     origin: Henan Province, China
     description: "Glycine soja accession W05 is a salt-tolerant wild soybean whose genome has been sequenced to serve as a reference genome assembly. The W05 accession has been used for genetic studies of several traits, including indeterminacy, seed size, pod number per plant, and seed color (Xie et al., 2019; https://doi.org/10.1038/s41467-019-09142-9)."
+    resources:
+      - name: Soybase Genome Browser (GBrowse)
+        URL: "https://soybase.org/gb2/gbrowse/glyso.W05.gnm1"
+        description: "GBrowse for glycine soja W05 genome assembly verson 1"
+

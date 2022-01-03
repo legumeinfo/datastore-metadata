@@ -6,6 +6,23 @@ abbrev: glyma
 commonName: soybean
 description: "Soybean (Glycine max) is the predominant oil-seed legume worldwide. Although the center of diversity of the genus is in Australia, the species G. max is Asian, and was likely domesticated in East Asia, ~6000-9000 years ago (Sedivy et al., 2017; https://doi.org/10.1111/nph.14418). It has many culinary and industrial uses. Some of the culinary uses include: for direct consumption of the green seed (i.e. edamame) and leaves (cooked, much like spinach); for tofu, soymilk, textured vegetable protein, soy sauce, tempeh, natto, and vegetable oil. Industrial uses include: oils, soap, cosmetics, and biodiesel. Soybean is also used as a high-protein forage, and can be prepared for fish- and animal-feed."
 
+resources:
+  - name: SoyMine
+    URL: "https://mines.legumeinfo.org/soymine/begin.do"
+    description: "InterMine interface for accessing genetic and genomic data for several species in Glycine."
+  - name: ZZBrowse
+    URL: "https://zzbrowse.legumeinfo.org/?tab=WhGen&datasets=Peanut%20GWAS&chr=Arahy.01&selected=100000&window=250000&datasets2=Soybean%20GWAS&chr2=Gm01&selected2=100000&window2=250000"
+    description: "Association viewers (QTL, GWAS)"
+  - name: GCViT
+    URL: "https://soybase.org/gcvit"
+    description: "Genotype comparison visualization tool "
+  - name: Genome Context Viewer
+    URL: "https://legumeinfo.org/gcv2/gene;lis=glyma.Glyma.15G255600?q=Glyma.15G255600&sources=lis&algorithm=repeat&match=10&mismatch=-1&gap=-1&score=30&threshold=25&bmatched=20&bintermediate=10&bmask=10&linkage=average&cthreshold=20&neighbors=10&matched=4&intermediate=5&bregexp=&border=chromosome&regexp=&order=distance"
+    description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
+  - name: Grin Data Explorer
+    URL: "https://soybase.org/grindata/"
+    description: "Tool to facilitate searches of GRIN Descriptor Data"
+
 strains:
   -
     identifier: Wm82
@@ -13,16 +30,40 @@ strains:
     name: Williams 82
     origin: Northern United States
     description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams."
+    resources:
+      - name: Soybase Genome Browser (GBrowse), assembly 2
+        URL: "https://soybase.org/gb2/gbrowse/gmax2.0"
+        description: "GBrowse for Wm82 assemblies 2.0"
+      - name: Soybase Genome Browser (GBrowse), assembly 1
+        URL: "https://soybase.org/gb2/gbrowse/gmax1.01"
+        description: "GBrowse for Wm82 assemblies 1.01"
+      - name: LIS SequenceServer
+        URL: "https://legumeinfo.org/sequenceserver/"
+        description: "SequenceServer BLAST against the Wm82 v2 assembly"
   -
     identifier: Zh13
     accession: GWHAAEV00000000.1 
     name: Zhonghuang 13
     origin: China
     description: "Zhonghuang 13 is a Chinese cultivar derived from accessions Yudou 18 and Zhongzuo 90052-76 by pedigree selection for high yield and stress tolerance (Shen et al., 2018; https://doi.org/10.1007/s11427-018-9360-0)."
+    resources:
+      - name: Soybase Genome Browser (GBrowse)
+        URL: "https://soybase.org/gb2/gbrowse/glyma.Zh13.gnm1"
+        description: "GBrowse for glycine max Zh13 genome assembly verson 1"
+      - name: LIS SequenceServer
+        URL: "https://legumeinfo.org/sequenceserver/"
+        description: "SequenceServer BLAST against the glycine max Zh13 assembly"
   -
     identifier: Lee
     accession: PI 548656
     name: Lee
     origin: Southern United States
     description: "Cultivar Lee, which derives from a cross of Chinese lines CNS and S-100, has been widely used as a parent in many breeding projects in the Southern U.S. and in Brazil (Wysmierski and Vello, 2013; http://doi.org/10.1590/S1415-47572013005000041). The variety is notable for resistance to Phytophthora rot, Peanut Mottle Virus, and bacterial pustule (Wysmierski and Vello, 2013)."
+    resources:
+      - name: Soybase Genome Browser (GBrowse)
+        URL: "https://soybase.org/gb2/gbrowse/glyma.Lee.gnm1"
+        description: "GBrowse for glycine max Lee genome assembly verson 1"
+      - name: LIS SequenceServer
+        URL: "https://legumeinfo.org/sequenceserver/"
+        description: "SequenceServer BLAST against the glycine max Lee assembly"
 
