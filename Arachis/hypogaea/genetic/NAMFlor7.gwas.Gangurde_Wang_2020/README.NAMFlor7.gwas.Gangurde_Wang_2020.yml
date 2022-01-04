@@ -1,41 +1,21 @@
 identifier: NAMFlor7.gwas.Gangurde_Wang_2020
   
-provenance: 
-
-source: 
-
 synopsis: "Gangurde, Wang, et al. (2020) GWAS study of pod and seed weight on the NAM Florida-7 mapping population"
-
-related_to: 
 
 scientific_name: Arachis hypogaea
 
 taxid: 3818
 
-bioproject: 
-
-scientific_name_abbrev: Arahy
+scientific_name_abbrev: arahy
 
 genotype:
   - Florida-07 NAM population
 
 description: "A GWAS dataset from Gangurde et al. (2020) NAM Florida-7 mapping population. Nested-association mapping (NAM)-based genetic dissection uncovers candidate genes for seed and pod weights in peanut (Arachis hypogaea). Two nested association mapping (NAM) populations, NAM_Tifrunner and NAM_Florida-07, were used in the study for dissecting genetic control of 100-pod weight (PW) and 100-seed weight (SW) traits in peanut. This GWAS dataset is from the Florida-7 mapping population. The study demonstrates the utility of NAM population for genetic dissection of complex traits and performing high-resolution trait mapping in peanut. (Data from Supplementary Table S5: Summary significantly associated SNPs identified for pod weight (PW) and seed weight (SW)in NAM_Florida‐07 population with details of annotation of each gene corresponding to the SNPs and their biological role.)"
 
-dataset_doi: 
-
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 
-
 publication_doi: 10.1111/pbi.13311
 
-dataset_release_date:  
-
 publication_title: "Nested-association mapping (NAM)-based genetic dissection uncovers candidate genes for seed and pod weights in peanut (Arachis hypogaea)"
-
-contributors: 
 
 data_curators: Steven Cannon, Sam Hokin
 
@@ -45,7 +25,7 @@ license: Open
 
 keywords: GWAS, peanut, pod weight, seed weight
 
-citations: "Gangurde, S. S. et al. Nested-association mapping (NAM)-based genetic dissection uncovers candidate genes for seed and pod weights in peanut (Arachis hypogaea). Plant Biotechnol. J. 18, 1457–1471 (2020)"
+citation: "Gangurde, S. S. et al. Nested-association mapping (NAM)-based genetic dissection uncovers candidate genes for seed and pod weights in peanut (Arachis hypogaea). Plant Biotechnol. J. 18, 1457–1471 (2020)"
 
 genotyping_platform: Axiom_Arachis_58K_SNP
 

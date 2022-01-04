@@ -2,17 +2,11 @@ identifier: VG9514_x_TAG24.gen.Mondal_Hadapad_2014
 
 provenance: Extracted from image in publication. 
 
-source: 
-
 synopsis: Genetic map derived from a cross of A. hypogaea cultivars VG 9514 and TAG 24.
-
-related_to: 
 
 scientific_name: Arachis hypogaea
 
 taxid: 3818
-
-bioproject: 
 
 scientific_name_abbrev: arahy
 
@@ -21,17 +15,13 @@ genotype:
 
 description: SSR and TE based genetic map developed from a population of F8 RILs resulting from crossing the A. hypogaea cultivars VG 9514 and TAG 24.
 
-dataset_doi: 
+original_file_creation_date: "2014-04-01"
 
-genbank_accession: 
-
-original_file_creation_date: 2014-04-1
-
-local_file_creation_date: 2015-03-27
+local_file_creation_date: "2015-03-27"
 
 publication_doi: 10.1007/s11032-013-0011-1
 
-dataset_release_date: 2018-10-26
+dataset_release_date: "2018-10-26"
 
 publication_title: Identification of quantitative trait loci for bruchid (Caryedon serratus Olivier) resistance components in cultivated groundnut (Arachis hypogaea L.)
 
@@ -45,4 +35,4 @@ license: open
 
 keywords: Arachis hypogaea L., Bruchid resistance, Linkage map, QTL mapping, Recombinant inbred line
 
-citations: Suvendu Mondal, Ashok B. Hadapad, Poonam A. Hande, Anand M. Badigannavar. Identification of quantitative trait loci for bruchid (Caryedon serratus Olivier) resistance components in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding vol. 33, issue 4, pp 961-973 (2014).
+citation: Suvendu Mondal, Ashok B. Hadapad, Poonam A. Hande, Anand M. Badigannavar. Identification of quantitative trait loci for bruchid (Caryedon serratus Olivier) resistance components in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding vol. 33, issue 4, pp 961-973 (2014).

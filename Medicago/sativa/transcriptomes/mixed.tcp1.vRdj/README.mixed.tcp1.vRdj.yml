@@ -1,5 +1,5 @@
 ---
-identifier: vRdj
+identifier: mixed.tcp1.vRdj
 
 provenance: "The original repository was http://medsa.comparative-legumes.org/, which has been replaced by this repository at http://legumeinfo.org/data/Medicago_sativa/"
 
@@ -11,29 +11,22 @@ scientific_name: Medicago sativa
 
 taxid: 3879
 
-bioproject:
-
 scientific_name_abbrev: medsa
 
-genotype: consensus of 27 accessions
+genotype:
+  - consensus of 27 accessions
 
 description: "The transcriptomes of 27 alfalfa genotypes, including elite breeding genotypes, parents of mapping populations, and unimproved wild genotypes, were sequenced using an Illumina Genome Analyzer IIx. De novo assembly of quality-filtered 72-bp reads generated 25,183 contigs with a total length of 26.8 Mbp and an average length of 1,065 bp, with an average read depth of 55.9-fold for each genotype. (Li, Acharya et al., 2012; DOI: 10.1186/1471-2164-13-568)"
 
-dataset_doi:
+original_file_creation_date: "2012-02-01"
 
-genbank_accession:
-
-original_file_creation_date: 2012-02
-
-local_file_creation_date: 2016-12
+local_file_creation_date: "2016-12-01"
 
 publication_doi: 10.1186/1471-2164-13-568
 
-dataset_release_date: 2016-12
+dataset_release_date: "2016-12-01"
 
 publication_title: "Prevalence of single nucleotide polymorphism among 27 diverse alfalfa genotypes as assessed by transcriptome sequencing"
-
-contributors: "see publication authors"
 
 data_curators: Jacqueline Campbell, Steven Cannon
 
@@ -43,5 +36,4 @@ license: open
 
 keywords: alfalfa, Medicago sativa, transcriptome assembly
 
-citations: "Li, X., Acharya, A., Farmer, A. D., Crow, J. A., Bharti, A. K., Kramer, R. S., Wei, Y., Han, Y., Gou, J., May, G. D., Monteros, M. J., Brummer, E. C. (2012) Prevalence of single nucleotide polymorphism among 27 diverse alfalfa genotypes as assessed by transcriptome sequencing. BMC Genomics 201213:568."
-
+citation: "Li, X., Acharya, A., Farmer, A. D., Crow, J. A., Bharti, A. K., Kramer, R. S., Wei, Y., Han, Y., Gou, J., May, G. D., Monteros, M. J., Brummer, E. C. (2012) Prevalence of single nucleotide polymorphism among 27 diverse alfalfa genotypes as assessed by transcriptome sequencing. BMC Genomics 201213:568."
