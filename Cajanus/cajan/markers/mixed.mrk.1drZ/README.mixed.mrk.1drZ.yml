@@ -1,35 +1,30 @@
 ---
-identifier: 1drZ
+identifier: mixed.mrk.1drZ
 
 provenance: "Data in this directory derives from a project from the publication by Kudapa et al., 2012(see citation field). The data was originally made available at http://cajca.comparative-legumes.org/#reference_data - a precursor to the legumeinfo.org/data repository."
 
 source: "http://cajca.comparative-legumes.org/#reference_data"
 
-synopsis: Intron-spanning primers, derived from transcriptome assembly described in Kudapa et al. 2012
+synopsis: "Intron-spanning primers, derived from transcriptome assembly described in Kudapa et al. 2012"
 
 scientific_name: Cajanus cajan
 
 taxid: 3821
 
-bioproject:
+scientific_name_abbrev: cajca
 
-scientific_name_abbrev: Cajca
-
-genotype: multiple
+genotype:
+  - multiple genotypes
 
 description: "Intron-spanning primers, developed from transcriptome assembly described in Kudapa et al. 2012"
 
-dataset_doi:
+original_file_creation_date: "2012-01-11"
 
-genbank_accession:
-
-original_file_creation_date: 2012-01-11
-
-local_file_creation_date: 2016-12-30
+local_file_creation_date: "2016-12-30"
 
 publication_doi: 10.1093/mp/ssr111
 
-dataset_release_date: 2012-01-11
+dataset_release_date: "2012-01-11"
 
 publication_title: "A Comprehensive Transcriptome Assembly of Pigeonpea (Cajanus cajan L.) using Sanger and Second-Generation Sequencing Platforms"
 
@@ -43,5 +38,4 @@ license: open
 
 keywords: Cajanus cajan, pigeonpea, intron-spanning primers
 
-citations: "Kudapa, H., Bharti, A. K., Cannon, S. B., Farmer, A. D., Mulaosmanovic, B., Kramer, R., Bohra, A., Weeks, N.G., Crow, J.A., Tuteja, R., Shah, T., Dutta, S., Gupta, D.K., Singh, A., Gaikwad, K., Sharma, T.R., Singh, N.K., Varshney, R. K. (2012). A Comprehensive Transcriptome Assembly of Pigeonpea (Cajanus cajan L.) using Sanger and Second-Generation Sequencing Platforms. Molecular Plant, 5(5), 1020-1028. http://doi.org/10.1093/mp/ssr111"
-
+citation: "Kudapa, H., Bharti, A. K., Cannon, S. B., Farmer, A. D., Mulaosmanovic, B., Kramer, R., Bohra, A., Weeks, N.G., Crow, J.A., Tuteja, R., Shah, T., Dutta, S., Gupta, D.K., Singh, A., Gaikwad, K., Sharma, T.R., Singh, N.K., Varshney, R. K. (2012). A Comprehensive Transcriptome Assembly of Pigeonpea (Cajanus cajan L.) using Sanger and Second-Generation Sequencing Platforms. Molecular Plant, 5(5), 1020-1028."
