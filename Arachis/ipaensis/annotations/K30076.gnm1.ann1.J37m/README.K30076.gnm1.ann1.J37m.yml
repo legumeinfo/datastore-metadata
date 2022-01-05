@@ -2,7 +2,7 @@ identifier: K30076.gnm1.ann1.J37m
 
 provenance: "The files in this directory originated from http://peanutbase.org. There is also a corresponding genome assembly at GenBank - but that assembly is organized as scaffold sequences rather than as pseudomolecule assemblies, so for the purposes of loading genome browsers, gene families, etc., we instead use the pseudomolecule assemblies and corresponding pseudomolecule-derived annotation files from PeanutBase. The PeanutBase repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under 'Transformations' where applicable), then please also cite the respective database project(s) related to this directory."
 
-source: peanutbase.org
+source: "https://peanutbase.org/"
 
 synopsis: genome annotations for Arachis ipaensis K30076.gnm1.ann1
 
@@ -25,17 +25,17 @@ dataset_doi:
 
 genbank_accession: GCA_000816755.2
 
-original_file_creation_date: 2014-03-15
+original_file_creation_date: "2014-03-15"
 
-local_file_creation_date: 2017-2-01
+local_file_creation_date: "2017-02-01"
 
 publication_doi: 10.1038/ng.3517
 
-dataset_release_date: 2014-03-15
+dataset_release_date: "2014-03-15"
 
 publication_title: "The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut"
 
-contributors: David John Bertioli, Steven B Cannon, Lutz Froenicke, Guodong Huang, Andrew D Farmer, Ethalinda K S Cannon, Xin Liu, Dongying Gao, Josh Clevenger, Sudhansu Dash, Longhui Ren, Marcio C Moretzsohn, Kenta Shirasawa, Wei Huang, Bruna Vidigal, Brian Abernathy, Ye Chu, Chad E Niederhuth, Pooja Umale, Ana Claudia G Araujo, Alexander Kozik, Kyung Do Kim, Mark D Burow, Rajeev K Varshney, Xingjun Wang, Xinyou Zhang, Noelle Barkley, Patricia M Guimaraes, Sachiko Isobe, Baozhu Guo, Boshou Liao, H Thomas Stalker, Robert J Schmitz, Brian E Scheffler, Soraya C M Leal-Bertioli, Xu Xun, Scott A Jackson, Richard Michelmore, Peggy Ozias-Akins
+contributors: "David John Bertioli, Steven B Cannon, Lutz Froenicke, Guodong Huang, Andrew D Farmer, Ethalinda K S Cannon, Xin Liu, Dongying Gao, Josh Clevenger, Sudhansu Dash, Longhui Ren, Marcio C Moretzsohn, Kenta Shirasawa, Wei Huang, Bruna Vidigal, Brian Abernathy, Ye Chu, Chad E Niederhuth, Pooja Umale, Ana Claudia G Araujo, Alexander Kozik, Kyung Do Kim, Mark D Burow, Rajeev K Varshney, Xingjun Wang, Xinyou Zhang, Noelle Barkley, Patricia M Guimaraes, Sachiko Isobe, Baozhu Guo, Boshou Liao, H Thomas Stalker, Robert J Schmitz, Brian E Scheffler, Soraya C M Leal-Bertioli, Xu Xun, Scott A Jackson, Richard Michelmore, Peggy Ozias-Akins"
 
 data_curators: Steven Cannon
 
@@ -45,4 +45,4 @@ license: Open access. See http://peanutbase.org/data_usage_agree_aradu
 
 keywords: Arachis ipaensis, genome assembly
 
-citations: "Bertioli DJ, Cannon SB, Froenicke L, Huang G, Farmer AD, Cannon EK, Liu X, Gao D, Clevenger J, Dash S, Ren L, Moretzsohn MC, Shirasawa K, Huang W, Vidigal B, Abernathy B, Chu Y, Niederhuth CE, Umale P, Araújo AC, Kozik A, Do Kim K, Burow MD, Varshney RK, Wang X, Zhang X, Barkley N, Guimarães PM, Isobe S, Guo B, Liao B, Stalker HT, Schmitz RJ, Scheffler BE, Leal-Bertioli SC, Xun X, Jackson SA, Michelmore R, Ozias-Akins P. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nature Genetics 48:438-446 (2016). doi: 10.1038/ng.3517. PubMed PMID: 26901068"
+citation: "Bertioli DJ, Cannon SB, Froenicke L, Huang G, Farmer AD, Cannon EK, Liu X, Gao D, Clevenger J, Dash S, Ren L, Moretzsohn MC, Shirasawa K, Huang W, Vidigal B, Abernathy B, Chu Y, Niederhuth CE, Umale P, Araújo AC, Kozik A, Do Kim K, Burow MD, Varshney RK, Wang X, Zhang X, Barkley N, Guimarães PM, Isobe S, Guo B, Liao B, Stalker HT, Schmitz RJ, Scheffler BE, Leal-Bertioli SC, Xun X, Jackson SA, Michelmore R, Ozias-Akins P. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nature Genetics 48:438-446 (2016)."

@@ -1,8 +1,8 @@
 identifier: K30076.gnm1.bXJ8
 
-provenance: The files in this directory originated from http://peanutbase.org. There is also a corresponding genome assembly at GenBank, accession GCF_000816755.2. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+provenance: "The files in this directory originated from http://peanutbase.org. There is also a corresponding genome assembly at GenBank, accession GCF_000816755.2. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
-source: http://peanutbase.org
+source: "http://peanutbase.org/"
 
 synopsis: Genome assembly 1 for Arachis ipaensis, accession K30076.
 
@@ -16,21 +16,20 @@ bioproject: PRJNA258025
 
 scientific_name_abbrev: araip
 
-genotype: K30076
+genotype:
+  - K30076
 
 description: "Genome assembly 1 for Arachis ipaensis, accession K30076. Files in this directory include the scaffold assemblies for Arachis ipaensis, and the pseudomolecule assemblies, for the genome."
 
-dataset_doi:
-
 genbank_accession: GCA_000816755.2
 
-original_file_creation_date: 2019-08-01
+original_file_creation_date: "2019-08-01"
 
-local_file_creation_date: 2019-11-01
+local_file_creation_date: "2019-11-01"
 
-publication_doi: "10.1038/ng.3517"
+publication_doi: 10.1038/ng.3517
 
-dataset_release_date: 03-2014
+dataset_release_date: "2014-03-01"
 
 publication_title: "The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut."
 
@@ -44,5 +43,4 @@ license: Open
 
 keywords: Arachis core collection, peanut, core collection
 
-citations: "Bertioli, D., Cannon, S., Froenicke, L. et al. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nat Genet 48, 438–446 (2016). https://doi.org/10.1038/ng.3517"
-
+citation: "Bertioli, D., Cannon, S., Froenicke, L. et al. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nat Genet 48, 438–446 (2016)."
