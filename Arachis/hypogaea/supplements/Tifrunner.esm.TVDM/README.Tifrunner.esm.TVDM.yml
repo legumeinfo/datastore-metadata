@@ -1,11 +1,11 @@
 ---
-identifier: TVDM
+identifier: Tifrunner.esm.TVDM
 
 provenance: "The files in this directory are considered the primary instances. The files here are held as part of the Legume Federation and associated projects, e.g. PeanutBase, LegumeInfo, etc. There is also an instance of the data at CyVerse, with DOI: doi.org/10.25739/hb5x-wx74"
 
 source: "https://peanutbase.org/data/public/Arachis_hypogaea"
 
-synopsis: Electronic supplementary material for the paper "The genome sequence of segmental allotetraploid peanut Arachis hypogaea", Bertioli et al., 2019.
+synopsis: "Electronic supplementary material for the paper 'The genome sequence of segmental allotetraploid peanut Arachis hypogaea', Bertioli et al., 2019."
 
 scientific_name: Arachis hypogaea
 
@@ -15,21 +15,18 @@ bioproject: PRJNA419393
 
 scientific_name_abbrev: arahy
 
-genotype: Tifrunner
+genotype:
+  - Tifrunner
 
 description: "Files in this directory are the electronic supplementary materials for Bertioli et al. (2019) The genome sequence of segmental allotetraploid peanut Arachis hypogaea. Nature Genetics."
 
 dataset_doi: 10.25739/hb5x-wx74
 
-genbank_accession:
+original_file_creation_date: "2019-03-01"
 
-original_file_creation_date: 2019-03
+local_file_creation_date: "2019-03-01"
 
-local_file_creation_date: 2019-03
-
-publication_doi: not yet assigned 
-
-dataset_release_date: 2019-03-25
+dataset_release_date: "2019-03-25"
 
 publication_title: "The genome sequence of segmental allotetraploid peanut Arachis hypogaea"
 
@@ -42,6 +39,3 @@ public_access_level: public
 license: open
 
 keywords: Arachis hypogaea, tetraploidy, homeologous recombination
-
-citations:
-
