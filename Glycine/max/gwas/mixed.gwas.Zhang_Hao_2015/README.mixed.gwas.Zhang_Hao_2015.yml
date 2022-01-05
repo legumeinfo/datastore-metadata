@@ -1,8 +1,12 @@
 ---
-Identifier:	KGK20170707.1
-Name:	Zhang, Hao et al. 2015
-Synopsis:	GWAS study of architecture and yield-related traits in soybean, conducted on 219 accessions, genotyped using the 1536-SNP USLP1 array.
-PlatformName:	GoldenGate
-PlatformDetails:	Illumina 1536_USLP1 SNPs 
-DOI:	10.1111/pbr.12305
+identifier: mixed.gwas.Zhang_Hao_2015
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: Zhang, Hao et al. 2015
+synopsis: GWAS study of architecture and yield-related traits in soybean, conducted on 219 accessions, genotyped using the 1536-SNP USLP1 array.
+description: GWAS study of architecture and yield-related traits in soybean, conducted on 219 accessions, genotyped using the 1536-SNP USLP1 array.
+genotyping_platform: GoldenGate
+genotyping_method: Illumina 1536_USLP1 SNPs 
+publication_doi: 10.1111/pbr.12305
 

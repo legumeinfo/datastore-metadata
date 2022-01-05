@@ -1,8 +1,12 @@
 ---
-Identifier:	LBC20180516.3
-Name:	Bao, Kurle et al. 2015
-Synopsis:	GWAS of soybean sudden death syndrome (SDS), based on 282 breeding lines, genotyped with a 1536-SNP chip.
-PlatformName:	1536_USLP1
-PlatformDetails:	Illumina GoldenGate
-DOI:	10.1007/s11032-015-0324-3
+identifier: mixed.gwas.Bao_Kurle_2015
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: "Bao, Kurle et al. (2015)"
+synopsis: "GWAS of soybean sudden death syndrome (SDS), based on 282 breeding lines, genotyped with a 1536-SNP chip."
+description: "GWAS of soybean sudden death syndrome (SDS), based on 282 breeding lines, genotyped with a 1536-SNP chip."
+genotyping_platform: 1536_USLP1
+genotyping_method: Illumina GoldenGate
+publication_doi: 10.1007/s11032-015-0324-3
 

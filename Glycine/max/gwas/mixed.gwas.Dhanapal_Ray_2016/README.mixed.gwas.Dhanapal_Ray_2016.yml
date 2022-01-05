@@ -1,11 +1,13 @@
 ---
-Identifier:	LBC20180516.1
-Name:	Dhanapal, Ray et al., 2016
-Synopsis:	GWAS of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts.
-Description:	Genome-wide association mapping of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts, phenotyped in 332 diverse soybean genotypes. Chlorophyll a, chlorophyll b, and total chlorophyll content were assessed, as well as the chlorophyll a/b ratio.
-PlatformName:	SoySNP50K
-PlatformDetails:	SNP50k iSelect SNP Beadchip
-CurationNotes:	Curated by Laura Climer, 2018-05-16; by Steven Cannon, 2021-01-02
-DOI:	10.1186/s12870-016-0861-x
-PMID:	27488358
+identifier: mixed.gwas.Dhanapal_Ray_2016
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: "Dhanapal, Ray et al. (2016)"
+synopsis: GWAS soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts.
+description: "Genome-wide association mapping of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts, phenotyped in 332 diverse soybean genotypes. Chlorophyll a, chlorophyll b, and total chlorophyll content were assessed, as well as the chlorophyll a/b ratio."
+genotyping_platform: SoySNP50K
+genotyping_method: SNP50k iSelect SNP Beadchip
+publication_doi: 10.1186/s12870-016-0861-x
+
 

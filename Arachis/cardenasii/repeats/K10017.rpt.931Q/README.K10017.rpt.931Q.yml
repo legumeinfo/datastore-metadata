@@ -1,9 +1,7 @@
 ---
-key_name: 931Q
+identifier: K10017.rpt.931Q
 
 provenance: "This repository is considered the primary source for these files. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. Please also see the associated usage_policy.txt."
-
-source: "https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation."
 
 synopsis: Genomic repetitive elements for Arachis cardenasii. Provided by Dongying Gao and David Bertioli.
 
@@ -15,23 +13,16 @@ bioproject: PRJNA673010
 
 scientific_name_abbrev: araca
 
-genotype: K10017
+genotype:
+  - K10017
 
-description: "mixed repeats from A. cardenasii. Contributed by Dongying Gao and David Bertioli, mid-2020"
+description: "Mixed repeats from A. cardenasii. Contributed by Dongying Gao and David Bertioli, mid-2020."
 
-dataset_doi:
+original_file_creation_date: "2020-07-01"
 
-genbank_accession:
+local_file_creation_date: "2020-12-01"
 
-original_file_creation_date: 2020-07
-
-local_file_creation_date: 2020-12
-
-publication_doi:
-
-dataset_release_date: 2021-01
-
-publication_title:
+dataset_release_date: "2021-01-01"
 
 contributors: "Dongying Gao, David Bertioli, Soraya Bertioli, Brian Scheffler"
 
@@ -42,6 +33,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: peanut, Archis, repetitive elements
-
-citations:
-

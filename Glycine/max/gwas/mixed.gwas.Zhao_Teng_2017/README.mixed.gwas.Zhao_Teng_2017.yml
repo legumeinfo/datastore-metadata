@@ -1,8 +1,12 @@
 ---
-Identifier:	LBC20180521.1
-Name:	Zhao, Teng et al. 2017
-Synopsis:	GWAS study of resistance to soybean cyst nematode (SCN), conducted on 200 soybean accessions, genotyped using a custom 33,194 SNP set.
-PlatformName:	SLAFseq
-PlatformDetails:	SLAF-seq: Specific Locus Amplified Fragment Sequencing
-DOI:	10.1186/s12864-017-3843-y
+identifier: mixed.gwas.Zhao_Teng_2017
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: Zhao, Teng et al. 2017
+synopsis: GWAS study of resistance to soybean cyst nematode (SCN), conducted on 200 soybean accessions, genotyped using a custom 33,194 SNP set.
+description: GWAS study of resistance to soybean cyst nematode (SCN), conducted on 200 soybean accessions, genotyped using a custom 33,194 SNP set.
+genotyping_platform: SLAFseq
+genotyping_method: "SLAF-seq: Specific Locus Amplified Fragment Sequencing"
+publication_doi: 10.1186/s12864-017-3843-y
 

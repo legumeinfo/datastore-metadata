@@ -1,6 +1,5 @@
 ---
-
-identifier: T8TQ
+identifier: Wm82.gnm4.ann1.T8TQ
 
 provenance: "The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
@@ -16,23 +15,14 @@ bioproject:
 
 scientific_name_abbrev: glyma
 
-genotype: Williams 82
+genotype:
+  - Williams 82
 
 description: "Genome annotations for the Glycine max Williams 82 v4 genome assembly"
 
-dataset_doi:
+original_file_creation_date: "2018-07-01"
 
-genbank_accession:
-
-original_file_creation_date: 2018-07
-
-local_file_creation_date: 2018-07
-
-publication_doi:
-
-dataset_release_date:
-
-publication_title:
+local_file_creation_date: "2018-07-01"
 
 contributors: "Philipp Bayer, Jacqueline Campbell, Steven Cannon, Ting-Fung Chan, Dave Edwards, David Goodstein, Jane Grimwood, Jerry Jenkins, Hon Ming Lam, Henry Nguyen, Jeremy Schmutz, Shengqiang Shu, Qijian Song, Gary Stacey, Robert Stupar, Babu Valliyodan"
 
@@ -43,6 +33,3 @@ public_access_level: public
 license: open, with usage agreement
 
 keywords: soybean
-
-citations: "[initial, provisional citation, pre-publication:] Glycine max cv Willimas 82, assembly version 4, Hudson-Alpha Institute and JGI"
-

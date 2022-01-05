@@ -1,7 +1,5 @@
 ---
-identifier: 9G9T 
-
-provenance: "Downloaded from paper"
+identifier: TT_AhComposite_SujayGowda2012.map.9G9T
 
 source: "https://static-content.springer.com/esm/art%3A10.1007%2Fs11032-011-9661-z/MediaObjects/11032_2011_9661_MOESM8_ESM.xls"
 
@@ -11,25 +9,22 @@ scientific_name: Arachis hypogaea
 
 taxid: 3818
 
-bioproject:
-
 scientific_name_abbrev: arahy
 
 genotype:
+  - two RIL populations
+  - TT_TAG24_x_GPBD4_a
+  - TT_TG26_x_GPBD4_a
 
 description: "A consensus genetic map for cultivated groundnut derived from maps for two recombinant inbred line (RIL) populations, maps TT_TAG24_x_GPBD4_a and TT_TG26_x_GPBD4_a."
 
-dataset_doi: 
+original_file_creation_date: "2012-08-01"
 
-genbank_accession:
+local_file_creation_date: "2015-06-05"
 
-original_file_creation_date: 2012-08-01
+publication_doi: 10.1007/s11032-011-9661-z 
 
-local_file_creation_date: 2015-06-05
-
-publication_doi: https://doi.org/10.1007/s11032-011-9661-z 
-
-dataset_release_date: 2018-10-26
+dataset_release_date: "2018-10-26"
 
 publication_title: "Quantitative trait locus analysis and construction of consensus genetic map for foliar disease resistance based on two recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.)"
 
@@ -43,5 +38,4 @@ license: open
 
 keywords: Genetic linkage map, Rust resistance, Late leaf spot resistance, Molecular breeding, Molecular markers
 
-citations: "V. Sujay, M.V.C. Gowda, M.K. Pandey, R.S. Bhat, Y.P. Khedikar, H. L. Nadaf, B. Gautami, C. Sarvamangala, S. Lingaraju, T. Radhakrishan, S.J. Knapp, R.K. Varshney. Quantitative trait locus analysis and construction of consensus genetic map for foliar disease resistance based on two recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding, vol. 30, issue 2, pp 773-788 (2012)"
-
+citation: "V. Sujay, M.V.C. Gowda, M.K. Pandey, R.S. Bhat, Y.P. Khedikar, H. L. Nadaf, B. Gautami, C. Sarvamangala, S. Lingaraju, T. Radhakrishan, S.J. Knapp, R.K. Varshney. Quantitative trait locus analysis and construction of consensus genetic map for foliar disease resistance based on two recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding, vol. 30, issue 2, pp 773-788 (2012)"

@@ -1,9 +1,11 @@
 ---
-Identifier:	LBC20180521.5
-Name:	Moellers, Singh, et al. 2017
-Synopsis:	GWAS study of Sclerotinia stem rot (SSR) in soybean, conducted on 466 accessions, genotyped with the SoySNP50K BeadChip.
-PlatformName:	SoySNP50K
-PlatformDetails:	Illumina Infinium SoySNP50K BeadChip
-Description:	GWAS and GWES studies along with expression studies in soybean were leveraged to dissect the genetics of Sclerotinia stem rot (SSR), a significant fungal disease causing yield and quality losses. A large association panel of 466 diverse plant introduction accessions were phenotyped in multiple field and controlled environments to: (1) discover sources of resistance, (2) identify SNPs associated with resistance, and (3) determine putative candidate genes to elucidate the mode of resistance.
-DOI:	10.1038/s41598-017-03695-9
-
+identifier: mixed.gwas.Moellers_Singh_2017
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: Moellers, Singh, et al. (2017)
+synopsis: "GWAS study of Sclerotinia stem rot (SSR) in soybean, conducted on 466 accessions, genotyped with the SoySNP50K BeadChip."
+genotyping_platform: SoySNP50K
+genotyping_method: Illumina Infinium SoySNP50K BeadChip
+description: "GWAS and GWES studies along with expression studies in soybean were leveraged to dissect the genetics of Sclerotinia stem rot (SSR), a significant fungal disease causing yield and quality losses. A large association panel of 466 diverse plant introduction accessions were phenotyped in multiple field and controlled environments to: (1) discover sources of resistance, (2) identify SNPs associated with resistance, and (3) determine putative candidate genes to elucidate the mode of resistance."
+publication_doi: 10.1038/s41598-017-03695-9

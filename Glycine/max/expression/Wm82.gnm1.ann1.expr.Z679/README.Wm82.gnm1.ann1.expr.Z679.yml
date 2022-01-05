@@ -1,11 +1,11 @@
 ---
-identifier: Z679 
+identifier: Wm82.gnm1.ann1.expr.Z679
 
 provenance: "The files in this directory derive from supplementary data from Van Wyk et al. 2014, Cysteine protease and cystatin expression and activity during soybean nodule developemnt and senescence. BMC Plant Biol 14, 294 (2014). The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
 source:  
 
-synopsis: Cystatin expression during 3 root nodule development stages : vegetative, reproductive and senescence(Van Wyk et. al. 2014). Corresponds with glyma1 expression browser at https://soybase.org/gb2/gbrowse/gmax1.01/?label=prima_2000 
+synopsis: "Cystatin expression during 3 root nodule development stages : vegetative, reproductive and senescence (Van Wyk et. al. 2014)."
 
 scientific_name: Glycine max
 
@@ -15,26 +15,22 @@ bioproject: PRJNA261105
 
 scientific_name_abbrev: glyma
 
-genotype: William82 
+genotype:
+  - Williams 82 
 
 description: "Prima2000 root nodule expression (Van Wyk et al. 2014)."
 
-dataset_doi: 
+original_file_creation_date: "2014-01-01"
 
-genbank_accession: 
-
-original_file_creation_date: 2014
-
-local_file_creation_date: 2021
+local_file_creation_date: "2021-01-01"
 
 publication_doi: doi:10.1186/s12870-014-0294-3
 
-dataset_release_date: 2021
+dataset_release_date: "2021-01-01"
 
-publication_title: 
-  - Cysteine protease and cystatin expression and activit during soybean nodule developmenti and senescence.  
+publication_title: "Cysteine protease and cystatin expression and activit during soybean nodule developmenti and senescence."
 
-contributors: Stefan George van Wyk, Magdeleen Du Plessis, Christoper Ashley Cullis, Karl Josef Kunert & Barend Juan Vorster 
+contributors: "Stefan George van Wyk, Magdeleen Du Plessis, Christoper Ashley Cullis, Karl Josef Kunert & Barend Juan Vorster"
 
 data_curators: Rex Nelson, Wei Huang
 
@@ -44,6 +40,4 @@ license: open
 
 keywords: soybean, root nodule expression 
 
-citations: 
-  - Van Wyk et al., Cysteine protease and cystatin expression and activity during soybean nodule development and senescence., BMC Plant Biol, Nov 14;294 
-
+citation: "Van Wyk et al., Cysteine protease and cystatin expression and activity during soybean nodule development and senescence., BMC Plant Biol, Nov 14;294"

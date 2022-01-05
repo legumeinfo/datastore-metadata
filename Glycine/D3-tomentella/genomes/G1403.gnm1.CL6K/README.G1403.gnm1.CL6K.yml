@@ -1,35 +1,30 @@
 ---
-identifier: CL6K
+identifier: G1403.gnm1.CL6K
 
 provenance: "The files in this directory originated from GenBank under accession number PRJNA503746. The GenBank record is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the projects listed above. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
 source: "https://www.ncbi.nlm.nih.gov/bioproject/?term=prjna503746"
 
-synopsis: "Genome assemblies for Glycine tomentella D3, accession G1403, from Zhuang, Wang et al. (2021)"
+synopsis: "Genome assemblies for Glycine D3 tomentella, accession G1403, from Zhuang, Wang et al. (2021)"
 
-scientific_name: Glycine tomentella D3
+scientific_name: Glycine D3 tomentella
 
 taxid: 44015
 
 bioproject: PRJNA503746
 
-scientific_name_abbrev: glytoD3
+scientific_name_abbrev: glyd3
 
-genotype: G1403
+genotype:
+  - G1403
 
-description: "Files in this directory are genome assemblies for Glycine tomentella D3, accession G1403, from Zhuang, Wang et al. (2021): \"A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition.\" The D3 identifier in the name signifies an isozyme class for T. tomentella, marking this as a diploid species in a diploid/polyploid complex in the tomentella group. See Sherman-Broyles ... Doyle et al., 2014 (doi:10.3732/ajb.1400121)."
+description: "Files in this directory are genome assemblies for Glycine D3 tomentella, accession G1403, from Zhuang, Wang et al. (2021): \"A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition.\" The D3 identifier in the name signifies an isozyme class for G. tomentella, marking this as a diploid species in a diploid/polyploid complex in the tomentella group. See Sherman-Broyles ... Doyle et al., 2014 (doi:10.3732/ajb.1400121)."
 
-dataset_doi: 
+original_file_creation_date: "2021-05-27"
 
-genbank_accession:
+local_file_creation_date: "2020-08-09"
 
-original_file_creation_date: 2021-05-27
-
-local_file_creation_date: 2020-08-09
-
-publication_doi:  "10.21203/rs.3.rs-548382/v1"
-
-dataset_release_date: 
+publication_doi: 10.21203/rs.3.rs-548382/v1
 
 publication_title: "A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition"
 
@@ -43,5 +38,4 @@ license: open
 
 keywords: Glycine tomentella D3
 
-citations: "Yongbin Zhuang, Xutong Wang, Xianchong Li et al. A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition, 27 May 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-548382/v1]"
-
+citation: "Yongbin Zhuang, Xutong Wang, Xianchong Li et al. A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition, 27 May 2021, PREPRINT (Version 1) available at Research Square"

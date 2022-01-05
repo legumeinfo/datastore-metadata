@@ -1,5 +1,5 @@
 ---
-identifier: 96SR
+identifier: Lee.gnm1.pan.96SR
 
 provenance: "The files in this directory are the result of analyses by Philipp Bayer, Dave Edwards, Babu Valliyodan, Henry Nguyen, and colleagues. The primary repository is https://research-repository.uwa.edu.au/en/datasets/soybean-pangenome-snps-assembly-annotation-pav. The files are held in the SoyBase Data Store as a secondary instance of this data."
 
@@ -7,37 +7,25 @@ source: "https://soybase.org"
 
 synopsis: Genomic sequence and SNP variants present in 1110 accessions of Glycine max and Glycine soja but not present in the reference genome assembly of G. max Lee.
 
-scientific_name: 
-  - Glycine max
-  - Glycine soja
+scientific_name: Glycine max
 
-taxid: 
-  - 3847
-  - 3848
+taxid: 3847
 
-bioproject:
+scientific_name_abbrev: glyma 
 
-scientific_name_abbrev: 
-  - glyma
-  - glyso
-
-genotype: Multiple genotypes
+genotype:
+  - Lee
+  - multiple genotypes
 
 description: "Genomic sequence and SNP variants present in 1110 accessions of Glycine max and Glycine soja but not present in the reference genome assembly of G. max Lee."
 
 dataset_doi: 10.26182/5f34ac3377313
 
-genbank_accession:
+original_file_creation_date: "2020-06-01"
 
-original_file_creation_date: 2020-06
+local_file_creation_date: "2020-08-01"
 
-local_file_creation_date: 2020-08
-
-publication_doi:
-
-dataset_release_date: 2020-08
-
-publication_title:
+dataset_release_date: "2020-08-01"
 
 contributors: "Bayer, P., Hu, R., Valliyodan, B., Marsh, J., Yuan, A., Vuong, T., Patil, G., Song, Q., Batley, J., Varshney, R., Lam, H. M., Edwards, D., Nguyen, H."
 
@@ -49,5 +37,5 @@ license: CC
 
 keywords: soybean, pan-genome, Lee
 
-citations: "Bayer, P., Hu, R., Valliyodan, B., Marsh, J., Yuan, A., Vuong, T., Patil, G., Song, Q., Batley, J., Varshney, R., Lam, H. M., Edwards, D., Nguyen, H. Soybean pangenome SNPs, assembly, annotation, PAV. The University of Western Australia. DOI:10.26182/5f34ac3377313"
+citation: "Bayer, P., Hu, R., Valliyodan, B., Marsh, J., Yuan, A., Vuong, T., Patil, G., Song, Q., Batley, J., Varshney, R., Lam, H. M., Edwards, D., Nguyen, H. Soybean pangenome SNPs, assembly, annotation, PAV. The University of Western Australia. DOI:10.26182/5f34ac3377313"
 

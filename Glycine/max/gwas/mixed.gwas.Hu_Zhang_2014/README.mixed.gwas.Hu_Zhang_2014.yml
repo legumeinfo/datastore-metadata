@@ -1,8 +1,10 @@
 ---
-Identifier:	KGK20170803.1
-Name:	Hu, Zhang et al. 2014
-Synopsis:	GWAS of soybean yield-related traits, conducted on 113 wild soybean accessions, genotyped with 85 simple sequence repeat (SSR) markers.
-PlatformName:	various
-PlatformDetails:	Variety of satellite and other markers
-DOI:	10.1270/jsbbs.63.441
+identifier: mixed.gwas.Hu_Zhang_2014
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+citation: "Hu, Zhang et al. (2014)"
+synopsis: GWAS of soybean yield-related traits, conducted on 113 wild soybean accessions, genotyped with 85 simple sequence repeat (SSR) markers.
+description: GWAS of soybean yield-related traits, conducted on 113 wild soybean accessions, genotyped with 85 simple sequence repeat (SSR) markers.
+publication_doi: 10.1270/jsbbs.63.441
 

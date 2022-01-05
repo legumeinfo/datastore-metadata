@@ -12,8 +12,6 @@ scientific_name: Arachis hypogaea
 
 taxid: 3818
 
-bioproject: 
-
 scientific_name_abbrev: arahy
 
 genotype:
@@ -23,17 +21,13 @@ genotype:
 
 description: "With the aim of understanding the genetic basis and identification of QTLs for drought tolerance, two new RIL mapping populations, ICGS 76 x CSMG 84-1 (RIL-2), and ICGS 44 x ICGS 76 (RIL-3), were used. After screening of 3,215 simple sequence repeat (SSR) markers on the parental genotypes of these populations, two new genetic maps were developed with 119 (RIL-2) and 82 (RIL-3) SSR loci. Together with these maps and a previous reference map with 191 SSR loci based on TAG 24 x ICGV 86031 (RIL-1; Ravi et al. 2011), a consensus map was constructed with 293 SSR loci distributed over 20 linkage groups, spanning 2,840.8 cM."
 
-dataset_doi: 
+original_file_creation_date: "2012-07-01"
 
-genbank_accession: 
-
-original_file_creation_date: 2012-07-01
-
-local_file_creation_date: 2015_05_22
+local_file_creation_date: "2015-05-22"
 
 publication_doi: 10.1007/s11032-011-9660-0
 
-dataset_release_date: 2018-10-26
+dataset_release_date: "2018-10-26"
 
 publication_title: Quantitative trait locus analysis and construction of consensus genetic map for drought tolerance traits based on three recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.)
 
@@ -47,4 +41,4 @@ license: open
 
 keywords: Peanut, Drought tolerance, Consensus map, QTL analysis, Main-effect QTL, Epistatic QTL, Molecular breeding
 
-citations: "B. Gautami, M.K. Pandey, V. Vadez, S.N. Nigam, P. Ratnakumar, L. Krishnamurthy, T. Radhakrishnan, M.V.C. Gowda, M.L. Narasu, D.A. Hoisington, S.J. Knapp, R.K. Varshney. Quantitative trait locus analysis and construction of consensus genetic map for drought tolerance traits based on three recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding, vol 30, issue 2, pp 757-772 (2012)"
+citation: "B. Gautami, M.K. Pandey, V. Vadez, S.N. Nigam, P. Ratnakumar, L. Krishnamurthy, T. Radhakrishnan, M.V.C. Gowda, M.L. Narasu, D.A. Hoisington, S.J. Knapp, R.K. Varshney. Quantitative trait locus analysis and construction of consensus genetic map for drought tolerance traits based on three recombinant inbred line populations in cultivated groundnut (Arachis hypogaea L.). Molecular Breeding, vol 30, issue 2, pp 757-772 (2012)"

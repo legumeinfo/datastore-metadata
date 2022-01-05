@@ -1,11 +1,11 @@
 ---
-identifier: SVL1
+identifier: W05.gnm1.SVL1
 
 provenance: "The files in this directory originated from GenBank. The GenBank repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
 source: "https://www.ncbi.nlm.nih.gov/nuccore/QZWG00000000.1"
 
-synopsis: Genome assembly files for cultivar W05 from Xie ... Lam et al. (2019): "A reference-grade wild soybean genome"
+synopsis: "Genome assembly files for cultivar W05 from Xie, Lam et al. (2019): A reference-grade wild soybean genome"
 
 scientific_name: Glycine soja
 
@@ -15,21 +15,20 @@ bioproject: PRJNA486704
 
 scientific_name_abbrev: glyso
 
-genotype: W05
+genotype:
+  - W05
 
-description: "Genome assembly files for cultivar W05 from Xie ... Lam et al. (2019): A reference-grade wild soybean genome"
-
-dataset_doi: #DOI string
+description: "Genome assembly files for cultivar W05 from Xie, Lam et al. (2019): A reference-grade wild soybean genome"
 
 genbank_accession: GCA_004193775.2
 
-original_file_creation_date: 2019-02-21
+original_file_creation_date: "2019-02-21"
 
-local_file_creation_date: 2019-05-01
+local_file_creation_date: "2019-05-01"
 
 publication_doi: 10.1038/s41467-019-09142-9
 
-dataset_release_date: 2019-05-01
+dataset_release_date: "2019-05-01"
 
 publication_title: "A reference-grade wild soybean genome"
 
@@ -43,5 +42,4 @@ license: open
 
 keywords: Glycine soja, W05
 
-citations: "Xie M, Chung CY, Li MW, Wong FL, Wang X, Liu A, Wang Z, Leung AK, Wong TH, Tong SW, Xiao Z, Fan K, Ng MS, Qi X, Yang L, Deng T, He L, Chen L, Fu A, Ding Q, He J, Chung G, Isobe S, Tanabata T, Valliyodan B, Nguyen HT, Cannon SB, Foyer CH, Chan TF, Lam HM. A reference-grade wild soybean genome. Nat Commun. 2019 Mar 14;10(1):1216. doi: 10.1038/s41467-019-09142-9. PubMed PMID: 30872580; PubMed Central PMCID: PMC6418295."
-
+citation: "Xie M, Chung CY, Li MW, Wong FL, Wang X, Liu A, Wang Z, Leung AK, Wong TH, Tong SW, Xiao Z, Fan K, Ng MS, Qi X, Yang L, Deng T, He L, Chen L, Fu A, Ding Q, He J, Chung G, Isobe S, Tanabata T, Valliyodan B, Nguyen HT, Cannon SB, Foyer CH, Chan TF, Lam HM. A reference-grade wild soybean genome. Nat Commun. 2019 Mar 14;10(1):1216."

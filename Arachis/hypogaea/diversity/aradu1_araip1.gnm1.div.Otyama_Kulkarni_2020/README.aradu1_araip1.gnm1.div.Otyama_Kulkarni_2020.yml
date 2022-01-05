@@ -1,9 +1,7 @@
 ---
-identifier: Otyama_Kulkarni_2020
+identifier: aradu1_araip1.gnm1.div.Otyama_Kulkarni_2020
 
 provenance: "The files in this directory originated from http://peanutbase.org. A corresponding data set is available at https://data.nal.usda.gov/dataset/data-genotypic-characterization-us-peanut-core-collection. The PeanutBase repository is considered the primary repository and authoritative. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
-
-source: "http://peanutbase.org"
 
 synopsis: Diversity data for the U.S. peanut core collection, genotyped relative to the diploid A. duranensis and A. ipaensis genome assemblies.
 
@@ -16,20 +14,21 @@ bioproject:
 scientific_name_abbrev: arahy
 
 genotype:
+  - 812 accessions from the USDA peanut germplasm collection
 
 description: "The USDA peanut germplasm collection currently contains 8,982 accessions. In the 1990s, 812 accessions were selected as a core collection on the basis of phenotype and country of origin. The genotyping data in this collection span the entire available core collection. Each accession was genotyped with the Arachis_Axiom2 SNP array, yielding 14,430 high-quality, informative SNPs across the collection. Additionally, a subset of 253 accessions was replicated, using between two and five seeds per accession, to assess heterogeneity within these accessions. Variants were assigned genomic locations relative to the diploid progenitors of cultivated peanut: A. duranensis and A. ipaensis. Variants for selected additional accessions were added computationally, including A. duranensis and A. ipaensis."
 
+genotyping_platform: Axiom_Arachis2_SNP
+
 dataset_doi: 10.15482/USDA.ADC/1518508
 
-genbank_accession:
+original_file_creation_date: "2020-04-15"
 
-original_file_creation_date: 2020-04-15
-
-local_file_creation_date: 2020-04-15
+local_file_creation_date: "2020-04-15"
 
 publication_doi: 10.1534/g3.120.401306
 
-dataset_release_date: 2020-04-15
+dataset_release_date: "2020-04-15"
 
 publication_title: "Genotypic Characterization of the U.S. Peanut Core Collection"
 
@@ -43,5 +42,4 @@ license: Open access.
 
 keywords: peanut, Arachis, genotype, germplasm core, collection
 
-citations: "Otyama PI, Kulkarni R, Chamberlin K, Ozias-Akins P, Chu Y, Lincoln LM, MacDonald GE, Anglin NL, Dash S, Bertioli DJ, Fernández-Baca D, Graham MA, Cannon SB, Cannon EKS. Genotypic Characterization of the U.S. Peanut Core Collection. G3 (Bethesda). 2020 Nov 5;10(11):4013-4026. doi: 10.1534/g3.120.401306. PMID: 32887672; PMCID: PMC7642936."
-
+citation: "Otyama PI, Kulkarni R, Chamberlin K, Ozias-Akins P, Chu Y, Lincoln LM, MacDonald GE, Anglin NL, Dash S, Bertioli DJ, Fernández-Baca D, Graham MA, Cannon SB, Cannon EKS. Genotypic Characterization of the U.S. Peanut Core Collection. G3 (Bethesda). 2020 Nov 5;10(11):4013-4026. doi: 10.1534/g3.120.401306. PMID: 32887672; PMCID: PMC7642936."
