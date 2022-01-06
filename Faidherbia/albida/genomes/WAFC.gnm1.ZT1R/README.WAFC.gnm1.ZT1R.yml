@@ -16,7 +16,7 @@ bioproject: PRJNA453822
 scientific_name_abbrev: faial
 
 genotype:
-  -  World AgroForestry Center
+  - World AgroForestry Center
 
 description: "Draft genome assembly for Faidherbia albida"
 
