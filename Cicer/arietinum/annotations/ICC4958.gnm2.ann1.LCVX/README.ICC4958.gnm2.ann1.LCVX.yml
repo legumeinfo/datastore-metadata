@@ -15,21 +15,20 @@ bioproject: PRJNA78951
 
 scientific_name_abbrev: cicar
 
-genotype: ICC4958, desi variety 
+genotype:
+  - ICC4958 (desi variety)
 
 description: "Gene annotations from genome assembly"
-
-dataset_doi:
 
 genbank_accession: GCA_000347275.2
 
 original_file_creation_date: "2015-12-09"
 
-local_file_creation_date: 2016-01-30
+local_file_creation_date: "2016-01-30"
 
 publication_doi: 10.1038/srep12806
 
-dataset_release_date: 2015-05-12
+dataset_release_date: "2015-05-12"
 
 publication_title: "An advanced draft genome assembly of a desi type chickpea (Cicer arietinum L.)"
 
@@ -43,5 +42,4 @@ license: Open
 
 keywords:
 
-citations: "Sabiha Parween, Kashif Nawaz, Riti Roy, Anil K. Pole, B. Venkata Suresh, Gopal Misra, Mukesh Jain, Gitanjali Yadav, Swarup K. Parida, Akhilesh K. Tyagi, Sabhyata Bhatia & Debasis Chattopadhyay. An advanced draft genome assembly of a desi type chickpea (Cicer arietinum L.). (2015). Scientific Reports 5: 12806 https://doi.org/10.1038/srep12806"
-
+citation: "Sabiha Parween, Kashif Nawaz, Riti Roy, Anil K. Pole, B. Venkata Suresh, Gopal Misra, Mukesh Jain, Gitanjali Yadav, Swarup K. Parida, Akhilesh K. Tyagi, Sabhyata Bhatia & Debasis Chattopadhyay. An advanced draft genome assembly of a desi type chickpea (Cicer arietinum L.). (2015). Scientific Reports 5: 12806."

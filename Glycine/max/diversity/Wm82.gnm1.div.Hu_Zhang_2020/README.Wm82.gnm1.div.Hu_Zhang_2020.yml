@@ -1,38 +1,30 @@
 ---
-identifier: Hu_Zhang_2020
+identifier: Wm82.gnm1.div.Hu_Zhang_2020
 
 provenance: "The files in this directory are considered the primary repository. See associated publication and files below."
 
 source: "https://soybase.org/data/public/Glycine/max/Wm82.gnm1.div.Hu_Zhang_2020"
 
-synopsis: Variant information for 96 Glycine soja accessions, genotyped using the NJAU 335K SoySNP array, provided by Guizhen Kan. 
+synopsis: "Variant information for 96 Glycine soja accessions, genotyped using the NJAU 335K SoySNP array, provided by Guizhen Kan."
 
-scientific_name: 
-  - Glycine soja
+scientific_name: Glycine soja
 
-taxid: 
-  - 3848
+taxid: 3848
 
-bioproject: 
+scientific_name_abbrev: glyso
 
-scientific_name_abbrev: 
-  - glyso
-
-genotype: Multiple wild accessions genotyped with the NJAU 335K SoyaSNP array. SNP array was constructed with with respect to Wm82.a1.
+genotype:
+  - 96 Glycine soja accessions
 
 description: "Genotype information for 96 wild soybean accessions."
 
-dataset_doi: 
+original_file_creation_date: "2020-11-02"
 
-genbank_accession: 
+local_file_creation_date: "2020-11-02"
 
-original_file_creation_date: 2020-11-02
+publication_doi: 10.1007/s00425-019-03329-6
 
-local_file_creation_date: 2020-11-02
-
-publication_doi: DOI:10.1007/s00425-019-03329-6
-
-dataset_release_date: 2021-04-19
+dataset_release_date: "2021-04-19"
 
 publication_title: "Genetic dissection of yield-related traits via genome-wide association analysis across multiple environments in wild soybean (Glycine soja Sieb. and Zucc.)"
 
@@ -46,5 +38,4 @@ license: open
 
 keywords: soybean, diversity, SNP, soja
 
-citations: "Hu, D., Zhang, H., Du, Q. et al. Genetic dissection of yield-related traits via genome-wide association analysis across multiple environments in wild soybean (Glycine soja Sieb. and Zucc.). Planta 251, 39 (2020). https://doi.org/10.1007/s00425-019-03329-6"
-
+citation: "Hu, D., Zhang, H., Du, Q. et al. Genetic dissection of yield-related traits via genome-wide association analysis across multiple environments in wild soybean (Glycine soja Sieb. and Zucc.). Planta 251, 39 (2020)."

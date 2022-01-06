@@ -1,5 +1,5 @@
 ---
-identifier: KYV3
+identifier: MN87.gnm1.JXFN
 
 provenance: "The files in this directory originated from http://gigadb.org/dataset/101045, modified with addition of GenBank accessions from https://www.ncbi.nlm.nih.gov/nuccore/QANZ00000000.1. The GigaDB source is the primary and authoritative instance. Files in the present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
@@ -15,21 +15,22 @@ bioproject: PRJNA374770
 
 scientific_name_abbrev: chafa
 
-genotype: MN87, ICERNS isolate NF-2018-5
+genotype:
+  - MN87 (ICERNS isolate NF-2018-5)
 
 description: "Draft genome assembly for Chamaecrista fasciculata"
 
-dataset_doi: https://doi.org/10.5524/101044
+dataset_doi: 10.5524/101044
 
-genbank_accession: 	QANZ00000000
+genbank_accession: QANZ00000000
 
-original_file_creation_date: 2018-07-23
+original_file_creation_date: "2018-07-23"
 
-local_file_creation_date: 2019-11-27
+local_file_creation_date: "2019-11-27"
 
-publication_doi: https://doi.org/10.1126/science.aat1743
+publication_doi: 10.1126/science.aat1743
 
-dataset_release_date: 2019-11-27
+dataset_release_date: "2019-11-27"
 
 publication_title: "Phylogenomics reveals multiple losses of nitrogen-fixing root nodule symbiosis"
 
@@ -43,5 +44,4 @@ license: open
 
 keywords: Chamaecrista fasciculata genome
 
-citations: "Griesmann M et al., Phylogenomics reveals multiple losses of nitrogen-fixing root nodule symbiosis., Science, 2018 Jul 13;361(6398)"
-
+citation: "Griesmann M et al., Phylogenomics reveals multiple losses of nitrogen-fixing root nodule symbiosis., Science, 2018 Jul 13;361(6398)."

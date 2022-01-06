@@ -1,45 +1,36 @@
 ---
-identifier: Valliyodan_Brown_2021
+identifier: Wm82.gnm2.div.Valliyodan_Brown_2021
 
 provenance: "The files in this directory are considered the primary repository. See associated publication and files below."
 
 source: "https://soybase.org/data/public/Glycine_max/Wm82.gnm2.div.Valliyodan_Brown_2021"
 
-synopsis: Variant information for 481 soybean accessions (Glycine max and Glycine soja), provided by Babu Valliyodan and Henry Nguyen, as part of the United Soybean Board project to genotype and characterize diverse accessions.
+synopsis: "Variant information for 481 soybean accessions (Glycine max and Glycine soja), provided by Babu Valliyodan and Henry Nguyen, as part of the United Soybean Board project to genotype and characterize diverse accessions."
 
-scientific_name: 
-  - Glycine max
-  - Glycine soja
+scientific_name: Glycine max
 
-taxid: 
-  - 3847
-  - 3848
+taxid: 3847
 
-bioproject:
-  - PRJNA289660
-  - PRJNA384190
+bioproject: "PRJNA289660, PRJNA384190"
 
-scientific_name_abbrev: 
-  - glyma
-  - glyso
+scientific_name_abbrev: glyma
 
-genotype: Multiple genotypes, with variants called with respect to Wm82.a2 from JGI - Gmax_275_v2.0.fa
+genotype: 
+  - 481 wild and cultivated soybean accessions
 
 description: "Original VCF files received from Juexin Wang and Dr. Babu Valliyodan containing variant data (Single Nucleotide Polymorphisms) for 481 soybean accessions."
 
 dataset_doi: 10.15482/USDA.ADC/1518301
 
-genbank_accession:
-  - SRP105183
-  - SRP062245
+genbank_accession: "SRP105183, SRP062245"
 
-original_file_creation_date: 2018-08-01
+original_file_creation_date: "2018-08-01"
 
-local_file_creation_date: 2018-05-09
+local_file_creation_date: "2018-05-09"
 
 publication_doi: 10.1038/s41597-021-00834-w
 
-dataset_release_date: 2018-05-09
+dataset_release_date: "2018-05-09"
 
 publication_title: "Map of large-scale soybean genetic variation and its contribution to complex traits, seed composition and root architecture"
 
@@ -53,5 +44,4 @@ license: open
 
 keywords: soybean, diversity, SNP
 
-citations: "Valliyodan, B., Brown, A. V., Wang, J., Patil, G., Liu, Y., Otyama, P. I., Nelson, R. T., Vuong, T., Song, Q., Musket, T. A., Wagner, R., Marri, P., Reddy, S., Sessions, A., Wu, X., Grant, D., Bayer, P. E., Roorkiwal, M., Varshney, R. K., Liu, X., Edwards, D., Xu, D., Joshi, T., Cannon, S. B., & Nguyen, H. T. (2021). Genetic variation among 481 diverse soybean accessions, inferred from genomic re-sequencing. Scientific Data, 8(1). https://doi.org/10.1038/s41597-021-00834-w"
-
+citation: "Valliyodan, B., Brown, A. V., Wang, J., Patil, G., Liu, Y., Otyama, P. I., Nelson, R. T., Vuong, T., Song, Q., Musket, T. A., Wagner, R., Marri, P., Reddy, S., Sessions, A., Wu, X., Grant, D., Bayer, P. E., Roorkiwal, M., Varshney, R. K., Liu, X., Edwards, D., Xu, D., Joshi, T., Cannon, S. B., & Nguyen, H. T. (2021). Genetic variation among 481 diverse soybean accessions, inferred from genomic re-sequencing. Scientific Data, 8(1)."

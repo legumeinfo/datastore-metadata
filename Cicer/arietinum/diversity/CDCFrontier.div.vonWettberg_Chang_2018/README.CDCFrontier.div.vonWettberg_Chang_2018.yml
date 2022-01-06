@@ -1,11 +1,11 @@
 ---
-identifier: vonWettberg_Chang_2018
+identifier: CDCFrontier.div.vonWettberg_Chang_2018
 
 provenance: "This repository constitutes the primary instance of these files. They were deposited by Dr. Doug Cook and colleagues. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
 source: "https://legumeinfo.org/data/public/Cicer_arietinum/"
 
-synopsis: Variant data, from genome resequencing of 279 Cicer accessions, called relative to Cicer arietium CDCFrontier (kabuli type)
+synopsis: "Variant data, from genome resequencing of 279 Cicer accessions, called relative to Cicer arietium CDCFrontier (kabuli type)."
 
 scientific_name: Cicer arietinum
 
@@ -15,21 +15,16 @@ bioproject: PRJNA353637
 
 scientific_name_abbrev: cicar
 
-genotype: mixed
+genotype:
+  - 279 Cicer accessions
 
-description: "Variant data for 279 Cicer accessions, called relative to Cicer arietium CDCFrontier (kabuli type)"
+description: "Variant data for 279 Cicer accessions, called relative to Cicer arietium CDCFrontier (kabuli type)."
 
-dataset_doi:
+original_file_creation_date: "2019-10-01"
 
-genbank_accession:
-
-original_file_creation_date: 2019-10
-
-local_file_creation_date: 2019-10-30
+local_file_creation_date: "2019-10-30"
 
 publication_doi: 10.1038/s41467-018-02867-z
-
-dataset_release_date: XX Doug?
 
 publication_title: "Ecology and genomics of an important crop wild relative as a prelude to agricultural innovation."
 
@@ -41,7 +36,4 @@ public_access_level: public
 
 license: Open
 
-keywords:
-
-citations: "von Wettberg, E., Chang, P.L., Basdemir, F. et al. Ecology and genomics of an important crop wild relative as a prelude to agricultural innovation. Nat Commun 9, 649 (2018) doi:10.1038/s41467-018-02867-z"
-
+citation: "von Wettberg, E., Chang, P.L., Basdemir, F. et al. Ecology and genomics of an important crop wild relative as a prelude to agricultural innovation. Nat Commun 9, 649 (2018)."

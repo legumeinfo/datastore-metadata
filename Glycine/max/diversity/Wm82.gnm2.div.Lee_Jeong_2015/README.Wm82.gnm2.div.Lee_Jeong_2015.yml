@@ -1,35 +1,32 @@
 ---
-identifier: Lee_Jeong_2015
+identifier: Wm82.gnm2.div.Lee_Jeong_2015
 
 provenance: "Data in this directory derives from the publication doi:10.1111/tpj. and Korean SoyaBase at http://www2.nics.go.kr/koreansoyabase. The Korean SoyaBase repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
-source: "onlinelibrary.wiley.com/doi.10.1111/tpj.12755/full, http://www2.nics.go.kr/koreansoyabase"
+source: "https://www2.nics.go.kr/koreansoyabase"
 
 synopsis: Text, VCF, HapMap, and Flapjack file containing genotype information for 222 Korean accessions. 
 
-scientific_name: Glycine max, Glycine soja
+scientific_name: Glycine max
 
-taxid: 3847, 3848
+taxid: 3847
 
-bioproject:
+scientific_name_abbrev: glyma
 
-scientific_name_abbrev: Glyma, Glyso
-
-genotype: Multiple genotypes
+genotype:
+  - 222 Korean accessions of Glycine max and Glycine soja
 
 description: "Original genotype file of 222 Accessions from the Korean soybean germplasm collection genotyped using the Axiom(R) SoyaSNP array downloaded from Korean SoyaBase. Variant Call File(VCF) transformed from the original genotype file of 222 Accessions from the Korean soybean germplasm collection downloaded from Korean SoyaBase. HapMap file containing genotypes of the 222 Korean Soybean accessions. Text file containing genotype information for 222 Korean Soybean accessions to be used as input in Flapjack (Milne I, Shaw P, Stephen G, Bayer M, Cardle L, Thomas WTB, Flavell AJ and Marshall D. 2010. Flapjack graphical genotype visualization. Bioinformatics 26(24), 3133-3134.) Text file containing position information of 170K SNPs."
 
-dataset_doi:
+genotyping_platform: SoyaSNP180K
 
-genbank_accession:
+original_file_creation_date: "2014-12-30"
 
-original_file_creation_date: 2014-12-30
-
-local_file_creation_date: 2016-10-1
+local_file_creation_date: "2016-10-01"
 
 publication_doi: 10.1111/tpj.12755
 
-dataset_release_date: 2014-12-30 
+dataset_release_date: "2014-12-30"
 
 publication_title: "Development, validation and genetic analysis of a large soybean SNP genotyping array"
 
@@ -43,5 +40,4 @@ license: Open
 
 keywords: GWAS, genotyping, Glycine max, hybrid, SNP array, unanchored scaffold, validation
 
-citations: "Lee, Y. G., Jeong, N., Kim, J. H., Lee, K., Kim, K. H., Pirani, A., ... & Jeong, S.C. (2015). Development, validation and genetic analysis of a large soybean SNP genotyping array. The Plant Journal, 81(4), 625-636."
-
+citation: "Lee, Y. G., Jeong, N., Kim, J. H., Lee, K., Kim, K. H., Pirani, A., ... & Jeong, S.C. (2015). Development, validation and genetic analysis of a large soybean SNP genotyping array. The Plant Journal, 81(4), 625-636."
