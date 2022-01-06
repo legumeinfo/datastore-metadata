@@ -4,7 +4,7 @@ genus: Glycine
 species: max
 abbrev: glyma
 commonName: soybean
-description: "Soybean (Glycine max) is the predominant oil-seed legume worldwide. Although the center of diversity of the genus is in Australia, the species G. max is Asian, and was likely domesticated in East Asia, ~6000-9000 years ago (Sedivy et al., 2017; https://doi.org/10.1111/nph.14418). It has many culinary and industrial uses. Some of the culinary uses include: for direct consumption of the green seed (i.e. edamame) and leaves (cooked, much like spinach); for tofu, soymilk, textured vegetable protein, soy sauce, tempeh, natto, and vegetable oil. Industrial uses include: oils, soap, cosmetics, and biodiesel. Soybean is also used as a high-protein forage, and can be prepared for fish- and animal-feed."
+description: "Soybean (Glycine max), the predominant oil-seed legume worldwide, was likely domesticated in East Asia, ~6000-9000 years ago (Sedivy et al., 2017; https://doi.org/10.1111/nph.14418). It has many culinary and industrial uses. Some of the culinary uses include: for direct consumption of the green seed (i.e. edamame) and leaves (cooked, much like spinach); for tofu, soymilk, textured vegetable protein, soy sauce, tempeh, natto, and vegetable oil. Industrial uses include: oils, soap, cosmetics, and biodiesel. Soybean is also used as a high-protein forage, and can be prepared for fish- and animal-feed."
 
 resources:
   - name: SoyMine
@@ -31,10 +31,10 @@ strains:
     origin: Northern United States
     description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams."
     resources:
-      - name: Soybase Genome Browser (GBrowse), assembly 2
+      - name: Soybase Genome Browser (GBrowse)
         URL: "https://soybase.org/gb2/gbrowse/gmax2.0"
         description: "GBrowse for Wm82 assemblies 2.0"
-      - name: Soybase Genome Browser (GBrowse), assembly 1
+      - name: Genome Browser (GBrowse), assembly 1
         URL: "https://soybase.org/gb2/gbrowse/gmax1.01"
         description: "GBrowse for Wm82 assemblies 1.01"
       - name: LIS SequenceServer

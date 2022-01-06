@@ -1,0 +1,47 @@
+---
+identifier: mixed.esm.Phansak_Soonsuwon_2016 
+
+provenance: "The files in this directory derive from supplementary data from Phansak et al. 2016, Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. G3 6(6):1635 (2016). The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "Electronic supplementary data from Phansak et al. 2016, Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. G3 6(6):1635 (2016)." 
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA314872
+
+scientific_name_abbrev: glyma
+
+genotype: William82 
+
+description: "Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. Phansak et al. 2016."
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2016-00-00
+
+local_file_creation_date: 2021-12-08
+
+publication_doi: doi:10.1534/g3.116.027656 
+
+dataset_release_date: 2022-01-03
+
+publication_title: 
+  - Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs  
+
+contributors: Piyaporn Phansak, Watcharin Soonsuwon, David L. Hyten, Qijian Song, Perry B. Cregan, George L. Graef, and James E. Specht
+
+data_curators: Rex Nelson, Wei Huang
+
+public_access_level: public
+
+license: open
+
+keywords: Multi-Population selective genotying, QTLs, Soybean 
+
+citations: 
+  - Phansak et al., Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. G3 6(6):1635 (2016).
+

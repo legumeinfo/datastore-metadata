@@ -1,14 +1,22 @@
 ---
-taxid: 45689
-genus: Glycine
-species: cyrtoloba
+taxid: 45689 
+genus: Glycine 
+species: cyrtoloba  
 abbrev: glycy
 description: "G. cyrotoloba (Tind) is a perennial plant with twining and stiff stems. G. cyrotoloba pods are curved and somewhat mottled in appearance containing 3-9 seeds that and are dark brown to black in color (Tindale, MD et al., 1984). G. cyrotoloba is a diploid (2n=40) member of the C-genome of Glycine. It is found along the coast of Queensland and Northern New South Wales (Ratnaparkhe et al 2011 ; Gonzalez-Orozco et al., 2012)."
 
+resources:
+  - name: SoyMap2 Diversity Browser on Gmax1.01
+    URL: "https://soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_cyrtoloba_BES_alignments_relaxed_filtering"
+    description: "GBrowse for G. cyrtoloba Bac End Sequence alignments on Gmax1.01"
+  - name: SoyMap2 Diversity Browser on Gmax2.0
+    URL: "https://soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_cyrtoloba_bes_alignments_relaxed_filtering"
+    description: "GBrowse for G. cyrtoloba Bac End Sequence alignments on Gmax2.0"
+
 strains:
-  -
-    identifier: G1267
-    accession: G1267
-    name: G. cyrotoloba
-    origin: Australian coasts of Queensland and Northern New South Wales
+  - identifier: G1267
+    accession: G1267 
+    name: G. cyrotoloba 
+    origin: Australian coasts of Queensland and Northern New South Wales 
     description: "G. cyrotoloba (Tind) is a perennial plant with twining and stiff stems. G. cyrotoloba pods are curved and somewhat mottled in appearance containing 3-9 seeds that and are dark brown to black in color (Tindale, MD et al., 1984)."
+     
