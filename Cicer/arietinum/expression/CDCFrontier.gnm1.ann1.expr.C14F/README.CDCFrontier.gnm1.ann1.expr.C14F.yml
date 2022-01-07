@@ -1,37 +1,21 @@
 ---
-identifier:  C14F
+identifier: CDCFrontier.gnm1.ann1.expr.C14F
 
-provenance: "LIS-expression dataset cicar2."
+provenance: "LIS expression dataset cicar2."
 
-source:
+synopsis: "Gene expression dataset for Cicer arietinum ICC4958 desi variety MAPPED TO CDCFrontier (kabuli variety) genome."
 
-synopsis:  
+scientific_name: Cicar arietinum
 
-scientific_name: 
+taxid: 3827 
 
-taxid: 
+scientific_name_abbrev: cicar
 
-bioproject: 
+genotype:
+  - ICC4958 (desi variety)
+  - CDCFrontier (kabuli variety)
 
-scientific_name_abbrev: 
-
-genotype: 
-
-description: "LIS expression dataset cicar2: Chickpea flower development gene expression atlas (ICC4958  Desi samples mapped to CDCFrintier genome."
-
-dataset_doi: 
-
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 
-
-publication_doi: 
-
-dataset_release_date: 
-
-publication_title: 
+description: "LIS expression dataset cicar2: chickpea Desi variety (ICC4958) flower development gene expression atlas MAPPED TO CDCFrontier genome."
 
 contributors: "Sudhansu Dash"
 
@@ -40,8 +24,3 @@ data_curators: Sudhansu Dash
 public_access_level: public
 
 license: open
-
-keywords: 
-
-citations:
-

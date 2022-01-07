@@ -1,41 +1,30 @@
 ---
-identifier: Jeong_Moon_2019
+identifier: Wm82.gnm2.div.Jeong_Moon_2019
 
 provenance: "The files in this directory derives from the publication doi:10.1007/S00122-018-3271-7 and Korean Soyabase at http://k-crop.kr/ksoyabase/index.php"
 
-source: "Personal Communication from Soon-Chun Jeong; http://k-crop.kr/ksoyabase/index.php"
+synopsis: "Variant information for 4234 soybean accessions (Glycine max and Glycine soja) genotyped with the Axiom SoyaSNP array containing 180,961 SNPs."
 
-synopsis: Variant information for 4234 soybean accessions (Glycine max and Glycine soja) genotyped with the Axiom SoyaSNP array containing 180,961 SNPs. 
+scientific_name: Glycine max
 
-scientific_name: 
-  - Glycine max
-  - Glycine soja
+taxid: 3847
 
-taxid: 
-  - 3847
-  - 3848
+scientific_name_abbrev: glyma
 
-bioproject:
+genotype:
+  - 4234 soybean accessions (Glycine max and Glycine soja)
 
-scientific_name_abbrev: 
-  - glyma
-  - glyso
+description: "VCF file containing genotype informatino for 4234 Korean soybean accessions called against Williams 82 genome assembly version 2."
 
-genotype: Multiple genotypes, with variants called with respect to Wm82.a2
+genotyping_platform: SoyaSNP180K
 
-description: "VCF file containing genotype informatino for 4234 Korean soybean accessions."
+original_file_creation_date: "2019-04-26"
 
-dataset_doi:
+local_file_creation_date: "2019-04-26"
 
-genbank_accession:
+publication_doi: 10.1007/s00122-018-3271-7
 
-original_file_creation_date: 2019-04-26
-
-local_file_creation_date: 2019-04-26
-
-publication_doi: https://doi.org/10.1007/s00122-018-3271-7
-
-dataset_release_date: 2019-04-26
+dataset_release_date: "2019-04-26"
 
 publication_title: "Genetic diversity patterns and domestication origin of soybean."
 
@@ -49,5 +38,4 @@ license: open
 
 keywords: soybean, diversity, SNP, domestication
 
-citations: "Jeong, SC., Moon, JK., Park, SK. et al. Theor Appl Genet (2019) 132: 1179. https://doi.org/10.1007/s00122-018-3271-7"
-
+citation: "Jeong, SC., Moon, JK., Park, SK. et al. Theor Appl Genet (2019) 132: 1179."

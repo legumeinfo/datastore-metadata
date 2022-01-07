@@ -1,5 +1,5 @@
 ---
-identifier: Zhang_Jiang_2020
+identifier: Wm82.gnm2.div.Zhang_Jiang_2020
 
 provenance: "SoyBase.org is the primary repository for files in this directory. Data in this directory derives from the Dr. Yong-Qiang (Charles) An's laboratory at USDA-ARS, St. Louis, MO. Files here are held as part of the SoyBase and LegumeInfo projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers. If you use the data in the present directory, please cite the data appropriately - generally referring to the original publications for this data."
 
@@ -7,35 +7,24 @@ source: https://soybase.org/data/public/Glycine_max/Wm82.gnm2.div.Zhang_Jiang_20
 
 synopsis: "Variant information for 1,556 resequenced soybean accessions Glycine max and Glycine soja, provided by Yong-Qiang (Charles) An and Rick Meyers, relative to Wm82 assembly 2." 
 
-scientific_name: 
-  - Glycine max
-  - Glycine soja
+scientific_name: Glycine max
 
-taxid: 
-  - 3847
-  - 3848
+taxid: 3847
 
-bioproject: none
+scientific_name_abbrev: glyma
 
-scientific_name_abbrev: 
-  - glyma
-  - glyso
-
-genotype: Multiple genotypes, with variants called with respect to Wm82.a2 from JGI - Gmax_275_v2.0.fa
+genotype:
+  - 1556 cultivated and wild soybean accessions
 
 description: "Genetic variant data derived from whole genome resequencing data of 1,502 diverse accessions from G. max and G. soja. The datasets were generated as part of a project funded by the United Soybean Board, USDA-ARS and Bayer Company. Data sets include a full set of 32 million SNPs, and subsets filtered at minor allele frequencies of 1% and 5%. The pre-released datasets have not been fully peer-reviewed. Please contact Dr. Yong-Qiang An if you have questions or identify problems (Yong-qiang.an@ars.usda.gov)."
 
-dataset_doi: none
+original_file_creation_date: "2020-08-13"
 
-genbank_accession: none
+local_file_creation_date: "2021-10-27"
 
-original_file_creation_date: 2020-08-13
+publication_doi: 10.1101/2020.11.16.383950
 
-local_file_creation_date: 2021-10-27
-
-publication_doi: "10.1101/2020.11.16.383950"
-
-dataset_release_date: 2021-10-28
+dataset_release_date: "2021-10-28"
 
 publication_title: "A versatile resource of 1500 diverse wild and cultivated soybean genomes for post-genomics research."
 
@@ -49,8 +38,4 @@ license: open
 
 keywords: soybean, diversity, SNP
 
-citations: 
-  - "Hengyou Zhang, He Jiang, Zhenbin Hu, Qijian Song, Yong-qiang Charles An, A versatile resource of 1500 diverse wild and cultivated soybean genomes for post-genomics research. 2020, BioRixv doi: https://doi.org/10.1101/2020.11.16.383950"
-  - "Hengyou Zhang, Wolgang Goettel, Qijian Song, He Jiang, Zhenbin Hu, Mingli Wang, Yong-Qiang An, Selection of GmSWEET39 for oil and protein improvement in soybean, 2020, Plos Genetics, 16 (11): e1009114 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009114"
-
-
+citation: "Hengyou Zhang, He Jiang, Zhenbin Hu, Qijian Song, Yong-qiang Charles An, A versatile resource of 1500 diverse wild and cultivated soybean genomes for post-genomics research. 2020, BioRixv."

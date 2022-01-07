@@ -1,18 +1,10 @@
 identifier: USPeanutCore.gwas.Otyama_Kulkarni_2020
   
-provenance: 
-
-source: 
-
 synopsis: "GWAS determining markers associated with fatty acid composition in the USDA peanut core collection."
-
-related_to: 
 
 scientific_name: Arachis hypogaea
 
 taxid: 3818
-
-bioproject: 
 
 scientific_name_abbrev: arahy
 
@@ -21,21 +13,9 @@ genotype:
 
 description: "This study reports on the identification of candidate markers associated with fatty acid composition in peanut (Arachis hypogaea). A large population of 791 accessions from the USDA peanut Core collection was genotyped using the Axiom Arachis2 SNP array. SNPs were filtered for MAF>5%, yielding 11,308 SNP markers out of 13,480 high-quality SNPs. The genomic architecture of these accessions was investigated to confirm the population structure. Then, GWAS was conducted to evaluate the association between SNP markers and seed fatty acid composition."
 
-dataset_doi: 
-
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 
-
 publication_doi: 10.1534/g3.120.401306
 
-dataset_release_date: 
-
 publication_title: Genotypic Characterization of the U.S. Peanut Core Collection
-
-contributors: 
 
 data_curators: Steven Cannon, Sam Hokin
 
@@ -45,7 +25,7 @@ license: Open
 
 keywords: peanut, GWAS
 
-citations: "Otyama, P. I. et al. Genotypic Characterization of the U.S. Peanut Core Collection. G3  (2020) doi:10.1534/g3.120.401306"
+citation: "Otyama, P. I. et al. Genotypic Characterization of the U.S. Peanut Core Collection. G3  (2020) doi:10.1534/g3.120.401306"
 
 genotyping_platform: Axiom_Arachis2_SNP
   

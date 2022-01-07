@@ -1,18 +1,10 @@
 identifier: Huayu28_x_P76.gen.Hu_Zhang_2018
 
-provenance: 
-
-source: 
-
 synopsis: "A genetic map from a Huayu28 x P76 RIL population composed of 2,334 markers (2,266 SNPs and 68 microsatellites) for the study of seed oleic and linoleic acid content"
-
-related_to: 
 
 scientific_name: Arachis hypogaea
 
 taxid: 3818
-
-bioproject: 
 
 scientific_name_abbrev: arahy
 
@@ -21,17 +13,7 @@ genotype:
 
 description: "A mapping population of 146 F2:11 recombinant inbred lines (RILs) was produced A1:P2 a cross of the cultivated peanut (Arachis hypogaea L.) maternal inbred line 'Huayu28' and paternal inbred line 'P76'.  The high-resolution genetic linkage map is composed of 2,334 markers (2,266 SNPs and 68 microsatellites) placed upon 20 linkage groups.  The total length of the map is 2,586.37 cM; lengths of linkage groups range from 68.79 to 191.24 cM. This high-density map is the first to be developed in cultivated peanut incorporating de novo polymorphic SNP markers discovered using a SLAF-seq (Specific Length Amplified Fragment Sequencing) methodology.  The authors first developed 433,679 high-quality SLAFs and then discovered that 29,075 of these SNP markers were polymorphic.  There were 7,949 polymorphic markers that followed an aa_x_bb segregation pattern appropriate for linkage analysis, out of which 2,266 SNPs were linked together in the final map. QTLs associated with seed oleic and linoleic acid content were found."
 
-dataset_doi: 
-
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 
-
 publication_doi: 10.1038/s41598-018-23873-7
-
-dataset_release_date: 
 
 publication_title: "High-Density Genetic Map Construction and Identification of QTLs Controlling Oleic and Linoleic Acid in Peanut using SLAF-seq and SSRs"
 
@@ -43,7 +25,5 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Hu, X. H. et al. High-Density Genetic Map Construction and Identification of QTLs Controlling Oleic and Linoleic Acid in Peanut using SLAF-seq and SSRs. Sci. Rep. 8, 5479 (2018)"
+citation: "Hu, X. H. et al. High-Density Genetic Map Construction and Identification of QTLs Controlling Oleic and Linoleic Acid in Peanut using SLAF-seq and SSRs. Sci. Rep. 8, 5479 (2018)"
 

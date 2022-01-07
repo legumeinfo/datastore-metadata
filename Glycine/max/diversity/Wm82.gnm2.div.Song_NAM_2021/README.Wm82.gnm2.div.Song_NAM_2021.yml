@@ -1,5 +1,5 @@
 ---
-identifier: Song_NAM_2021
+oidentifier: Wm82.gnm2.div.Song_NAM_2021
 
 provenance: "SoyBase.org is the primary repository for files in this directory. Data in this directory derives from the Dr. Qijian Song's laboratory at USDA-ARS, Beltsville, MD (qijian.song@usda.gov). Files here are held as part of the SoyBase and LegumeInfo projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers. If you use the data in the present directory, please cite the data appropriately - generally referring to the original publications for this data."
 
@@ -11,11 +11,10 @@ scientific_name: Glycine max
 
 taxid: 3847
 
-bioproject:
-
 scientific_name_abbrev: glyma
 
-genotype: Multiple genotypes
+genotype:
+  - 5176 Nested Association Mapping RILs (NAM)
 
 description: 
   - "The files glyma.Wm82.gnm2.div.Song_NAM_2021.imputed1_5176RILs_29kSNPs* contain imputed genotypes of the 5176 NAM RILs using the 40 NAM parental genotypes obtained from SoySNP50K and SoyNAM6K assays. The imputation was performed by each of the 39 families except for the NAM46 family which has a high percentage of non-parental alleles. The imputed dataset contained the genomics position in Glyma1.01 and Wm82a2v1 assemblies as well as genotypes of 29416 SNPs for 5176 RILs. The common genotype IA3023 alleles were changed to “B”, and the non-IA3023 alleles to “A”.  In addition, the linkage map position of each SNP was inferred based on SNP physical position and the high-density linkage map of Williams 82 x PI479752 consisting of 21,478 SNPs (Song et al. 2016., BMC Genomics 17:33)."

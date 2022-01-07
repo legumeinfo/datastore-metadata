@@ -1,12 +1,13 @@
 ---
-identifier: 9YLH
+identifier: Sh1.tcp1.9YLH
 
-provenance: "The files in this directory originated from https://www.ncbi.nlm.nih.gov/bioproject/217486."
-The GenBank source is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+provenance: "The files in this directory originated from https://www.ncbi.nlm.nih.gov/bioproject/217486. The GenBank source is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
 source: "https://www.ncbi.nlm.nih.gov/bioproject/217486"
 
 synopsis: Transcriptome assembly for Cercis gigantea
+
+description: Transcriptome assembly for Cercis gigantea
 
 scientific_name: Cercis gigantea
 
@@ -16,25 +17,10 @@ bioproject: PRJNA217486
 
 scientific_name_abbrev: cergi
 
-genotype: Sh1
+genotype:
+  - Sh1
 
-description: "XX"
-
-dataset_doi: XX
-
-genbank_accession: XX
-
-original_file_creation_date: XX
-
-local_file_creation_date: 2019-07-03
-
-publication_doi: 
-
-dataset_release_date:
-
-publication_title: "XX"
-
-contributors: "XX"
+local_file_creation_date: "2019-07-03"
 
 data_curators: Steven Cannon
 
@@ -43,6 +29,3 @@ public_access_level: public
 license: Open
 
 keywords: Transcriptome, Cercis gigantea
-
-citations: "XX"
-

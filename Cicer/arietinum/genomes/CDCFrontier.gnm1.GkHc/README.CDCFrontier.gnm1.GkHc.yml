@@ -5,7 +5,7 @@ provenance: "The files in this directory originated from http://gigadb.org/datas
 
 source: "http://gigadb.org/dataset/100076"
 
-synopsis: genome assembly of Cicer arietium (kabuli variety)
+synopsis: "Genome assembly of Cicer arietinum CDCFrontier (kabuli variety)."
 
 scientific_name: Cicer arietinum
 
@@ -13,12 +13,12 @@ taxid: 3827
 
 bioproject: PRJNA175619
 
-scientific_name_abbrev: cicar.CDCFrontier
+scientific_name_abbrev: cicar
 
 genotype:
-  - CDC Frontier (kabuli variety)
+  - CDCFrontier (kabuli variety)
 
-description: "Genome assembly (pseudomolecules)"
+description: "Genome assembly (pseudomolecules) v1 of Cicer arietinum CDCFrontier (kabuli variety)."
 
 dataset_doi: 10.5524/100076
 
@@ -42,5 +42,4 @@ public_access_level: public
 
 license: Open
 
-citations: "Rajeev K. Varshney, Chi Song, Rachit K. Saxena, Sarwar Azam, Sheng Yu, Andrew G. Sharpe, Steven Cannon, Jongmin Baek, Benjamin D. Rosen, Bunyamin Tar'an, Teresa Millan, Xudong Zhang, Larissa D. Ramsay, Aiko Iwata, Ying Wang, William Nelson, Andrew D. Farmer, Pooran M. Gaur, Carol Soderlund, R. Varma Penmetsa, Chunyan Xu, Arvind K. Bharti, Weiming He, Peter Winter, Shancen Zhao, James K. Hane, Noelia Carrasquilla-Garcia, Janet A. Condie, Hari D. Upadhyaya, Ming-Cheng Luo, Mahendar Thudi, C. L. L. Gowda, Narendra P. Singh, Judith Lichtenzveig, Krishna K. Gali, Josefa Rubio, N. Nadarajan, Jaroslav Dolezel, Kailash C. Bansal, Xun Xu, David Edwards, Gengyun Zhang, Guenter Kahl, Juan Gil, Karam B. Singh, Swapan K. Datta, Scott A. Jackson, Jun Wang & Douglas R. Cook. Draft genome sequence of chickpea (Cicer arietinum) provides a resource for trait improvement. Nature Biotechnology 31: 240-246 (2013) DOI: http://dx.doi.org/10.1038/nbt.2491"
-
+citation: "Rajeev K. Varshney, Chi Song, Rachit K. Saxena, Sarwar Azam, Sheng Yu, Andrew G. Sharpe, Steven Cannon, Jongmin Baek, Benjamin D. Rosen, Bunyamin Tar'an, Teresa Millan, Xudong Zhang, Larissa D. Ramsay, Aiko Iwata, Ying Wang, William Nelson, Andrew D. Farmer, Pooran M. Gaur, Carol Soderlund, R. Varma Penmetsa, Chunyan Xu, Arvind K. Bharti, Weiming He, Peter Winter, Shancen Zhao, James K. Hane, Noelia Carrasquilla-Garcia, Janet A. Condie, Hari D. Upadhyaya, Ming-Cheng Luo, Mahendar Thudi, C. L. L. Gowda, Narendra P. Singh, Judith Lichtenzveig, Krishna K. Gali, Josefa Rubio, N. Nadarajan, Jaroslav Dolezel, Kailash C. Bansal, Xun Xu, David Edwards, Gengyun Zhang, Guenter Kahl, Juan Gil, Karam B. Singh, Swapan K. Datta, Scott A. Jackson, Jun Wang & Douglas R. Cook. Draft genome sequence of chickpea (Cicer arietinum) provides a resource for trait improvement. Nature Biotechnology 31: 240-246 (2013)."

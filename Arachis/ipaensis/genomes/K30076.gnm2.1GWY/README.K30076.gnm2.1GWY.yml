@@ -1,11 +1,11 @@
 ---
-identifier: 1GWY
+identifier: K30076.gnm2.1GWY
 
 provenance: "The files in this directory originated from http://peanutbase.org. There is also a corresponding genome assembly at GenBank, as pseudomolecule accessions CP049892-CP049901. The PeanutBase repository is considered the primary repository and authoritative. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files, then please also cite the respective database project(s) related to this directory."
 
-source: https://peanutbase.org
+source: "https://peanutbase.org/"
 
-synopsis: "Genome assembly 2 for Arachis ipaensis, accession K30076. This is a high-quality chromosome-scale genome sequence, based on PacBio RSII and PacBio Sequel read data, with ordering into pseudomolecules by Dovetail using Hi-C Chicago libraries and the HiRise and SNAP."
+synopsis: "Genome Assembly 2 for A. ipaensis K30076. A high-quality chromosome-scale assembly, based on PacBio RSII and Sequel reads, ordered into pseudomolecules by Dovetail using Hi-C Chicago libraries and the HiRise and SNAP."
 
 scientific_name: Arachis ipaensis
 
@@ -15,23 +15,18 @@ bioproject: PRJNA258025
 
 scientific_name_abbrev: araip
 
-genotype: K30076
+genotype:
+  - K30076
 
 description: "Files in this directory include the scaffold assemblies for Arachis ipaensis, accession K30076. This is a high-quality chromosome-scale genome sequence, based on PacBio RSII and PacBio Sequel assembled using the software Mecat and Arrow, and polished using Illumina HiSeq read data using the software Pilon. Scaffolds were ordered into pseudomolecules by Dovetail using Hi-C Chicago libraries and the softwares HiRise and SNAP."
 
-dataset_doi:
-
 genbank_accession: CP049892-CP049901
 
-original_file_creation_date: 2019-04
+original_file_creation_date: "2019-04-01"
 
-local_file_creation_date: 2019-09
+local_file_creation_date: "2019-09-01"
 
-publication_doi:
-
-dataset_release_date: 2021-05-28
-
-publication_title:
+dataset_release_date: "2021-05-28"
 
 contributors: Josh Clevenger, David Bertioli
 
@@ -39,9 +34,6 @@ data_curators: Steven Cannon
 
 public_access_level: public
 
-license:
-
 keywords: Arachis ipaensis, genome assembly
 
-citations: "Bertioli DJ, Cannon SB, Froenicke L, Huang G, Farmer AD, Cannon EK, Liu X, Gao D, Clevenger J, Dash S, Ren L, Moretzsohn MC, Shirasawa K, Huang W, Vidigal B, Abernathy B, Chu Y, Niederhuth CE, Umale P, Araújo AC, Kozik A, Do Kim K, Burow MD, Varshney RK, Wang X, Zhang X, Barkley N, Guimarães PM, Isobe S, Guo B, Liao B, Stalkeer HT, Schmitz RJ, Scheffler BE, Leal-Bertioli SC, Xun X, Jackson SA, Michelmore R, Ozias-Akins P. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nature Genetics 48:438-446 (2016). doi: 10.1038/ng.3517. PubMed PMID 26901068"
-
+citation: "Bertioli DJ, Cannon SB, Froenicke L, Huang G, Farmer AD, Cannon EK, Liu X, Gao D, Clevenger J, Dash S, Ren L, Moretzsohn MC, Shirasawa K, Huang W, Vidigal B, Abernathy B, Chu Y, Niederhuth CE, Umale P, Araújo AC, Kozik A, Do Kim K, Burow MD, Varshney RK, Wang X, Zhang X, Barkley N, Guimarães PM, Isobe S, Guo B, Liao B, Stalkeer HT, Schmitz RJ, Scheffler BE, Leal-Bertioli SC, Xun X, Jackson SA, Michelmore R, Ozias-Akins P. The genome sequences of Arachis duranensis and Arachis ipaensis, the diploid ancestors of cultivated peanut. Nature Genetics 48:438-446 (2016)."

@@ -5,10 +5,10 @@ commonName: Peanut
 description: "The genus Arachis contains approximately 69 species, distributed in South America east of the Andes, in the regions or Argentina, Bolivia, and Brazil. Krapovickas, A. & W.C. Gregory. 2006. Taxonomy of the genus Arachis (Leguminosae). Translated by D.E. Williams & C.E. Simpson."
 
 species:
-  - cardenasii
-  - duranensis
   - hypogaea
+  - duranensis
   - ipaensis
+  - cardenasii
 
 resources:
   -
