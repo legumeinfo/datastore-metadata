@@ -21,17 +21,13 @@ genotype:
 
 description: "Genome assembly for Lupinus albus."
 
-dataset_doi:
-
 genbank_accession: GCA_009771035.1
 
-original_file_creation_date: 
-
-local_file_creation_date: 2020-02-12
+local_file_creation_date: "2020-02-12"
 
 publication_doi: 10.1038/s41467-019-14197-9
 
-dataset_release_date: 2019-12-20
+dataset_release_date: "2019-12-20"
 
 publication_title: "High-quality genome sequence of white lupin provides insight into soil exploration and seed quality."
 
@@ -45,5 +41,4 @@ license: open
 
 keywords: white lupine, Lupinus albus
 
-citations: "Hufnagel B, Marques A, Soriano A, Marquès L, Divol F, Doumas P, Sallet E, Mancinotti D, Carrere S, Marande W, Arribat S, Keller J, Huneau C, Blein T, Aimé D, Laguerre M, Taylor J, Schubert V, Nelson M, Geu-Flores F, Crespi M, Gallardo K, Delaux PM, Salse J, Bergès H, Guyot R, Gouzy J, Péret B. High-quality genome sequence of white lupin provides insight into soil exploration and seed quality. Nat Commun. 2020 Jan 24;11(1):492. doi: 10.1038/s41467-019-14197-9. PMID: 31980615; PMCID: PMC6981116."
-
+citation: "Hufnagel B, Marques A, Soriano A, Marquès L, Divol F, Doumas P, Sallet E, Mancinotti D, Carrere S, Marande W, Arribat S, Keller J, Huneau C, Blein T, Aimé D, Laguerre M, Taylor J, Schubert V, Nelson M, Geu-Flores F, Crespi M, Gallardo K, Delaux PM, Salse J, Bergès H, Guyot R, Gouzy J, Péret B. High-quality genome sequence of white lupin provides insight into soil exploration and seed quality. Nat Commun. 2020 Jan 24;11(1):492."
