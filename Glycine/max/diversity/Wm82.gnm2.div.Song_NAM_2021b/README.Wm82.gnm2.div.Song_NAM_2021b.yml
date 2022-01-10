@@ -1,0 +1,39 @@
+---
+identifier: Wm82.gnm2.div.Song_NAM_2021b
+
+provenance: "SoyBase.org is the primary repository for files in this directory. Data in this directory derives from the Dr. Qijian Song's laboratory at USDA-ARS, Beltsville, MD (qijian.song@usda.gov). Files here are held as part of the SoyBase and LegumeInfo projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers. If you use the data in the present directory, please cite the data appropriately - generally referring to the original publications for this data."
+
+source: "https://soybase.org/data/v2/Glycine/max"
+
+synopsis: "Imputed genotypes for 5176 Nested Association Mapping RILs relative to 40 NAM parental genotypes, genotyped with WGS and the SoySNP50K and SoyNAM6K assays."
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - 5176 Nested Association Mapping (NAM) RILs
+
+description: "The files glyma.Wm82.gnm2.div.Song_NAM_2021.imputed2_5176RILs_423kSNPs* contain imputed genotypes of the 5176 Nested Association Mapping (NAM) RILs using the 40 NAM parental genotypes obtained from whole genome sequencing, SoySNP50K and SoyNAM6K BeadChip assays. The imputation was performed for each of the 39 families, except for the NAM46 family which has a high percentage of non-parental alleles, using its bi-parental alleles. The imputed dataset contained position in the Wm82a2v1 WGS assembly as well as the genotypes of the  426,937 SNPs for each of 5176 RILs, the alleles identical to  the alleles of the common genotype IA3023 were changed  to “B”, and the non-IA3023 alleles to “A”. In addition, the linkage map position of each SNP was inferred based on SNP physical position and the high-density linkage map of Williams 82 x PI479752 consisting of 21,478 SNPs (Song et al. 2016., BMC Genomics 17:33)."
+
+original_file_creation_date: "2021-09-20"
+
+local_file_creation_date: "2021-10-26"
+
+dataset_release_date: "2021-11-01"
+
+publication_title: Genotype imputation for soybean nested association mapping population to improve precision of QTL detection
+
+contributors: Qijian Song
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, 5176 Nested Association Mapping (NAM) RILs, imputation
+
+citations: "Chen LF, Yang SP, Araya S, Quigely Q, Tacliero E, Mian R, Specht JE, Diers B, Song QJ. 2021.  Genotype imputation for soybean nested association mapping population to improve precision of QTL detection (submitted)"
