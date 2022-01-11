@@ -1,9 +1,9 @@
 ---
-identifier: 5B59
+identifier: Tifrunner.gnm1.met1.5B59
 
 provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
 
-source: "https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse"
+source: "https://peanutbase.org/data/"
 
 synopsis: Methylation states of the bases in the Tifrunner genome.
 
@@ -15,23 +15,18 @@ bioproject: PRJNA291488
 
 scientific_name_abbrev: arahy
 
-genotype: Tifrunner
+genotype:
+  - Tifrunner
 
 description: "MethylC-seq libraries were constructed as described in the publication. Size selection was performed using magnetic purification beads. The End-It DNA End-Repair Kit (Epicentre) was used to perform end repair on the fragmented DNA. A-tails were added to blunt-end fragments using Klenow 3'-5' exonuclease and dA-Tailing Buffer (New England Biolabs). Methylated NEXTflex DNA adapters (Bio Scientific) were then ligated on using T4 DNA ligase (New England Biolabs). Bisulfite conversion was done using the MethylCode Bisulfite Conversion Kit (Invitrogen). Between each reaction, magnetic purification beads were used to clean up the DNA. MethylC-seq libraries were sequenced on an Illumina HiSeq 2500. See the publication (Supplementary Methods) for additional details."
 
-dataset_doi:
-
 genbank_accession: PIVG00000000
 
-original_file_creation_date: 2018-06-25
+original_file_creation_date: "2018-06-25"
 
-local_file_creation_date: 2018-06-25
+local_file_creation_date: "2018-06-25"
 
-publication_doi:
-
-dataset_release_date: 2018-08-16
-
-publication_title:
+dataset_release_date: "2018-08-16"
 
 contributors: "The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins"
 
@@ -42,6 +37,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: peanut, Arachis hypogaea, Tifrunner, methylation
-
-citations: "[initial, provisional citation, pre-publication:] Arachis hypogaea cv Tifrunner genome, pre-publication"
-
