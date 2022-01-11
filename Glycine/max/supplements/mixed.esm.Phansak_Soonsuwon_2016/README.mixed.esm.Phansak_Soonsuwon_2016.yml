@@ -13,24 +13,20 @@ bioproject: PRJNA314872
 
 scientific_name_abbrev: glyma
 
-genotype: William82 
+genotype:
+  - Williams 82 
 
 description: "Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. Phansak et al. 2016."
 
-dataset_doi: none
+original_file_creation_date: "2016-01-01"
 
-genbank_accession: none
+local_file_creation_date: "2021-12-08"
 
-original_file_creation_date: 2016-00-00
+publication_doi: 10.1534/g3.116.027656 
 
-local_file_creation_date: 2021-12-08
+dataset_release_date: "2022-01-03"
 
-publication_doi: doi:10.1534/g3.116.027656 
-
-dataset_release_date: 2022-01-03
-
-publication_title: 
-  - Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs  
+publication_title: Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs  
 
 contributors: Piyaporn Phansak, Watcharin Soonsuwon, David L. Hyten, Qijian Song, Perry B. Cregan, George L. Graef, and James E. Specht
 
@@ -42,6 +38,4 @@ license: open
 
 keywords: Multi-Population selective genotying, QTLs, Soybean 
 
-citations: 
-  - Phansak et al., Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. G3 6(6):1635 (2016).
-
+citation: "Phansak et al., Multiple-Population selectice genotyping to identify (Glycine max (L.) Merr.) seed protein and oil QTLs. G3 6(6):1635 (2016)."
