@@ -5,7 +5,7 @@ provenance: "The files in this directory originated from http://www.medicagogeno
 
 source: "http://www.medicagogenome.org/downloads"
 
-synopsis: Gene annotations
+synopsis: Genome annotation for Medicago truncatula (A17 HM341)
 
 scientific_name: Medicago truncatula
 
@@ -16,20 +16,15 @@ bioproject: PRJNA10791
 scientific_name_abbrev: medtr
 
 genotype: 
-  - A17_HM341
+  - A17 HM341
 
-description: "Genome annotations (version Mt4.0v2)"
-
-dataset_doi:
+description: "Genome annotations (version Mt4.0v2) for Medicago truncatula (A17 HM341)."
 
 genbank_accession: GCF_000219495.3
 
-original_file_creation_date: 
-local_file_creation_date: 2017-11-07
+local_file_creation_date: "2017-11-07"
 
 publication_doi: 10.1186/1471-2164-15-312
-
-dataset_release_date: 
 
 publication_title: "An improved genome release (version Mt4.0) for the model legume Medicago truncatula"
 
@@ -41,7 +36,4 @@ public_access_level: Public
 
 license: Open
 
-keywords: 
-
-citations: "Tang, H., Krishnakumar, V., Bidwell, S., Rosen, B., Chan, A., Zhou, S., Gentzbittel, L., Childs, K. L., Yandell, M., Gundlach, H.,  Mayer, K. F., Schwartz, D. C., Town, C. D. (2014). An improved genome release (version Mt4. 0) for the model legume Medicago truncatula. BMC genomics, 15(1), 312."
-
+citation: "Tang, H., Krishnakumar, V., Bidwell, S., Rosen, B., Chan, A., Zhou, S., Gentzbittel, L., Childs, K. L., Yandell, M., Gundlach, H.,  Mayer, K. F., Schwartz, D. C., Town, C. D. (2014). An improved genome release (version Mt4. 0) for the model legume Medicago truncatula. BMC genomics, 15(1), 312."

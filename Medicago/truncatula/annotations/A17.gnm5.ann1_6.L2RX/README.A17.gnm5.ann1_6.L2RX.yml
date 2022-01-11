@@ -5,7 +5,7 @@ provenance: "Data in this directory derives from https://medicago.toulouse.inra.
 
 source: "https://medicago.toulouse.inra.fr/MtrunA17r5.0-ANR/"
 
-synopsis: Gene annotations
+synopsis: Genome annotation for Medicago truncatula (A17)
 
 scientific_name: Medicago truncatula
 
@@ -18,19 +18,19 @@ scientific_name_abbrev: medtr
 genotype: 
   - A17
 
-description: "Genome annotations (version Mt5.0-1.6)"
+description: "Genome annotations (version Mt5.0-1.6) for Medicago truncatula (A17)."
 
-dataset_doi: https://doi.org/10.25794/reference/4l6cescf
+dataset_doi: 10.25794/reference/4l6cescf
 
 genbank_accession: PSQE00000000.1
 
-original_file_creation_date: 2016-11-19
+original_file_creation_date: "2016-11-19"
 
-local_file_creation_date: 2019-06-14
+local_file_creation_date: "2019-06-14"
 
 publication_doi: 10.1038/s41477-018-0286-7
 
-dataset_release_date: 2019-06-17
+dataset_release_date: "2019-06-17"
 
 publication_title: "Whole-genome landscape of Medicago truncatula symbiotic genes."
 
@@ -44,5 +44,4 @@ license: open
 
 keywords: Mt5.0 PacBio sequencing
 
-citations: "Pecrix, Y., Staton, S. E., Sallet, E., Lelandais-Briere, C., Moreau, S., Carrere, S., Blein, T., Jardinaud, M-F., Latrasse, D., Zouine, M., Zahm, M., Kreplak, J., Mayjonade, B., Satge, C., Perez, M., Cauet, S., Marande, W., Chantry-Darmon, C., Lopez-Roques, C., Bouchez, O., Berard, A., Debelle, F., Munos, S., Bendahmane, A., Berges, H., Niebel, A., Buitink, J., Frugier, F., Benhamed, M., Crespi, M., Gouzy, J., Gamas, P. (2018). Whole-genome landscape of Medicago truncatula symbiotic genes. Nature Plants,  4, 1017-1025."
-  
+citation: "Pecrix, Y., Staton, S. E., Sallet, E., Lelandais-Briere, C., Moreau, S., Carrere, S., Blein, T., Jardinaud, M-F., Latrasse, D., Zouine, M., Zahm, M., Kreplak, J., Mayjonade, B., Satge, C., Perez, M., Cauet, S., Marande, W., Chantry-Darmon, C., Lopez-Roques, C., Bouchez, O., Berard, A., Debelle, F., Munos, S., Bendahmane, A., Berges, H., Niebel, A., Buitink, J., Frugier, F., Benhamed, M., Crespi, M., Gouzy, J., Gamas, P. (2018). Whole-genome landscape of Medicago truncatula symbiotic genes. Nature Plants,  4, 1017-1025."
