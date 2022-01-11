@@ -1,0 +1,36 @@
+---
+identifier: LaborOvalle.gnm1.ann1.L1DY
+
+provenance: "The files in this directory originated from phytozome-next.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://phytozome-next.jgi.doe.gov/info/PvulgarisLaborOvalle_v1_1"
+
+synopsis: "Phaseolus vulgaris accession Labor Ovalle (race Guatemala), annotation 1, genome assembly v1."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+ - Labor Ovalle
+
+description: "Genome annotation files for Phaseolus vulgaris accession Labor Ovalle, assembly 1. Labor Ovalle is a race Guatemala common bean variety released by the Institute of Agricultural Science and Technology (ICTA). Labor Ovalle was a landrace native to the highlands that was improved by selection efforts of the ICTA breeding program led by Dr. Fernando Aldana. Labor Ovalle is a round-seeded Bolonilio market class bean. The project was a joint effort of North Dakota State University and Hudson/Alpha Institute for Biotechnology. Funding for the project was provided by the United States Agency for International Development through the Feed the Future Legume Innovation Laboratory."
+
+original_file_creation_date: "2021-01-14"
+
+local_file_creation_date: "2022-01-10"
+
+dataset_release_date: "2019-01-10"
+
+contributors: "Phil McClean, Jeremy Schmutz"
+
+data_curators: "Andrew Farmer, Steven Cannon"
+
+public_access_level: public
+
+license: open 
+
+keywords: race Guatemala, common bean
+

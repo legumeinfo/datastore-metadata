@@ -1,0 +1,38 @@
+---
+identifier: W6_15578.gnm2.ann1.LVZ1
+
+provenance: "The files in this directory originated from phytozome-next.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://phytozome-next.jgi.doe.gov/info/PacutifoliusWLD_v2_0"
+
+synopsis: "Phaseolus acutifolius accession W6_15578, annotations on genome assembly v2."
+
+scientific_name: Phaseolus acutifolius 
+
+taxid: 33129
+
+bioproject:
+
+scientific_name_abbrev: phaac
+
+genotype: 
+  - "W6_15578"
+
+description: "[Description by Dr. Kirstin Bett] W6 15578 is a wild P. acutifolius accession obtained from the Western Regional Plant Introduction Station of the USDA. Originally collected by O.W. Norvell in Mexico in 1955, it now has the Plant Introduction number PI 638833. It is photoperiod sensitive, has an indeterminate growth habit, small, mottled seeds, and the pods shatter at maturity. It was used as a donor parent in the development of an interspecific hybrid population to improve abiotic stress tolerance in common bean (Souter et al. 2017(1)). W6 15578 was one of the parents, along with PI 430219, of the tepary bean mapping population, BR-06, developed and genotyped at the University of Saskatchewan (Gujaria-Verma et al. 2016(2))."
+
+original_file_creation_date: "2021-06-29"
+
+local_file_creation_date: "2022-01-10"
+
+dataset_release_date: "2022-01-10"
+
+contributors: "Kirstin E Bett, Larissa Ramsay"
+
+data_curators: "Andrew Farmer, Steven Cannon"
+
+public_access_level: public
+
+license: open
+
+keywords: "tepary bean, PI 638833"
+
