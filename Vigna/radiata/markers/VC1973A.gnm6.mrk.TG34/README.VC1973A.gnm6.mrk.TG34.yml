@@ -15,7 +15,8 @@ bioproject: PRJNA243847
 
 scientific_name_abbrev: vigra
 
-genotype: VC1973A
+genotype:
+  - VC1973A
 
 description: "SSR markers from Genome assembly (scaffolds and pseudomolecules) of Vigna radiata. SSRs were predicted using the MISA MIcroSAtellite identification tool (http://pgrc.ipk-gatersleben.de/misa/)"
 

@@ -1,37 +1,24 @@
 ---
-key_name: rVNY
+identifier: CADL_HM342.gnm1.rVNY
 
 provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the Medicago HapMap project and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
 
-source: "https://legumefederation.org/data/ and mirrored at SoyBase, LegumeInfo, PeanutBase, and CyVerse"
-
-synopsis: Genome assembly
+synopsis: Genome assembly of Medicago sativa CADL (HM342)
 
 scientific_name: Medicago sativa
 
 taxid: 3879
 
-bioproject: 
-
 scientific_name_abbrev: medsa
 
-genotype: CADL_HM342
+genotype:
+  - CADL (HM342)
 
 description: "Initial genome assembly for CADL_HM342 (= Cultivated Alfalfa at the Diploid Level); Pacbio Falcon assembly followed by Dovetail scaffolding"
 
-dataset_doi:
+local_file_creation_date: "2020-01-23"
 
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 2020-01-23
-
-publication_doi:
-
-dataset_release_date: 2020-01-23
-
-publication_title:
+dataset_release_date: "2020-01-23"
 
 contributors: "Nevin Young, Joann Mudge"
 
@@ -42,6 +29,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: alfalfa, CADL, diploid
-
-citations: "[initial, provisional citation, pre-publication:] Medicago sativa CADL_HM342 genome assembly Medicago HapMapo project, pre-publication"
-

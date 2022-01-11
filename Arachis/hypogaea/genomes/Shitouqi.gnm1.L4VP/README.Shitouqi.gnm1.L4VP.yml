@@ -14,7 +14,8 @@ bioproject: PRJNA480120
 
 scientific_name_abbrev: arahy
 
-genotype: Shitouqi
+genotype:
+  - Shitouqi
 
 description: Files in this directory are pseudomolecule assemblies for Arachis hypogaea cultivar Shitouqi.
 

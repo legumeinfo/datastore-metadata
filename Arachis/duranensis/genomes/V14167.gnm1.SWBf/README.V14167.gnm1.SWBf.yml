@@ -16,7 +16,8 @@ bioproject: PRJNA316327
 
 scientific_name_abbrev: aradu
 
-genotype: V14167
+genotype:
+  - V14167
 
 description: Files in this directory include the scaffold assemblies for Arachis duranensis, and the pseudomolecule assemblies, version 1.0 for the genome. See the original README file for complete description.
 

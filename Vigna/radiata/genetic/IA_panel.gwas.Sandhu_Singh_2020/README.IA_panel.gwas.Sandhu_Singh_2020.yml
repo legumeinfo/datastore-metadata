@@ -11,7 +11,9 @@ taxid: 157791
 
 scientific_name_abbrev: vigra
 
-genotype: "482 accessions from the USDA germplasm collection selected for adaptation to midwestern U.S. growing conditions, and 17 lines consisting of commercial varieties and improved germplasm obtained from the Asian Vegetable Research and Development Center, Taiwan."
+genotype:
+  - 482 USDA Germplasm Collection accessions
+  - 17 Atian Vegetable Research and Development Center lines
 
 description: "The complete collection of the USDA mung bean germplasm was screened under Iowa field conditions in 2017, to shortlist 482 accessions to create an Iowamung bean panel. The Iowa mung bean panel was further characterized for field adaptability traits in 2018 and 2019 and genotyped using genotype-by-sequencing (GBS) to conduct associationmapping of important traits. Genetic markers were identified for both quantitative trait (days to flowering [DTF], plant height [PHT], leaf drop atmaturity [LDMS], 100-seed weight [SDWT], and Fusarium wilt score [WS]) and qualitative traits (seed color [SC], seed-coat texture [ST], hypocotyl color [HC], and pod color [PC])."
 
