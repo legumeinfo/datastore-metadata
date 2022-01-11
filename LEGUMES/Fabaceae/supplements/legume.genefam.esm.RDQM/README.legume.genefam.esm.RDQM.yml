@@ -1,35 +1,25 @@
 ---
-identifier: RDQM
+identifier: legume.genefam.esm.RDQM
 
 provenance: "The files in this directory are considered the primary instancess. The files here are held as part of the LegumeFederation and associated projects, e.g. LegumeInfo, PeanutBase, etc."
 
-source: "https://legumefederation.org/data/public and mirrored at LegumeInfo and affiliated sites."
-
-synopsis: Electronic supplementary material for the paper "Cercis: a Non-Polyploid Genomic Relic within the Generally Polyploid Legume Family", Stai et al., 2019, including phylogenetic trees based on families at legume.genefam.fam1.M65K but extended with sequences from Chamaecrista, Nissolia, Mimosa, Bauhinia, and Cercis.
+synopsis: "Electronic supplementary material for the paper Cercis: a Non-Polyploid Genomic Relic within the Generally Polyploid Legume Family, Stai et al., 2019."
 
 scientific_name: Fabaceae
 
+scientific_name_abbrev: fabac
+
 taxid: 3803
-
-bioproject:
-
-scientific_name_abbrev: legume
-
-genotype: genefam
 
 description: "Files in this directory are the electronic supplementary materials for Stai, J.S., Yadav, A., Sinou, C., Bruneau, A., Doyle, J.J., Fernandez-Baca, D., Cannon, S.B. Cercis: a Non-Polyploid Genomic Relic within the Generally Polyploid Legume Family. Frontiers in Plant Science 2019. Most of the supplmentary data files are also held as supplementary data sets for that paper, with the exception of the large files: SD01_65_hmmalign.tar.gz and SD02_65_hmmalign_trim2.tar.gz."
 
-dataset_doi:
+original_file_creation_date: "2019-02-01"
 
-genbank_accession:
-
-original_file_creation_date: 2019-02
-
-local_file_creation_date: 2019-02
+local_file_creation_date: "2019-02-01"
 
 publication_doi: 10.3389/fpls.2019.00345
 
-dataset_release_date: 2019-02-18
+dataset_release_date: "2019-02-18"
 
 publication_title: "Cercis: a Non-Polyploid Genomic Relic within the Generally Polyploid Legume Family"
 
@@ -43,5 +33,4 @@ license: open
 
 keywords: legumes, gene family, Glycine max, Phaseolus vulgaris, Vigna angularis, Vigna radiata, Vigna unguiculata, Cajanus cajan, Medicago truncatula, Cicer arietinum, Trifolium pratense, Lotus japonicus, Lupinus angustifolius, Arachis duranensis, Arachis ipaensis, Arachis hypogaea, Cercis canadensis, Bauhinia tomentosa, Mimosa pudica, Chamaecrista fasciculata, Nissolia schottii
 
-citations: "Legume Federation project gene families, NSF DBI 1444806"
-
+citation: "Legume Federation project gene families, NSF DBI 1444806."
