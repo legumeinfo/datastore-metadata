@@ -1,31 +1,25 @@
 ---
-identifier: FQ8V 
-
-provenance: "Extracted from images in the paper."
-
-source:
+identifier: TT_Florunner_x_araba-araca-aradi_a.map.FQ8V 
 
 synopsis: TT_Florunner_x_A.batizocoi-A.cardenasii-A.diogoi_a, an RFLP genetic map generated from A. hypogaea, var. Florunner crossed with a synthetic interspecies cross of A. batizocoi, A. cardenasii, and A. diogoi.
 
-scientific_name: Arachis hypogaea, Arachis batizocoi, Arachis cardenasii, and Arachis diogoi
+scientific_name: Arachis
 
-taxid: 3818, 108210, 51121, 170720
+taxid: 3817
 
-scientific_name_abbrev: arahy, araba, araca, aradi
+scientific_name_abbrev: arach
 
-genotype: Florunner, K9484, GKP10017, GKP10602
+genotype:
+  - A. hypogaea Florunner
+  - A. batizocoi K9484
+  - A. cardenasii GKP10017
+  - A. diogoi GKP10602
 
 description: "A genetic rflp map generated from a cross of A. hypogaea, var. Florunner with a synthetic amphidiploid, [(A. batizocoi K9484 x (A. cardenasii GKP10017 x A. diogoi GKP10602)]."
 
-dataset_doi: 
+local_file_creation_date: "2015-05-08"
 
-original_file_creation_date:
-
-local_file_creation_date: 2015-05-08
-
-publication_doi:
-
-dataset_release_date: 2018-10-26
+dataset_release_date: "2018-10-26"
 
 publication_title: "Transmission Genetics of Chromatin From a Synthetic Amphidiploid to Cultivated Peanut (Arachis hypogaea L.): Broadening the Gene Pool of a Monophyletic Polyploid Species"
 
@@ -37,7 +31,4 @@ public_access_level: public
 
 license: open
 
-keywords: 
-
-citations: "Mark D. Burow, Charles E. Simpson, James L. Starr, Andrew H. Paterson. Transmission Genetics of Chromatin From a Synthetic Amphidiploid to Cultivated Peanut (Arachis hypogaea L.): Broadening the Gene Pool of a Monophyletic Polyploid Species. Genetics 159(2) pp 823-837 (2001)"
-
+citation: "Mark D. Burow, Charles E. Simpson, James L. Starr, Andrew H. Paterson. Transmission Genetics of Chromatin From a Synthetic Amphidiploid to Cultivated Peanut (Arachis hypogaea L.): Broadening the Gene Pool of a Monophyletic Polyploid Species. Genetics 159(2) pp 823-837 (2001)."

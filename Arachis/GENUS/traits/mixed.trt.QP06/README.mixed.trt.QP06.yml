@@ -1,5 +1,5 @@
 ---
-identifier: QP06
+identifier: mixed.trt.QP06
 
 provenance: "Data in this directory consists of phenotype descriptions and values for the U.S. peanut minicore collection. Data were collected by Dr. Corley Holbrook and colleagues. The peanutbase repository can be considered the primary location of the electronic representation of the data."
 
@@ -7,29 +7,24 @@ source: "https://peanutbase.org/public/"
 
 synopsis: Phenotype descriptions and values for the U.S. peanut minicore collection.
 
-scientific_name: Arachis hypogaea
+scientific_name: Arachis
 
-taxid: 3818
+taxid: 3817
 
-bioproject:
+scientific_name_abbrev: arach
 
-scientific_name_abbrev: arahy
-
-genotype: multiple
+genotype:
+  - multiple
 
 description: "Phenotype descriptions and values for the U.S. peanut minicore collection. Data were collected by Dr. Corley Holbrook and colleagues."
 
-dataset_doi:
+original_file_creation_date: "1996-01-01"
 
-genbank_accession:
+local_file_creation_date: "2018-07-01"
 
-original_file_creation_date: 1996
+publication_doi: 10.3146/i0095-3679-23-1-11
 
-local_file_creation_date: 2018-07-01
-
-publication_doi: https://doi.org/10.3146/i0095-3679-23-1-11
-
-dataset_release_date: 2018-07-09
+dataset_release_date: "2018-07-09"
 
 publication_title: "Screening the Peanut Core Collection for Resistance to Tomato Spotted Wilt Virus"
 
@@ -43,5 +38,4 @@ license: open
 
 keywords: Arachis, peanut, minicore, phenotype, trait descriptors
 
-citations: "W. F. Anderson, C. C. Holbrook, and A. K. Culbreath (1996) Screening the Peanut Core Collection for Resistance to Tomato Spotted Wilt Virus. Peanut Science: January 1996, Vol. 23, No. 1, pp. 57-61."
-
+citation: "W. F. Anderson, C. C. Holbrook, and A. K. Culbreath (1996) Screening the Peanut Core Collection for Resistance to Tomato Spotted Wilt Virus. Peanut Science: January 1996, Vol. 23, No. 1, pp. 57-61."

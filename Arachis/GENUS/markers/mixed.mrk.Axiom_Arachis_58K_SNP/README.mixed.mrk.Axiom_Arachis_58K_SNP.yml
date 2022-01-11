@@ -1,5 +1,5 @@
 ---
-identifier: Axiom_Arachis_58K_SNP
+identifier: mixed.mrk.Axiom_Arachis_58K_SNP
 
 provenance: "Data in this directory derives from a project from the publication by Pandey, Agarwal et al., (2017; see citation field). Placement of the markers on the A. duranensis and A. ipaensis genome assemblies was done by Josh Clevenger in November, 2016, and evaluation and selection of 15746 markers that are polymorphic in A. hypogaea was done by Ye Chu and Josh Clevenger in 2016."
 
@@ -7,29 +7,26 @@ source: "http://legumeinfo.org/data/public/"
 
 synopsis: Selected SNP markers (15746) from the 2016 58k Axiom Arachis array.
 
-scientific_name: Arachis species (several)
+scientific_name: Arachis
 
-taxid: 130453, 130454, 3818, 217475, 51121, 108210
+taxid: 3817
 
-bioproject:
+scientific_name_abbrev: arach
 
-scientific_name_abbrev: arasp
-
-genotype: multiple
+genotype:
+  - A. hypogaea accession
+  - A. duranensis accession
+  - A. ipaensis accesssion
 
 description: "Selected SNP markers from the 2016 58k Axiom Arachis array. The data set contains 15746 markers that are polymorphic in A. hypogaea, and could be mapped to the diploid reference assemblies A. duranensis and A. ipaensis."
 
-dataset_doi:
+original_file_creation_date: "2016-11-01"
 
-genbank_accession:
-
-original_file_creation_date: 2016-11
-
-local_file_creation_date: 2017-02-10
+local_file_creation_date: "2017-02-10"
 
 publication_doi: 10.1038/srep40577
 
-dataset_release_date: 2017-02-10
+dataset_release_date: "2017-02-10"
 
 publication_title: "Development and Evaluation of a High Density Genotyping Axiom_Arachis Array with 58K SNPs for Accelerating Genetics and Breeding in Groundnut"
 
@@ -43,5 +40,4 @@ license: open
 
 keywords: Arachis, peanut, SNP markers, 58k array
 
-citations: "Manish K. Pandey, Gaurav Agarwal, Sandip M. Kale, Josh Clevenger, Spurthi N. Nayak, Manda Sriswathi, Annapurna Chitikineni, Carolina Chavarro, Xiaoping Chen, Hari D. Upadhyaya, Manish K. Vishwakarma, Soraya Leal-Bertioli, Xuanqiang Liang, David J. Bertioli, Baozhu Guo, Scott A. Jackson, Peggy Ozias-Akins & Rajeev K. Varshney. Development and Evaluation of a High Density Genotyping Axiom_Arachis Array with 58K SNPs for Accelerating Genetics and Breeding in Groundnut. Scientific Reports 7:40577 (2017) DOI: https://doi.org/10.1038/srep40577"
-
+citation: "Manish K. Pandey, Gaurav Agarwal, Sandip M. Kale, Josh Clevenger, Spurthi N. Nayak, Manda Sriswathi, Annapurna Chitikineni, Carolina Chavarro, Xiaoping Chen, Hari D. Upadhyaya, Manish K. Vishwakarma, Soraya Leal-Bertioli, Xuanqiang Liang, David J. Bertioli, Baozhu Guo, Scott A. Jackson, Peggy Ozias-Akins & Rajeev K. Varshney. Development and Evaluation of a High Density Genotyping Axiom_Arachis Array with 58K SNPs for Accelerating Genetics and Breeding in Groundnut. Scientific Reports 7:40577 (2017)."

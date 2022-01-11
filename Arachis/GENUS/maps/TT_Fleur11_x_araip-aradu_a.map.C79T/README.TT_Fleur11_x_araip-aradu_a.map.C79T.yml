@@ -1,39 +1,28 @@
 ---
-identifier: C79T 
-
-provenance: "Extracted from images in the two papers."
-
-source:
+identifier: TT_Fleur11_x_araip-aradu_a.map.C79T
 
 synopsis: TT_Fleur11_x_A.ipaensis-A.duranensis_a, an SSR genetic map generated from A. hypogaea var. Fleur11 crossed with a synthetic amphidiploid of A. duranensis and A. ipaensis.
 
-scientific_name: Arachis hypogaea, Arachis duranensis, and Arachis ipaensis
+scientific_name: Arachis
 
-taxid: 3818, 130453, 130454
+taxid: 3817
 
-bioproject:
+scientific_name_abbrev: arach
 
-scientific_name_abbrev: arahy, aradu, araip
-
-genotype: Fleur11, V14167, KG30076
+genotype:
+  - A. hypogaea Fleur11
+  - A. ipaensis KG30076
+  - A. duranensis V14167
 
 description: "An SSR genetic map based on a BC1F1 population ultimately derived from a mating of the cultivated peanut Fleur11 with a synthetic amphidiploid developed from A. ipaensis KG30076 and A. duranensis V14167"
 
-dataset_doi:
+local_file_creation_date: "2015-01-20"
 
-genbank_accession:
+publication_doi: 10.1186/1471-2229-9-103
 
-original_file_creation_date:
+dataset_release_date: "2018-10-26"
 
-local_file_creation_date: 2015-01-20
-
-publication_doi: https://doi.org/10.1186/1471-2229-9-103
-
-dataset_release_date: 2018-10-26
-
-publication_title: 
-  - Genetic mapping of wild introgressions into cultivated peanut: a way toward enlarging the genetic basis of a recent allotetraploid
-  - Fostered and Left Behind Alleles in Peanut: Interspecific QTL Mapping Reveals Footprints of Domestication and Useful Natural Variation for Breeding
+publication_title: "Genetic mapping of wild introgressions into cultivated peanut: a way toward enlarging the genetic basis of a recent allotetraploid"
   
 contributors: "Daniel Fonceka, Tossim Hodo-Abalo, Ronan Rivallan, Issa Faye, Mbaye Ndoye Sall, Ousmane Ndoye, Alessandra P Favero, David J Bertioli, Jean-Christophe Glaszmann, Brigitte Courtois and Jean-Francois Rami"
 
@@ -43,9 +32,4 @@ public_access_level: public
 
 license: open
 
-keywords: 
-
-citations:
-  - Daniel Foncéka, Tossim Hodo-Abalo, Ronan Rivallan, Issa Faye, Mbaye Ndoye Sall, Ousmane Ndoye, Alessandra P Favero, David J Bertioli, Jean-Christophe Glaszmann, Brigitte Courtois & Jean-Francois Rami. Genetic mapping of wild introgressions into cultivated peanut: a way toward enlarging the genetic basis of a recent allotetraploid. BMC Plant Biology 9:103 (2009)
-  - Daniel Fonceka, Hodo-Abalo Tossim, Ronan Rivallan, Hélène Vignes, Issa Faye, Ousmane Ndoye, Márcio C Moretzsohn, David J Bertioli, Jean-Christophe Glaszmann, Brigitte Courtois & Jean-François Rami. Fostered and Left Behind Alleles in Peanut: Interspecific QTL Mapping Reveals Footprints of Domestication and Useful Natural Variation for Breeding. BMC Plant Biology 12:26 (2012)
-  
+citation: "Daniel Foncéka, Tossim Hodo-Abalo, Ronan Rivallan, Issa Faye, Mbaye Ndoye Sall, Ousmane Ndoye, Alessandra P Favero, David J Bertioli, Jean-Christophe Glaszmann, Brigitte Courtois & Jean-Francois Rami. Genetic mapping of wild introgressions into cultivated peanut: a way toward enlarging the genetic basis of a recent allotetraploid. BMC Plant Biology 9:103 (2009)."

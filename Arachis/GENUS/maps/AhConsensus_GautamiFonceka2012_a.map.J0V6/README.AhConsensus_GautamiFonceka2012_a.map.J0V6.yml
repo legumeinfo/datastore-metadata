@@ -1,35 +1,28 @@
 ---
-identifier: J0V6 
-
-provenance: "Supplementary materials for the paper."
+identifier: AhConsensus_GuatamiFonceka2012_a.map.J0V6 
 
 source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399818/bin/pone.0041213.s005.xls"
 
 synopsis: TT_AhConsensus_GautamiFonceka2012_a, a reference consensus genetic map for A. hypogaea
 
-scientific_name: Arachis hypogaea
+scientific_name: Arachis
 
-taxid: 3818
+taxid: 3817
 
-bioproject:
-
-scientific_name_abbrev: arahy
+scientific_name_abbrev: arach
 
 genotype:
+  - 11 mapping populations
 
 description: "A reference consensus genetic map for A. hypogaea developed from segregating genotype data and common markers from 10 recombinant inbred lines and 1 backcross population."
 
-dataset_doi:
+original_file_creation_date: "2012-07-18"
 
-genbank_accession:
+local_file_creation_date: "2015-05-22"
 
-original_file_creation_date: 2012-07-18
+publication_doi: 10.1371/journal.pone.0041213 
 
-local_file_creation_date: 2015-05-22
-
-publication_doi: https://doi.org/10.1371/journal.pone.0041213 
-
-dataset_release_date: 2018-10-26
+dataset_release_date: "2018-10-26"
 
 publication_title: "An international reference consensus genetic map with 897 marker loci based on 11 mapping populations for tetraploid groundnut (Arachis hypogaea L.)."
 
@@ -41,7 +34,4 @@ public_access_level: public
 
 license: open
 
-keywords: 
-
-citations: "Gautami B, Foncéka D, Pandey MK, Moretzsohn MC, Sujay V, Qin H, Hong Y, Faye I, Chen X, BhanuPrakash A, Shah TM, Gowda MV, Nigam SN, Liang X, Hoisington DA, Guo B, Bertioli DJ, Rami JF, Varshney RK.  An international reference consensus genetic map with 897 marker loci based on 11 mapping populations for tetraploid groundnut (Arachis hypogaea L.). PLoS One 7(7):e41213 (2012)"
-
+citation: "Gautami B, Foncéka D, Pandey MK, Moretzsohn MC, Sujay V, Qin H, Hong Y, Faye I, Chen X, BhanuPrakash A, Shah TM, Gowda MV, Nigam SN, Liang X, Hoisington DA, Guo B, Bertioli DJ, Rami JF, Varshney RK.  An international reference consensus genetic map with 897 marker loci based on 11 mapping populations for tetraploid groundnut (Arachis hypogaea L.). PLoS One 7(7):e41213 (2012)."
