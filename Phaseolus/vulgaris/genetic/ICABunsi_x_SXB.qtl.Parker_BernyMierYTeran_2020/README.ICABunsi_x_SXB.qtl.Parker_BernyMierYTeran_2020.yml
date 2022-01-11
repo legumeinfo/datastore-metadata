@@ -1,39 +1,23 @@
 identifier: ICABunsi_x_SXB.qtl.Parker_BernyMierYTeran_2020
   
-provenance: 
-
-source: 
-
 synopsis: "Study of Pod Dehiscence QTLs, in PD-susceptible x resistant RIL population of 238 individuals."
-
-related_to: 
 
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject: 
-
 scientific_name_abbrev: phavu
 
 genotype: 
-  - "ICA Bunsi (PD-susceptible) x SXB 405 (PD-resistant) recombinant inbred mapping population, with sets of 238 and 191 RILs."
+  - ICA Bunsi (PD-susceptible) x SXB 405 (PD-resistant) recombinant inbred mapping population, with sets of 238 and 191 RILs.
 
 description: "Pod Dehiscence QTLs were identified using three phenotyping methods and an ICA Bunsi (PD-susceptible) x SXB 405 (PD-resistant) recombinant inbred mapping population.  An unreplicated spring planting of 238 RIL field plots were visually evaluated for dehiscence.  A replicated summer planting produced mature, non-dehiscing pods from 191 RILs that were phenotyped in two ways: the proportion of pods dehiscing after 7 days in a 65 C dessicator and 7 subsequent days at room temperature, and peak force required to induce pod fracture at the apical end of the pod beak measured with an Imada force measurement guage.  Composite interval mapping was completed with the R package R/qtl."
 
-dataset_doi: 
-
-genbank_accession: 
-
 genotyping_platform: BARCBean6K
 
-original_file_creation_date: 
+local_file_creation_date: "2021-12-09"
 
-local_file_creation_date: 2021-12-09
-
-publication_doi: "10.1111/nph.16164"
-
-dataset_release_date: 
+publication_doi: 10.1111/nph.16164
 
 publication_title: "Pod indehiscence is a domestication and aridity resilience trait in common bean"
 
@@ -45,6 +29,4 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Parker TA, Berny Mier Y Teran JC, Palkovic A, Jernstedt J, Gepts P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 2020 Jan;225(1):558-570. doi: 10.1111/nph.16164. Epub 2019 Oct 11. PMID: 31486530."
+citation: "Parker TA, Berny Mier Y Teran JC, Palkovic A, Jernstedt J, Gepts P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 2020 Jan;225(1):558-570."

@@ -1,5 +1,5 @@
 ---
-identifier: PB8d
+identifier: g19833.GNM2.ANN1.pbb8D
 
 provenance: "The files in this directory originated from http://phytozome.jgi.doe.gov. The Phytozome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
@@ -11,23 +11,13 @@ scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject:
+scientific_name_abbrev: phavu
 
-scientific_name_abbrev: phavu.G19833
-
-genotype: G19833
+genotype:
+  - G19833
 
 description: "Genome annotations for the Phaseolus vulgaris G19833 v2 genome assembly."
 
-dataset_doi: 
-genbank_accession:
-
-original_file_creation_date: 
-local_file_creation_date: 
-publication_doi:
-
-dataset_release_date: 
-publication_title: 
 contributors: "Scott Jackson, Phil McClean, Jeremy Schmutz"
 
 data_curators: Jacqueline D. Campbell
@@ -35,7 +25,4 @@ data_curators: Jacqueline D. Campbell
 public_access_level: public
 
 license: open 
-
-keywords: 
-citations:
 

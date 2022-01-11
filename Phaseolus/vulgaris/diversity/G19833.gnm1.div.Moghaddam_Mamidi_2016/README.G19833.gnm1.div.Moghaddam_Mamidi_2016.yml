@@ -1,38 +1,27 @@
 ---
-identifier: Moghaddam_Mamidi_2016
+identifier: g19833.gnm1.div.Moghaddam_Mamidi_2016
 
-provenance: "Data in this directory comes from Dr. Phil McClean, as a representative for the U.S. Bean CAP project."
-The present repository (legumeinfo.org) is currently the primary public repository for the files in this directory.
+provenance: "Data in this directory comes from Dr. Phil McClean, as a representative for the U.S. Bean CAP project. The present repository (legumeinfo.org) is currently the primary public repository for the files in this directory."
 
-source:
-
-synopsis: Genotyping (variant) data for two diverse collections of Phaseolus vulgaris accessions: the Mesoamerican Diversity Panel (MDP) and the Andean Diversity Panel (ADP)
+synopsis: "Genotyping (variant) data for two diverse collections of Phaseolus vulgaris accessions: the Mesoamerican Diversity Panel (MDP) and the Andean Diversity Panel (ADP)."
 
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject:
+scientific_name_abbrev: phavu
 
-scientific_name_abbrev: Phaseolus vulgaris
-
-genotype: multiple
+genotype:
+  - Mesoamerican Diversity Panel (MDP)
+  - Andean Diversity Panel (ADP)
 
 description: "Files in this collection include genotype assessments (SNP calls) of diverse lines in the Mesoamerican Diversity Panel (MDP) and the Andean Diversity Panel (ADP). Further description from Dr. Samira Mafi Moghaddam, 2016-10: Three platforms were used for genotyping. Imputed and unimputed versions are included for all three. 1) Illumina iselect gene chip for 517 genotypes from the beanCAP project. This population includes genotypes from both the Middle American and the Andean gene pools and includes some snap beans. 2) Single enzyme low-pass sequencing (ApekI) which was used to genotype the MDP (284 genotypes). 3) Double enzyme low-pass sequencing (TaqI and MseI) which was used to genotype MDP, ADP and BASE120 populations (712 genotypes). For the double enzyme low-pass sequencing with 712 genotypes, the heterozygote calls are converted to missing and the intermediate file which contains the heterozygotes is not available as of October, 2016. The 10k chip, single enzyme, and double enzyme low-pass sequencing platforms were merged and imputed for 280 MDP genotypes. The double enzyme low-pass sequencing was imputed before this merge but the other two platforms were imputed after the merge (Therefore there is an additional imputed file for the 712 genotypes but not the other two). The 280 MDP imputed data set is in tab delimited and numeric format (0 and 2 for homozygotes and there are no heterozygotes) and therefore has a separate file that indicated the SNP positions. All the SNPs are mapped to Phaseolus vulgaris V1 assembly."
 
-dataset_doi:
+original_file_creation_date: "2016-01-01"
 
-genbank_accession:
+local_file_creation_date: "2017-12-22"
 
-original_file_creation_date: 2016
-
-local_file_creation_date: 2017-12-22
-
-publication_doi:
-
-dataset_release_date: 2017-01
-
-publication_title:
+dataset_release_date: "2017-01-01"
 
 contributors: "Dr. Phil McClean, Dr. Sujan Mamidi, Dr. Perry Cregan, Dr. Qijian Song, Dr. Samira Mafi Moghaddam, Bean CAP collaborators"
 
@@ -42,9 +31,4 @@ public_access_level: public
 
 license: Open
 
-keywords:
-
-citations: 
-  - Moghaddam, S. M., Mamidi, S., Osorno, J. M., Lee, R., Brick, M., Kelly, J., ... & Grimwood, J. (2016). Genome-wide association study identifies candidate loci underlying agronomic traits in a Middle American diversity panel of common bean. The plant genome, 9(3).
-  - Oladzad, A., Porch, T., Rosas, J. C., Moghaddam, S. M., Beaver, J., Beebe, S. E., ... & Ratz, B. (2019). Single and Multi-trait GWAS Identify Genetic Factors Associated with Production Traits in Common Bean Under Abiotic Stress Environments. G3: Genes, Genomes, Genetics, 9(6), 1881-1892.
-
+citation: Moghaddam, S. M., Mamidi, S., Osorno, J. M., Lee, R., Brick, M., Kelly, J., et al., Grimwood, J. (2016). Genome-wide association study identifies candidate loci underlying agronomic traits in a Middle American diversity panel of common bean. The plant genome, 9(3)."

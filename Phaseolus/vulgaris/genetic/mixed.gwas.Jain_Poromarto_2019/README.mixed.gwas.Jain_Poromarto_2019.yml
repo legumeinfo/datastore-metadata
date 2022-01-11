@@ -1,39 +1,23 @@
 identifier: mixed.gwas.Jain_Poromarto_2019
   
-provenance: 
-
-source: 
-
 synopsis: "GWAS of Soybean cyst nematode (Heterodera glycines) resistance in common bean, relative to G19833 assembly 1."
-
-related_to: 
 
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject: 
-
 scientific_name_abbrev: phavu
 
 genotype: 
-  - "317 plant introduction lines from the USD core collection, varying in response to soybean cyst nematode (SCN) type 0."
+  - 317 plant introduction lines from the USD core collection, varying in response to soybean cyst nematode (SCN) type 0
 
 description: "Common bean (Phaseolus vulgaris L.) is an important high protein crop grown worldwide. North Dakota and Minnesota are the largest producers of common beans in the USA, but crop production is threatened by soybean cyst nematode (SCN; Heterodera glycines Ichinohe) because most current cultivars are susceptible. Greenhouse screening data using SCN HG type 0 from 317 plant introductions (PI's) from the USDA core collection was used to conduct a genome wide association study (GWAS). These lines were divided into two subpopulations based on principal component analysis (Middle American vs. Andean). Phenotypic results based on the female index showed that accessions could be classified as highly resistant (21% and 27%), moderately resistant (51% and 48%), moderately susceptible (27% and 22%) and highly susceptible (1% and 3%) for Middle American and Andean gene pools, respectively. Mixed models with two principal components (PCs) and kinship matrix for Middle American genotypes and Andean genotypes were used in the GWAS analysis using 3,985 and 4,811 single nucleotide polymorphic (SNP) markers, respectively which were evenly distributed across all 11 chromosomes. Significant peaks on Pv07, and Pv11 in Middle American and on Pv07, Pv08, Pv09 and Pv11 in Andean group were found to be associated with SCN resistance. Homologs of soybean rhg1, a locus which confers resistance to SCN in soybean, were identified on chromosomes Pv01 and Pv08 in the Middle American and Andean gene pools, respectively. These genomic regions may be the key to develop SCN-resistant common bean cultivars."
 
-dataset_doi: 
-
-genbank_accession: 
-
 genotyping_platform: BARCBean6K
 
-original_file_creation_date: 
-
-local_file_creation_date: 2021-12-09
+local_file_creation_date: "2021-12-09"
 
 publication_doi: "10.1371/journal.pone.0212140"
-
-dataset_release_date: 
 
 publication_title: "A genome-wide association and meta-analysis reveal regions associated with seed size in cowpea [Vigna unguiculata (L.) Walp]"
 
@@ -45,6 +29,4 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Jain S, Poromarto S, Osorno JM, McClean PE, Nelson BD. Genome wide association study discovers genomic regions involved in resistance to soybean cyst nematode (Heterodera glycines) in common bean. PLoS One. 2019 Feb 7;14(2):e0212140. doi: 10.1371/journal.pone.0212140. PMID: 30730982; PMCID: PMC6366866."
+citation: "Jain S, Poromarto S, Osorno JM, McClean PE, Nelson BD. Genome wide association study discovers genomic regions involved in resistance to soybean cyst nematode (Heterodera glycines) in common bean. PLoS One. 2019 Feb 7;14(2):e0212140."

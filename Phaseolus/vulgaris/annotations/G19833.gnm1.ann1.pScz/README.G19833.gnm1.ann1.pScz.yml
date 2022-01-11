@@ -13,9 +13,10 @@ taxid: 3885
 
 bioproject: PRJNA41439
 
-scientific_name_abbrev: phavu.G19833
+scientific_name_abbrev: phavu
 
-genotype: G19833
+genotype:
+  - G19833
 
 description: "Genome annotations for the Phaseolus vulgaris G19833 v1 genome assembly."
 
@@ -39,4 +40,4 @@ public_access_level: public
 
 license: open
 
-citations: "Jeremy Schmutz, Phillip E McClean, Sujan Mamidi, G Albert Wu, Steven B Cannon, Jane Grimwood, Jerry Jenkins, Shengqiang Shu, Qijian Song, Carolina Chavarro, Mirayda Torres-Torres, Valerie Geffroy, Samira Mafi Moghaddam, Dongying Gao, Brian Abernathy, Karrie Barry, Matthew Blair, Mark A Brick, Mansi Chovatia, Paul Gepts, David M Goodstein, Michael Gonzales, Uffe Hellsten, David L Hyten, Gaofeng Jia, James D Kelly, Dave Kudrna, Rian Lee, Manon M S Richard, Phillip N Miklas, Juan M Osorno, Josiane Rodrigues, Vincent Thareau, Carlos A Urrea, Mei Wang, Yeisoo Yu, Ming Zhang, Rod A Wing, Perry B Cregan, Daniel S Rokhsar and Scott A Jackson. A reference genome for common bean and genome-wide analysis of dual domestications. Nature Genetics 46, 707 - 713 (2014). http://dx.doi.org/10.1038/ng.3008"
+citation: "Jeremy Schmutz, Phillip E McClean, Sujan Mamidi, G Albert Wu, Steven B Cannon, Jane Grimwood, Jerry Jenkins, Shengqiang Shu, Qijian Song, Carolina Chavarro, Mirayda Torres-Torres, Valerie Geffroy, Samira Mafi Moghaddam, Dongying Gao, Brian Abernathy, Karrie Barry, Matthew Blair, Mark A Brick, Mansi Chovatia, Paul Gepts, David M Goodstein, Michael Gonzales, Uffe Hellsten, David L Hyten, Gaofeng Jia, James D Kelly, Dave Kudrna, Rian Lee, Manon M S Richard, Phillip N Miklas, Juan M Osorno, Josiane Rodrigues, Vincent Thareau, Carlos A Urrea, Mei Wang, Yeisoo Yu, Ming Zhang, Rod A Wing, Perry B Cregan, Daniel S Rokhsar and Scott A Jackson. A reference genome for common bean and genome-wide analysis of dual domestications. Nature Genetics 46, 707 - 713 (2014)."

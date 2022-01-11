@@ -1,39 +1,23 @@
 identifier: mixed.gwas.Myers_Wallace_2019
   
-provenance: 
-
-source: 
-
 synopsis: "GWAS of total phenolic content of pods, pod color, and flower color in Snap beans, relative to the G19833 assembly 2."
-
-related_to: 
 
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject: 
-
 scientific_name_abbrev: phavu
 
 genotype: 
-  - "the Bean Coordinated Agriculture Program (CAP) snap bean diversity panel of 149 accessions."
+  - Bean Coordinated Agriculture Program (CAP) snap bean diversity panel of 149 accessions
 
 description: "Snap beans are a significant source of micronutrients in the human diet. Among the micronutrients present in snap beans are phenolic compounds with known beneficial effects on human health, potentially via their metabolism by the gut-associated microbiome. The genetic pathways leading to the production of phenolics in snap bean pods remain uncertain. In this study, we quantified the level of total phenolic content (TPC) in the Bean Coordinated Agriculture Program (CAP) snap bean diversity panel of 149 accessions. The panel was characterized spectrophotometrically for phenolic content with a Folin-Ciocalteu colorimetric assay. Flower, seed and pod color were also quantified, as red, purple, yellow and brown colors are associated with anthocyanins and flavonols in common bean. Genotyping was performed through an Illumina Infinium Genechip BARCBEAN6K_3 single nucleotide polymorphism (SNP) array. Genome-Wide Association Studies (GWAS) analysis identified 11 quantitative trait nucleotides (QTN) associated with TPC. An SNP was identified for TPC on Pv07 located near the P gene, which is a major switch in the flavonoid biosynthetic pathway. Candidate genes were identified for seven of the 11 TPC QTN. Five regulatory genes were identified and represent novel sources of variation for exploitation in developing snap beans with higher phenolic levels for greater health benefits to the consumer."
 
-dataset_doi: 
-
-genbank_accession: 
-
 genotyping_platform: BARCBean6K
 
-original_file_creation_date: 
-
-local_file_creation_date: 2021-12-09
+local_file_creation_date: "2021-12-09"
 
 publication_doi: "10.3390/nu11102509"
-
-dataset_release_date: 
 
 publication_title: "Improving the Health Benefits of Snap Bean: Genome-Wide Association Studies of Total Phenolic Content"
 
@@ -45,6 +29,4 @@ public_access_level: public
 
 license: Open
 
-keywords: 
-
-citations: "Myers JR, Wallace LT, Mafi Moghaddam S, Kleintop AE, Echeverria D, Thompson HJ, Brick MA, Lee R, McClean PE. Improving the Health Benefits of Snap Bean: Genome-Wide Association Studies of Total Phenolic Content. Nutrients. 2019 Oct 18;11(10):2509."
+citation: "Myers JR, Wallace LT, Mafi Moghaddam S, Kleintop AE, Echeverria D, Thompson HJ, Brick MA, Lee R, McClean PE. Improving the Health Benefits of Snap Bean: Genome-Wide Association Studies of Total Phenolic Content. Nutrients. 2019 Oct 18;11(10):2509."

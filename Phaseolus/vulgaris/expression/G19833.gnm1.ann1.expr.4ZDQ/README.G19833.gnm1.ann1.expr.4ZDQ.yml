@@ -1,23 +1,27 @@
 ---
-identifier: 4ZDQ
+identifier: G19833.gnm1.ann1.expr.4ZDQ
+
 provenance: "LIS expression dataset phavu1 (Bean expression atlas Negro jamapa)."
-source: "SRA, PRJNA210619."
+
 scientific_name: Phaseolus vulgaris
-taxid: 
+
+taxid: 3885
+
 bioproject: PRJNA210619
+
 scientific_name_abbrev: phavu
-genotype: 
+
+genotype:
+  - G19833
+  
+synopsis: "LIS expression dataset phavu1 (An RNA-Seq based gene expression atlas of the common bean cv. Negro jamapa)."
+
 description: "LIS expression dataset phavu1 (An RNA-Seq based gene expression atlas of the common bean cv. Negro jamapa)."
-dataset_doi: 
-genbank_accession: 
-original_file_creation_date: 
-local_file_creation_date: Feb 2017
-publication_doi: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4195886/
-dataset_release_date:  
-publication_title: "O'Rourke JA, Iniguez LP, Fu F, Bucciarelli B, Miller SS, Jackson SA, McClean PE, Li J, Dai X, Zhao PX, Hernandez G, Vance CP. An RNA-Seq based gene expression atlas of the common bean. BMC Genomics. 2014 Oct 6;15:866. doi:10.1186/1471-2164-15-866. PMID: 25283805; PMCID:PMC4195886."
-contributors: 
-data_curators: 
-public_access_level: 
+
+local_file_creation_date: "2017-01-01"
+
+publication_doi: 10.1186/1471-2164-15-866
+
+publication_title: "O'Rourke JA, Iniguez LP, Fu F, Bucciarelli B, Miller SS, Jackson SA, McClean PE, Li J, Dai X, Zhao PX, Hernandez G, Vance CP. An RNA-Seq based gene expression atlas of the common bean. BMC Genomics. 2014 Oct 6;15:866."
+
 license: open
-keywords: 
-citations: 

@@ -11,11 +11,10 @@ scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject:
-
 scientific_name_abbrev: phavu
 
-genotype: UI111
+genotype:
+  - UI111
 
 description: "Genome annotations for the Phaseolus vulgaris UI111 v1 genome assembly."
 
