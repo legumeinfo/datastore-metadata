@@ -5,7 +5,7 @@ provenance: "The files in this directory originated from http://www.lupinexpress
 
 source: "http://www.lupinexpress.org"
 
-synopsis: genome assembly, including scaffold assemblies, pseudomolecule assemblies, and information for anchoring scaffolds into pseudomolecules.
+synopsis: Genome assembly, including scaffold assemblies, pseudomolecule assemblies, and information for anchoring scaffolds into pseudomolecules for Lupinus angustifolius (Tanjil).
 
 scientific_name: Lupinus angustifolius
 
@@ -18,30 +18,16 @@ scientific_name_abbrev: lupan
 genotype: 
   - Tanjil
 
-description: "Genome assembly (scaffolds, pseudomolecules, and information about scaffold placement in pseudomolecules), for Lupinus angustifolius."
-
-dataset_doi: 
-
-genbank_accession: 
-
-original_file_creation_date: 
-
-local_file_creation_date: 
+description: "Genome assembly (scaffolds, pseudomolecules, and information about scaffold placement in pseudomolecules), for Lupinus angustifolius (Tanjil)."
 
 publication_doi: 10.1111/pbi.12615
-
-dataset_release_date: 
 
 publication_title: "A comprehensive draft genome sequence for lupin (Lupinus angustifolius), an emerging health food: Insights into plant-microbe interactions and legume evolution"
 
 contributors: "James K. Hane, Yao Ming, Lars G. Kamphuis, Matthew N. Nelson, Gagan Garg, Craig A. Atkins, Philipp E. Bayer, Armando Bravo, Scott Bringans, Steven Cannon, David Edwards, Rhonda Foley, Ling-ling Gao, Maria J. Harrison, Wei Huang, Bhavna Hurgobin, Sean Li, Cheng-Wu Liu, Annette McGrath, Grant Morahan, Jeremy Murray, James Weller, Jianbo Jian, Karam B. Singh"
 
-data_curators: 
-
 public_access_level: Public
 
 license: Open
 
-keywords: 
-
-citations: "James K. Hane, Yao Ming, Lars G. Kamphuis, Matthew N. Nelson, Gagan Garg, Craig A. Atkins, Philipp E. Bayer, Armando Bravo, Scott Bringans, Steven Cannon, David Edwards, Rhonda Foley, Ling-ling Gao, Maria J. Harrison, Wei Huang, Bhavna Hurgobin, Sean Li, Cheng-Wu Liu, Annette McGrath, Grant Morahan, Jeremy Murray, James Weller, Jianbo Jian, Karam B. Singh (2016) A comprehensive draft genome sequence for lupin (Lupinus angustifolius), an emerging health food: Insights into plant-microbe interactions and legume evolution. Plant Biotechnology Journal, DOI: 10.1111/pbi.12615"
+citation: "Hane, J. K. et al. A comprehensive draft genome sequence for lupin (Lupinus angustifolius), an emerging health food: insights into plant-microbe interactions and legume evolution. Plant Biotechnology Journal vol. 15 318–330 (2017)"

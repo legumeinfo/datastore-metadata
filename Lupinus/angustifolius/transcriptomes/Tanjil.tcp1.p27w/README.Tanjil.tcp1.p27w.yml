@@ -1,33 +1,28 @@
 ---
-identifier: p27w
+identifier: Tanjil.tcp1.p27w
 
-provenance: "The files in this directory originated from http://www.lupinexpress.org."
-The LupinExpress repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under "Transformations" where applicable), then please also cite the respective database project(s) related to this directory.
+provenance: "The files in this directory originated from http://www.lupinexpress.org. The LupinExpress repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
-source: "http://www.lupinexpress.org"
+source: "http://www.lupinexpress.org/"
 
-synopsis: transcriptome assembly
+synopsis: transcriptome assembly for Lupinus angustifolius (Tanjil)
 
 scientific_name: Lupinus angustifolius
 
 taxid: 3871
 
-bioproject: http://www.ncbi.nlm.nih.gov/bioproject/248164
+bioproject: PRJNA248164
 
 scientific_name_abbrev: lupan
 
-genotype: Tanjil
+genotype:
+  - Tanjil
 
-description: "Transcriptome assembly, using Trinity."
+description: "Transcriptome assembly, using Trinity, for Lupinus angustifolius (Tanjil)"
 
-dataset_doi: 
-genbank_accession: 
-original_file_creation_date: 
-local_file_creation_date: 
-publication_doi:
-
-dataset_release_date: 
 publication_title: "Transcriptome sequencing of different narrow-leafed lupin tissue types provides a comprehensive uni-gene assembly and extensive gene-based molecular markers."
+
+publication_doi: 10.1111/pbi.12229
 
 contributors: "Kamphuis LG, Hane JK, Nelson MN, Gao L, Atkins CA, Singh KB."
 
@@ -37,6 +32,4 @@ public_access_level: Public
 
 license: Open
 
-keywords: 
-citations: "Kamphuis LG, Hane JK, Nelson MN, Gao L, Atkins CA, Singh KB. Transcriptome sequencing of different narrow-leafed lupin tissue types provides a comprehensive uni-gene assembly and extensive gene-based molecular markers. Plant Biotechnology Journal. 2015;13(1):14-25. doi:10.1111/pbi.12229."
-
+citation: "Kamphuis LG, Hane JK, Nelson MN, Gao L, Atkins CA, Singh KB. Transcriptome sequencing of different narrow-leafed lupin tissue types provides a comprehensive uni-gene assembly and extensive gene-based molecular markers. Plant Biotechnology Journal. 2015;13(1):14-25."
