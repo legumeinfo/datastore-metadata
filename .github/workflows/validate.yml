@@ -1,0 +1,45 @@
+---
+name: Validate
+on: [push]  # yamllint disable-line rule:truthy
+jobs:
+  yamllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: yamllint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          config_data: |
+            extends: default
+            rules:
+              document-start: disable
+              empty-lines: disable
+              trailing-spaces: disable
+              line-length:
+                max: 2000
+
+  schema-validate-readme:
+    runs-on: ubuntu-latest
+    env:
+      AJV_OPTS: '-c ajv-formats --verbose --coerce-types=array --remove-additional=true --changes'
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: legumeinfo/datastore-specifications
+          path: datastore-specifications
+      - uses: actions/checkout@v2
+        with:
+          path: datastore-metadata
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Install AJV
+        run: npm install -g ajv-cli@5.0.0 ajv-formats@2.1.1
+      - name: Check READMEs
+        run: ajv ${AJV_OPTS} -s datastore-specifications/readme.schema.json -d '**/README.*.yml'
+      - name: Check genera
+        if: always()
+        run: ajv ${AJV_OPTS} -s datastore-specifications/description_genus.schema.json -d '**/GENUS/about_this_collection/description_*.yml'
+      - name: Check species
+        if: always()
+        run: ajv ${AJV_OPTS} -s datastore-specifications/description_genus_species.schema.json -d 'datastore-metadata/!(LEGUMES)/**/description_*_*.yml'
