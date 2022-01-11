@@ -1,11 +1,11 @@
 ---
-identifier: XT6J
+identifier: R108_HM340.gnm1.XT6G
 
 provenance: "Data in this directory derives from the NSF-funded Medicago HapMap project; project website: http://www.medicagohapmap.org"
 
 source: "http://www.medicagohapmap.org/downloads/r108"
 
-synopsis: genome assembly
+synopsis: Genome assembly for Medicago truncatula R108 (HM340)
 
 scientific_name: Medicago truncatula
 
@@ -15,21 +15,18 @@ bioproject: PRJNA256006
 
 scientific_name_abbrev: medtr
 
-genotype: R108_HM340
+genotype:
+  - R108 (HM340)
 
-description: "DESCRIPTION"
+description: "Genome assembly for Medicago truncatula ()"
 
-dataset_doi:
+original_file_creation_date: "2015-04-29"
 
-genbank_accession:
-
-original_file_creation_date: 2015-04-29
-
-local_file_creation_date: 2018-04-07
+local_file_creation_date: "2018-04-07"
 
 publication_doi: 10.1186/s12864-017-3971-4
 
-dataset_release_date: 2018-04-13
+dataset_release_date: "2018-04-13"
 
 publication_title: "Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula"
 
@@ -41,7 +38,4 @@ public_access_level: public
 
 license: Open
 
-keywords:
-
-citations: "Moll KM, Zhou P, Ramaraj T, Fajardo D, Devitt NP, Sadowsky MJ, Stupar RM, Tiffin P, Miller JR, Young ND, Silverstein KAT, Mudge J. Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula. BMC Genomics. 2017 Aug 4;18(1):578. doi: 10.1186/s12864-017-3971-4."
-
+citation: "Moll KM, Zhou P, Ramaraj T, Fajardo D, Devitt NP, Sadowsky MJ, Stupar RM, Tiffin P, Miller JR, Young ND, Silverstein KAT, Mudge J. Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, Medicago truncatula. BMC Genomics. 2017 Aug 4;18(1):578."

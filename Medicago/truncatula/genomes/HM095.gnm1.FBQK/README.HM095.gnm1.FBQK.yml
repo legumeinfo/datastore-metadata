@@ -1,11 +1,11 @@
 ---
-identifier: FBQK
+identifier: HM095.gnm1.FBQK
 
 provenance: "Data in this directory derives from the NSF-funded Medicago HapMap project; project website: http://www.medicagohapmap.org"
 
 source: "http://www.medicagohapmap.org/downloads/assemblies"
 
-synopsis: genome assembly
+synopsis: Genome assembly for Medicago truncatula (HM095)
 
 scientific_name: Medicago truncatula
 
@@ -15,21 +15,18 @@ bioproject: PRJNA256006
 
 scientific_name_abbrev: medtr
 
-genotype: HM095
+genotype:
+  - HM095
 
-description: "DESCRIPTION"
+description: "Genome assembly for Medicago truncatula (HM095)."
 
-dataset_doi:
+original_file_creation_date: "2015-04-29"
 
-genbank_accession:
-
-original_file_creation_date: 2015-04-29
-
-local_file_creation_date: 2018-04-07
+local_file_creation_date: "2018-04-07"
 
 publication_doi: 10.1186/s12864-017-3654-1
 
-dataset_release_date: 2018-04-13
+dataset_release_date: "2018-04-13"
 
 publication_title: "Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes"
 
@@ -41,7 +38,4 @@ public_access_level: public
 
 license: Open
 
-keywords:
-
-citations: "Zhou P, Silverstein KA, Ramaraj T, Guhlin J, Denny R, Liu J, Farmer AD, Steele KP, Stupar RM, Miller JR, Tiffin P, Mudge J, Young ND. Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes. BMC Genomics. 2017 Mar 27;18(1):261. doi: 10.1186/s12864-017-3654-1."
-
+citation: "Zhou P, Silverstein KA, Ramaraj T, Guhlin J, Denny R, Liu J, Farmer AD, Steele KP, Stupar RM, Miller JR, Tiffin P, Mudge J, Young ND. Exploring structural variation and gene family architecture with De Novo assemblies of 15 Medicago genomes. BMC Genomics. 2017 Mar 27;18(1):261."
