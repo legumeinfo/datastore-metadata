@@ -1,43 +1,29 @@
 ---
-identifier: R1MT
+identifier: mixed.pan1.R1MT
 
 provenance: "The files in this directory are a product of the staff of the SoyBase and LegumeInfo project teams. The method is described here: https://github.com/LegumeFederationDataStore/about_the_data_store/tree/master/allelic_pangene_method"
 
-source: "https://soybase.org"
+source: "https://soybase.org/"
 
-synopsis: Pangene sets for Glycine soja and Glycine max, spanning 6 annotations: two G. soja accessions and G. max accessions Lee, Zhonghuang 13, and Williams 82 (annotations 2 and 4).
+synopsis: "Pangene sets for Glycine soja and Glycine max, spanning 6 annotations: two G. soja accessions and G. max accessions Lee, Zhonghuang 13, and Williams 82 (annotations 2 and 4)."
 
-scientific_name: 
-  - Glycine max
-  - Glycine soja
+scientific_name: Glycine
 
-taxid: 
-  - 3847
-  - 3848
+taxid: 3846
 
-bioproject:
+scientific_name_abbrev: glyci
 
-scientific_name_abbrev: 
-  - glyma
-  - glyso
-
-genotype: Multiple genotypes
+genotype:
+  - Glycine max accessions
+  - Glycine soja accessions
 
 description: "Pangene sets for Glycine soja and Glycine max"
 
-dataset_doi:
+original_file_creation_date: "2019-08-01"
 
-genbank_accession:
+local_file_creation_date: "2020-05-01"
 
-original_file_creation_date: 2019-08
-
-local_file_creation_date: 2020-05
-
-publication_doi: 
-
-dataset_release_date: 2020-05
-
-publication_title:
+dataset_release_date: "2020-05-01"
 
 contributors: "Steven Cannon, Wei Huang"
 
@@ -48,6 +34,3 @@ public_access_level: public
 license: open
 
 keywords: soybean, pangene set
-
-citations:
-
