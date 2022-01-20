@@ -1,20 +1,32 @@
 ---
 taxid: 33129
-genus: Phaseolus
+genus: Phaseolus 
 species: acutifolius
 abbrev: phaac
 commonName: tepary bean
 description: "The tepary bean (Phaseolus acutifolius), native to the Southwestern United States and northern Mexico, has been cultivated by indigenous groups in that region since pre-Columbian times. It is generally more drought-tolerant than common bean"
-
+resources: 
+  -
+    name: LIS Genome Browser (GBrowse)
+    URL: "https://legumeinfo.org/genomes/gbrowse/phaac.Frijol_Bayo.gnm1"
+    description: "GBrowse for Frijol_Bayo assembly v1.0"
+  -
+    name: LIS Genome Browser (JBrowse)
+    URL: "https://legumeinfo.org/genomes/jbrowse/?data=phaac.Frijol_Bayo.gnm1"
+    description: "JBrowse for Frijol_Bayo assembly v1.0"
+    
 strains:
   -
-    identifier: "Frijol Bayo"
+    identifier: "Frijol Bayo"   
     name: "Frijol Bayo"
     origin: Veracruz, Mexico
-    description: "[Description by Dr. Phil McClean] The cultivated landrace, Frijol Bayo, was collected in a market in Cordoba, Veracruz, Mexico in 1951 by Howard Scott Gentry. Frijol Bayo is white-seeded, photoperiod insensitive with indeterminate growth habit, and has a hundred seed weight of 12.3 g. It exhibits broad adaptation and is drought (Beebe et al., 2011) and heat (Rodriguez, 2018) tolerant. With respect to biotic stress, it is resistant to common bacterial blight (Rodriguez, 2018), Uromyces appendiculatus, and two leaf hoppers, Empoasca krameri and Phaeoisariopsis griseola (Porch, T., unpublished data).  DNA for the Frijol Bayo genome assembly was isolated from leaves from single seed descent; seeds for Frijol Bayo are available from USDA GRIN (G40001-Seq; PI 692269)."
+    description: "[Description by Dr. Phil McClean] The cultivated landrace, Frijol Bayo, was collected in a market in Cordoba, Veracruz, Mexico in 1951 by Howard Scott Gentry. Frijol Bayo is white-seeded, photoperiod insensitive with indeterminate growth habit, and has a hundred seed weight of 12.3 g. It exhibits broad adaptation and is drought (Beebe et al., 2011) and heat (Rodriguez, 2018) tolerant. With respect to biotic stress, it is resistant to common bacterial blight (Rodriguez, 2018), Uromyces appendiculatus, and two leaf hoppers, Empoasca krameri and Phaeoisariopsis griseola (Porch, T., unpublished data).  DNA for the Frijol Bayo genome assembly was isolated from leaves from single seed descent; seeds for Frijol Bayo are available from USDA GRIN (G40001-Seq; PI 692269)"
   -
     identifier: "Frijol Bayo"
     name: "Frijol Bayo"
     origin: Mexico
     description: "[Description by Dr. Kirstin Bett] W6 15578 is a wild P. acutifolius accession obtained from the Western Regional Plant Introduction Station of the USDA. Originally collected by O.W. Norvell in Mexico in 1955, it now has the Plant Introduction number PI 638833. It is photoperiod sensitive, has an indeterminate growth habit, small, mottled seeds, and the pods shatter at maturity. It was used as a donor parent in the development of an interspecific hybrid population to improve abiotic stress tolerance in common bean (Souter et al. 2017(1)). W6 15578 was one of the parents, along with PI 430219, of the tepary bean mapping population, BR-06, developed and genotyped at the University of Saskatchewan (Gujaria-Verma et al. 2016(2))."
+
+        
+
 

@@ -4,7 +4,21 @@ genus: Vigna
 species: radiata
 abbrev: vigra
 commonName: mungbean
-description: Mungbean (Vigna radiata), also known as moong bean, green gram, is a fast-growing warm-season legume and has a diploid chromosome number of 2n=22. Mungbean is mainly cultivated today in China, India and Southeast Asia but can be found in dry regions within Southern Europe and United States. Mungbeans are a good source of dietary protein, folate and iron. This legume species was moved from the genus Phaseolus to Vigna and is correctly cites as Vigna radiata. 
+description: "Mungbean (Vigna radiata), also known as moong bean, green gram, is a fast-growing warm-season legume and has a diploid chromosome number of 2n=22. Mungbean is mainly cultivated today in China, India and Southeast Asia but can be found in dry regions within Southern Europe and United States. Mungbeans are a good source of dietary protein, folate and iron. This legume species was moved from the genus Phaseolus to Vigna and is correctly cites as Vigna radiata." 
+
+resources:
+  - 
+    name: LIS Genome Browser (GBrowse)
+    URL: "https://legumeinfo.org/genomes/gbrowse/Vr1.0"
+    description: "GBrowse for Vigna radiata assembly v1.0"
+  -
+    name: LIS Genome Browser (JBrowse)
+    URL: "https://legumeinfo.org/genomes/jbrowse/?data=Vr1.0"
+    description: "JBrowse for Vigna radiata assembly v1.0"
+  - 
+    name: LIS SequenceServer
+    URL: "https://legumeinfo.org/sequenceserver/"
+    description: "SequenceServer BLAST against the Vigna radiata assembly v1.0"
 
 strains:
   -
@@ -12,5 +26,6 @@ strains:
     accession: GCF_000741045.1
     name: VC1973A
     origin: South Korea
-    description: Vigna radiata accession VC1973A was chosen for genome sequencing. VC1973A was developed at the AVRDC-The World Vegetable Center in 1982; since then, it has been widely grown in Korea, Thailand, Taiwan, Canada and China as a heteronymous cultivar called 'Seonhwanogdu' in Korea, 'Kamphaeng Saen 1' in Thailand and 'Zhong Lu' in China. Accession description is from Kang et al., 2014 (DOI:10.1038/ncomms6443).
+    description: "Vigna radiata accession VC1973A was chosen for genome sequencing. VC1973A was developed at the AVRDC-The World Vegetable Center in 1982; since then, it has been widely grown in Korea, Thailand, Taiwan, Canada and China as a heteronymous cultivar called 'Seonhwanogdu' in Korea, 'Kamphaeng Saen 1' in Thailand and 'Zhong Lu' in China. Accession description is from Kang et al., 2014 (DOI:10.1038/ncomms6443)."     
+
 

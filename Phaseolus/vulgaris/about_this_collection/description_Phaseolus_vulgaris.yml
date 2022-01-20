@@ -1,29 +1,52 @@
 ---
 taxid: 3885
-genus: Phaseolus
+genus: Phaseolus 
 species: vulgaris
-abbrev: phavu
-commonName: common bean
+abbrev: phavu 
+commonName: common bean 
 description: "Common bean (Phaseolus vulgaris) was likely domesticated independently both in Central America and in the Andes, from distinct wild gene pools that exist in the two regions. Beans were also carried into North America and were grown by Native Americans there for many centuries. They were carried to Europe by early explorers of the New World, and have undergone about 500 years of additional domestication and selection in Europe. The species has great agricultural variety, and is of critical importance as a high-protein food across the world."
 
 strains:
   -
-    identifier: G19833
+    identifier: G19833    
+    accession: G19833
     name: G19833
     origin: Peru
     description: "Andean landrace G19833 was selected for genome sequencing partly due to its resistance to numerous diseases, including bean rust (Uromyces appendiculatus), as well as anthracnose, angular leaf spot, Aschochyta blight, and the bean golden mosaic and bean common mosaic viruses (Hurtado-Gonzales et al., 2017; https://digitalcommons.unl.edu/usdaarsfacpub/1664/). This accession has also been used to generate populations for mapping traits such as phosphorous acquisition and agronomic performance."
-  -
+    resources: 
+      - 
+        name: LIS Genome Browser (GBrowse)
+        URL: "https://legumeinfo.org/genomes/gbrowse/phavu.G19833.gnm2"
+        description: "GBrowse for G19833 assembly v2.0"
+      -
+        name: LIS Genome Browser (JBrowse)
+        URL: "https://legumeinfo.org/genomes/jbrowse/?data=phavu.G19833.gnm2"
+        description: "JBrowse for G19833 assembly v2.0"
+      - 
+        name: LIS SequenceServer
+        URL: "https://legumeinfo.org/sequenceserver/"
+        description: "SequenceServer BLAST against the Phaseolus vulgaris genome v2.0"
+  - 
     identifier: BAT93
     accession: PI 633451
     name: BAT93
     origin: CIAT
     description: "Accession BAT93 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies."
-  -
+  -   
     identifier: UI111
     accession: PI 549535, PI 599011, PI 599012, PI 599013
     name: UI111
     origin: US National Plant Germplasm System
     description: "Bean variety UI111 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies.It is a pinto-type bean, with indeterminate climbing habit."
+    resources: 
+      - 
+        name: LIS Genome Browser (GBrowse)
+        URL: "https://legumeinfo.org/genomes/gbrowse/phavu.UI111.gnm1/"
+        description: "GBrowse for UI111 assembly v1.0"
+      -
+        name: LIS Genome Browser (JBrowse)
+        URL: "https://legumeinfo.org/genomes/jbrowse/phavu.UI111.gnm1/"
+        description: "JBrowse for UI111 assembly v1.0"
   -
     identifier: LaborOvalle
     accession: ""
@@ -36,4 +59,8 @@ strains:
     name: 5-593
     origin: US National Plant Germplasm System
     description: "5-593 has been used by Dr. Mark Bassett at the University of Florida as the recipient parent to introgress many genes for seed coat color and pattern, flower color, and other morphological traits typically to the backcross three generation."
+
+
+        
+
 

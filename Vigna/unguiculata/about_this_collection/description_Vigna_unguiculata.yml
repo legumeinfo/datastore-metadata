@@ -4,7 +4,12 @@ genus: Vigna
 species: unguiculata
 abbrev: vigun
 commonName: cowpea
-description: Cowpea (Vigna unguiculata) is used in many parts of the world for its high-protein seeds, but also for its nutrient-rich edible leaves, forage, and soil enrichment. Cowpea is generally more heat-tolerant than common bean. Cowpeas are one of the most important food legume crops in the semi-arid tropics that cover Asia, Africa, southern Europe and Central and South America. A drought-tolerant and warm-weather crop, cowpeas are well-adapted to the drier regions of the tropics, where other food legumes do not perform as well. It also has the useful ability to fix atmospheric nitrogen through its root nodules, and it grows well in poor soils. 
+description: "Cowpea (Vigna unguiculata) is used in many parts of the world for its high-protein seeds, but also for its nutrient-rich edible leaves, forage, and soil enrichment. Cowpea is generally more heat-tolerant than common bean. Cowpeas are one of the most important food legume crops in the semi-arid tropics that cover Asia, Africa, southern Europe and Central and South America. A drought-tolerant and warm-weather crop, cowpeas are well-adapted to the drier regions of the tropics, where other food legumes do not perform as well. It also has the useful ability to fix atmospheric nitrogen through its root nodules, and it grows well in poor soils."
+resources:
+  - 
+    name: LIS SequenceServer
+    URL: "https://legumeinfo.org/sequenceserver/"
+    description: "SequenceServer BLAST against the Vigna unguiculata assembly 1.0"
 
 strains:
   -
@@ -13,6 +18,15 @@ strains:
     name: IT97K-499-35
     origin: IITA, Nigeria
     description: "Cowpea variety is an elite breeding line developed at the International Institute of Tropical Agriculture (IITA, Nigeria). This accession was used for generation of the reference genome assembly described in Lonardi et al., 2019 (DOI:10.1111/tpj.14349)."
+    resources:
+      -
+        name: LIS Genome Browser (GBrowse)
+        URL: "https://legumeinfo.org/genomes/gbrowse/vigun.IT97K-499-35.gnm1"
+        description: "GBrowse for IT97K-499-35 v1.0"
+      -
+        name: LIS Genome Browser (JBrowse)
+        URL: "https://legumeinfo.org/genomes/jbrowse/?data=vigun.IT97K-499-35.gnm1"
+        description: "JBrowse for IT97K-499-35 assembly v1.0"
   -
     identifier: CB5-2
     name: CB5-2
@@ -43,4 +57,4 @@ strains:
   -
     identifier: ZN016
     name: ZN016
-    description: Landrace longbean accession from the Asian sub-population, representing the sesquipedalis culitvar group.
+    description: Landrace longbean accession from the Asian sub-population, representing the sesquipedalis culitvar group.  
