@@ -5,7 +5,7 @@ provenance: "SoyBase.org is the primary repository for files in this directory. 
 
 source: "https://soybase.org/data/v2/Glycine/max"
 
-synopsis: "Imputed genotypes for 5176 Nested Association Mapping RILs relative to 40 NAM parental genotypes, genotyped with WGS and the SoySNP50K and SoyNAM6K assays."
+synopsis: "Imputed genotypes for 5176 Nested Association Mapping RILs relative to 40 NAM parental genotypes, genotyped with WGS and the SoySNP50K and SoyNAM6K assays. These data sets report alleles at 423,419 SNP positions."
 
 scientific_name: Glycine max
 
