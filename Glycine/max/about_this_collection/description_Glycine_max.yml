@@ -24,8 +24,7 @@ resources:
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 
 strains:
-  -
-    identifier: Wm82
+  - identifier: Wm82
     accession: PI 518671
     name: Williams 82
     origin: Northern United States
@@ -40,8 +39,7 @@ strains:
       - name: LIS SequenceServer
         URL: "https://legumeinfo.org/sequenceserver/"
         description: "SequenceServer BLAST against the Wm82 v2 assembly"
-  -
-    identifier: Zh13
+  - identifier: Zh13
     accession: GWHAAEV00000000.1 
     name: Zhonghuang 13
     origin: China
@@ -53,8 +51,7 @@ strains:
       - name: LIS SequenceServer
         URL: "https://legumeinfo.org/sequenceserver/"
         description: "SequenceServer BLAST against the glycine max Zh13 assembly"
-  -
-    identifier: Lee
+  - identifier: Lee
     accession: PI 548656
     name: Lee
     origin: Southern United States

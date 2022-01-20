@@ -18,7 +18,7 @@ scientific_name_abbrev: glyma
 genotype:
   - Jinyuan (IGA1006)
 
-description: "Files in this directory are genome annotation files for cultivar Jinyuan, Chu et al. (2021): Egiht soybean reference genome resources from varying latitudes and agronmic traits."
+description: "Files in this directory are genome annotation files for cultivar Jinyuan, Chu et al. (2021): Eight soybean reference genome resources from varying latitudes and agronmic traits."
 
 dataset_doi: 10.6084/m9.figshare.c.5106161
 
@@ -42,5 +42,5 @@ license: open
 
 keywords: Glycine max, Jinyuan_IGA1006
 
-citation: "Chu, J., Peng, B. Tang, K., Yi, X., Zhou, H. Wang, H., Li, G., Leng, J., Chen, N., Feng, X. Egiht soybean
+citation: "Chu, J., Peng, B. Tang, K., Yi, X., Zhou, H. Wang, H., Li, G., Leng, J., Chen, N., Feng, X. Eight soybean
 reference genome resources from varying latitudes and agronmic traits. Sci Data 8, 164 (2021)."

@@ -18,7 +18,7 @@ scientific_name_abbrev: glyma
 genotype:
   - Huaxia 3 
 
-description: "Files in this directory are genome assembly files for cultivar Huaxia 3 (Huaxia3_IGA1007; WHFS_GmHX3_1.0 in the GenBank assembly record), Chu et al. (2021):  Egiht soybean reference genome resources from varying latitudes and agronmic traits."
+description: "Files in this directory are genome assembly files for cultivar Huaxia 3 (Huaxia3_IGA1007; WHFS_GmHX3_1.0 in the GenBank assembly record), Chu et al. (2021):  Eight soybean reference genome resources from varying latitudes and agronmic traits."
 
 dataset_doi: 10.6084/m9.figshare.14727255
 
@@ -32,7 +32,7 @@ publication_doi: 10.1038/s41597-021-00947-2
 
 dataset_release_date: "2021-05-17"
 
-publication_title: "Egiht soybean reference genome resources from varying latitudes and agronmic traits."
+publication_title: "Eight soybean reference genome resources from varying latitudes and agronmic traits."
 
 contributors: "Chu, J., Peng, B. Tang, K., Yi, X., Zhou, H. Wang, H., Li, G., Leng, J., Chen, N., Feng, X. "
 
@@ -44,4 +44,4 @@ license: open
 
 keywords: Glycine max, Huaxia 3, IGA1007, WHFS_GmHX3_1.0
 
-citation: "Chu, J., Peng, B. Tang, K., Yi, X., Zhou, H. Wang, H., Li, G., Leng, J., Chen, N., Feng, X. Egiht soybean reference genome resources from varying latitudes and agronmic traits. Sci Data 8, 164 (2021)."
+citation: "Chu, J., Peng, B. Tang, K., Yi, X., Zhou, H. Wang, H., Li, G., Leng, J., Chen, N., Feng, X. Eight soybean reference genome resources from varying latitudes and agronmic traits. Sci Data 8, 164 (2021)."
