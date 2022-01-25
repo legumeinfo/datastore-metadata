@@ -18,6 +18,8 @@ scientific_name_abbrev: glyma
 genotype:
   - Williams 82 
 
+expression_unit: TPM
+
 description: "Prima2000 root nodule expression (Van Wyk et al. 2014)."
 
 original_file_creation_date: "2014-01-01"
