@@ -6,8 +6,6 @@ source: "http://phytozome.jgi.doe.gov/"
 
 synopsis: Vigna unguiculata accession IT97K-499-35 genome assembly 1.0
 
-related_to: https://www.ncbi.nlm.nih.gov/assembly/GCA_004118075.1
-
 scientific_name: Vigna unguiculata
 
 taxid: 3917

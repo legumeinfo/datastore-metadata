@@ -6,8 +6,6 @@ source: "https://peanutbase.org/data/"
 
 synopsis: Genome assembly 1 for Arachis hypogaea, cultivar Tifrunner
 
-related_to: The genome assembly has been deposited in GenBank and was released in May, 2018. Changes are possible between assemblies in this repository and the GenBank instance.
-
 scientific_name: Arachis hypogaea
 
 taxid: 3818

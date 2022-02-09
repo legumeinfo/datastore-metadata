@@ -6,8 +6,6 @@ source: "http://plantgenomics.snu.ac.kr/"
 
 synopsis: Directory of gene annotations, called on an assembly of pseudomolecules and remaining scaffold sequences
 
-related_to: See associated assembly files
-
 scientific_name: Vigna angularis
 
 taxid: 3914

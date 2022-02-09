@@ -6,8 +6,6 @@ source: "http://peanutbase.org/"
 
 synopsis: genome annotations
 
-related_to: Genome assembly files in directory Arachis_duranensis/V14167.gnm1.SWBf
-
 scientific_name: Arachis duranensis
 
 taxid: 130453

@@ -6,8 +6,6 @@ source: "https://peanutbase.org/data/"
 
 synopsis: Genome assembly 2 for Arachis hypogaea, cultivar Tifrunner. This version has structural changes relative to assembly 1.
 
-related_to: Tifrunner.gnm1.KYV3
-
 scientific_name: Arachis hypogaea
 
 taxid: 3818

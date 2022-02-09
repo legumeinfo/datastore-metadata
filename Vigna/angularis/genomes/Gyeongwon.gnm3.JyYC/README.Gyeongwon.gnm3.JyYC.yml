@@ -6,8 +6,6 @@ source: "http://plantgenomics.snu.ac.kr/"
 
 synopsis: genome assembly
 
-related_to: See associated annotation files
-
 scientific_name: Vigna angularis
 
 taxid: 3914

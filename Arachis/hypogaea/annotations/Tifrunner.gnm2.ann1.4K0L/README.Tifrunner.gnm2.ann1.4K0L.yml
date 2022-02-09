@@ -4,8 +4,6 @@ provenance: The files in this directory are considered the primary instances. Th
 
 synopsis: Gene models for genome assembly 2 for Arachis hypogaea, cultivar Tifrunner. 
 
-related_to: arahy.Tifrunner.gnm2.J5K5.genome_main.fna
-
 scientific_name: Arachis hypogaea
 
 taxid: 3818

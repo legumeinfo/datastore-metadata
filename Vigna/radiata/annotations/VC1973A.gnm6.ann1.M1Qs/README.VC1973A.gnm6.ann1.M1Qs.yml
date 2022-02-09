@@ -6,8 +6,6 @@ source: "http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page"
 
 synopsis: Gene annotations
 
-related_to: See assembly files at VC1973A.gnm6.ann1
-
 scientific_name: Vigna radiata
 
 taxid: 157791
