@@ -7,13 +7,13 @@ source: "https://doi.org/10.6084/m9.figshare.c.5106161"
 
 synopsis: Genome annotation files for cultivar F, Chu et al. (2021)
 
-scientific_name: Glycine max
+scientific_name: Glycine soja
 
-taxid: 3847
+taxid: 3848
 
 bioproject: PRJNA561626
 
-scientific_name_abbrev: glyma
+scientific_name_abbrev: glyso
 
 genotype:
   - F (IGA1003)

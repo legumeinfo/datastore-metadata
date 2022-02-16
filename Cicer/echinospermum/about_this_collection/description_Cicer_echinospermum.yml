@@ -1,0 +1,14 @@
+---
+taxid: 90897
+genus: Cicer
+species: echinospermum
+abbrev: cicec
+commonName: chickpea wild relative
+description: "Cicer echinospermum is a wild relative of cultivated C. arietinum (chickpea) and native to Southeastern Turkey. C. echinospermum genotypes are partially compatible with cultivated C. ariteinum and its immediate wild progenitor Cicer reticulatum."
+
+strains:
+  - identifier: S2Drd065
+    accession: S2Drd 065
+    name: S2Drd 065
+    origin: "Sanliurfa province, Turkey: latitude 37.821118, longitude 39,641649, altitude 1,126 meters."
+    description: "One member (strain 065) of a wild plant population named S2Drd between the cities Siverek and Diyarbakir (https://doi.org/10.1038/s41467-018-02867-z)."
