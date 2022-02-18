@@ -7,22 +7,15 @@ commonName: "lima bean"
 description: "The lima bean (Phaseolus lunatus), initially from South and Central America, is an herbaceous plant that is a part of the legume family (Fabaceae). It is commonly known as the lima bean, butter bean, sieva bean, double bean or Madagascar bean, is a legume grown for its edible seeds or beans. The two gene pools, meso and south American, of cultivated lima beans is believed to point to independent domestication events. The Mesoamerican lima bean is distributed in neotropical lowlands while the other is found in the western Andes."
 
 strains:
-  -
-    identifier: G27455   
+  - identifier: G27455   
     accession: G27455
     name: G27455
     origin: Colombia
     description: "G27455 was selected from MI population, which is the most widespread among domesticated gene pools. Domesticated accessions have low heterozygosity, which reduces the complexity of genome assembly. G27455 is cultivated in the north of Colombia, where temperatures are very high all year, suggesting it may be a good source of candidate genes for resistance to heat and drought stress."
     resources: 
-      - 
-        name: LIS Genome Browser (GBrowse)
+      - name: LIS Genome Browser (GBrowse)
         URL: "https://legumeinfo.org/genomes/gbrowse/phalu.G27455.gnm1"
         description: "GBrowse for G27544 assembly v1.0"
-      -
-        name: LIS Genome Browser (JBrowse)
+      - name: LIS Genome Browser (JBrowse)
         URL: "https://legumeinfo.org/genomes/jbrowse/?data=phalu.G27455.gnm1"
         description: "JBrowse for G27544 assembly v1.0"
-
-        
-
-
