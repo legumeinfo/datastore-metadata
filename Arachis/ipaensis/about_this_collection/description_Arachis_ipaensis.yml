@@ -7,8 +7,7 @@ commonName: diploid wild peanut - B genome
 description: "Arachis ipaensis A. ipaensis, native to Bolivia, is thought to be one of the diploid ancestors of cultivated peanut. The genome of A. ipaensis has just been sequenced as part of the Peanut Genomics Initiative, to help in the accurate assembly of the tetraploid domestic peanut, A. hypogaea. Cultivated peanut derived all of its genetic material from two wild ancestors, A. duranensis and A. ipaensis whose genomes merged several thousand years ago, in a rare genetic event. The wild species, therefore, have half as much genetic material as cultivated peanut. These two simpler genomes have first been sequenced toward achieving its ultimate goal: the complete genomic sequence for cultivated peanut. Arachis ipaensis is described further in Bertioli et al., 2016 (doi:10.1038/ng.3517)"
 
 strains:
-  -
-    identifier: K30076
+  - identifier: K30076
     accession: K30076
     name: K30076
     origin: Southern Bolivia
