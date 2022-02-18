@@ -7,22 +7,18 @@ commonName: narrow-leafed lupin
 description: "Narrow-leafed lupin (Lupinus angustifolius) is an important legume crop, for its high-protein seeds and ability to tolerate sandy, relatively acidic soil, in Australia and parts of Europe. The genome has been sequenced: Hane et al., 2016 (DOI:10.1111/pbi.12615)."
 
 strains:
-  -
-    identifier: Tanjil
+  - identifier: Tanjil
     accession: Tanjil
     name: Tanjil
     origin: Australia
     description: "Lupinus angustifolius strain Tanjil is used as a crop variety in Australia, and has been used for genetic studies. Tanjil is resistant to Anthracnose (Colletotrichum gloeosporioides), Yang et al., 2004 (DOI:10.1023/B:MOLB.0000038003.49638.97)"
-  -
-    identifier: Unicrop
+  - identifier: Unicrop
     accession: Unicrop
     name: Unicrop
     origin: Australia
     description: "Lupinus angustifolius strain Unicrop is used as a crop variety in Australia, and has been used for genetic studies. Unicrop is susceptible to Anthracnose (Colletotrichum gloeosporioides), Yang et al., 2004 (DOI:10.1023/B:MOLB.0000038003.49638.97)"
-  -
-    identifier: P27255
+  - identifier: P27255
     accession: P27255
     name: P27255
     origin: Morocco
     description: "Lupinus angustifolius strain P27255 is a wild accession that has been used in genetic and gene expression studies: Kamphuis et al., 2014 (DOI:10.1111/pbi.12229)."
-

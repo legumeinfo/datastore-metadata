@@ -7,23 +7,23 @@ commonName: alfalfa
 description: "Alfalfa, also called lucerne and called Medicago sativa in binomial nomenclature, is a perennial flowering plant in the legume family Fabaceae. It is cultivated as an important forage crop in many countries around the world. It is used for grazing, hay, and silage, as well as a green manure and cover crop. The name alfalfa is used in North America. The name lucerne is the more commonly used name in the United Kingdom, South Africa, Australia, and New Zealand."
 
 strains:
-  -
-    identifier: XinJiangDaYe  
+  - identifier: CADL_HM342
+    accession: HM342
+    name: CADL (Cultivated Alfalfa at the Diploid Level)
+    origin: Noble Foundation
+    description: "CADL (HM342) was developed from cultivated tetraploids over 10 years to produce a diploid form."
+  - identifier: XinJiangDaYe  
     accession: XinJiangDaYe
     name: XinJiangDaYe
     origin: China
     description: "Xinjiang Daye is a salt-sensitive cultivar of alfalfa."
     resources:
-      -
-        name: LIS Genome Browser (GBrowse)
+      - name: LIS Genome Browser (GBrowse)
         URL: "https://legumeinfo.org/gb2/gbrowse/medsa.XinJiangDaYe.gnm1"
         description: "GBrowse for XinJiangDaYe assembly v1.0"
-      -
-        name: LIS Genome Browser (JBrowse)
+      - name: LIS Genome Browser (JBrowse)
         URL: "https://legumeinfo.org/genomes/jbrowse/?data=medsa.XinJiangDaYe.gnm1"
         description: "JBrowse for XinJiangDaYe assembly v1.0"
-      -
-        name: LIS SequenceServer
+      - name: LIS SequenceServer
         URL: "https://legumeinfo.org/sequenceserver/"
         description: "SequenceServer BLAST against the XinJiangDaYe assembly v1.0"
-
