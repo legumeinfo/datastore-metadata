@@ -1,11 +1,11 @@
 ---
-identifier: Jinyuan_IGA1006.gnm1.LXM0
+identifier: Jingyuan_IGA1006.gnm1.LXM0
 
 provenance: "The files in this directory originated from GenBank. The GenBank is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the projects listed above. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory. Free-text description of the origin of this dataset."
 
 source: "https://sra-download.ncbi.nlm.nih.gov/traces/wgs01/wgs_aux/WI/XB/WIXB01/WIXB01.1.fsa_nt.gz"
 
-synopsis: "Genome assembly files for cultivar Jinyuan (Jinyuan_IGA100 in the publication; 6HFS_GmJY_1.0 in the GenBank assembly record), Chu et al. (2021)"
+synopsis: "Genome assembly files for cultivar Jingyuan (Jingyuan_IGA100 in the publication; 6HFS_GmJY_1.0 in the GenBank assembly record), Chu et al. (2021)"
 
 scientific_name: Glycine max
 
@@ -16,9 +16,9 @@ bioproject: PRJNA561626
 scientific_name_abbrev: glyma
 
 genotype:
-  - Jinyuan
+  - Jingyuan
 
-description: "Files in this directory are genome assembly files for cultivar Jinyuan (Jinyuan_IGA1006 in the publication; WHFS_GmJY_1.0 in the GenBank assembly record), Chu et al. (2020); https://www.ncbi.nlm.nih.gov/bioproject/?term=prjna561626"
+description: "Files in this directory are genome assembly files for cultivar Jingyuan (Jingyuan_IGA1006 in the publication; WHFS_GmJY_1.0 in the GenBank assembly record), Chu et al. (2020); https://www.ncbi.nlm.nih.gov/bioproject/?term=prjna561626"
 
 dataset_doi: 10.6084/m9.figshare.14727255
 
@@ -42,6 +42,6 @@ public_access_level: public
 
 license: open
 
-keywords: Glycine max, Jinyuan, IGA1006, WHFS_GmJY_1.0
+keywords: Glycine max, Jingyuan, IGA1006, WHFS_GmJY_1.0
 
 citation: "Chu, J., Peng, B. Tang, K., Yi, X., Zhou, H. Wang, H., Li, G., Leng, J., Chen, N., Feng, X. Eight soybean reference genome resources from varying latitudes and agronmic traits. Sci Data 8, 164 (2021)."
