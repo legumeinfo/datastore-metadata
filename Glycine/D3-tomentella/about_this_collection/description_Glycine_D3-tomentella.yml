@@ -14,8 +14,7 @@ resources:
     description: "GBrowse for G. tomentella Bac End Sequence alignments on Gmax2.0"      
 
 strains:
-  - 
-    identifier: G1403 
+  - identifier: G1403 
     accession: G1403 
     name: G1403
     origin: Australian state of Queensland and the eastern portion of Papua New Guinea

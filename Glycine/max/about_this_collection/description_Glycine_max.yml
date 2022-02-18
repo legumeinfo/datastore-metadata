@@ -63,4 +63,36 @@ strains:
       - name: LIS SequenceServer
         URL: "https://legumeinfo.org/sequenceserver/"
         description: "SequenceServer BLAST against the glycine max Lee assembly"
-
+  - identifier: Wenfeng7_IGA1001
+    accession: IGA1001
+    name: Wenfeng 7
+    origin: National Soybean Preservation Center, ICS, CAAS
+    description: "Glycine max Wenfeng 7 (IGA1001) was sequenced and annotated by Chu, et al. (2021)." 
+  - identifier: Hefeng25_IGA1002
+    accession: IGA1002
+    name: Hefeng 25
+    origin: Jiamusi Branch of Heilongjiang Academy of Agricultural Sciences
+    description: "Glycine max Hefeng 25 (IGA1002) was sequenced and annotated by Chu, et al. (2021)."
+  - identifier: Zh35_IGA1004
+    accession: IGA1004
+    name: Zhonghuang 35
+    origin: National Soybean Improvement Sub-Center, ICS, CAAS
+    description: "Glycine max Zhonghuang 35 (IGA1004) was sequenced and annotated by Chu, et al. (2021)."
+  - identifier: Zh13_IGA1005
+    accession: IGA1005
+    name: Zhonghuang 13
+    origin: National Soybean Improvement Sub-Center, ICS, CAAS
+    description: "Zhonghuang 13 is a Chinese cultivar derived from accessions Yudou 18 and Zhongzuo 90052-76 by pedigree selection for high yield and stress tolerance (Shen et al., 2018; https://doi.org/10.1007/s11427-018-9360-0). This line, IGA1005, was sequenced and annotated by Chu, et al. (2021)."
+  - identifier: Jingyuan_IGA1006
+    accession: IGA1006
+    name: Jingyuan
+  - identifier: Huaxia3_IGA1007
+    accession: IGA1007
+    name: Huaxia 3
+    origin: South China Agricultural University
+    description: "Glycine max Huaxia 3 (IGA1007) was sequenced and annotated by Chu, et al. (2021)."
+  - identifier: Wm82_IGA1008
+    accession: IGA1008
+    name: Williams 82
+    origin: Northeast Institute of Geography and Agroecology, CAS
+    description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams. This line, IGA1008, was sequenced and annotated by Chu, et al. (2021)."

@@ -23,8 +23,7 @@ resources:
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 
 strains:
-  -
-    identifier: PI483463
+  - identifier: PI483463
     accession: PI 483463
     name: PI 483463
     origin: Shanxi Province, China
@@ -33,8 +32,7 @@ strains:
       - name: Soybase Genome Browser (GBrowse)
         URL: "https://soybase.org/gb2/gbrowse/glyso.PI483463.gnm1"
         description: "GBrowse for Glycine soja PI483463 genome assembly version 1"
-  -
-    identifier: W05
+  - identifier: W05
     accession: W05
     name: W05
     origin: Henan Province, China
@@ -43,4 +41,8 @@ strains:
       - name: Soybase Genome Browser (GBrowse)
         URL: "https://soybase.org/gb2/gbrowse/glyso.W05.gnm1"
         description: "GBrowse for glycine soja W05 genome assembly verson 1"
-
+  - identifier: F_IGA1003
+    accession: IGA1003
+    name: GsojaF
+    origin: National Wild Soybean Preservation Center, ICS, CAAS
+    description: "This Glycine soja wild soybean accession was sequenced and annotated by Chu, et al. (2021)."
