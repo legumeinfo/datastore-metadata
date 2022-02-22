@@ -83,9 +83,9 @@ strains:
     name: Zhonghuang 13
     origin: National Soybean Improvement Sub-Center, ICS, CAAS
     description: "Zhonghuang 13 is a Chinese cultivar derived from accessions Yudou 18 and Zhongzuo 90052-76 by pedigree selection for high yield and stress tolerance (Shen et al., 2018; https://doi.org/10.1007/s11427-018-9360-0). This line, IGA1005, was sequenced and annotated by Chu, et al. (2021)."
-  - identifier: Jingyuan_IGA1006
+  - identifier: Jinyuan_IGA1006
     accession: IGA1006
-    name: Jingyuan
+    name: Jinyuan
   - identifier: Huaxia3_IGA1007
     accession: IGA1007
     name: Huaxia 3
