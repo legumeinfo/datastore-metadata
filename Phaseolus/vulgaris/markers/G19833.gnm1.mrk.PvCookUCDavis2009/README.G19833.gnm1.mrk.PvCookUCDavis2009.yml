@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.PvCookUCDavis2009
+
+synopsis: "A 768-marker array of single nucleotide polymorphisms (SNP) based on Trans-legume Orthologous Group (TOG) genes."
+
+scientific_name: Vigna unguiculata
+
+taxid: 3885
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - G19833
+
+description: "PvCookUCDavis2009 is a 768-marker array of single nucleotide polymorphisms (SNP) based on Trans-legume Orthologous Group (TOG) genes. A total of 91.4% of TOG markers had singleton hits with annotated Pv genes and all mapped outside of regions of resistance gene clusters."
+
+publication_doi: 10.1371/journal.pone.0189597
+
+publication_title: "Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.)"
+
+contributors: "Matthew W. Blair, Andrés J. Cortés, Andrew D. Farmer, Wei Huang, Daniel Ambachew, R. Varma Penmetsa, Noelia Carrasquilla-Garcia, Teshale Assefa, Steven B. Cannon"
+
+citation: "Blair MW, Cortés AJ, Farmer AD, Huang W, Ambachew D, Penmetsa RV, et al. (2018) Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS ONE 13(3): e0189597."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: PvCookUCDavis2009

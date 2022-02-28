@@ -1,35 +1,32 @@
 identifier: mixed.gwas.Parker_BernyMierYTeran_2020
   
-synopsis: "GWAS study of pod dehiscence in Phaseolus vulgaris dry beans, using the Andean and Mesoamerican Diversity Panels."
+synopsis: "GWAS study of pod dehiscence in Phaseolus vulgaris dry beans, using the Andean and Mesoamerican Diversity Panels." 
 
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
+bioproject: none
+
 scientific_name_abbrev: phavu
 
 genotype: 
-  - Mesoamerican Diversity Panel
-  - Andean Diversity Panel
+  - Andean and Mesoamerican Diversity Panels
 
 description: "GWAS study of pod dehiscence in Phaseolus vulgaris dry beans, using the Andean and Mesoamerican Diversity Panels. Association mapping was carried out with generalized linear models and results were visualized with the QQMAN package in R.  Regions of significance were delimited as the areas between the first and last significant SNPs on a chromosome.  A Bonferroni-corrected alpha of 0.05 was used to determine the significance of SNPs after they met the threshold established as a minor allele frequency (MAF) of 0.1."
 
-genotyping_platform: BARCBean6K
-
-local_file_creation_date: "2021-12-09"
-
-publication_doi: "10.1111/nph.16164"
+publication_doi: 10.1111/nph.16164
 
 publication_title: "Pod indehiscence is a domestication and aridity resilience trait in common bean"
 
-contributors: "Travis A. Parker, Jorge C. Berny Mier y Teran, Antonia Palkovic, Judy Jernstedt, Paul Gepts"
+contributors: "Parker, Travis A; Berny Mier Y Teran, Jorge C; Palkovic, Antonia; Jernstedt, Judy; Gepts, Paul"
 
-data_curators: Scott Kalberer, Steven Cannon
+data_curators: Steven Cannon, Sam Hokin
 
 public_access_level: public
 
 license: Open
 
-citation: "Parker TA, Berny Mier Y Teran JC, Palkovic A, Jernstedt J, Gepts P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 2020 Jan;225(1):558-570. doi: 10.1111/nph.16164."
+citation: "Parker, T. A., Berny Mier Y Teran, J. C., Palkovic, A., Jernstedt, J. & Gepts, P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 225, 558–570 (2020)"
 
-
+genotyping_platform: "Combination of IlluminaBeadChip BARCBean6k_3 (Song et al. 2015) and independently-conducted GBS"

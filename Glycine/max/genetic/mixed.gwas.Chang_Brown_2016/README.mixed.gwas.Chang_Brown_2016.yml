@@ -1,12 +1,23 @@
 ---
 identifier: mixed.gwas.Chang_Brown_2016
-taxid: 3847
-scientific_name: Glycine max
-scientific_name_abbrev: glyma
-citation: "Chang, Brown et al. (2016)"
-synopsis: GWAS of Tobacco ringspot virus(TRSV), conducted on 19,652 lines in the USDA soybean collection, genotyped with the SoySNP50K BeadChip.
-description: GWAS of Tobacco ringspot virus(TRSV), conducted on 19,652 lines in the USDA soybean collection, genotyped with the SoySNP50K BeadChip.
-genotyping_platform: SoySNP50K
-genotyping_method: Illumina Infinium SoySNP50K BeadChip
-publication_doi: 10.1186/s12864-016-2487-7
 
+taxid: 3847
+
+scientific_name: Glycine max
+
+scientific_name_abbrev: glyma
+
+citation: "Chang, Brown et al. (2016)"
+
+synopsis: GWAS of Tobacco ringspot virus(TRSV), conducted on 19,652 lines in the USDA Soybean Collection, genotyped with the SoySNP50K BeadChip.
+
+description: GWAS of Tobacco ringspot virus(TRSV), conducted on 19,652 lines in the USDA Soybean Collection, genotyped with the SoySNP50K BeadChip.
+
+genotype:
+  - USDA Soybean Collection
+
+genotyping_platform: SoySNP50K
+
+genotyping_method: Illumina Infinium SoySNP50K BeadChip
+
+publication_doi: 10.1186/s12864-016-2487-7

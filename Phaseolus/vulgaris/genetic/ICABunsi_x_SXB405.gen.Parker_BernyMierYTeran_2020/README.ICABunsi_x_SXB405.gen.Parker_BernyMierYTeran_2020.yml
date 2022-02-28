@@ -1,0 +1,34 @@
+identifier: ICABunsi_x_SXB405.gen.Parker_BernyMierYTeran_2020
+  
+synopsis: "Pod Dehiscence QTLs were identified using three phenotyping methods and an ICA Bunsi (PD-susceptible) x SXB 405 (PD-resistant) recombinant inbred mapping population." 
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+bioproject: none
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - ICABunsi x SXB405
+
+description: "Pod Dehiscence QTLs were identified using three phenotyping methods and an ICA Bunsi (PD-susceptible) x SXB 405 (PD-resistant) recombinant inbred mapping population.  An unreplicated spring planting of 238 RIL field plots were visually evaluated for dehiscence.  A replicated summer planting produced mature, non-dehiscing pods from 191 RILs that were phenotyped in two ways: the proportion of pods dehiscing after 7 days in a 65 C dessicator and 7 subsequent days at room temperature, and peak force required to induce pod fracture at the apical end of the pod beak measured with an Imada force measurement guage.  Composite interval mapping was completed with the R package R/qtl." 
+
+publication_doi: 10.1111/nph.16164
+
+publication_title: "Pod indehiscence is a domestication and aridity resilience trait in common bean" 
+
+contributors: "Parker, Travis A; Berny Mier y Teran, Jorge C; Palkovic, Antonia; Jernstedt, Judy; Gepts, Paul"
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Parker, T. A., Berny Mier Y Teran, J. C., Palkovic, A., Jernstedt, J. & Gepts, P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 225, 558–570 (2020)"
+
+genotyping_platform: BARCBean6K
+
+genotyping_method: "Genomic DNA was extracted from parents and RILs using a modified CTAB method and DNA quality assessed with a NanoDrop spectrophotometer."

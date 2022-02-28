@@ -1,0 +1,30 @@
+identifier: Stampede_x_RedHawk.gen.Song_Jia_2015
+  
+synopsis: "A mapping population of 267 F2 plants from the cross of common bean varieties Stampede and Red Hawk developed by Dr. Phil McClean at North Dakota State University."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - Stampede x RedHawk
+
+description: "Analysis of 267 F2 plants from a cross of varieties Stampede × Red Hawk with the BARCBean6K_1 and BARCBean6K_2 BeadChips resulted in linkage maps with a total of 7040 markers including 7015 SNPs. With the linkage map, a total of 432.3 Mb of sequence from 2766 scaffolds was anchored to create the Phaseolus vulgaris v1.0 assembly, which accounted for approximately 89% of the 487 Mb of available sequence scaffolds of the Phaseolus vulgaris v0.9 assembly."
+
+publication_doi: 10.1534/g3.115.020594
+
+publication_title: "SNP Assay Development for Linkage Map Construction, Anchoring Whole-Genome Sequence, and Other Genetic and Genomic Applications in Common Bean"
+
+contributors: "Song, Qijian; Jia, Gaofeng; Hyten, David L; Jenkins, Jerry; Hwang, Eun-Young; Schroeder, Steven G; Osorno, Juan M; Schmutz, Jeremy; Jackson, Scott A; McClean, Phillip E; Cregan, Perry B"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Song, Q. et al. SNP Assay Development for Linkage Map Construction, Anchoring Whole-Genome Sequence, and Other Genetic and Genomic Applications in Common Bean. G3  5, 2285–2290 (2015)" 
+
+genotyping_platform: BARCBean6K

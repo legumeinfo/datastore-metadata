@@ -1,0 +1,28 @@
+identifier: G2333_x_G19839.gen.Checa_Blair_2008
+  
+synopsis: "The G2333_x_G19839_a genetic map contains all 11 common bean linkage groups.  It has a total length of 1175 cM and 149 mapped total markers."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - G2333 x G19839
+
+description: "The G2333_x_G19839_a genetic map contains all 11 common bean linkage groups.  It has a total length of 1175 cM and 149 mapped total markers (four of these markers generated two loci each).  The map contains 79 microsatellite, 57 RAPD, 8 SCAR, and 3 STS markers; there is also a marker for the seed protein phaseolin (Phs) and a morphological marker for flower color (V).  The average length of a linkage group is 106.81 cM and the average number of markers per linkage group is 13.5.  The average distance between marker loci across all linkage groups is 7.89 cM.  The G2333_x_G19839_a map could be aligned with the common bean integrated map of Freyre, Skroch et al. (1998) based on positions of shared SSR markers (see also Blair, Pedraza et al., 2003).  The map description comes from Ochoa, Blair et al. (2006) where this population was originally presented.  However, the lengths of individual linkage groups were taken from Figure 2 in Checa and Blair (2008) in which a more complete version of this genetic map was available with reported linkage group sizes."
+
+publication_doi: 10.1007/s11032-008-9167-5
+
+publication_title: "Mapping QTL for climbing ability and component traits in common bean (Phaseolus vulgaris L.)"
+
+contributors: "Checa, Oscar E; Blair, Matthew W"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Checa, O. E. & Blair, M. W. Mapping QTL for climbing ability and component traits in common bean (Phaseolus vulgaris L.). Mol. Breed. 22, 201–215 (2008)"

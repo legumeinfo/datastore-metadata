@@ -1,11 +1,12 @@
----
-identifier: mixed.map.7PMp
+identifier: mixed.gen.Blair_Cortés_2018
 
-provenance: "The files in this directory are the primary source of these files. The markers were first described in Blair et al., 2013 (see below), and derive from Supplementary material 2, DOI: 10.1007/s00122-012-1999-z. An augmented set of markers was mapped and described in Blair et al., 2017, and are published in this data set."
+provenance: "The files in this directory are the primary source of these files. The markers were first described in Blair et al., 2013 (see below), and derive from Supplementary material 2, DOI: 10.1007/s00122-012-1999-z. An augmented set of markers was mapped and described in Blair et al., 2018, and are published in this data set."
 
-source: "https://legumeinfo.org/data/public/Phaseolus_vulgaris"
+source: "https://legumeinfo.org/data/public/Phaseolus/vulgaris"
 
-synopsis: Phaseolus vulgaris accession G19833 genome assembly v1.0
+synopsis: "Genetic map of markers to Phaseolus vulgaris accession G19833 genome assembly v1.0"
+
+related_to: Genome annotation files in directory G19833.gnm1.ann1.zBnF
 
 scientific_name: Phaseolus vulgaris
 
@@ -14,30 +15,29 @@ taxid: 3885
 scientific_name_abbrev: phavu
 
 genotype:
-  - G19833
+  - RILs from Andean x Mesoamerican genetic mapping population BAT93 x Jalo EEP558
+  - LD germplasm panel of 186 genotypes that included 71 Andean and 115 Mesoamerican genotypes
 
-genotyping_platform: PvCookUCDavis2009
-
-description: "Files in this directory include sequences, markers, and map files related to the markers described in Blair, Cortes et al. (2013) and Blair, Cortes et al. (submitted, 2017)"
+description: "Files in this directory include sequences, markers, and map files related to the markers described in Blair, Cortes et al. (2013) and Blair, Cortes et al. (2018)"
 
 original_file_creation_date: "2017-04-01"
 
 local_file_creation_date: "2017-04-01"
 
+publication_doi: 10.1371/journal.pone.0189597
+
 dataset_release_date: "2017-07-01"
 
-publication_title: "Uneven recombination and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.)"
-
-publication_doi: 10.1371/journal.pone.0189597
+publication_title: "Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.)"
 
 contributors: "Matthew W. Blair, Andrés J. Cortés, Andrew D. Farmer, Wei Huang, Teshale Assefa, R. Varma Penmetsa, Steven B. Cannon, Noelia Carrasquilla-Garcia, Doug R. Cook"
 
-data_curators: Steven Cannon, Wei Huang, Andrew Farmer, Matt Blair
+data_curators: "Steven Cannon, Wei Huang, Andrew Farmer, Matt Blair"
 
 public_access_level: public 
 
 license: Open
 
-keywords: Phaseolus vulgaris, common bean, Single nucleotide polymorphism, gene based markers, genetic map, linkage disequilibrium decay
+keywords: "Phaseolus vulgaris, common bean, Single nucleotide polymorphism, gene based markers, genetic map, linkage disequilibrium decay"
 
-citation: "Matthew W. Blair, Andrés J. Cortés, Andrew D. Farmer, Wei Huang, Teshale Assefa, R. Varma Penmetsa, Steven B. Cannon. Uneven recombination and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS ONE 13(3): e0189597."
+citation: "Blair, M. W. et al. A high-throughput SNP marker system for parental polymorphism screening, and diversity analysis in common bean (Phaseolus vulgaris L.). Theor. Appl. Genet. 126, 535–548 (2013) and Blair, M. W. et al. Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS One 13, e0189597 (2018)"

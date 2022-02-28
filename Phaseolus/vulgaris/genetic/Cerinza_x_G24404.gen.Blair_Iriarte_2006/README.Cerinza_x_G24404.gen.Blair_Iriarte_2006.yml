@@ -1,0 +1,30 @@
+identifier: Cerinza_x_G24404.gen.Blair_Iriarte_2006
+  
+synopsis: "Agronomic performance traits were studied in a population of BC2F(3:5) introgression lines created from the cross of a Colombian large red-seeded commercial cultivar, ICA Cerinza, and a wild common bean accession, G24404."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+bioproject: none
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - Cerinza x G24404
+
+description: "QTLs for agronomic performance were identified in a population of BC2F(3:5) introgression lines created from the cross of a Colombian large red-seeded commercial cultivar, ICA Cerinza, and a wild common bean accession, G24404. A total of 157 lines were evaluated for phenological traits, plant architecture, seed weight, yield and yield components in replicated trials in three environments in Colombia and genotyped with microsatellite, SCAR, and phaseolin markers that were used to create a genetic map that covered all 11 linkage groups of the common bean genome. The map comprises all 11 common bean linkage groups; the average size of a linkage group is 79.0 cM and the average number of markers per linkage group is 7.6.  The map exhibits a total genetic distance of 869.5 cM and an average marker spacing of 10.4 cM. Composite interval mapping analysis identified a total of 41 significant QTLs for the eight traits measured of which five for seed weight, two for days to flowering, and one for yield were consistent across two or more environments."
+
+publication_doi: 10.1007/s00122-006-0217-2
+
+publication_title: "QTL analysis of yield traits in an advanced backcross population derived from a cultivated Andean x wild common bean (Phaseolus vulgaris L.) cross"
+
+contributors: "Blair, M W; Iriarte, G; Beebe, S"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Blair, M. W., Iriarte, G. & Beebe, S. QTL analysis of yield traits in an advanced backcross population derived from a cultivated Andean x wild common bean (Phaseolus vulgaris L.) cross. Theor. Appl. Genet. 112, 1149–1163 (2006)"

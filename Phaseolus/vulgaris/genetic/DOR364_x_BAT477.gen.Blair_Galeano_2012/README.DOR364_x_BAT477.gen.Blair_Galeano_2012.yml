@@ -1,0 +1,30 @@
+identifier: DOR364_x_BAT477.gen.Blair_Galeano_2012
+  
+synopsis: "A mapping population of 113 RILs in the F5:7 generation was generated using a DOR364 by BAT477 cross."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+bioproject: none
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - DOR364 x BAT477
+
+description: "A mapping population of 113 RILs in the F5:7 generation was generated using a DOR364 by BAT477 cross.  The 186 markers comprising the genetic map were amplified fragment length polymorphisms (AFLP: 22 markers), random amplified polymorphic DNA markers (RAPD: 104), and simple sequence repeats (SSR: 60).  The map covers all 11 linkage groups of the common bean genome, has a total map length of 1087.5 cM, and shows an average distance between markers of 5.9 cM.  Linkage groups were identified by comparisons to the integrated genetic map for common bean based on microsatellites shown in Blair, Pedraza et al. (2003a) (DOR364_x_G19833).  Gaps for the genetic map exist on linkage groups b03, b09 and b11 but overall there are only nine gaps larger than 15 cM."
+
+publication_doi: 10.1007/s11032-010-9527-9
+
+publication_title: "Development of a Mesoamerican intra-genepool genetic map for quantitative trait loci detection in a drought tolerant × susceptible common bean (Phaseolus vulgaris L.) cross"
+
+contributors: "Blair, Matthew W; Galeano, Carlos H; Tovar, Eduardo; Muñoz Torres, Monica C; Castrillón, Alejandro Velasco; Beebe, Steve E; Rao, Idupulapati M"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Blair, M. W. et al. Development of a Mesoamerican intra-genepool genetic map for quantitative trait loci detection in a drought tolerant × susceptible common bean (Phaseolus vulgaris L.) cross. Mol. Breed. 29, 71–88 (2012)"

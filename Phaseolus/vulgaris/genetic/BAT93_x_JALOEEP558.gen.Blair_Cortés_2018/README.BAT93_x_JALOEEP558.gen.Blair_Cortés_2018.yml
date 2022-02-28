@@ -1,0 +1,30 @@
+identifier: BAT93_x_JALOEEP558.gen.Blair_Cortés_2018
+  
+synopsis: "This BAT93 x JALOEEP558 map was constructed using Mapdisto v. 2.0 (Lorieux, 2012), assuming an RI model and using the create groups command both with and without anchor markers."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - BAT93 x JALOEEP558
+
+description: "This BAT93 x JALOEEP558 map was constructed using Mapdisto v. 2.0 (Lorieux, 2012), assuming an RI model and using the create groups command both with and without anchor markers."
+
+publication_doi: 10.1371/journal.pone.0189597
+
+publication_title: "Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.)"
+
+contributors: "Blair, Matthew W; Cortés, Andrés J; Farmer, Andrew D; Huang, Wei; Ambachew, Daniel; Penmetsa, R Varma; Carrasquilla-Garcia, Noelia; Assefa, Teshale; Cannon, Steven B"
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Blair, M. W. et al. Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS One 13, e0189597 (2018)"
+
+genotyping_platform: PvCookUCDavis2009

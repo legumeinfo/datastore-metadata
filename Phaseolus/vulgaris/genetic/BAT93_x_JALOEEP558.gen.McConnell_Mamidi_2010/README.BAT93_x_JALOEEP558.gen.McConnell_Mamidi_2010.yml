@@ -1,0 +1,30 @@
+identifier: BAT93_x_JALOEEP558.gen.McConnell_Mamidi_2010
+  
+synopsis: "A Phaseolus vulgaris consensus genetic map from a recombinant inbred population."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+bioproject: none
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - RILs from BAT93 and Jalo EEP558
+
+description: "In this study, gene-based markers were used for mapping in a recombinant inbred (RI) population of Phaseolus vulgaris L. Gene-based markers were developed that corresponded to genes controlling mutant phenotypes in Arabidopsis thaliana, genes undergoing selection during domestication in maize, and genes that function in a biochemical pathway in A. thaliana. The resulting LOD 2.0 map is 1,545 cM in length and consists of 275 gene-based and previously mapped core markers."
+
+publication_doi: 10.1007/s00122-010-1375-9
+
+publication_title: "Syntenic relationships among legumes revealed using a gene-based genetic linkage map of common bean (Phaseolus vulgaris L.)"
+
+contributors: "McConnell, Melody; Mamidi, Sujan; Lee, Rian; Chikara, Shireen; Rossi, Monica; Papa, Roberto; McClean, Phillip"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "McConnell, M. et al. Syntenic relationships among legumes revealed using a gene-based genetic linkage map of common bean (Phaseolus vulgaris L.). Theor. Appl. Genet. 121, 1103–1116 (2010)"

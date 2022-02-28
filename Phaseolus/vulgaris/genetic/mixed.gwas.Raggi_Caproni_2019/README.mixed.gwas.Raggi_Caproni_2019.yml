@@ -1,32 +1,34 @@
 identifier: mixed.gwas.Raggi_Caproni_2019
   
-synopsis: "GWAS study of control of flowering time in common bean, using a panel of 192 lines."
+synopsis: "GWAS study of flowering time control in a panel of homozygous 192 common bean accessions derived from landraces."
 
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
+bioproject: none
+
 scientific_name_abbrev: phavu
 
 genotype: 
-  - Panel of 192 highly homozygous common bean genotypes purposely developed from landraces using single-seed descent, for the purpose of assessing genetic control of days to flowering
+  - Landraces from single-seed descent
 
-description: "The aim of this study was to investigate the genetic control of days to flowering using a whole genome association approach on a panel of 192 highly homozygous common bean genotypes purposely developed from landraces using Single Seed Descent. The phenotypic characterization was carried out at two experimental sites throughout two growing seasons, using a randomized partially replicated experimental design. The same plant material was genotyped using double digest Restriction-site Associated DNA sequencing producing, after a strict quality control, a dataset of about 50 k Single Nucleotide Polymorphisms (SNPs). The Genome-Wide Association Study revealed significant and meaningful associations between days to flowering and several SNP markers; seven genes are proposed as the best candidates to explain the detected associations."
+description: "The aim of this study was to investigate the genetic control of days to flowering using a whole genome association approach on a panel of 192 highly homozygous common bean genotypes purposely developed from landraces using single-seed descent. The phenotypic characterization was carried out at two experimental sites throughout two growing seasons, using a randomized partially replicated experimental design. The same plant material was genotyped using double digest restriction-site-associated DNA sequencing, producing, after a strict quality control, a dataset of about 50k SNPs after filtering against: loci with >10% missing values; individuals with >10% missing loci; markers with MAF<5%; and heterozygosity>=2%. The GWAS revealed significant and meaningful associations between days to flowering and several SNP markers; seven genes are proposed as the best candidates to explain the detected associations."
 
-genotyping_platform: Raggi_Caproni_2019
+publication_doi: 10.3389/fpls.2019.00962
 
-local_file_creation_date: "2021-12-09"
+publication_title: "Genome-Wide Association Study Reveals Candidate Genes for Flowering Time Variation in Common Bean (Phaseolus vulgaris L.)"
 
-publication_doi: "10.3389/fpls.2019.00962"
+contributors: "Raggi, Lorenzo; Caproni, Leonardo; Carboni, Andrea; Negri, Valeria"
 
-publication_title: "Genome-Wide Association Study Reveals Candidate Genes for Flowering Time Variation in Common Bean (Phaseolus vulgaris L.)" 
-
-contributors: "Raggi L, Caproni L, Carboni A, Negri V."
-
-data_curators: Steven Cannon
+data_curators: Sam Hokin
 
 public_access_level: public
 
 license: Open
 
-citation: "Raggi L, Caproni L, Carboni A, Negri V. Genome-Wide Association Study Reveals Candidate Genes for Flowering Time Variation in Common Bean (Phaseolus vulgaris L.). Front Plant Sci. 2019 Jul 24;10:962."
+citation: "Raggi, L., Caproni, L., Carboni, A. & Negri, V. Genome-Wide Association Study Reveals Candidate Genes for Flowering Time Variation in Common Bean (Phaseolus vulgaris L.). Front. Plant Sci. 10, 962 (2019)"
+
+genotyping_platform: Raggi_Caproni_2019
+
+genotyping_method: "Double digest restriction-site-associated DNA sequencing, producing, after a strict quality control, a dataset of about 50k SNPs after filtering against: loci with >10% missing values; individuals with >10% missing loci; markers with MAF<5%; and heterozygosity>=2%."
