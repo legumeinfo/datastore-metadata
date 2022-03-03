@@ -86,6 +86,8 @@ strains:
   - identifier: Jinyuan_IGA1006
     accession: IGA1006
     name: Jinyuan
+    origin: National Soybean Preservation Center, ICS, CAAS 
+    description: "Glycine max Jinyuan (IGA1006) was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Huaxia3_IGA1007
     accession: IGA1007
     name: Huaxia 3
