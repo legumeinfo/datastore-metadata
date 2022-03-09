@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.BARCBean6K
+
+synopsis: "A core set of 6000 SNPs based on the genotyping of 365 dry bean and 134 snap bean accessions with the BARCBean6K_1 and BARCBean6K_2 BeadChips."
+
+scientific_name: Vigna unguiculata
+
+taxid: 3885
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - G19833
+
+description: "A total of 992,682 single-nucleotide polymorphisms (SNPs) was identified as ideal for Illumina Infinium II BeadChip design after sequencing a diverse set of 17 common bean (Phaseolus vulgaris L) varieties with the aid of next-generation sequencing technology. From these, two BeadChips each with >5000 SNPs were designed. The BARCBean6K_1 BeadChip was selected for the purpose of optimizing polymorphism among market classes and, when possible, SNPs were targeted to sequence scaffolds in the Phaseolus vulgaris 14× genome assembly with sequence lengths >10 kb. The BARCBean6K_2 BeadChip was designed with the objective of anchoring additional scaffolds and to facilitate orientation of large scaffolds. Analysis of 267 F2 plants from a cross of varieties Stampede × Red Hawk with the two BeadChips resulted in linkage maps with a total of 7040 markers including 7015 SNPs. With the linkage map, a total of 432.3 Mb of sequence from 2766 scaffolds was anchored to create the Phaseolus vulgaris v1.0 assembly, which accounted for approximately 89% of the 487 Mb of available sequence scaffolds of the Phaseolus vulgaris v0.9 assembly. A core set of 6000 SNPs (BARCBean6K_3 BeadChip) with high genotyping quality and polymorphism was selected based on the genotyping of 365 dry bean and 134 snap bean accessions with the BARCBean6K_1 and BARCBean6K_2 BeadChips. The BARCBean6K_3 BeadChip is a useful tool for genetics and genomics research and it is widely used by breeders and geneticists in the United States and abroad."
+
+publication_doi: 10.1534/g3.115.020594
+
+publication_title: "SNP Assay Development for Linkage Map Construction, Anchoring Whole-Genome Sequence, and Other Genetic and Genomic Applications in Common Bean"
+
+contributors: "Qijian Song, Gaofeng Jia, David L Hyten, Jerry Jenkins, Eun-Young Hwang, Steven G Schroeder, Juan M Osorno, Jeremy Schmutz, Scott A Jackson, Phillip E McClean, Perry B Cregan"
+
+citation: "Qijian Song, Gaofeng Jia, David L Hyten, Jerry Jenkins, Eun-Young Hwang, Steven G Schroeder, Juan M Osorno, Jeremy Schmutz, Scott A Jackson, Phillip E McClean, Perry B Cregan, SNP Assay Development for Linkage Map Construction, Anchoring Whole-Genome Sequence, and Other Genetic and Genomic Applications in Common Bean, G3 Genes|Genomes|Genetics, Volume 5, Issue 11, 1 November 2015, Pages 2285–2290"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: BARCBean6K
