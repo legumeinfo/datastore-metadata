@@ -18,6 +18,8 @@ synopsis: "LIS expression dataset phavu1 (An RNA-Seq based gene expression atlas
 
 description: "LIS expression dataset phavu1 (An RNA-Seq based gene expression atlas of the common bean cv. Negro jamapa)."
 
+expression_unit: TPM
+
 local_file_creation_date: "2017-01-01"
 
 publication_doi: 10.1186/1471-2164-15-866
