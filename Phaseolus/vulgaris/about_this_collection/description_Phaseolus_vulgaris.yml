@@ -40,7 +40,8 @@ strains:
         URL: "https://legumeinfo.org/genomes/jbrowse/phavu.UI111.gnm1/"
         description: "JBrowse for UI111 assembly v1.0"
   - identifier: LaborOvalle
-    name: LaborOvalle
+    accession: Labor Ovalle
+    name: Labor Ovalle
     origin: Institute of Agricultural Science and Technology (ICTA)
     description: "Guatemalan highlands landrace improved by selection; round-seeded Bolonilio market class bean."
   - identifier: 5-593
