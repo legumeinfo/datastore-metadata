@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Galeano_Fernandez_2011
+
+synopsis: "The DOR364 x BAT477 linkage map consisted of 291 markers with a total map length of 1,788 cM."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "In this study, we saturated the linkage map of the intra-gene pool population of common bean DOR364 x BAT477 (DB) by evaluating 2,706 molecular markers including SSR, SNP, and gene-based markers. On average the polymorphism rate was 7.7% due to the narrow genetic base between the parents. The DB linkage map consisted of 291 markers with a total map length of 1,788 cM. A consensus map was built using the core mapping populations derived from inter-gene pool crosses: DOR3646G19833 (DG) and BAT936JALO EEP558 (BJ). The consensus map consisted of a total of 1,010 markers mapped, with a total map length of 2,041 cM across 11 linkage groups. On average, each linkage group on the consensus map contained 91 markers of which 83% were single copy markers. Finally, a synteny analysis was carried out using our highly saturated consensus maps compared with the soybean pseudochromosome assembly. A total of 772 marker sequences were compared with the soybean genome. A total of 44 syntenic blocks were identified. The linkage group Pv6 presented the most diverse pattern of synteny with seven syntenic blocks, and Pv9 showed the most consistent relations with soybean with just two syntenic blocks. Additionally, a co-linear analysis using common bean transcript map information against soybean coding sequences (CDS) revealed the relationship with 787 soybean genes. The common bean consensus map has allowed us to map a larger number of markers, to obtain a more complete coverage of the common bean genome. Our results, combined with synteny relationships provide tools to increase marker density in selected genomic regions to identify closely linked polymorphic markers for indirect selection, fine mapping or for positional cloning."
+
+publication_doi: 10.1371/journal.pone.0028135
+
+publication_title: "Saturation of an intra-gene pool linkage map: towards a unified consensus linkage map for fine mapping and synteny analysis in common bean"
+
+contributors: "Carlos H. Galeano, Andrea C. Fernandez, Natalia Franco-Herrera, Karen A. Cichy, Phillip E. McClean, Jos Vanderleyden, Matthew W. Blair"
+
+citation: "Galeano, C. H. et al. Saturation of an intra-gene pool linkage map: towards a unified consensus linkage map for fine mapping and synteny analysis in common bean. PLoS One 6, e28135 (2011)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Galeano_Fernandez_2011

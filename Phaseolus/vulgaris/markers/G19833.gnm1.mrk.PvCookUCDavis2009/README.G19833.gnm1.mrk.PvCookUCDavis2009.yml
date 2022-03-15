@@ -3,11 +3,11 @@ identifier: G19833.gnm1.mrk.PvCookUCDavis2009
 
 synopsis: "A 768-marker array of single nucleotide polymorphisms (SNP) based on Trans-legume Orthologous Group (TOG) genes."
 
-scientific_name: Vigna unguiculata
+scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-scientific_name_abbrev: vigun
+scientific_name_abbrev: phavu
 
 genotype:
   - G19833

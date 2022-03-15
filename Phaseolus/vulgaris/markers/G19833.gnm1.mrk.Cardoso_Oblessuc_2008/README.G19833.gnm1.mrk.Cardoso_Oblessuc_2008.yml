@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Cardoso_Oblessuc_2008
+
+synopsis: "Ninety-nine new microsatelitte loci were developed from a microsatellite-enriched library for (CT)8  and (GT)8  motifs, from CAL-143 line."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "The objective of this work was to develop new microsatellite markers in common bean. Ninety-nine new microsatelitte loci were developed from a microsatellite-enriched library for (CT)8  and (GT)8  motifs, from CAL-143 line. The majority of microsatellite sequences (51%) was related to cellular metabolism. The remaining sequences were associated to transcription functions. Only 17.2% of the sequences presented some level of similarity with other plant species genes."
+
+publication_doi: 10.1590/S0100-204X2008000700019
+
+publication_title: "New microsatellite markers developed from an enriched microsatellite common bean library"
+
+contributors: "Juliana Morini Kupper Cardoso, Paula Rodrigues Oblessuc, Tatiana de Campos, Danilo Augusto Sforça, Sérgio Augusto Moraes Carbonell, Alisson Fernando Chioratto, Eduardo Fernandes Formighieri, Anete Pereira de Souza, Luciana Lasry Benchimol"
+
+citation: "Cardoso, J. M. K. et al. New microsatellite markers developed from an enriched microsatellite common bean library. Pesqui. Agropecu. Bras. 43, 929–936 (2008)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Cardoso_Oblessuc_2008

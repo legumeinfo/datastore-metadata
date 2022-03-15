@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Galeano_Cortes_2012
+
+synopsis: "In this study, a total of 313 new gene-based markers were developed at target genes."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "In this study, a total of 313 new gene-based markers were developed at target genes. Intronic variation was deeply explored in order to capture more polymorphism. Introns were putatively identified after comparing the common bean ESTs with the soybean genome, and the primers were designed over intron-flanking regions. The intronic regions were evaluated for parental polymorphisms using the single strand conformational polymorphism (SSCP) technique and Sequenom MassARRAY system. A total of 53 new marker loci were placed on an integrated molecular map in the DOR364 × G19833 recombinant inbred line (RIL) population. The new linkage map was used to build a consensus map, merging the linkage maps of the BAT93 × JALO EEP558 and DOR364 × BAT477 populations. A total of 1,060 markers were mapped, with a total map length of 2,041 cM across 11 linkage groups. As a second application of the generated resource, a diversity panel with 93 genotypes was evaluated with 173 SNP markers using the MassARRAY-platform and KASPar technology. These results were coupled with previous SSR evaluations and drought tolerance assays carried out on the same individuals. This agglomerative dataset was examined, in order to discover marker-trait associations, using general linear model (GLM) and mixed linear model (MLM). Some significant associations with yield components were identified, and were consistent with previous findings."
+
+publication_doi: 10.1186/1471-2156-13-48
+
+publication_title: "Gene-Based Single Nucleotide Polymorphism Markers for Genetic and Association Mapping in Common Bean"
+
+contributors: "Carlos H Galeano, Andrés J Cortés, Andrea C Fernández, Álvaro Soler, Natalia Franco-Herrera, Godwill Makunde, Jos Vanderleyden, Matthew W Blair"
+
+citation: "Galeano, C. H. et al. Gene-based single nucleotide polymorphism markers for genetic and association mapping in common bean. BMC Genet. 13, 48 (2012)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Galeano_Cortes_2012

@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Raggi_Caproni_2019
+
+synopsis: "Plant material was genotyped using double digest Restriction-site Associated DNA sequencing, producing about 50,000 SNPs."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "The aim of this study was to investigate the genetic control of days to flowering using a whole genome association approach on a panel of 192 highly homozygous common bean genotypes purposely developed from landraces using Single Seed Descent. The phenotypic characterization was carried out at two experimental sites throughout two growing seasons, using a randomized partially replicated experimental design. The same plant material was genotyped using double digest Restriction-site Associated DNA sequencing producing, after a strict quality control, a dataset of about 50 k Single Nucleotide Polymorphisms (SNPs). The Genome-Wide Association Study revealed significant and meaningful associations between days to flowering and several SNP markers; seven genes are proposed as the best candidates to explain the detected associations."
+
+publication_doi: 10.3389/fpls.2019.00962 
+
+publication_title: "Genome-Wide Association Study Reveals Candidate Genes for Flowering Time Variation in Common Bean (Phaseolus vulgaris L.)"
+
+contributors: "Lorenzo Raggi, Leonardo Caproni, Andrea Carboni, Valeria Negri"
+
+citation: "Raggi, L., Caproni, L., Carboni, A. & Negri, V. Genome-Wide Association Study Reveals Candidate Genes for Flowering Time Variation in Common Bean (Phaseolus vulgaris L.). Front. Plant Sci. 10, 962 (2019)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Raggi_Caproni_2019

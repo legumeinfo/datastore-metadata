@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Murray_Larsen_2002
+
+synopsis: "A set of 79 previously mapped bean (Phaseolus vulgaris) genomic (Bng) clones were partially sequenced. Sequence tagged site (STSs) were produced for 16 of the clones, 2 of which contain simple sequence repeats (SSRs)."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "A set of 79 previously mapped bean (Phaseolus vulgaris) genomic (Bng) clones were partially sequenced. BLAST database searches detected homologies between 59 of these clones and genes from a variety of plants, especially Arabidopsis thaliana. Some matches in the database to the Bng clones included a putative P-glycoprotein-ABC transporter from Arabidopsis, an early nodulin-binding protein (ENBPI) from Medicago truncatula, a lon-protease protein from spinach, a branched-chain amino-acid aminotransferase from Arabidopsis, and a vacuolar sorting receptor (BP-80) from Pisum sativum. Additional matches were found for genes involved in isoprenoid biosynthesis, sulfur metabolism, proline biosynthesis, and floral development. Sequence tagged site (STSs) were produced for 16 of the clones, 2 of which contain simple sequence repeats (SSRs). Polymorphisms were detected for six of the STSs."
+
+publication_doi: 10.1139/g02-069
+
+publication_title: "Identification of putative genes in bean (Phaseolus vulgaris) genomic (Bng) RFLP clones and their conversion to STSs"
+
+contributors: "J Murray, J Larsen, T E Michaels, A Schaafsma, C E Vallejos, K P Pauls"
+
+citation: "Murray, J. et al. Identification of putative genes in bean (Phaseolus vulgaris) genomic (Bng) RFLP clones and their conversion to STSs. Genome vol. 45 1013–1024 (2002)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Murray_Larsen_2002

@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Yu_Park_2000
+
+synopsis: "15 SSR markers assigned to the Phaseolus vulgaris molecular linkage map."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "Here we report the first successful assignment of 15 SSR markers to the Phaseolus vulgaris molecular linkage map. A total of 37 SSR primer pairs were developed and tested for amplification and product-length polymorphism with BAT93 and Jalo EEP558, the parental lines of an F7 recombinant inbred (RI) population previously used for the construction of a common bean molecular linkage map. Sixteen of the SSRs polymorphic to the parental lines were analyzed for segregation and 15 of them were assigned to seven different linkage groups, indicating a widespread distribution throughout the bean genome. Map positions for genes coding for DNAJ-like protein, pathogenesis-related protein 3, plastid-located glutamine synthetase, endochitinase, sn-glycerol-3 phosphate acyltransferase, NADP-dependent malic enzyme, and protein kinase were determined for the first time. Addition of three SSR loci to linkage group B4 brought two separated smaller linkage groups together to form a larger linkage group. Analysis of allele segregation in the F7 RI population revealed that all 16 SSRs segregated in the expected 1:1 ratio. These SSR markers were stable and easy to assay by polymerase chain reaction (PCR). They should be useful markers for genetic mapping, genotype identification, and marker-assisted selection of common beans."
+
+publication_doi: 10.1093/jhered/91.6.429
+
+publication_title: "Integration of simple sequence repeat (SSR) markers into a molecular linkage map of common bean (Phaseolus vulgaris L.)"
+
+contributors: "K Yu, S J Park, V Poysa, P Gepts"
+
+citation: "Yu, K., Park, S. J., Poysa, V. & Gepts, P. Integration of simple sequence repeat (SSR) markers into a molecular linkage map of common bean (Phaseolus vulgaris L.). J. Hered. 91, 429–434 (2000)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Yu_Park_2000

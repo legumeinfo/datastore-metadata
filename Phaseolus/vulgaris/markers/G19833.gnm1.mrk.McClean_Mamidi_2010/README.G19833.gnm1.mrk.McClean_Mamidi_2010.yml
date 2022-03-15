@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.McClean_Mamidi_2010
+
+synopsis: "Around 15,000 common bean sequences (primarily EST contigs and EST singletons) were electronically positioned onto the common bean map using the shared syntentic blocks as references points."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "Genetically-positioned transcript loci of common bean were mapped relative to the recent soybean 1.01 pseudochromosome assembly. In nearly every case, each common bean locus mapped to two loci in soybean, a result consistent with the duplicate polyploidy history of soybean. Blocks of synteny averaging 32 cM in common bean and 4.9 Mb in soybean were observed for all 11 common bean linkage groups, and these blocks mapped to all 20 soybean pseudochromosomes. The median physical-to-genetic distance ratio in common bean (based on soybean physical distances) was ~120 kb/cM. ~15,000 common bean sequences (primarily EST contigs and EST singletons) were electronically positioned onto the common bean map using the shared syntentic blocks as references points."
+
+publication_doi: 10.1186/1471-2164-11-184
+
+publication_title: "Synteny mapping between common bean and soybean reveals extensive blocks of shared loci"
+
+contributors: "Phillip E McClean1, Sujan Mamidi, Melody McConnell, Shireen Chikara, Rian Lee"
+
+citation: "McClean, P. E., Mamidi, S., McConnell, M., Chikara, S. & Lee, R. Synteny mapping between common bean and soybean reveals extensive blocks of shared loci. BMC Genomics vol. 11 184 (2010)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: McClean_Mamidi_2010

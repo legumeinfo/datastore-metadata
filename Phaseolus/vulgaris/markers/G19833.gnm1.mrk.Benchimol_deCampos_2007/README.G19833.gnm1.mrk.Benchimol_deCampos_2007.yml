@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Benchimol_deCampos_2007
+
+synopsis: "A common bean genomic library was constructed using the ‘IAC-UNA’ variety enriched for (CT) and (GT) for microsatellite motifs. From 1,209 sequenced clones, 714 showed microsatellites distributed over 471 simple and 243 compound motifs."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "A common bean genomic library was constructed using the ‘IAC-UNA’ variety enriched for (CT) and (GT) for microsatellite motifs. From 1,209 sequenced clones, 714 showed microsatellites distributed over 471 simple and 243 compound motifs. GA/CT and GT/CA were the most frequent motifs found among these sequences. A total of 123 microsatellites has been characterized. Out of these, 87 were polymorphic (73.7%), 33 monomorphic (26.8%), and 3 (2.4%) did not amplify at all. In a sample of 20 common bean materials selected from the Agronomic Institute Germplasm Bank, the number of alleles per locus varied 2–9, with an average of 2.82. The polymorphic information content (PIC) of each marker varied from 0.05 to 0.83, with a 0.45 average value. Cluster and principal coordinate analysis of the microsatellite data were consistent with the original assignment of the germplasm accessions into the Andean and Mesoamerican gene pools of common bean. Low polymorphism levels detected could be associated with the domestication process. These microsatellites could be a valuable resource for the bean community because of their use as new markers for genetic studies."
+
+publication_doi: 10.1007/s10722-006-9184-3
+
+publication_title: "Structure of genetic diversity among common bean (Phaseolus vulgaris L.) varieties of Mesoamerican and Andean origins using new developed microsatellite markers"
+
+contributors: "Luciana Lasry Benchimol, Tatiana de Campos, Sergio Augusto Morais Carbonell Æ Carlos Augusto Colombo, Alisson Fernando Chioratto, Eduardo Fernandes Formighieri, Lıgia Regina Lima Gouvea, Anete Pereira de Souza"
+
+citation: "Benchimol, L. L. et al. Structure of genetic diversity among common bean (Phaseolus vulgaris L.) varieties of Mesoamerican and Andean origins using new developed microsatellite markers. Genet. Resour. Crop Evol. 54, 1747–1762 (2007)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Benchimol_deCampos_2007

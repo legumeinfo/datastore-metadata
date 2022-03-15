@@ -1,0 +1,29 @@
+---
+identifier: G19833.gnm1.mrk.Grisi_Blair_2007
+
+synopsis: "61 polymorphic microsatellite markers for beans and the construction of a genetic map using the BAT93 x Jalo EEP558 (BJ) population."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "The present study describes a new set of 61 polymorphic microsatellite markers for beans and the construction of a genetic map using the BAT93 x Jalo EEP558 (BJ) population for the purpose of developing a reference linkage map for common bean (Phaseolus vulgaris). The main objectives were to integrate new microsatellites on the existing framework map of the BJ population, and to develop the first linkage map for the BJ population based exclusively on microsatellites. Of the total of 264 microsatellites evaluated for polymorphism, 42.8% showed polymorphism between the genitors. An integrated map was created totaling 199 mapped markers in 13 linkage groups, with an observed length of 1358 cM and a mean distance between markers of 7.23 cM. For the map constructed exclusively with microsatellites, 106 markers were placed in 12 groups with a total length of 606.8 cM and average distance of 6.8 cM. Linkage group designation and marker order for BM microsatellites generally agreed with previous mapping, while the new microsatellites were well distributed across the genome, corroborating the utility of the BJ population for a reference map. The extensive use of the microsatellites and the availability of a reference map can help in the development of other genetic maps for common bean through the transfer of information of marker order and linkage, which will allow comparative analysis and map integration, especially for future quantitative trait loci and association mapping studies."
+
+publication_title: "Genetic mapping of a new set of microsatellite markers in a reference common bean (Phaseolus vulgaris) population BAT93 x Jalo EEP558"
+
+contributors: "M C M Grisi, M W Blair, P Gepts, C Brondani, P A A Pereira, R P V Brondani"
+
+citation: "Grisi, M. C. M. et al. Genetic mapping of a new set of microsatellite markers in a reference common bean (Phaseolus vulgaris) population BAT93 x Jalo EEP558. Genet. Mol. Res. 6, 691–706 (2007)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Grisi_Blair_2007

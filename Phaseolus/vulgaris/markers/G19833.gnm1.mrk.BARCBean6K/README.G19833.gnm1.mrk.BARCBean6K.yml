@@ -3,11 +3,11 @@ identifier: G19833.gnm1.mrk.BARCBean6K
 
 synopsis: "A core set of 6000 SNPs based on the genotyping of 365 dry bean and 134 snap bean accessions with the BARCBean6K_1 and BARCBean6K_2 BeadChips."
 
-scientific_name: Vigna unguiculata
+scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-scientific_name_abbrev: vigun
+scientific_name_abbrev: phavu
 
 genotype:
   - G19833

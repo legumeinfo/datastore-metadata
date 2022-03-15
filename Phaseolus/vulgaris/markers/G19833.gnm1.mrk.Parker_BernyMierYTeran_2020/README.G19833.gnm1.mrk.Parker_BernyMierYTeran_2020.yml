@@ -1,0 +1,33 @@
+---
+identifier: G19833.gnm1.mrk.Parker_BernyMierYTeran_2020
+
+dataset_doi: 10.25338/B8ZG68
+
+synopsis: "Genetic markers for the GWAS dataset provided with Parker, Berny Mier y Teran (2020)."
+
+description: "Genetic markers for the GWAS dataset provided with Parker, Berny Mier y Teran (2020)."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+publication_doi: 10.1111/nph.16164
+
+publication_title: "Pod indehiscence is a domestication and aridity resilience trait in common bean"
+
+contributors: "Parker, Travis A; Berny Mier Y Teran, Jorge C; Palkovic, Antonia; Jernstedt, Judy; Gepts, Paul"
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Parker, T. A., Berny Mier Y Teran, J. C., Palkovic, A., Jernstedt, J. & Gepts, P. Pod indehiscence is a domestication and aridity resilience trait in common bean. New Phytol. 225, 558–570 (2020)"
+
+genotyping_platform: Parker_BernyMierYTeran_2020

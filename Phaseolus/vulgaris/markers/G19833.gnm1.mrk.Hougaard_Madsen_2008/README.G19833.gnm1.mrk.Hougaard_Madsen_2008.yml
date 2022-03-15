@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Hougaard_Madsen_2008
+
+synopsis: "One hundred and four new loci representing single-copy genes were added to the existing bean map."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "Here we validate our global approach in the common bean and in the AA genome complement of the allotetraploid peanut. We present the successful conversion of 50% of the bioinformatics-defined primers into legume anchor markers in bean and diploid Arachis species. One hundred and four new loci representing single-copy genes were added to the existing bean map. These new legume anchor-marker loci enabled the alignment of genetic linkage maps through corresponding genes and provided an estimate of the extent of synteny and collinearity. Extensive macrosynteny between Lotus and bean was uncovered on 8 of the 11 bean chromosomes and large blocks of macrosynteny were also found between bean and Medicago. This suggests that anchor markers can facilitate a better understanding of the genes and genetics of important traits in crops with largely uncharacterized genomes using genetic and genome information from related model plants."
+
+publication_doi: 10.1534/genetics.108.090084
+
+publication_title: "Legume Anchor Markers Link Syntenic Regions Between Phaseolus vulgaris, Lotus japonicus, Medicago truncatula and Arachis"
+
+contributors: "Birgit Kristine Hougaard, Lene Heegaard Madsen, Niels Sandal, Marcio de Carvalho Moretzsohn, Jakob Fredslund, Leif Schauser, Anna Marie Nielsen, Trine Rohde, Shusei Sato, Satoshi Tabata, David John Bertioli, Jens Stougaard"
+
+citation: "Hougaard, B. K. et al. Legume Anchor Markers Link Syntenic Regions Between Phaseolus vulgaris, Lotus japonicus, Medicago truncatula and Arachis. Genetics 179, 2299–2312 (2008)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Hougaard_Madsen_2008

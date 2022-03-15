@@ -1,0 +1,31 @@
+---
+identifier: G19833.gnm1.mrk.Blair_Pedraza_2003
+
+synopsis: "A total of 150 microsatellite markers developed for common bean (Phaseolus vulgaris L.) were tested for parental polymorphism and used to determine the positions of 100 genetic loci on an integrated genetic map of the species."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "A total of 150 microsatellite markers developed for common bean (Phaseolus vulgaris L.) were tested for parental polymorphism and used to determine the positions of 100 genetic loci on an integrated genetic map of the species. The value of these single-copy markers was evident in their ability to link two existing RFLP-based genetic maps with a base map developed for the Mesoamerican  Andean population, DOR364 G19833. Two types of microsatellites were mapped, based respectively on gene-coding and anonymous genomic-sequences. Gene-based microsatellites proved to be less polymorphic (46.3%) than anonymous genomic microsatellites (64.3%) between the parents of two intergenepool crosses. The majority of the microsatellites produced single bands and detected single loci, however four of the gene-based and three of the genomic microsatellites produced consistent double or multiple banding patterns and detected more than one locus. Microsatellite loci were found on each of the 11 chromosomes of common bean, the number per chromosome ranging from 5 to 17 with an average of ten microsatellites each. Total map length for the base map was 1,720 cM and the average chromosome length was 156.4 cM, with an average distance between microsatellite loci of 19.5 cM. The development of new microsatellites from sequences in the Genbank database and the implication of these results for genetic mapping, quantitative trait locus analysis and marker-assisted selection in common bean are described."
+
+publication_doi: 10.1007/s00122-003-1398-6
+
+publication_title: "Development of a genome-wide anchored microsatellite map for common bean (Phaseolus vulgaris L.)"
+
+contributors: "M. W. Blair, F. Pedraza, H. F. Buendia, E. Gaitan-Solis, S. E. Beebe, P. Gepts, J. Tohme"
+
+citation: "Blair, M. W. et al. Development of a genome-wide anchored microsatellite map for common bean (Phaseolus vulgaris L.). Theor. Appl. Genet. 107, 1362–1374 (2003)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Blair_Pedraza_2003
