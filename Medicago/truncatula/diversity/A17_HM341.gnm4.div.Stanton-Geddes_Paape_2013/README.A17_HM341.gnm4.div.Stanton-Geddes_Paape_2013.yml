@@ -1,0 +1,48 @@
+---
+identifier: A17_HM341.gnm4.div.Stanton-Geddes_Paape_2013
+
+provenance: Medicago HapMap Project, data originally hosted at http://medicagohapmap.org before being formally transferred to LIS as its primary repository
+
+source: "https://medicago.legumeinfo.org"
+
+synopsis: "Variant calling from Illumina-based whole genome resequencing across accessions from Medicago HapMap Collection."
+
+related_to: A17_HM341.gnm4.2GZ9
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+scientific_name_abbrev: medtr
+
+genotype:
+  - 262 Medicago truncatula accessions, plus representatives of various Medicago sister taxa
+
+description: "262 Medicago truncatula accessions were sequenced using Illumina. 55 accessions representing sister taxa and deeply derived lines were also sequenced. Reads were aligned to the M. truncatula v4.0 reference genome, representing the A17 genotype (HM101, Young et al, 2011). Twenty-six M. truncatula accessions (HM001-HM016, HM019-HM021, HM023-HM028, and HM101) were sequenced to 15X average aligned depth. The remaining accessions were sequenced to an average coverage depth of ~6X (Branca et al, 2011; Stanton­Geddes et al, 2013). The 262 Medicago truncatula accessions are the ones used for GWAS studies. The SNP calls for Sister Taxa lines are also available. See Mt4.0_HapMap_README.pdf for more details. Note that the Stanton-Geddes publication was actually based on SNP calls from the same read data against an earlier version (Mt3.5) of the A17 reference."
+
+bioproject: PRJNA256006
+
+sraproject: SRP044779
+
+original_file_creation_date: "2014-04-24"
+
+local_file_creation_date: "2022-02-27"
+
+dataset_release_date: "2014-04-24"
+
+publication_doi: 10.1371/journal.pone.0065688
+
+publication_title: "Candidate Genes and Genetic Architecture of Symbiotic and Agronomic Traits Revealed by Whole-Genome, Sequence-Based Association Genetics in Medicago truncatula"
+
+contributors: "Stanton-Geddes, John; Paape, Timothy; ...; Tiffin, Peter"
+
+citation: "Stanton-Geddes J, Paape T, Epstein B, Briskine R, Yoder J, Mudge J, et al. (2013) Candidate Genes and Genetic Architecture of Symbiotic and Agronomic Traits Revealed by Whole-Genome, Sequence-Based Association Genetics in Medicago truncatula. PLoS ONE 8(5): e65688."
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: Medicago, SNP, GWAS
+

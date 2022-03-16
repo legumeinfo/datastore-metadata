@@ -11,6 +11,7 @@
 *.bz2
 *.xls
 *.xlsx
+*.stats
 *.pdf
 *.jpg
 *.swp
