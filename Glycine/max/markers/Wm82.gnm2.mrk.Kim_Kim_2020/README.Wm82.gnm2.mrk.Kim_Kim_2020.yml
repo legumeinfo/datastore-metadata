@@ -1,0 +1,11 @@
+---
+identifier: mixed.gwas.Kim_Kim_2020
+citation: "Kim, Kim et al. (2020)"
+taxid: 3847
+scientific_name: Glycine max
+scientific_name_abbrev: glyma
+synopsis: GWAS study of control of flowering time in soybean, genotyped with the 180k Axiom SoyaSNP array.
+description: "This study reports on the identification of candidate markers associated with flower time in soybean (Glycine max). A large population of 2,662 cultivated soybean accessions was genotyped using the 180k Axiom SoyaSNP array, and the genomic architecture of these accessions was investigated to confirm the population structure. Then, GWAS was conducted to evaluate the association between SNP markers and flower ytime. A tyyotal of 93 significant SNP markers were detected within 59 significant genes, including E1 and E3, which are the main determinants of flower time. Based on the GWAS results, multilocus epistatic interactions were examined between the significant and non-significant SNP markers. Two significant and 16 non-significant SNP markers were discovered as candidate markers affecting flower time via interactions with each other. These 18 candidate SNP markers mapped to 18 candidate genes including E1 and E3, and the 18 candidate genes were involved in six major flower pathways."
+genotyping_platform: SoyaSNP180K
+genotyping_method: 180k Axiom® SoyaSNP array. SNPs were filtered for MAF > 5%, yielding 78,427 SNP markers
+

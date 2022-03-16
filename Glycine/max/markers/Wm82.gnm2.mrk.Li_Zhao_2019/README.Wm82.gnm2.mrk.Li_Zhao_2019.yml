@@ -1,0 +1,31 @@
+---
+identifier: Wm82.gnm2.mrk.Li_Zhao_2019
+
+genotyping_platform: Li_Zhao_2019
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+synopsis: "12,072 SNPs from Li, Zhao, et al. (2019), a seed protein and oil study."
+
+description: "Soybean is globally cultivated primarily for its protein and oil. The protein and oil contents of the seeds are quantitatively inherited traits determined by the interaction of numerous genes. In order to gain a better understanding of the molecular foundation of soybean protein and oil content for the marker-assisted selection (MAS) of high quality traits, a population of 185 soybean germplasms was evaluated to identify the quantitative trait loci (QTLs) associated with the seed protein and oil contents. Using specific length amplified fragment sequencing (SLAF-seq) technology, a total of 12,072 single nucleotide polymorphisms (SNPs) with a minor allele frequency (MAF) ≥ 0.05 were detected across the 20 chromosomes (Chr), with a marker density of 78.7 kbp. A total of 31 SNPs located on 12 of the 20 soybean chromosomes were correlated with seed protein and oil content. Of the 31 SNPs that were associated with the two target traits, 31 beneficial alleles were identified. Two SNP markers, namely rs15774585 and rs15783346 on Chr 07, were determined to be related to seed oil content both in 2015 and 2016. Three SNP markers, rs53140888 on Chr 01, rs19485676 on Chr 13, and rs24787338 on Chr 20 were correlated with seed protein content both in 2015 and 2016. These beneficial alleles may potentially contribute towards the MAS of favorable soybean protein and oil characteristics."
+
+publication_doi: 10.1016/j.ygeno.2018.01.004
+
+publication_title: "Genome-wide association mapping for seed protein and oil contents using a large panel of soybean accessions"
+
+contributors: "Dongmei Li, Xue Zhao, Yingpeng Han, Wenbin Li, Futi Xie"
+
+citation: "Li, D., Zhao, X., Han, Y., Li, W. & Xie, F. Genome-wide association mapping for seed protein and oil contents using a large panel of soybean accessions. Genomics 111, 90–95 (2019)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open

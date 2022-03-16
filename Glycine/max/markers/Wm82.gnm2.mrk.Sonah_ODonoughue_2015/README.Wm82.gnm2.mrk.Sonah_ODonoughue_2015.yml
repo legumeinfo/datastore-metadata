@@ -1,0 +1,23 @@
+---
+identifier: mixed.gwas.Sonah_ODonoughue_2015
+
+genotyping_platform: Sonah_ODonoughue_2015
+
+taxid: 3847
+
+scientific_name: Glycine max
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - 139 soya bean lines
+
+synopsis: "GWAS study of eight traits in soybean, conducted on 139 accessions, genotyped using GBS-derived markers."
+
+description: "Soya bean is a major source of edible oil and protein for human consumption as well as animal feed. Understanding the genetic basis of different traits in soya bean will provide important insights for improving breeding strategies for this crop. A genome-wide association study (GWAS) was conducted to accelerate molecular breeding for the improvement of agronomic traits in soya bean. A genotyping-by-sequencing (GBS) approach was used to provide dense genome-wide marker coverage (>47 000 SNPs) for a panel of 304 short-season soya bean lines. A subset of 139 lines, representative of the diversity among these, was characterized phenotypically for eight traits under six environments (3 sites × 2 years). Marker coverage proved sufficient to ensure highly significant associations between the genes known to control simple traits (flower, hilum and pubescence colour) and flanking SNPs. Between one and eight genomic loci associated with more complex traits (maturity, plant height, seed weight, seed oil and protein) were also identified. Importantly, most of these GWAS loci were located within genomic regions identified by previously reported quantitative trait locus (QTL) for these traits. In some cases, the reported QTLs were also successfully validated by additional QTL mapping in a biparental population. This study demonstrates that integrating GBS and GWAS can be used as a powerful complementary approach to classical biparental mapping for dissecting complex traits in soya bean."
+
+publication_doi: 10.1111/pbi.12249
+
+publication_title: "Identification of loci governing eight agronomic traits using a GBS-GWAS approach and validation by QTL mapping in soya bean"
+
+citation: "Sonah, H., O’Donoughue, L., Cober, E., Rajcan, I. & Belzile, F. Identification of loci governing eight agronomic traits using a GBS-GWAS approach and validation by QTL mapping in soya bean. Plant Biotechnol. J. 13, 211–221 (2015)"
