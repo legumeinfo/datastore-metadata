@@ -24,8 +24,6 @@ strains:
     description: "Adzuki bean cultivar Gyeongwon was developed in South Korea for agronomic and seed-quality characteristics. This line was used to generate a genome assembly described in Kang et al., 2015 (10.1038/srep08069)"
   - identifier: Shumari
     name: Shumari
+    accession: Shumari
     origin: Japan
-    description: "Adzuki bean cultivar Shumari was used to generate a genome assembly described in Naito et al., 2015 (10.1038/srep16780)."
-        
-
-
+    description: "Adzuki bean cultivar Shumari was used to generate a genome assembly described in Sakai et al., 2015 (10.1038/srep16780)."

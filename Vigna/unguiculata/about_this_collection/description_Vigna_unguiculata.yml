@@ -25,10 +25,12 @@ strains:
         description: "JBrowse for IT97K-499-35 assembly v1.0"
   - identifier: CB5-2
     name: CB5-2
+    accession: CB5-2
     origin: USA
     description: "CB5-2 is a fully inbred stock that is closely related to CB5, which was the predominant Blackeye of the US Southwest for several decades. CB5 (Blackeye 8415) was bred by WW Mackie at the University of California (Mackie, 1946) to add resistances to Fusarium wilt and nematodes to a previously preferred California Blackeye landrace."
   - identifier: Sanzi
     name: Sanzi
+    accession: Sanzi
     origin: Ghana
     description: "Sanzi is an early flowering, small-seeded landrace from Ghana with resistance to flower bud thrips (Boukar et al. 2013)."
   - identifier: Suvita2
@@ -38,6 +40,7 @@ strains:
     description: "Suvita2, also known as Gorom Local (IITA accession TVu-15553, US NPGR PI 583259), is resistant to bruchids and some races of Striga, and is relatively drought tolerant. This landrace was collected from a local market by VD Aggarwal at the Institut de l'Environnement et de Recherches Agricoles (INERA) in Burkina Faso (Aggarwal et al. 1984)."
   - identifier: TZ30
     name: TZ30
+    accession: TZ30
     origin: Asia
     description: "Elite longbean accession from the Asian sub-population, representing the sesquipedalis cultivar group."
   - identifier: UCR779
@@ -47,4 +50,6 @@ strains:
     description: "UCR779 (PI 583014) is a landrace from Botswana, provided to UC Riverside as BOTS 19A in 1987 by CJ DeMooy of Colorado State University."
   - identifier: ZN016
     name: ZN016
+    accession: ZN016
+    origin: Asia
     description: "Landrace longbean accession from the Asian sub-population, representing the sesquipedalis culitvar group."
