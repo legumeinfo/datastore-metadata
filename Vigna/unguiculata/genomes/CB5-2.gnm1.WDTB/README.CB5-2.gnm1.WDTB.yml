@@ -1,0 +1,14 @@
+identifier: CB5-2.gnm1.WDTB
+
+synopsis: Vigna unguiculata genome assembly for CB5-2
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - CB5-2
+
+description: Vigna unguiculata genome assembly for CB5-2.gnm1.WDTB

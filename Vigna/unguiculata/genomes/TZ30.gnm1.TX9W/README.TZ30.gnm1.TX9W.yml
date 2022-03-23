@@ -1,0 +1,14 @@
+identifier: TZ30.gnm1.TX9W
+
+synopsis: Vigna unguiculata genome assembly for TZ30
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - TZ30
+
+description: Vigna unguiculata genome assembly for TZ30

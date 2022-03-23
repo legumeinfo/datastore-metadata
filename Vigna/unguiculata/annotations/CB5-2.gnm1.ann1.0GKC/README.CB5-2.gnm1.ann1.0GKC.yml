@@ -1,0 +1,15 @@
+identifier: CB5-2.gnm1.ann1.0GKC
+
+synopsis: Genome annotation for Vigna unguiculata CB5-2
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - CB5-2
+
+description: Genome annotation for Vigna unguiculata CB5-2
+

@@ -1,0 +1,15 @@
+identifier: UCR779.gnm1.ann1.VF6G
+
+synopsis: Genome annotation for Vigna unguiculata UCR779
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - UCR779
+
+description: Genome annotation for Vigna unguiculata UCR779
+

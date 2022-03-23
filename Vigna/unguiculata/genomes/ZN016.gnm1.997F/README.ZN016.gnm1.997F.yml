@@ -1,0 +1,14 @@
+identifier: ZN016.gnm1.997F
+
+synopsis: Vigna unguiculata genome assembly for ZN016
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - ZN016
+
+description: Vigna unguiculata genome assembly for ZN016

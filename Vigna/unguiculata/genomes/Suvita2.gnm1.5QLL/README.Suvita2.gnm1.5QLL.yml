@@ -1,0 +1,14 @@
+identifier: Suvita2.gnm1.5QLL
+
+synopsis: Vigna unguiculata genome assembly for Suvita2
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - Suvita2
+
+description: Vigna unguiculata genome assembly for Suvita2

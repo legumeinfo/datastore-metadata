@@ -1,0 +1,14 @@
+identifier: Xiabao_II.gnm1.WDBP
+
+synopsis: Vigna unguiculata genome assembly for Xiabao_II
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - Xiabao_II
+
+description: Vigna unguiculata genome assembly for Xiabao_II

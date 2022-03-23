@@ -1,0 +1,15 @@
+identifier: ZN016.gnm1.ann2.C7YV
+
+synopsis: Genome annotation for Vigna unguiculata ZN016
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - ZN016
+
+description: Genome annotation for Vigna unguiculata ZN016
+

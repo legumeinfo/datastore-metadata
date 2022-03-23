@@ -1,0 +1,15 @@
+identifier: TZ30.gnm1.ann2.59NL
+
+synopsis: Genome annotation for Vigna unguiculata TZ30
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - TZ30
+
+description: Genome annotation for Vigna unguiculata TZ30
+

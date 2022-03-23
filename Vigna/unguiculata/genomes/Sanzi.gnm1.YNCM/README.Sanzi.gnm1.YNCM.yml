@@ -1,0 +1,14 @@
+identifier: Sanzi.gnm1.YNCM
+
+synopsis: Vigna unguiculata genome assembly for Sanzi
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - Sanzi
+
+description: Vigna unguiculata genome assembly for Sanzi

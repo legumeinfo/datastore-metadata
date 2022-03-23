@@ -1,0 +1,15 @@
+identifier: Sanzi.gnm1.ann1.HFH8
+
+synopsis: Genome annotation for Vigna unguiculata Sanzi
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - Sanzi
+
+description: Genome annotation for Vigna unguiculata Sanzi
+
