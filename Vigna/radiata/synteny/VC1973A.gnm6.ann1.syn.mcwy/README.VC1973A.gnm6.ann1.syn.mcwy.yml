@@ -1,0 +1,23 @@
+---
+identifier: VC1973A.gnm6.ann1.syn.mcwy
+
+synopsis: "Synteny between Vigna radiata VC1973A and other species accessions calculated by LIS."
+
+scientific_name: Vigna radiata
+
+taxid: 157791
+
+scientific_name_abbrev: vigra
+
+genotype:
+  - VC1973A
+
+description: "Synteny between Vigna radiata VC1973A and other species accessions calculated by LIS."
+
+data_curators: Steven Cannon, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: cowpea,synteny

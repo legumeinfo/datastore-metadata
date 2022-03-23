@@ -1,0 +1,23 @@
+---
+identifier: Gyeongwon.gnm3.ann1.syn.wCFF
+
+synopsis: "Synteny between Vigna angularis Gyeongwon and other species accessions calculated by LIS."
+
+scientific_name: Vigna angularis
+
+taxid: 3914
+
+scientific_name_abbrev: vigan
+
+genotype:
+  - Gyeongwon
+
+description: "Synteny between Vigna angularis Gyeongwon and other species accessions calculated by LIS."
+
+data_curators: Steven Cannon, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: cowpea,synteny
