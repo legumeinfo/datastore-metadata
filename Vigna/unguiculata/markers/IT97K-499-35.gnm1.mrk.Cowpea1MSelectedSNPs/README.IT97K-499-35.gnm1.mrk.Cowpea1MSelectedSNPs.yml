@@ -1,0 +1,33 @@
+---
+identifier: IT97K-499-35.gnm1.mrk.Cowpea1MSelectedSNPs
+
+provenance: Close Lab, UC-Riverside
+
+synopsis: "SNP mining from 183,118 ESTs sequenced from 17 cDNA libraries yielded ≈10,000 high-confidence SNPs from which an Illumina 1,536-SNP GoldenGate genotyping array was developed."
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+scientific_name_abbrev: vigun
+
+genotype:
+  - IT97K-499-35
+
+description: "We report the development and validation of a high-throughput EST-derived SNP assay for cowpea, its application in consensus map building, and determination of synteny to reference genomes. SNP mining from 183,118 ESTs sequenced from 17 cDNA libraries yielded ≈10,000 high-confidence SNPs from which an Illumina 1,536-SNP GoldenGate genotyping array was developed and applied to 741 recombinant inbred lines from six mapping populations. Approximately 90% of the SNPs were technically successful, providing 1,375 dependable markers."
+
+publication_doi: 10.1073/pnas.0905886106
+
+publication_title: "A consensus genetic map of cowpea [Vigna unguiculata (L) Walp.] and synteny based on EST-derived SNPs"
+
+contributors: "Wellington Muchero, Ndeye N. Diop, Prasanna R. Bhat, Raymond D. Fenton, Steve Wanamaker, Marti Pottorff, Sarah Hearne, Ndiaga Cisse, Christian Fatokun, Jeffrey D. Ehlers, Philip A. Roberts, and Timothy J. Close"
+
+citation: "Muchero, W. et al. A consensus genetic map of cowpea [Vigna unguiculata (L) Walp.] and synteny based on EST-derived SNPs. Proc. Natl. Acad. Sci. U. S. A. 106, 18159–18164 (2009)"
+
+public_access_level: public
+
+license: Open
+
+keywords: cowpea,genetic markers,SNP
+
+genotyping_platform: Cowpea1MSelectedSNPs
