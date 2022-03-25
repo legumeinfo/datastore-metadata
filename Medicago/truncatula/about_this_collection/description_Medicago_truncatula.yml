@@ -8,13 +8,13 @@ description: "Medicago truncatula, a close relative of alfalfa (M. sativa), is w
 
 resources: 
   - name: LIS Genome Browser (GBrowse)
-    URL: "https://legumeinfo.org/genomes/gbrowse/Mt4.0"
+    URL: "https://legacy.legumeinfo.org/genomes/gbrowse/Mt4.0"
     description: "GBrowse for Medicago truncatula assembly v4.0"
   - name: LIS Genome Browser (JBrowse)
-    URL: "https://legumeinfo.org/genomes/jbrowse/Mt4.0"
+    URL: "https://legacy.legumeinfo.org/genomes/jbrowse/Mt4.0"
     description: "JBrowse for Medicago truncatula assembly v4.0"
   - name: LIS SequenceServer
-    URL: "https://legumeinfo.org/sequenceserver/"
+    URL: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against the Medicago truncatula assembly v4.0"   
 
 strains:

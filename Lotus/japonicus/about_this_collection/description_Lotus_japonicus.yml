@@ -7,13 +7,13 @@ commonName: birdsfoot trefoil
 description: "Lotus japonicus, a forage crop (much like clover), is widely used as a model in legume biology. It is physically small in stature, with a small genome, and a short generation time, and it is relatively easily transformable (for gene functional studies). Genome version available on LIS is version Lj2.5 and Lj3.0, publication associated with this genome version is available here: Sato et al., 2008 (doi:10.1093/dnares/dsn008)."
 resources:
   - name: LIS Genome Browser (GBrowse)
-    URL: "https://legumeinfo.org/genomes/gbrowse/Lj3.0"
+    URL: "https://legacy.legumeinfo.org/genomes/gbrowse/Lj3.0"
     description: "GBrowse for Lutus Japonicus assembly v3.0"
   - name: LIS Genome Browser (JBrowse)
-    URL: "https://legumeinfo.org/genomes/jbrowse?data=Lj3.0"
+    URL: "https://legacy.legumeinfo.org/genomes/jbrowse?data=Lj3.0"
     description: "JBrowse for Lotus Japonicus assembly v3.0"
   - name: LIS SequenceServer
-    URL: "https://legumeinfo.org/sequenceserver/"
+    URL: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against the Lotus Japonicus assembly v3.0"
 
 strains:

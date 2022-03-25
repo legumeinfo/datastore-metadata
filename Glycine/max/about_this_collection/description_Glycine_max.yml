@@ -17,7 +17,7 @@ resources:
     URL: "https://soybase.org/gcvit"
     description: "Genotype comparison visualization tool "
   - name: Genome Context Viewer
-    URL: "https://legumeinfo.org/gcv2/gene;lis=glyma.Glyma.15G255600?q=Glyma.15G255600&sources=lis&algorithm=repeat&match=10&mismatch=-1&gap=-1&score=30&threshold=25&bmatched=20&bintermediate=10&bmask=10&linkage=average&cthreshold=20&neighbors=10&matched=4&intermediate=5&bregexp=&border=chromosome&regexp=&order=distance"
+    URL: "https://gcv.legumeinfo.org/gene;lis=glyma.Glyma.15G255600?q=Glyma.15G255600&sources=lis&algorithm=repeat&match=10&mismatch=-1&gap=-1&score=30&threshold=25&bmatched=20&bintermediate=10&bmask=10&linkage=average&cthreshold=20&neighbors=10&matched=4&intermediate=5&bregexp=&border=chromosome&regexp=&order=distance"
     description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
   - name: Grin Data Explorer
     URL: "https://soybase.org/grindata/"
@@ -37,7 +37,7 @@ strains:
         URL: "https://soybase.org/gb2/gbrowse/gmax1.01"
         description: "GBrowse for Wm82 assemblies 1.01"
       - name: LIS SequenceServer
-        URL: "https://legumeinfo.org/sequenceserver/"
+        URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the Wm82 v2 assembly"
   - identifier: Zh13
     accession: GWHAAEV00000000.1 
@@ -49,7 +49,7 @@ strains:
         URL: "https://soybase.org/gb2/gbrowse/glyma.Zh13.gnm1"
         description: "GBrowse for glycine max Zh13 genome assembly verson 1"
       - name: LIS SequenceServer
-        URL: "https://legumeinfo.org/sequenceserver/"
+        URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the glycine max Zh13 assembly"
   - identifier: Lee
     accession: PI 548656
@@ -61,7 +61,7 @@ strains:
         URL: "https://soybase.org/gb2/gbrowse/glyma.Lee.gnm1"
         description: "GBrowse for glycine max Lee genome assembly verson 1"
       - name: LIS SequenceServer
-        URL: "https://legumeinfo.org/sequenceserver/"
+        URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the glycine max Lee assembly"
   - identifier: Wenfeng7_IGA1001
     accession: IGA1001
