@@ -14,13 +14,13 @@ strains:
     description: "Andean landrace G19833 was selected for genome sequencing partly due to its resistance to numerous diseases, including bean rust (Uromyces appendiculatus), as well as anthracnose, angular leaf spot, Aschochyta blight, and the bean golden mosaic and bean common mosaic viruses (Hurtado-Gonzales et al., 2017; https://digitalcommons.unl.edu/usdaarsfacpub/1664/). This accession has also been used to generate populations for mapping traits such as phosphorous acquisition and agronomic performance."
     resources: 
       - name: LIS Genome Browser (GBrowse)
-        URL: "https://legumeinfo.org/genomes/gbrowse/phavu.G19833.gnm2"
+        URL: "https://legacy.legumeinfo.org/genomes/gbrowse/phavu.G19833.gnm2"
         description: "GBrowse for G19833 assembly v2.0"
       - name: LIS Genome Browser (JBrowse)
-        URL: "https://legumeinfo.org/genomes/jbrowse/?data=phavu.G19833.gnm2"
+        URL: "https://legacy.legumeinfo.org/genomes/jbrowse/?data=phavu.G19833.gnm2"
         description: "JBrowse for G19833 assembly v2.0"
       - name: LIS SequenceServer
-        URL: "https://legumeinfo.org/sequenceserver/"
+        URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the Phaseolus vulgaris genome v2.0"
   - identifier: BAT93
     accession: PI 633451
@@ -34,10 +34,10 @@ strains:
     description: "Bean variety UI111 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies.It is a pinto-type bean, with indeterminate climbing habit."
     resources: 
       - name: LIS Genome Browser (GBrowse)
-        URL: "https://legumeinfo.org/genomes/gbrowse/phavu.UI111.gnm1/"
+        URL: "https://legacy.legumeinfo.org/genomes/gbrowse/phavu.UI111.gnm1/"
         description: "GBrowse for UI111 assembly v1.0"
       - name: LIS Genome Browser (JBrowse)
-        URL: "https://legumeinfo.org/genomes/jbrowse/phavu.UI111.gnm1/"
+        URL: "https://legacy.legumeinfo.org/genomes/jbrowse/phavu.UI111.gnm1/"
         description: "JBrowse for UI111 assembly v1.0"
   - identifier: LaborOvalle
     accession: Labor Ovalle

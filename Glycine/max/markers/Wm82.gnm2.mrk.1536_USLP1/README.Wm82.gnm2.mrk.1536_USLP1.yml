@@ -1,0 +1,31 @@
+---
+identifier: Wm82.gnm2.mrk.1536_USLP1
+
+genotyping_platform: 1536_USLP1
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+synopsis: "Universal Soy Linkage Panel (USLP 1.0) contains 1536 SNPs selected based on even distribution throughout each of the 20 consensus linkage groups and to have a broad range of allele frequencies in diverse germplasm."
+
+description: "Our objectives were to add 2500 additional SNP markers to the soybean integrated map and select a set of 1536 SNPs to create a universal linkage panel for high-throughput soybean quantitative trait locus (QTL) mapping. The GoldenGate assay is one high-throughput analysis method capable of genotyping 1536 SNPs in 192 DNA samples over a 3-d period. We designed GoldenGate assays for 3456 SNPs (2956 new plus 500 previously mapped) which were used to screen three recombinant inbred line populations and diverse germplasm. A total of 3000 workable assays were obtained which added about 2500 new SNP markers to create a fourth version of the soybean integrated linkage map. To create this Universal Soy Linkage Panel (USLP 1.0) of 1536 SNP loci, SNPs were selected based on even distribution throughout each of the 20 consensus linkage groups and to have a broad range of allele frequencies in diverse germplasm. The 1536 USLP 1.0 will be able to quickly create a comprehensive genetic map in most QTL mapping populations and thus will serve as a useful tool for high-throughput QTL mapping."
+
+publication_doi: 10.2135/cropsci2009.06.0360
+
+publication_title: "A High Density Integrated Genetic Linkage Map of Soybean and the Development of a 1536 Universal Soy Linkage Panel for Quantitative Trait Locus Mapping"
+
+contributors: "David L. Hyten, Ik-Young Choi, Qijian Song, James E. Specht, Thomas E. Carter, Randy C. Shoemaker, Eun-Young Hwang, Lakshmi K. Matukumalli, Perry B. Cregan"
+
+citation: "Hyten, D. L. et al. A high density integrated genetic linkage map of soybean and the development of a 1536 universal soy linkage panel for quantitative trait locus mapping. Crop Sci. 50, 960–968 (2010)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
