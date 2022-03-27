@@ -1,5 +1,5 @@
 ---
-identifier: mixed.gwas.Fang_Ma_2017
+identifier: Wm82.gnm2.mrk.Fang_Ma_2017
 
 taxid: 3847
 
@@ -8,7 +8,7 @@ scientific_name: Glycine max
 scientific_name_abbrev: glyma
 
 genotype:
-  - 809 soybean accessions
+  - Williams 82
 
 genotyping_platform: Fang_Ma_2017
 

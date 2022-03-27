@@ -1,9 +1,27 @@
 ---
 identifier: mixed.gwas.Meng_He_2016
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Meng, He et al. (2016)"
-description: "GWAS study of seed isoflavone content (SIFC), conducted on 366 landraces, genotyped with 116,769 RAD-Seq markers."
-synopsis: "GWAS study of seed isoflavone content (SIFC), conducted on 366 landraces, genotyped with 116,769 RAD-Seq markers."
+
+genotype:
+  - "366 landraces from the Chinese soybean landrace population (CSLRP)"
+
+genotyping_platform: Meng_He_2016
+
+genotyping_method: "RAD-seq to obtain 116,769 SNPs"
+
+description: "The seed isoflavone content (SIFC) of soybeans is of great importance to health care. The Chinese soybean landrace population (CSLRP) as a genetic reservoir was studied for its whole-genome quantitative trait loci (QTL) system of the SIFC using an innovative restricted twostage multi-locus genome-wide association study procedure (RTM-GWAS). A sample of 366 landraces was tested under four environments and sequenced using RAD-seq (restriction-site-associated DNA sequencing) technique to obtain 116,769 single nucleotide polymorphisms (SNPs) then organized into 29,119 SNP linkage disequilibrium blocks (SNPLDBs) for GWAS. The detected 44 QTL 199 alleles on 16 chromosomes (explaining 72.2 % of the total phenotypic variation) with the allele effects (92 positive and 107 negative) of the CSLRP were organized into a QTL-allele matrix showing the SIFC population genetic structure. Additional differentiation among eco-regions due to the SIFC in addition to that of genome-wide markers was found. All accessions comprised both positive and negative alleles, implying a great potential for recombination within the population. The optimal crosses were predicted from the matrices, showing transgressive potentials in the CSLRP. From the detected QTL system, 55 candidate genes related to 11 biological processes were χ2 -tested as an SIFC candidate gene system. The present study explored the genome-wide SIFC QTL/gene system with the innovative RTM-GWAS and found the potentials of the QTLallele matrix in optimal cross design and population genetic and genomic studies, which may have provided a solution to match the breeding by design strategy at both QTL and gene levels in breeding programs."
+
+synopsis: "Utilizing an innovative GWAS in CSLRP, 44 QTL 199 alleles with 72.2 % contribution to SIFC variation were detected and organized into a QTL-allele matrix for cross design and gene annotation."
+
+publication_title: "Detecting the QTL-allele system of seed isoflavone content in Chinese soybean landrace population for optimal cross design and gene system exploration."
+
 publication_doi: 10.1007/s00122-016-2724-0
+
+citation: "Meng, S. et al. Detecting the QTL-allele system of seed isoflavone content in Chinese soybean landrace population for optimal cross design and gene system exploration. Theor. Appl. Genet. 129, 1557–1576 (2016)"
+
+contributors: "Shan Meng, Jianbo He, Tuanjie Zhao, Guangnan Xing, Yan Li, Shouping Yang, Jiangjie Lu, Yufeng Wang, Junyi Gai"

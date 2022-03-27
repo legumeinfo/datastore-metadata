@@ -1,13 +1,27 @@
 ---
 identifier: mixed.gwas.Dhanapal_Ray_2016
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Dhanapal, Ray et al. (2016)"
-synopsis: GWAS soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts.
-description: "Genome-wide association mapping of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts, phenotyped in 332 diverse soybean genotypes. Chlorophyll a, chlorophyll b, and total chlorophyll content were assessed, as well as the chlorophyll a/b ratio."
+
+synopsis: "GWAS of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts."
+
+description: "A genome-wide associating mapping approach was employed using 31,253 single nucleotide polymorphisms (SNPs) to identify loci associated with the extract based eChl_A, eChl_B, eChl_R and eChl_T measurements and the two canopy spectral reflectance-based methods (tChl_T and iChl_T). A total of 23 (14 loci), 15 (7 loci) and 14 SNPs (10 loci) showed significant association with eChl_A, eChl_B and eChl_R respectively. A total of 52 unique SNPs were significantly associated with total chlorophyll content based on at least one of the three approaches (eChl_T, tChl_T and iChl_T) and likely tagged 27 putative loci for total chlorophyll content, four of which were indicated by all three approaches."
+
+genotype:
+  - 385 maturity group IV soybean genotypes
+
 genotyping_platform: SoySNP50K
+
 genotyping_method: SNP50k iSelect SNP Beadchip
+
+publication_title: "Genome-wide association mapping of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts"
+
 publication_doi: 10.1186/s12870-016-0861-x
 
+citation: "Dhanapal, A. P. et al. Genome-wide association mapping of soybean chlorophyll traits based on canopy spectral reflectance and leaf extracts. BMC Plant Biol. 16, 174 (2016)"
 
+contributors: "Arun Prabhu Dhanapal, Jeffery D. Ray, Shardendu K. Singh, Valerio Hoyos-Villegas, James R. Smith, Larry C. Purcell, Felix B. Fritschi"

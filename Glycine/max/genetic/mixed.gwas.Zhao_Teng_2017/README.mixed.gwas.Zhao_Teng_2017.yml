@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Zhao_Teng_2017
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: Zhao, Teng et al. 2017
-synopsis: GWAS study of resistance to soybean cyst nematode (SCN), conducted on 200 soybean accessions, genotyped using a custom 33,194 SNP set.
-description: GWAS study of resistance to soybean cyst nematode (SCN), conducted on 200 soybean accessions, genotyped using a custom 33,194 SNP set.
-genotyping_platform: SLAFseq
+
+genotype:
+  - 200 diverse soybean accessions
+
+citation: "Zhao, X. et al. Loci and candidate genes conferring resistance to soybean cyst nematode HG type 2.5.7. BMC Genomics 18, 462 (2017)"
+
+synopsis: "The aim of the present study was to investigate the genome-wide genetic architecture of resistance to SCN HG Type 2.5.7 (race 1) in landrace and elite cultivated soybeans."
+
+description: "A total of 200 diverse soybean accessions were screened for resistance to SCN HG Type 2.5.7 and genotyped through sequencing using the Specific Locus Amplified Fragment Sequencing (SLAF-seq) approach with a 6.14-fold average sequencing depth. A total of 33,194 SNPs were identified with minor allele frequencies (MAF) over 4%, covering 97% of all the genotypes. Genome-wide association mapping (GWAS) revealed thirteen SNPs associated with resistance to SCN HG Type 2.5.7. These SNPs were distributed on five chromosomes (Chr), including Chr7, 8, 14, 15 and 18. Four SNPs were novel resistance loci and nine SNPs were located near known QTL. A total of 30 genes were identified as candidate genes underlying SCN resistance. Conclusions: A total of sixteen novel soybean accessions were identified with significant resistance to HG Type 2.5.7. The beneficial alleles and candidate genes identified by GWAS might be valuable for improving marker-assisted breeding efficiency and exploring the molecular mechanisms underlying SCN resistance."
+
+genotyping_platform: Zhao_Teng_2017
+
 genotyping_method: "SLAF-seq: Specific Locus Amplified Fragment Sequencing"
+
+publication_title: "Loci and candidate genes conferring resistance to soybean cyst nematode HG type 2.5.7"
+
 publication_doi: 10.1186/s12864-017-3843-y
 
+contributors: "Xue Zhao, Weili Teng, Yinghui Li, Dongyuan Liu, Guanglu Cao, Dongmei Li, Lijuan Qiu, Hongkun Zheng, Yingpeng Han, Wenbin Li"

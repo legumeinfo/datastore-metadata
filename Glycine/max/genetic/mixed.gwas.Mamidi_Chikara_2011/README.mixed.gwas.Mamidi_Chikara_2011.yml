@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Mamidi_Chikara_2011
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Mamidi, Chikara et al. (2011)"
-synopsis: GWAS study of iron deficiency chlorosis in soybean, conducted on two populations (n=141, n=143), genotyped with the 1536 SNP USLP1 array.
-description: GWAS study of iron deficiency chlorosis in soybean, conducted on two populations (n=141, n=143), genotyped with the 1536 SNP USLP1 array.
+
+genotype:
+  - "two independent populations, each consisting of a unique set of advanced soybean breeding lines"
+
+synopsis: "GWAS study of iron deficiency chlorosis (IDC) in soybean, conducted on two populations (n=143, n=141), genotyped with the 1536 SNP USLP1 array."
+
+description: "The objective of this analysis was to employ single nucleotide polymorphism (SNP)-based genome-wide association mapping to uncover genomic regions associated with IDC tolerance. Two populations [2005 (n = 143) and 2006 (n = 141)] were evaluated in replicated, multilocation IDC trials. After controlling for population structure and individual relatedness, and selecting statistical models that minimized false positives, 42 and 88 loci, with minor allele frequency >10%, were significant in 2005 and 2006, respectively. The loci accounted for 74.5% of the phenotypic variation in IDC in2005 and 93.8% of the variation in 2006. Nine loci from seven genomic locations were significant in both years. These loci accounted for 43.7% of the variation in 2005 and 47.6% in 2006. A number of the loci discovered here mapped at or near previously discovered IDC quantitative trait loci (QTL). A total of 15 genes known to be involved in iron metabolism mapped in the vicinity (<500 kb) of significant markers in one or both populations."
+
 genotyping_platform: 1536_USLP1
-genotyping_method: Illumina USLP1.0
+
+genotyping_method: "Illumina GoldenGate SNP assay with the Universal Soy Linkage Panel (USLP) 1.0 (Hyten et al., 2010)"
+
 publication_doi: 10.3835/plantgenome2011.04.0011
 
+publication_title: "Genome-Wide Association Analysis Identifies Candidate Genes Associated with Iron Deficiency Chlorosis in Soybean"
+
+citation: "Mamidi, S. et al. Genome-wide association analysis identifies candidate genes associated with iron deficiency chlorosis in soybean. Plant Genome 4, 154–164 (2011)"
+
+contributors: "Sujan Mamidi, Shireen Chikara, R. Jay Goos, David L. Hyten, Deepti Annam, Samira Mafi Moghaddam, Rian K. Lee, Perry B. Cregan, and Phillip E. McClean"

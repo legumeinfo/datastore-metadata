@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Wang_Chu_2016
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Wang, Chu et al. (2016)"
-description: "GWAS study of domestication-related traits in soybean, conducted on 105 wild and 262 cultivated soybeans, genotyped using the NJAU 355K SoySNP array."
+
+genotype:
+  - 105 wild and 262 cultivated soybean accessions
+
+description: "We developed a high-throughput NJAU 355K SoySNP array and used this array to study the genetic variation patterns in 367 soybean accessions, including 105 wild soybeans and 262 cultivated soybeans. The population genetic analysis suggests that cultivated soybeans have tended to originate from northern and central China, from where they spread to other regions, accompanied with a gradual increase in seed weight."
+
 synopsis: "GWAS study of domestication-related traits in soybean, conducted on 105 wild and 262 cultivated soybeans, genotyped using the NJAU 355K SoySNP array."
+
 genotyping_platform: NJAU355K
+
 genotyping_method: "NJAU355_KSoySNP: Affymetrix Axiom Genome-Wide BOS1 Assay"
+
 publication_doi: 10.1038/srep20728
 
+publication_title: "Development and application of a novel genome-wide SNP array reveals domestication history in soybean"
+
+contributors: "Jiao Wang, Shanshan Chu, Huairen Zhang, Ying Zhu, Hao Cheng, Deyue Yu"
+
+citation: "Wang, J. et al. Development and application of a novel genome-wide SNP array reveals domestication history in soybean. Scientific Reports vol. 6 (2016)"

@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Zhang_Song_2015
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: Zhang, Song et al. 2015
-synopsis: GWAS study of flowering time, maturity dates and plant height in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip.
-description: GWAS study of flowering time, maturity dates and plant height in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip.
+
+genotype:
+  - 309 accessions from the USDA Soybean Germplasm Collection
+
+synopsis: "GWAS study of flowering time, maturity dates and plant height in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip."
+
+description: "The linkage disequilibrium (LD) decayed slowly in soybean, and a substantial difference in LD pattern was observed between euchromatic and heterochromatic regions. A total of 27, 6, 18 and 27 loci for DTF, DTM, DFTM and PH were detected via GWAS, respectively. The Dt1 gene was identified in the locus strongly associated with both DTM and PH. Ten candidate genes homologous to Arabidopsis flowering genes were identified near the peak single nucleotide polymorphisms (SNPs) associated with DTF. Four of them encode MADS-domain containing proteins. Additionally, a pectin lyase-like gene was also identified in a major-effect locus for PH where LD decayed rapidly."
+
 genotyping_platform: SoySNP50K
+
 genotyping_method: Illumina Infinium SoySNP50K BeadChip
+
 publication_doi: 10.1186/s12864-015-1441-4
 
+publication_title: "Genome-wide association study for flowering time, maturity dates and plant height in early maturing soybean (Glycine max) germplasm"
+
+contributors: "Jiaoping Zhang, Qijian Song, Perry B Cregan, Randall L Nelson, Xianzhi Wang, Jixiang Wu, Guo-Liang Jiang"
+
+citation: "Zhang, J. et al. Genome-wide association study for flowering time, maturity dates and plant height in early maturing soybean (Glycine max) germplasm. BMC Genomics 16, 217 (2015)"

@@ -7,11 +7,9 @@ scientific_name_abbrev: glyma
 
 taxid: 3847
 
-citation: "Bandillo, Jarquin et al. (2015)"
-
 synopsis: "GWAS of soybean seed protein and oil, using 12,000 accessions from the USDA soybean collection and the SoySNP50K BeadChip."
 
-description: "GWAS of soybean seed protein and oil, using 12,000 accessions from the USDA soybean collection and the SoySNP50K BeadChip."
+description: " In this research, we conducted the first comprehensive analysis of population structure on the collection of 14,000 soybean accessions [Glycine max (L.) Merr. and G. soja Siebold & Zucc.] using a 50KSNP chip. Accessions originating from Japan were relatively homogenous and distinct from the Korean accessions. As a whole, both Japanese and Korean accessions diverged from the Chinese accessions. The ancestry of founders of the American accessions derived mostly from two Chinese subpopulations, which reflects the composition of the American accessions as a whole. A 12,000 accession GWAS conducted on seed protein and oil is the largest reported to date in plants and identified single nucleotide polymorphisms (SNPs) with strong signals on chromosomes 20 and 15. A chromosome 20 region previously reported to be important for protein and oil content was further narrowed and now contains only three plausible candidate genes. The haplotype effects show a strong negative relationship between oil and protein at this locus, indicating negative pleiotropic effects or multiple closely linked loci in repulsion phase linkage. The vast majority of accessions carry the haplotype allele conferring lower protein and higher oil."
 
 genotype:
   - USDA Soybean Collection
@@ -20,4 +18,10 @@ genotyping_platform: SoySNP50K
 
 genotyping_method: Illumina Infinium SoySNP50K BeadChip
 
+publication_title: "A Population Structure and Genome-Wide Association Analysis on the USDA Soybean Germplasm Collection"
+
 publication_doi: 10.3835/plantgenome2015.04.0024
+
+contributors: "Nonoy Bandillo, Diego Jarquin, Qijian Song, Randall Nelson, Perry Cregan, Jim Specht, Aaron Lorenz"
+
+citation: "Bandillo, N. et al. A Population Structure and Genome-Wide Association Analysis on the USDA Soybean Germplasm Collection. Plant Genome 8, eplantgenome2015.04.0024 (2015)"

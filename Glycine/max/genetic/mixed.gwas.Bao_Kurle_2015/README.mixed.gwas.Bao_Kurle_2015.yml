@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Bao_Kurle_2015
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Bao, Kurle et al. (2015)"
-synopsis: "GWAS of soybean sudden death syndrome (SDS), based on 282 breeding lines, genotyped with a 1536-SNP chip."
-description: "GWAS of soybean sudden death syndrome (SDS), based on 282 breeding lines, genotyped with a 1536-SNP chip."
+
+synopsis: "GWAS of soybean sudden death syndrome (SDS), based on 282 breeding lines, genotyped with the 1536-SNP USLP1.0 chip."
+
+description: "Sudden death syndrome (SDS), caused by Fusarium virguliforme, has spread to northern soybean growing regions in the US causing significant yield losses. The objectives of this study were to identify loci underlying variation in plant responses to SDS through association mapping (AM) and to assess prediction accuracy of genomic selection (GS) in a panel of early maturing soybean germplasm. A set of 282 soybean breeding lines was selected from the University of Minnesota soybean breeding program and then genotyped using a genome-wide panel of 1536 single-nucleotide polymorphism markers. Four resistance traits, root lesion severity (RLS), foliar symptom severity (FSS), root retention (RR), and dry matter reduction (DMR), were evaluated using soil inoculation in the greenhouse. AM identified significant peaks in genomic regions of known SDS resistance quantitative trait loci cqSDS001, cqRfs4, and SDS11-2. Additionally, two novel loci, one on chromosome 3 and another on chromosome 18, were tentatively identified. A ninefold cross-validation scheme was used to assess the prediction accuracy of GS for SDS resistance. The prediction accuracy of single-trait GS (ST-GS) was 0.64 for RLS, but less than 0.30 for RR, DMR, and FSS. Compared to STGS, none of multi-trait GS (MT-GS) models significantly improved the prediction accuracy due to weak correlations between the four traits. This study suggests both AM and GS hold promise for implementation in genetic improvement of SDS resistance in existing soybean breeding programs."
+
+genotype:
+  - 282 soybean breeding lines from the University of Minnesota soybean breeding program
+
 genotyping_platform: 1536_USLP1
+
 genotyping_method: Illumina GoldenGate
+
+publication_title: "Association mapping and genomic prediction for resistance to sudden death syndrome in early maturing soybean germplasm"
+
 publication_doi: 10.1007/s11032-015-0324-3
 
+citation: "Bao, Y., Kurle, J. E., Anderson, G. & Young, N. D. Association mapping and genomic prediction for resistance to sudden death syndrome in early maturing soybean germplasm. Mol. Breed. 35, 128 (2015)"
+
+contributors: "Yong Bao, James E. Kurle, Grace Anderson, Nevin D. Young"

@@ -1,9 +1,23 @@
 ---
-identifier: mixed.gwas.Meng_He_2016
+identifier: Wm82.gnm2.mrk.Meng_He_2016
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Meng, He et al. (2016)"
-description: "GWAS study of seed isoflavone content (SIFC), conducted on 366 landraces, genotyped with 116,769 RAD-Seq markers."
+
+genotype:
+  - Williams 82
+
+description: "The RAD-seq (restriction-site-association DNA sequencing) was used in the present study. The genomic DNA samples were extracted from the leaves of soybean seedlings using the CTAB method (Murray and Thompson 1980). The sequences of the 366 CSLRP accessions were obtained using Illumina HiSeq2000 instrument through the multiplexed shotgun genotyping method (Andolfatto et al. 2011) with DNA fragments between 400 and 600 bp, generating a total of 1144.56 million paired-end reads of 90 bp (including 6-bp index) in length (110.87 Gb of sequence) × approximately 3.86 in depth and 4.57 % coverage. All sequence reads were aligned against the reference genome Glyma.Wm82.a1.v1.1 (Schmutz et al. 2010) using the SOAP2 software (Li et al. 2009), with parameters that included sequence similarity, pair-end relationships and sequence quality. The RealSFS software (Yi et al. 2010) was used for population SNP calling, based on the Bayesian estimation of site frequency at every site. The SNPs of the 366 accessions were polymorphic with a rate of missing and heterozygous allele calls ≤30 % and minor allele frequency (MAF) ≥0.01 (the third or more alleles were replaced no more than once with the missing alleles, when available). The fastPHASE software (Scheet and Stephens 2006) was used for genotyping SNP imputation after heterozygous alleles were turned into missing alleles."
+
 synopsis: "GWAS study of seed isoflavone content (SIFC), conducted on 366 landraces, genotyped with 116,769 RAD-Seq markers."
+
+publication_title: "Detecting the QTL-allele system of seed isoflavone content in Chinese soybean landrace population for optimal cross design and gene system exploration."
+
 publication_doi: 10.1007/s00122-016-2724-0
+
+citation: "Meng, S. et al. Detecting the QTL-allele system of seed isoflavone content in Chinese soybean landrace population for optimal cross design and gene system exploration. Theor. Appl. Genet. 129, 1557–1576 (2016)"
+
+contributors: "Shan Meng, Jianbo He, Tuanjie Zhao, Guangnan Xing, Yan Li, Shouping Yang, Jiangjie Lu, Yufeng Wang, Junyi Gai"

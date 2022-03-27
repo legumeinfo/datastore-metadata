@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Zhang_Hao_2015
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: Zhang, Hao et al. 2015
-synopsis: GWAS study of architecture and yield-related traits in soybean, conducted on 219 accessions, genotyped using the 1536-SNP USLP1 array.
-description: GWAS study of architecture and yield-related traits in soybean, conducted on 219 accessions, genotyped using the 1536-SNP USLP1 array.
-genotyping_platform: GoldenGate
+
+genotype:
+  - "219 accessions: 9 unknown origin, 7 USA, 1 Japan, 1 Brazil, and remainder from China"
+
+synopsis: "GWAS study of architecture and yield-related traits in soybean, conducted on 219 accessions, genotyped using the 1536-SNP USLP1 array."
+
+description: "In this study, we performed genetic association analysis to dissect the relationships between plant architecture and yield component traits. Two hundred and nineteen accessions were employed, and eight agronomic traits were evaluated in six environments. Our results revealed strong positive correlations of plant architecture traits with yield components and the significant association of 4 SNPs with plant architecture traits and of 7 SNPs with yield component traits in two or more environments. Eight SNPs were co-associated with two traits."
+
+genotyping_platform: 1536_USLP1
+
 genotyping_method: Illumina 1536_USLP1 SNPs 
+
 publication_doi: 10.1111/pbr.12305
 
+publication_title: "Genetic dissection of the relationship between plant architecture and yield component traits in soybean (Glycine max) by association analysis across multiple environments"
+
+contributors: "Huairen Zhang, Derong Hao, Hélder Manuel Sitoe, Zhitong Yin, Zhenbin Hu, Guozheng Zhang, Deyue Yu"
+
+citation: "Zhang, H. et al. Genetic dissection of the relationship between plant architecture and yield component traits in soybean (Glycine max) by association analysis across multiple environments. Plant Breed. 134, 564–572 (2015)"

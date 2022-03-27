@@ -1,11 +1,27 @@
 ---
 identifier: mixed.gwas.Yan_Hofmann_2017
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: Yan, Hofmann et al. (2017)
-synopsis: GWAS study of seed weight in soybean, conducted on 166 from the USDA soybean collection, genotyped using the SoySNP50K BeadChip.
-description: GWAS study of seed weight in soybean, conducted on 166 from the USDA soybean collection, genotyped using the SoySNP50K BeadChip.
+
+genotype:
+  - "166 lines from the USDA soybean collection with large or small seed weight"
+
+synopsis: "GWAS study of seed weight in soybean, conducted on 166 from the USDA soybean collection, genotyped using the SoySNP50K BeadChip."
+
+description: "We selected 166 accessions from the USDA Soybean Germplasm Collection with either large or small seed weight and could typically grow in the same location. The accessions were evaluated for seed weight in the field for two years and genotyped with the SoySNP50K BeadChip containing >42,000 SNPs. Of the 17 SNPs on six chromosomes that were significantly associated with seed weight in two years based on a GWAS of the selective population, eight on chromosome 4 or chromosome 17 had significant Fst values between the large and small seed weight sub-populations. The seed weight difference of the two alleles of these eight significant SNPs varied from 8.1 g to 11.7 g/100 seeds in two years. We also identified haplotypes in three haplotype blocks with significant effects on seed weight. These findings were validated in a panel with 3753 accessions from the USDA Soybean Germplasm Collection."
+
 genotyping_platform: SoySNP50K
+
 genotyping_method: Illumina Infinium SoySNP50K BeadChip
+
 publication_doi: 10.1186/s12864-017-3922-0
+
+publication_title: "Identification of QTL with large effect on seed weight in a selective population of soybean with genome-wide association and fixation index analyses"
+
+contributors: "Long Yan, Nicolle Hofmann, Shuxian Li, Marcio Elias Ferreira, Baohua Song, Guoliang Jiang, Shuxin Ren, Charles Quigley, Edward Fickus, Perry Cregan, Qijian Song"
+
+citation: "Yan, L. et al. Identification of QTL with large effect on seed weight in a selective population of soybean with genome-wide association and fixation index analyses. BMC Genomics 18, 529 (2017)"

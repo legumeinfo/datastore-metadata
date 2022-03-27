@@ -1,11 +1,27 @@
 ---
 identifier: mixed.gwas.Zhang_Song_2016
-citation: "Zhang, Song et al. (2016)"
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
+
+genotype:
+  - "309 plant introductions (PIs) from the USDA Soybean Germplasm Collection"
+
 synopsis: "GWAS study of seed weight in soybean, conducted on 309 soybean accessions, genotyped using the SoySNP50K BeadChip."
-description: "A GWAS in a population of 309 soybean germplasm accessions using 31,045 SNPs estimated the prediction accuracy of genomic selection and marker-assisted selection for seed weight."
+
+description: "Genome-wide association study in a population of 309 soybean germplasm accessions using 31,045 single nucleotide polymorphisms (SNPs), estimating the prediction accuracy of genomic selection (GS) and marker-assisted selection (MAS) for seed weight (SW). Twenty-two loci of minor effect associated with SW were identified, including hotspots on Gm04 and Gm19. The mixed model containing these loci explained 83.4 % of phenotypic variation."
+
 genotyping_platform: SoySNP50K
+
 genotyping_method: Illumina Infinium SoySNP50K BeadChip
+
 publication_doi: 10.1007/s00122-015-2614-x
+
+publication_title: "Genome‑wide association study, genomic prediction and marker‑assisted selection for seed weight in soybean (Glycine max)"
+
+contributors: "Jiaoping Zhang, Qijian Song, Perry B. Cregan, Guo‑Liang Jiang"
+
+citation: "Zhang, J., Song, Q., Cregan, P. B. & Jiang, G.-L. Genome-wide association study, genomic prediction and marker-assisted selection for seed weight in soybean (Glycine max). Theor. Appl. Genet. 129, 117–130 (2016)"

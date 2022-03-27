@@ -1,9 +1,25 @@
 ---
 identifier: mixed.gwas.Cao_Li_2017
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: Cao, Li et al. (2017)
+
+genotype:
+  - 279 lines from a Chinese breeding population
+
+genotyping_platform: Li_Guo_2016 
+
 synopsis: "GWAS and QTL study of soybean seed oil, conducted on 279 lines from a Chinese breeding population, genotyped with 59,845 SNPs."
-description: "GWAS and QTL study of soybean seed oil, conducted on 279 lines from a Chinese breeding population, genotyped with 59,845 SNPs."
-publication_doi: 10.3389/fpls.2017.01222
+
+description: "We used both a linkage and association mapping methodology to dissect the genetic basis of seed oil content of Chinese soybean cultivars in various environments in the Jiang-Huai River Valley. One recombinant inbred line (RIL) population (NJMN-RIL), with 104 lines developed from a cross between M8108 and NN1138-2, was planted in five environments to investigate phenotypic data, and a new genetic map with 2,062 specific-locus amplified fragment markers was constructed to map oil content QTLs. A derived F2 population between MN-5 (a line of NJMN-RIL) and NN1138-2 was also developed to confirm one major QTL. A soybean breeding germplasm population (279 lines) was established to perform a genome-wide association study (GWAS) using 59,845 high-quality single nucleotide polymorphism markers. In the NJMN-RIL population, 8 QTLs were found that explained a range of phenotypic variance from 6.3 to 26.3% in certain planting environments. Among them, qOil-5-1, qOil-10-1, and qOil-14-1 were detected in different environments, and qOil-5-1 was further confirmed using the secondary F2 population. Three loci located on chromosomes 5 and 20 were detected in a 2-year long GWAS, and one locus that overlapped with qOil-5-1 was found repeatedly and treated as the same locus. qOil-5-1 was further localized to a linkage disequilibrium block region of approximately 440 kb. These results will not only increase our understanding of the genetic control of seed oil content in soybean, but will also be helpful in marker-assisted selection for breeding high seed oil content soybean and gene cloning to elucidate the mechanisms of seed oil content."
+
+publication_title: "Identification of Major Quantitative Trait Loci for Seed Oil Content in Soybeans by Combining Linkage and Genome-Wide Association Mapping"
+
+publication_doi: 10.3389/fpls.2017.01222i
+
+contributors: "Yongce Cao, Shuguang Li, Zili Wang, Fangguo Chang, Jiejie Kong, Junyi Gai, Tuanjie Zhao"
+
+citation: "Cao, Y. et al. Identification of Major Quantitative Trait Loci for Seed Oil Content in Soybeans by Combining Linkage and Genome-Wide Association Mapping. Front. Plant Sci. 8, 1222 (2017)"

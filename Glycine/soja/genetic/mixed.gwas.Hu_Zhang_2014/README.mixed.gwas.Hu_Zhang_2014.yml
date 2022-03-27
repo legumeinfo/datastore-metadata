@@ -1,0 +1,25 @@
+---
+identifier: mixed.gwas.Hu_Zhang_2014
+
+taxid: 3847
+
+scientific_name: Glycine soja
+
+scientific_name_abbrev: glyso
+
+genotype:
+  - 113 wild soybean accessions
+
+genotyping_method: "A total of 85 SSR markers representing 19 soybean chromosomes were selected from published genetic maps (Hwang et al. 2009, Song et al. 2004) to genotype the 113 wild soybean accessions."
+
+synopsis: "GWAS of soybean yield-related traits, conducted on 113 wild soybean accessions, genotyped with 85 simple sequence repeat (SSR) markers."
+
+description: "To identify yield-enhancing quantitative trait locus (QTL) or gene from wild soybean, 113 wild soybeans accessions were phenotyped for five yield-related traits and genotyped with 85 simple sequence repeat (SSR) markers to conduct association mapping. A total of 892 alleles were detected for the 85 SSR markers, with an average 10.49 alleles; the corresponding PIC values ranged from 0.07 to 0.92, with an average 0.73. The genetic diversity of each SSR marker ranged from 0.07 to 0.93, with an average 0.75. A total of 18 SSR markers were identified for the five traits. Two SSR markers, sct_010 and satt316, which are associated with the yield per plant were stably expressed over two years at two experimental locations."
+
+publication_title: "Association mapping of yield-related traits and SSR markers in wild soybean (Glycine soja Sieb. and Zucc.)"
+
+publication_doi: 10.1270/jsbbs.63.441
+
+citation: "Hu, Z. et al. Association mapping of yield-related traits and SSR markers in wild soybean (Glycine soja Sieb. and Zucc.). Breed. Sci. 63, 441–449 (2014)"
+
+contributors: "Zhenbin Hu, Dan Zhang, Guozheng Zhang, Guizhen Kan, Delin Hong, Deyue Yu"

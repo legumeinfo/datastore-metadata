@@ -1,12 +1,27 @@
 ---
 identifier: mixed.gwas.Che_Liu_2017
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
-citation: "Che, Liu et al. (2017)"
-synopsis: "GWAS of Soybean mosaic virus (SMV), conducted on 165 lines from parents with differing susceptibility, genotyped with the 355K SoySNP array."
-description: "GWAS of Soybean mosaic virus (SMV), conducted on 165 lines from parents with differing susceptibility, genotyped with the 355K SoySNP array."
+
+synopsis: "GWAS of Soybean mosaic virus (SMV), conducted on 165 lines from parents with differing susceptibility, genotyped with the NJAU 355K Soy SNP assay."
+
+description: "A genome-wide association study was conducted to accelerate molecular breeding for the improvement of resistance to SMV in soybean. A population of 165 soybean mutants derived from two soybean parents was used in this study. There were 104 SNPs identified significantly associated with resistance to SC7, some of which were located within previous reported quantitative trait loci. Three putative genes on chromosome 1, 9, and 12 were homologous to WRKY72, eEF1Bβ, and RLP9, which were involved in defense response to insect and disease in Arabidopsis."
+
+genotype:
+  - 93 mutants from Nannong 86-4 and 72 mutants from Nannong 94-16
+
 genotyping_platform: NJAU355K
+
 genotyping_method: NJAU355K Soy SNP assay
+
+publication_title: "Genome-Wide Association Study Reveals Novel Loci for SC7 Resistance in a Soybean Mutant Panel"
+
 publication_doi: 10.3389/fpls.2017.01771
 
+citation: "Che, Z. et al. Genome-Wide Association Study Reveals Novel Loci for SC7 Resistance in a Soybean Mutant Panel. Front. Plant Sci. 8, 1771 (2017)"
+
+contributors: "Zhijun Che, Hailun Liu, Fanglei Yi, Hao Cheng, Yuming Yang, Li Wang, Jingyi Du, Peipei Zhang, Jiao Wang, Deyue Yu"

@@ -1,11 +1,27 @@
 ---
 identifier: mixed.gwas.Li_Zhao_2019
+
 taxid: 3847
+
 scientific_name: Glycine max
+
 scientific_name_abbrev: glyma
+
+genotype:
+  - 185 soybean accessions from China and across the northern hemisphere
+
 citation: "Li, D., Zhao, X., Han, Y., Li, W. & Xie, F. Genome-wide association mapping for seed protein and oil contents using a large panel of soybean accessions. Genomics 111, 90–95 (2019)"
-synopsis: GWAS study of soybean seed protein and oil, conducted on 298 accessions, genotyped with a panel of 1536 SNPs.
+
+synopsis: "GWAS study of soybean seed protein and oil, conducted on 298 accessions, genotyped with a panel of 1536 SNPs."
+
 description: "A GWAS study of seed protein and oil content using a population of 185 soybean (Glycine max) accessions from China and across the northern hemisphere.  Specific length amplified fragment sequencing (SLAF-seq) tecyyhnology detected 12,072 SNPs across 20 chromosomes showing a marker density of 78.7 kbp.  Thirty-one SNPs, and their 31 beneficial alleles, placed on 12 of the chromosomes represented QTLs associateyd with protein and oil.  In both 2015 and 2016, the SNPs rs15774585 and rs15783346 (Chr 7) were correlated with seed oil, and the SNPs rs53140888 (Chr 01), rs19485676 (Chr 13), and rs24787338 (Chr 20) with seed protein."
+
 genotyping_platform: Li_Zhao_2019
+
 genotyping_method: Custom SLAF-seq marker set
+
+publication_title: "Genome-wide association mapping for seed protein and oil contents using a large panel of soybean accessions"
+
 publication_doi: 10.1016/j.ygeno.2018.01.004
+
+contributors: "Dongmei Li, Xue Zhao, Yingpeng Han, Wenbin Li, Futi Xie"

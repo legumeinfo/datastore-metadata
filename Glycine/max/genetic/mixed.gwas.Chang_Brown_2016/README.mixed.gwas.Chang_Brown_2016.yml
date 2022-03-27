@@ -7,11 +7,9 @@ scientific_name: Glycine max
 
 scientific_name_abbrev: glyma
 
-citation: "Chang, Brown et al. (2016)"
+synopsis: "GWAS of Tobacco ringspot virus (TRSV) conducted on 19,652 lines in the USDA Soybean Collection, genotyped with the SoySNP50K BeadChip."
 
-synopsis: GWAS of Tobacco ringspot virus(TRSV), conducted on 19,652 lines in the USDA Soybean Collection, genotyped with the SoySNP50K BeadChip.
-
-description: GWAS of Tobacco ringspot virus(TRSV), conducted on 19,652 lines in the USDA Soybean Collection, genotyped with the SoySNP50K BeadChip.
+description: "TRSV-induced disease sensitivities of the 697 soybean PIs were rated on a one to five scale with plants rated as one exhibiting mild symptoms and plants rated as five displaying terminal bud necrosis (i.e., bud blight). The GWAS identified a single locus on soybean chromosome 2 strongly associated with TRSV sensitivity. Crossvalidation showed a correlation of 0.55 (P < 0.01) to TRSV sensitivity without including the most significant SNP marker from the GWAS as a covariate, which was a better estimation compared to the mean separation by using significant SNPs. The genomic estimated breeding values for the remaining 18,955 unscreened soybean PIs in the USDA Soybean Germplasm Collection were obtained using the GAPIT R package. To evaluate the prediction accuracy, an additional 55 soybean accessions were evaluated for sensitivity to TRSV, which resulted in a correlation of 0.67 (P < 0.01) between actual and predicted severities."
 
 genotype:
   - USDA Soybean Collection
@@ -20,4 +18,8 @@ genotyping_platform: SoySNP50K
 
 genotyping_method: Illumina Infinium SoySNP50K BeadChip
 
+publication_title: "Genome-wide association and genomic prediction identifies associated loci and predicts the sensitivity of Tobacco ringspot virus in soybean plant introductions"
+
 publication_doi: 10.1186/s12864-016-2487-7
+
+citation: "Chang, H.-X., Brown, P. J., Lipka, A. E., Domier, L. L. & Hartman, G. L. Genome-wide association and genomic prediction identifies associated loci and predicts the sensitivity of Tobacco ringspot virus in soybean plant introductions. BMC Genomics 17, 153 (2016)"

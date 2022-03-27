@@ -1,5 +1,5 @@
 ---
-identifier: mixed.gwas.Sonah_ODonoughue_2015
+identifier: Wm82.gnm2.mrk.Sonah_ODonoughue_2015
 
 genotyping_platform: Sonah_ODonoughue_2015
 
@@ -10,7 +10,7 @@ scientific_name: Glycine max
 scientific_name_abbrev: glyma
 
 genotype:
-  - 139 soya bean lines
+  - Williams 82
 
 synopsis: "GWAS study of eight traits in soybean, conducted on 139 accessions, genotyped using GBS-derived markers."
 
