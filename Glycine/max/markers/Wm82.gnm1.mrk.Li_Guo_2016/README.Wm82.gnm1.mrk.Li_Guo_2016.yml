@@ -1,0 +1,31 @@
+---
+identifier: Wm82.gnm1.mrk.Li_Guo_2016
+
+genotyping_platform: Li_Guo_2016
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+synopsis: "59,845 single-nucleotide polymorphisms identified from re-sequencing of 279 accessions from Yangtze-Huai soybean breeding germplasm."
+
+description: "To discover genes or QTLs underlying naturally occurring variations in soybean P.sojae resistance, we performed a genome-wide association study using 59,845 single-nucleotide polymorphisms identified from re-sequencing of 279 accessions from Yangtze-Huai soybean breeding germplasm. We used two models for association analysis. The same strong peak was detected by both two models on chromosome 13. Within the 500-kb flanking regions, three candidate genes (Glyma13g32980, Glyma13g33900, Glyma13g33512) had SNPs in their exon regions."
+
+publication_doi: 10.1007/s00438-015-1164-x
+
+publication_title: "Loci and candidate gene identification for resistance to Phytophthora sojae via association analysis in soybean [Glycine max (L.) Merr.]"
+
+contributors: "Lihong Li, Na Guo, Jingping Niu, Zili Wang, Xiaoxia Cui, Jutao Sun, Tuanjie Zhao, Han Xing"
+
+citation: "Li, L. et al. Loci and candidate gene identification for resistance to Phytophthora sojae via association analysis in soybean [Glycine max (L.) Merr]. Mol. Genet. Genomics 291, 1095–1103 (2016)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
