@@ -10,6 +10,8 @@ scientific_name_abbrev: glyso
 genotype:
   - 113 wild soybean accessions
 
+genotyping_platform: Hu_Zhang_2014
+
 genotyping_method: "A total of 85 SSR markers representing 19 soybean chromosomes were selected from published genetic maps (Hwang et al. 2009, Song et al. 2004) to genotype the 113 wild soybean accessions."
 
 synopsis: "GWAS of soybean yield-related traits, conducted on 113 wild soybean accessions, genotyped with 85 simple sequence repeat (SSR) markers."

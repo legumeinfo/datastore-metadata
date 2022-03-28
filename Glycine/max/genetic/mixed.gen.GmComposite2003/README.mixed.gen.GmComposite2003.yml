@@ -1,0 +1,29 @@
+---
+identifier: mixed.gen.GmComposite2003
+
+provenance: SoyBase
+
+source: "https://soybase.org/"
+
+synopsis: "Linkage group lengths for the GmComposite2003 genetic map from SoyBase."
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - mixed
+
+description: "Linkage group lengths for the GmComposite2003 genetic map from SoyBase."
+
+publication_doi: 10.1093/nar/gkp798
+
+publication_title: "SoyBase, the USDA-ARS soybean genetics and genomics database"
+
+contributors: "David Grant, Rex T. Nelson, Steven B. Cannon, Randy C. Shoemaker"
+
+public_access_level: public
+
+license: Open
