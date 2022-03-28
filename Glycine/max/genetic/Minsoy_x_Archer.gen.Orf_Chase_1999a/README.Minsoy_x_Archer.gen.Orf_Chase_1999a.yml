@@ -1,0 +1,16 @@
+---
+identifier: Minsoy_x_Archer.gen.Orf_Chase_1999a
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci1999.3961652x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Minsoy x Archer
+description: "QTL experiment reported in 10.2135/cropsci1999.3961652x"
+publication_doi: 10.2135/cropsci1999.3961652x
+publication_title: "Genetics of Soybean Agronomic Traits: II. Interactions between Yield Quantitative Trait Loci in Soybean"
+contributors: "J. H. Orf, K. Chase, F. R. Adler, L. M. Mansur, K. G. Lark"
+public_access_level: public
+license: Open

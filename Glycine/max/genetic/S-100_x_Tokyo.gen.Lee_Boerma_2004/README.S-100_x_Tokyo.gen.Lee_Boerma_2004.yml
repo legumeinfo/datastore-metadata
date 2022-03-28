@@ -1,0 +1,16 @@
+---
+identifier: S-100_x_Tokyo.gen.Lee_Boerma_2004
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-004-1783-9"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - S-100 x Tokyo
+description: "QTL experiment reported in 10.1007/s00122-004-1783-9"
+publication_doi: 10.1007/s00122-004-1783-9
+publication_title: "A major QTL conditioning salt tolerance in S-100 soybean and descendent cultivars"
+contributors: "G. J. Lee, H. R. Boerma, M. R. Villagarcia, X. Zhou, T. E. Carter, Z. Li, M. O. Gibbs"
+public_access_level: public
+license: Open

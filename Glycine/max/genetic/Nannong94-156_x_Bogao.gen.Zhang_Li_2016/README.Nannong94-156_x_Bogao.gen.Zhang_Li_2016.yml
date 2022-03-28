@@ -1,0 +1,16 @@
+---
+identifier: Nannong94-156_x_Bogao.gen.Zhang_Li_2016
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.3389/fpls.2016.00372"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Nannong 94-156 x Bogao
+description: "QTL experiment reported in 10.3389/fpls.2016.00372"
+publication_doi: 10.3389/fpls.2016.00372
+publication_title: "High-Density Genetic Mapping Identifies New Major Loci for Tolerance to Low-Phosphorus Stress in Soybean"
+contributors: "Dan Zhang, Hongyan Li, Jinshe Wang, Hengyou Zhang, Zhenbin Hu, Shanshan Chu, Haiyan Lv, Deyue Yu"
+public_access_level: public
+license: Open

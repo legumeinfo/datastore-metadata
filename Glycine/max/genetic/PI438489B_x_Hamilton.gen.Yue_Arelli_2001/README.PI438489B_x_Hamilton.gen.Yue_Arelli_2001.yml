@@ -1,0 +1,16 @@
+---
+identifier: PI438489B_x_Hamilton.gen.Yue_Arelli_2001
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s001220000453"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI438489B x Hamilton
+description: "QTL experiment reported in 10.1007/s001220000453"
+publication_doi: 10.1007/s001220000453
+publication_title: "Molecular characterization of resistance to Heterodera glycines in soybean PI 438489B"
+contributors: "P. Yue, P. R. Arelli, D. A. Sleper"
+public_access_level: public
+license: Open

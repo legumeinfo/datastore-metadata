@@ -1,0 +1,16 @@
+---
+identifier: GD2422_x_LD01-5907.gen.Tan_Serven_2018
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-018-3110-x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - GD2422 x LD01-5907
+description: "QTL experiment reported in 10.1007/s00122-018-3110-x"
+publication_doi: 10.1007/s00122-018-3110-x
+publication_title: "QTL mapping and epistatic interaction analysis of field resistance to sudden death syndrome (Fusarium virguliforme) in soybean"
+contributors: "Ruijuan Tan, Bradley Serven, Paul J. Collins, Zhongnan Zhang, Zixiang Wen, John F. Boyse, Cuihua Gu, Martin I. Chilvers, Brian W. Diers, Dechun Wang"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: BD2_x_BX10.gen.Liang_Cheng_2010a
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1093/aob/mcq097"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - BD2 x BX10
+description: "QTL experiment reported in 10.1093/aob/mcq097"
+publication_doi: 10.1093/aob/mcq097
+publication_title: "QTL analysis of root traits as related to phosphorus efficiency in soybean"
+contributors: "Quan Liang, Xiaohui Cheng, Mantong Mei, Xiaolong Yan, Hong Liao"
+public_access_level: public
+license: Open

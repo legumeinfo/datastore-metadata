@@ -1,0 +1,16 @@
+---
+identifier: LD00-2817P_x_LDX01-1-65.gen.Valdés-López_Thibivilliers_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1104/pp.111.183327"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - LD00-2817P x LDX01-1-65
+description: "QTL experiment reported in 10.1104/pp.111.183327"
+publication_doi: 10.1104/pp.111.183327
+publication_title: "Identification of Quantitative Trait Loci Controlling Gene Expression during the Innate Immunity Response of Soybean    "
+contributors: "Oswaldo Valdés-López, Sandra Thibivilliers, Jing Qiu, Wayne Wenzhong Xu, Tran H.N. Nguyen, Marc Libault, Brandon H. Le, Robert B. Goldberg, Curtis B. Hill, Glen L. Hartman, Brian Diers, Gary Stacey"
+public_access_level: public
+license: Open

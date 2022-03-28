@@ -1,0 +1,16 @@
+---
+identifier: N97-3708-13_x_Anand.gen.Spencer_Landau-Ellis_2004
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11746-006-0941-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - N97-3708-13 x Anand
+description: "QTL experiment reported in 10.1007/s11746-006-0941-4"
+publication_doi: 10.1007/s11746-006-0941-4
+publication_title: "Molecular markers associated with linolenic acid content in soybean"
+contributors: "M. M. Spencer, D. Landau-Ellis, E. J. Meyer, V. R. Pantalone"
+public_access_level: public
+license: Open

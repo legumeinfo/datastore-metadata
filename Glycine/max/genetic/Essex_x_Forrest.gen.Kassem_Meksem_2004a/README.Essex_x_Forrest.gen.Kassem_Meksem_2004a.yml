@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_Forrest.gen.Kassem_Meksem_2004a
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1155/s1110724304304018"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Forrest
+description: "QTL experiment reported in 10.1155/s1110724304304018"
+publication_doi: 10.1155/s1110724304304018
+publication_title: "Definition of Soybean Genomic Regions That Control Seed Phytoestrogen Amounts"
+contributors: "My A. Kassem, K. Meksem, M. J. Iqbal, V. N. Njiti, W. J. Banz, T. A. Winters, A. Wood, D. A. Lightfoot"
+public_access_level: public
+license: Open

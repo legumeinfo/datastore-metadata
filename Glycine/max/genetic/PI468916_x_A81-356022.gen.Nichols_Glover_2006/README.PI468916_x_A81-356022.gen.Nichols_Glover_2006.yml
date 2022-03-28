@@ -1,0 +1,16 @@
+---
+identifier: PI468916_x_A81-356022.gen.Nichols_Glover_2006
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2005.05-0168"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI 468916 x A81-356022
+description: "QTL experiment reported in 10.2135/cropsci2005.05-0168"
+publication_doi: 10.2135/cropsci2005.05-0168
+publication_title: "Fine Mapping of a Seed Protein QTL on Soybean Linkage Group I and Its Correlated Effects on Agronomic Traits"
+contributors: "D. M. Nichols, K. D. Glover, S. R. Carlson, J. E. Specht, B. W. Diers"
+public_access_level: public
+license: Open

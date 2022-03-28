@@ -1,0 +1,16 @@
+---
+identifier: mixed.gen.Matthews_MacDonald_1998
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s001220050990"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - mixed
+description: "QTL experiment reported in 10.1007/s001220050990"
+publication_doi: 10.1007/s001220050990
+publication_title: "Molecular markers residing close to the Rhg4 locus conferring resistance to soybean cyst nematode race 3 on linkage group A of soybean"
+contributors: "B. F. Matthews, M. H. MacDonald, J. S. Gebhardt, T. E. Devine"
+public_access_level: public
+license: Open

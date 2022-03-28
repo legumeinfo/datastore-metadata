@@ -1,0 +1,16 @@
+---
+identifier: OACWallace_x_OACGlencoe.gen.Eskandari_Cober_2013b
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-013-2083-z"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - OAC Wallace x OAC Glencoe
+description: "QTL experiment reported in 10.1007/s00122-013-2083-z"
+publication_doi: 10.1007/s00122-013-2083-z
+publication_title: "Genetic control of soybean seed oil: II. QTL and genes that increase oil concentration without decreasing protein or with increased seed yield"
+contributors: "Mehrzad Eskandari, Elroy R. Cober, Istvan Rajcan"
+public_access_level: public
+license: Open

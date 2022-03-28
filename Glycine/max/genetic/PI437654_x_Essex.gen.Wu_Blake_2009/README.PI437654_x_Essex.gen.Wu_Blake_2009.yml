@@ -1,0 +1,16 @@
+---
+identifier: PI437654_x_Essex.gen.Wu_Blake_2009
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-009-0965-x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI437654 x Essex
+description: "QTL experiment reported in 10.1007/s00122-009-0965-x"
+publication_doi: 10.1007/s00122-009-0965-x
+publication_title: "QTL, additive and epistatic effects for SCN resistance in PI 437654"
+contributors: "Xiaolei Wu, Sean Blake, David A. Sleper, J. Grover Shannon, Perry Cregan, Henry T. Nguyen"
+public_access_level: public
+license: Open

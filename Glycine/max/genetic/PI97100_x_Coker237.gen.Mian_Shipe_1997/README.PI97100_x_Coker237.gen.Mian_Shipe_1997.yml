@@ -1,0 +1,16 @@
+---
+identifier: PI97100_x_Coker237.gen.Mian_Shipe_1997
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1093/oxfordjournals.jhered.a023053"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI97100 x Coker237
+description: "QTL experiment reported in 10.1093/oxfordjournals.jhered.a023053"
+publication_doi: 10.1093/oxfordjournals.jhered.a023053
+publication_title: "RFLP Analysis of Chlorimuron Ethyl Sensitivity in Soybean"
+contributors: "M. A. R. Mian, E. R. Shipe, J. Alvernaz, J. D. Mueller, D. A. Ashley, H. R. Boerma"
+public_access_level: public
+license: Open

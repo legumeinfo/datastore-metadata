@@ -1,0 +1,16 @@
+---
+identifier: W05_x_C08.gen.Qi_Li_2014
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1038/ncomms5340"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - W05 x C08
+description: "QTL experiment reported in 10.1038/ncomms5340"
+publication_doi: 10.1038/ncomms5340
+publication_title: "Identification of a novel salt tolerance gene in wild soybean by whole-genome sequencing"
+contributors: "Xinpeng Qi, Man-Wah Li, Min Xie, Xin Liu, Meng Ni, Guihua Shao, Chi Song, Aldrin Kay-Yuen Yim, Ye Tao, Fuk-Ling Wong, Sachiko Isobe, Chi-Fai Wong, Kwong-Sen Wong, Chunyan Xu, Chunqing Li, Ying Wang, Rui Guan, Fengming Sun, Guangyi Fan, Zhixia Xiao, Feng Zhou, Tsui-Hung Phang, Xuan Liu, Suk-Wah Tong, Ting-Fung Chan, Siu-Ming Yiu, Satoshi Tabata, Jian Wang, Xun Xu, Hon-Ming Lam"
+public_access_level: public
+license: Open

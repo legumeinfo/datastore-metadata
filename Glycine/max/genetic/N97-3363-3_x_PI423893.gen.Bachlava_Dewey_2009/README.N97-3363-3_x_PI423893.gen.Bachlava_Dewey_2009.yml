@@ -1,0 +1,16 @@
+---
+identifier: N97-3363-3_x_PI423893.gen.Bachlava_Dewey_2009
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2008.06.0324"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - N97-3363-3 x PI 423893
+description: "QTL experiment reported in 10.2135/cropsci2008.06.0324"
+publication_doi: 10.2135/cropsci2008.06.0324
+publication_title: "Mapping and Comparison of Quantitative Trait Loci for Oleic Acid Seed Content in Two Segregating Soybean Populations"
+contributors: "Eleni Bachlava, Ralph E. Dewey, Joseph W. Burton, Andrea J. Cardinal"
+public_access_level: public
+license: Open

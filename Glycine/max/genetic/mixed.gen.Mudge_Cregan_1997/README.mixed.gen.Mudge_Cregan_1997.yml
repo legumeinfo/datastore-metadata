@@ -1,0 +1,16 @@
+---
+identifier: mixed.gen.Mudge_Cregan_1997
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700050034x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - mixed
+description: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700050034x"
+publication_doi: 10.2135/cropsci1997.0011183x003700050034x
+publication_title: "Two Microsatellite Markers That Flank the Major Soybean Cyst Nematode Resistance Locus"
+contributors: "J. Mudge, P. B. Cregan, J. P. Kenworthy, W. J. Kenworthy, J. H. Orf, N. D. Young"
+public_access_level: public
+license: Open

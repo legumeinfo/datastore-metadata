@@ -1,0 +1,16 @@
+---
+identifier: Noir1_x_Archer.gen.Reyna_Sneller_2001
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2001.4141317x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Noir 1 x Archer
+description: "QTL experiment reported in 10.2135/cropsci2001.4141317x"
+publication_doi: 10.2135/cropsci2001.4141317x
+publication_title: "Evaluation of Marker‐Assisted Introgression of Yield QTL Alleles into Adapted Soybean"
+contributors: "N. Reyna, C. H. Sneller"
+public_access_level: public
+license: Open

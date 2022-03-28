@@ -1,0 +1,16 @@
+---
+identifier: Su88-M21S_x_XinyixiaoheidouX.gen.Wu_Zhou_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1111/j.1439-0523.2010.01799.x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Su88-M21(S) x Xinyixiaoheidou (X)
+description: "QTL experiment reported in 10.1111/j.1439-0523.2010.01799.x"
+publication_doi: 10.1111/j.1439-0523.2010.01799.x
+publication_title: "Identification of quantitative trait loci for partial resistance to Phytophthora sojae in soybean"
+contributors: "X. Wu, B. Zhou, J. Zhao, N. Guo, B. Zhang, F. Yang, S. Chen, J. Gai, H. Xing"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: PI97100_x_Coker237.gen.Lee_Bailey_1996
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/bf00224553"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI97100 x Coker237
+description: "QTL experiment reported in 10.1007/bf00224553"
+publication_doi: 10.1007/bf00224553
+publication_title: "Identification of quantitative trait loci for plant height, lodging, and maturity in a soybean population segregating for growth habit"
+contributors: "S. H. Lee, M. A. Bailey, M. A. R. Mian, E. R. Shipe, D. A. Ashley, W. A. Parrott, R. S. Hussey, H. R. Boerma"
+public_access_level: public
+license: Open

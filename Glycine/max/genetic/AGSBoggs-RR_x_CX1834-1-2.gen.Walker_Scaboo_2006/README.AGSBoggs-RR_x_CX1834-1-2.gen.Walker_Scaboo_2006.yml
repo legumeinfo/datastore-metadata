@@ -1,0 +1,16 @@
+---
+identifier: AGSBoggs-RR_x_CX1834-1-2.gen.Walker_Scaboo_2006
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2005.0245"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - AGS Boggs-RR x CX1834-1-2
+description: "QTL experiment reported in 10.2135/cropsci2005.0245"
+publication_doi: 10.2135/cropsci2005.0245
+publication_title: "Genetic Mapping of Loci Associated with Seed Phytic Acid Content in CX1834‐1‐2 Soybean"
+contributors: "D. R. Walker, A. M. Scaboo, V. R. Pantalone, J. R. Wilcox, H. R. Boerma"
+public_access_level: public
+license: Open

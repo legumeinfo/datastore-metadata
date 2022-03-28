@@ -1,0 +1,16 @@
+---
+identifier: A81356022_x_PI468916.gen.Diers_Cianzio_1992
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1080/01904169209364462"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - A81356022 x PI468916
+description: "QTL experiment reported in 10.1080/01904169209364462"
+publication_doi: 10.1080/01904169209364462
+publication_title: "Possible identification of quantitative trait loci affecting iron efficiency in soybean"
+contributors: "B. W. Diers, S. R. Cianzio, R. C. Shoemaker"
+public_access_level: public
+license: Open

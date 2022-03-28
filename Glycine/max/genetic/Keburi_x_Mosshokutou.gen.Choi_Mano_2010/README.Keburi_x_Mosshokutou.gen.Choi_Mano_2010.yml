@@ -1,0 +1,16 @@
+---
+identifier: Keburi_x_Mosshokutou.gen.Choi_Mano_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11816-009-0115-6"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Keburi x Mosshokutou
+description: "QTL experiment reported in 10.1007/s11816-009-0115-6"
+publication_doi: 10.1007/s11816-009-0115-6
+publication_title: "Identification of QTLs controlling somatic embryogenesis using RI population of cultivar × weedy soybean"
+contributors: "Pilson Choi, Yoshiro Mano, Atsuko Ishikawa, Masashi Odashima, Taishi Umezawa, Tatsuhito Fujimura, Yoshihito Takahata, Takao Komatsuda"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Keunolkong_x_Shinpaldalkong.gen.Kim_Kang_2005
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1111/j.1439-0523.2005.01152.x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Keunolkong x Shinpaldalkong
+description: "QTL experiment reported in 10.1111/j.1439-0523.2005.01152.x"
+publication_doi: 10.1111/j.1439-0523.2005.01152.x
+publication_title: "Analysis of quantitative trait loci associated with leaflet types in two recombinant inbred lines of soybean"
+contributors: "H.K. Kim, S.T. Kang, D.Y. Suh"
+public_access_level: public
+license: Open

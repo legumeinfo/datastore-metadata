@@ -1,0 +1,16 @@
+---
+identifier: PI567541B_x_Skylla.gen.Zhang_Gu_2009
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-008-0914-0"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI 567541B x Skylla
+description: "QTL experiment reported in 10.1007/s00122-008-0914-0"
+publication_doi: 10.1007/s00122-008-0914-0
+publication_title: "Molecular mapping of soybean aphid resistance genes in PI 567541B"
+contributors: "Guorong Zhang, Cuihua Gu, Dechun Wang"
+public_access_level: public
+license: Open

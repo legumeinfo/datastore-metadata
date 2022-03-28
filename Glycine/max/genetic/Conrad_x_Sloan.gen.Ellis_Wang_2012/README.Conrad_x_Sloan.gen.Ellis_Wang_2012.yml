@@ -1,0 +1,16 @@
+---
+identifier: Conrad_x_Sloan.gen.Ellis_Wang_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2011.11.0624"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Conrad x Sloan
+description: "QTL experiment reported in 10.2135/cropsci2011.11.0624"
+publication_doi: 10.2135/cropsci2011.11.0624
+publication_title: "Identification of Soybean Genotypes Resistant toFusarium graminearumand Genetic Mapping of Resistance Quantitative Trait Loci in the Cultivar Conrad"
+contributors: "Margaret L. Ellis, Hehe Wang, Pierce A. Paul, Steven K. St. Martin, Leah K. McHale, Anne E. Dorrance"
+public_access_level: public
+license: Open

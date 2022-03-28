@@ -1,0 +1,16 @@
+---
+identifier: Wyandot_x_PI567324.gen.Jun_Rouf-Mian_2013
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1038/hdy.2013.10"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Wyandot x PI 567324
+description: "QTL experiment reported in 10.1038/hdy.2013.10"
+publication_doi: 10.1038/hdy.2013.10
+publication_title: "Genetic mapping of three quantitative trait loci for soybean aphid resistance in PI 567324"
+contributors: "T-H Jun, M A Rouf Mian, A P Michel"
+public_access_level: public
+license: Open

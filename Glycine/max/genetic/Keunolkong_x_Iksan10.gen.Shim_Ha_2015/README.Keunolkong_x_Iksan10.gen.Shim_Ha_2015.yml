@@ -1,0 +1,16 @@
+---
+identifier: Keunolkong_x_Iksan10.gen.Shim_Ha_2015
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-014-1233-y"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Keunolkong x Iksan 10
+description: "QTL experiment reported in 10.1007/s10681-014-1233-y"
+publication_doi: 10.1007/s10681-014-1233-y
+publication_title: "Detection of quantitative trait loci controlling UV-B resistance in soybean"
+contributors: "Hyun-Chul Shim, Bo-Keun Ha, Minho Yoo, Sung-Taeg Kang"
+public_access_level: public
+license: Open

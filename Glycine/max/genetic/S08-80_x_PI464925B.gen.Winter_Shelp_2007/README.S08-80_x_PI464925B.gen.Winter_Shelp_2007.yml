@@ -1,0 +1,16 @@
+---
+identifier: S08-80_x_PI464925B.gen.Winter_Shelp_2007
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-006-0446-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - S08-80 x PI 464925B
+description: "QTL experiment reported in 10.1007/s00122-006-0446-4"
+publication_doi: 10.1007/s00122-006-0446-4
+publication_title: "QTL associated with horizontal resistance to soybean cyst nematode in Glycine soja PI464925B"
+contributors: "Shawn M. J. Winter, Barry J. Shelp, Terry R. Anderson, Tom W. Welacky, Istvan Rajcan"
+public_access_level: public
+license: Open

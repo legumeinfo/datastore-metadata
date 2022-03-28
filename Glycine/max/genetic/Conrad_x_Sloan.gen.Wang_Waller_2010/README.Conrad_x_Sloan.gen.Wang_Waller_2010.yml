@@ -1,0 +1,16 @@
+---
+identifier: Conrad_x_Sloan.gen.Wang_Waller_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.3835/plantgenome2009.12.0029"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Conrad x Sloan
+description: "QTL experiment reported in 10.3835/plantgenome2009.12.0029"
+publication_doi: 10.3835/plantgenome2009.12.0029
+publication_title: "Analysis of Genes Underlying Soybean Quantitative Trait Loci Conferring Partial Resistance to Phytophthora sojae"
+contributors: "Hehe Wang, LaChelle Waller, Sucheta Tripathy, Steven K. St. Martin, Lecong Zhou, Konstantinos Krampis, Dominic M. Tucker, Yongcai Mao, Ina Hoeschele, M.A. Saghai Maroof, Brett M. Tyler, Anne E. Dorrance"
+public_access_level: public
+license: Open

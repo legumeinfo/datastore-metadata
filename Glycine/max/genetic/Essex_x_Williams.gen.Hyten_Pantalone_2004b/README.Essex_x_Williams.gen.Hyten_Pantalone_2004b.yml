@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_Williams.gen.Hyten_Pantalone_2004b
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-004-1661-5"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Williams
+description: "QTL experiment reported in 10.1007/s00122-004-1661-5"
+publication_doi: 10.1007/s00122-004-1661-5
+publication_title: "Seed quality QTL in a prominent soybean population"
+contributors: "D. L. Hyten, V. R. Pantalone, C. E. Sams, A. M. Saxton, D. Landau-Ellis, T. R. Stefaniak, M. E. Schmidt"
+public_access_level: public
+license: Open

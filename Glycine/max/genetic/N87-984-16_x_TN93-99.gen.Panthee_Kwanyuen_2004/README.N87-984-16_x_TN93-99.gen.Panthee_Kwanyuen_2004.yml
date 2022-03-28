@@ -1,0 +1,16 @@
+---
+identifier: N87-984-16_x_TN93-99.gen.Panthee_Kwanyuen_2004
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11746-004-1014-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - N87-984-16 x TN93-99
+description: "QTL experiment reported in 10.1007/s11746-004-1014-4"
+publication_doi: 10.1007/s11746-004-1014-4
+publication_title: "Quantitative trait loci for β-conglycinin (7S) and glycinin (11S) fractions of soybean storage protein"
+contributors: "D. R. Panthee, P. Kwanyuen, C. E. Sams, D. R. West, A. M. Saxton, V. R. Pantalone"
+public_access_level: public
+license: Open

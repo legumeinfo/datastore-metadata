@@ -1,0 +1,16 @@
+---
+identifier: Peking_x_Tamahomare.gen.Sayama_Nakazaki_2009
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1016/j.plantsci.2009.01.007"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Peking x Tamahomare
+description: "QTL experiment reported in 10.1016/j.plantsci.2009.01.007"
+publication_doi: 10.1016/j.plantsci.2009.01.007
+publication_title: "QTL analysis of seed-flooding tolerance in soybean (Glycine max [L.] Merr.)"
+contributors: "Takashi Sayama, Tetsuya Nakazaki, Goro Ishikawa, Kazuhiro Yagasaki, Naohiro Yamada, Naoko Hirota, Kaori Hirata, Takanori Yoshikawa, Hiroki Saito, Masayoshi Teraishi, Yutaka Okumoto, Takuji Tsukiyama, Takatoshi Tanisaka"
+public_access_level: public
+license: Open

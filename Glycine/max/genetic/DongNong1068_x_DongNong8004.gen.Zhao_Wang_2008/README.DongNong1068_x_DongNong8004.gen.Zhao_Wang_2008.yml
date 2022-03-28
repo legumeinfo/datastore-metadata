@@ -1,0 +1,16 @@
+---
+identifier: DongNong1068_x_DongNong8004.gen.Zhao_Wang_2008
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-008-9728-z"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Dong Nong 1068 x Dong Nong 8004
+description: "QTL experiment reported in 10.1007/s10681-008-9728-z"
+publication_doi: 10.1007/s10681-008-9728-z
+publication_title: "Identification of QTL underlying the resistance of soybean to pod borer, Leguminivora glycinivorella (Mats.) obraztsov, and correlations with plant, pod and seed traits"
+contributors: "Guiyun Zhao, Jian Wang, Yingpeng Han, Weili Teng, Genlou Sun, Wenbin Li"
+public_access_level: public
+license: Open

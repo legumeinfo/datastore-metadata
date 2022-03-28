@@ -1,0 +1,16 @@
+---
+identifier: PI27890_x_PI290136.gen.Lark_Chase_1995
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1073/pnas.92.10.4656"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI27890 x PI290136
+description: "QTL experiment reported in 10.1073/pnas.92.10.4656"
+publication_doi: 10.1073/pnas.92.10.4656
+publication_title: "Interactions between quantitative trait loci in soybean in which trait variation at one locus is conditional upon a specific allele at another."
+contributors: "K G Lark, K Chase, F Adler, L M Mansur, J H Orf"
+public_access_level: public
+license: Open

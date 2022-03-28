@@ -1,0 +1,16 @@
+---
+identifier: Cobb_x_PI229358.gen.Rector_All_2000
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2000.401233x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Cobb x PI229358
+description: "QTL experiment reported in 10.2135/cropsci2000.401233x"
+publication_doi: 10.2135/cropsci2000.401233x
+publication_title: "Quantitative Trait Loci for Antibiosis Resistance to Corn Earworm in Soybean"
+contributors: "B. G. Rector, J. N. All, W. A. Parrott, H. R. Boerma"
+public_access_level: public
+license: Open

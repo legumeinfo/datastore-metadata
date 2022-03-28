@@ -1,0 +1,16 @@
+---
+identifier: PI483463_x_Hutcheson.gen.Ha_Kim_2014
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-014-2314-y"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI483463 x Hutcheson
+description: "QTL experiment reported in 10.1007/s00122-014-2314-y"
+publication_doi: 10.1007/s00122-014-2314-y
+publication_title: "Identification of quantitative trait loci controlling linolenic acid concentration in PI483463 (Glycine soja)"
+contributors: "Bo-Keun Ha, Hyun-Jee Kim, Vijayanand Velusamy, Tri D. Vuong, Henry T. Nguyen, J. Grover Shannon, Jeong-Dong Lee"
+public_access_level: public
+license: Open

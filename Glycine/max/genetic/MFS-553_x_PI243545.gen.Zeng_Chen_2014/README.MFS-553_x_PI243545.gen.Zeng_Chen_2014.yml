@@ -1,0 +1,16 @@
+---
+identifier: MFS-553_x_PI243545.gen.Zeng_Chen_2014
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2013.01.0036"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - MFS-553 x PI 243545
+description: "QTL experiment reported in 10.2135/cropsci2013.01.0036"
+publication_doi: 10.2135/cropsci2013.01.0036
+publication_title: "Identification of Quantitative Trait Loci for Sucrose Content in Soybean Seed"
+contributors: "A. Zeng, P. Chen, A. Shi, D. Wang, B. Zhang, M. Orazaly, L. Florez-Palacios, K. Brye, Q. Song, P. Cregan"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Lishuizhongzihuangdou_x_Nannong493-1.gen.LI_LI_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1016/s1875-2780(09)60033-x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Lishuizhongzihuangdou x Nannong 493-1
+description: "QTL experiment reported in 10.1016/s1875-2780(09)60033-x"
+publication_doi: 10.1016/s1875-2780(09)60033-x
+publication_title: "QTL Analysis for Dynamic Expression of Chlorophyll Content in Soybean (Glycine max L. Merr.)"
+contributors: "Guang-Jun LI, He-Nan LI, Li-Guo CHENG, Yuan-Ming ZHANG"
+public_access_level: public
+license: Open

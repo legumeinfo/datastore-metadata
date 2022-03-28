@@ -1,0 +1,16 @@
+---
+identifier: BenningPI595645_x_DanbaekkongPI619083.gen.Warrington_Abdel-Haleem_2015
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-015-2474-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Benning (PI595645) x Danbaekkong (PI619083)
+description: "QTL experiment reported in 10.1007/s00122-015-2474-4"
+publication_doi: 10.1007/s00122-015-2474-4
+publication_title: "QTL for seed protein and amino acids in the Benning × Danbaekkong soybean population"
+contributors: "C. V. Warrington, H. Abdel-Haleem, D. L. Hyten, P. B. Cregan, J. H. Orf, A. S. Killam, N. Bajjalieh, Z. Li, H. R. Boerma"
+public_access_level: public
+license: Open

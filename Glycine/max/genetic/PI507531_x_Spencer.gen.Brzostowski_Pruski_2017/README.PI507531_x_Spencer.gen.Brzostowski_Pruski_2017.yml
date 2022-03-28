@@ -1,0 +1,16 @@
+---
+identifier: PI507531_x_Spencer.gen.Brzostowski_Pruski_2017
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-017-2961-x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI507531 x Spencer
+description: "QTL experiment reported in 10.1007/s00122-017-2961-x"
+publication_doi: 10.1007/s00122-017-2961-x
+publication_title: "Impact of seed protein alleles from three soybean sources on seed composition and agronomic traits"
+contributors: "Lillian F. Brzostowski, Timothy I. Pruski, James E. Specht, Brian W. Diers"
+public_access_level: public
+license: Open

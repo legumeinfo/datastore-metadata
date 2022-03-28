@@ -1,0 +1,16 @@
+---
+identifier: Misuzudaizu_x_MoshidouGong503.gen.Tajuddin_Watanabe_2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1270/jsbbs.53.133"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Misuzudaizu x Moshidou Gong 503
+description: "QTL experiment reported in 10.1270/jsbbs.53.133"
+publication_doi: 10.1270/jsbbs.53.133
+publication_title: "Analysis of Quantitative Trait Loci for Protein and Lipid Contents in Soybean Seeds Using Recombinant Inbred Lines"
+contributors: "Teuku Tajuddin, Satoshi Watanabe, Naoki Yamanaka, Kyuya Harada"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: PI483463_x_Hutcheson.gen.Asekova_Kulkarni_2016
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2016.02.0125"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI 483463 x Hutcheson
+description: "QTL experiment reported in 10.2135/cropsci2016.02.0125"
+publication_doi: 10.2135/cropsci2016.02.0125
+publication_title: "Novel Quantitative Trait Loci for Forage Quality Traits in a Cross between PI 483463 and ‘Hutcheson’ in Soybean"
+contributors: "Sovetgul Asekova, Krishnanand P. Kulkarni, Minsu Kim, Jeong-Hwa Kim, Jong Tae Song, J. Grover Shannon, Jeong-Dong Lee"
+public_access_level: public
+license: Open

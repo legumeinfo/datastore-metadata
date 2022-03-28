@@ -1,0 +1,16 @@
+---
+identifier: KS4895_x_Jackson.gen.Charlson_Bhatnagar_2009
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-009-1068-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - KS4895 x Jackson
+description: "QTL experiment reported in 10.1007/s00122-009-1068-4"
+publication_doi: 10.1007/s00122-009-1068-4
+publication_title: "Polygenic inheritance of canopy wilting in soybean [Glycine max (L.) Merr.]"
+contributors: "Dirk V. Charlson, Sandeep Bhatnagar, C. Andy King, Jeffery D. Ray, Clay H. Sneller, Thomas E. Carter, Larry C. Purcell"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Charleston_x_Dongnong594.gen.Sun_Pan_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11033-012-1808-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Charleston x Dongnong594
+description: "QTL experiment reported in 10.1007/s11033-012-1808-4"
+publication_doi: 10.1007/s11033-012-1808-4
+publication_title: "Multi-environment mapping and meta-analysis of 100-seed weight in soybean"
+contributors: "Ya-nan Sun, Jun-bo Pan, Xiang-lin Shi, Xiang-yu Du, Qiong Wu, Zhao-ming Qi, Hong-wei Jiang, Da-wei Xin, Chun-yan Liu, Guo-hua Hu, Qing-shan Chen"
+public_access_level: public
+license: Open

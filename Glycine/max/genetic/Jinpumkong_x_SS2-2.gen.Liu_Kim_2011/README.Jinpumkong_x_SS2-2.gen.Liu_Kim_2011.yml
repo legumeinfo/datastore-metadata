@@ -1,0 +1,16 @@
+---
+identifier: Jinpumkong_x_SS2-2.gen.Liu_Kim_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-011-1606-8"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Jinpumkong x SS2-2
+description: "QTL experiment reported in 10.1007/s00122-011-1606-8"
+publication_doi: 10.1007/s00122-011-1606-8
+publication_title: "QTL identification of flowering time at three different latitudes reveals homeologous genomic regions that control flowering in soybean"
+contributors: "Weixian Liu, Moon Young Kim, Yang Jae Kang, Kyujung Van, Yeong-Ho Lee, Peerasak Srinives, Dong Lin Yuan, Suk-Ha Lee"
+public_access_level: public
+license: Open

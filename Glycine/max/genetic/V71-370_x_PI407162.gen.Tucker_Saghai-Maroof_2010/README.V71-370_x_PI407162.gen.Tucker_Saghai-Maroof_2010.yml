@@ -1,0 +1,16 @@
+---
+identifier: V71-370_x_PI407162.gen.Tucker_Saghai-Maroof_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2009.03.0161"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - V71-370 x PI407162
+description: "QTL experiment reported in 10.2135/cropsci2009.03.0161"
+publication_doi: 10.2135/cropsci2009.03.0161
+publication_title: "Mapping Quantitative Trait Loci for Partial Resistance toPhytophthora sojaein a Soybean Interspecific Cross"
+contributors: "D. M. Tucker, M. A. Saghai Maroof, S. Mideros, J. A. Skoneczka, D. A. Nabati, G. R. Buss, I. Hoeschele, B.M. Tyler, S. K. St. Martin, A. E. Dorrance"
+public_access_level: public
+license: Open

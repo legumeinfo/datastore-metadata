@@ -1,0 +1,16 @@
+---
+identifier: Harosoy_x_Fukuyutaka.gen.Benitez_Hajika_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2009.11.0664"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Harosoy x Fukuyutaka
+description: "QTL experiment reported in 10.2135/cropsci2009.11.0664"
+publication_doi: 10.2135/cropsci2009.11.0664
+publication_title: "A Major QTL Controlling Seed Cadmium Accumulation in Soybean"
+contributors: "Eduardo R. Benitez, Makita Hajika, Tetsuya Yamada, Koji Takahashi, Nobuhiko Oki, Naohiro Yamada, Takehiro Nakamura, Kyohei Kanamaru"
+public_access_level: public
+license: Open

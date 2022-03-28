@@ -1,0 +1,16 @@
+---
+identifier: Kaori_x_ChiangMai60.gen.Juwattanasomran_Somta_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-010-1467-6"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Kaori x Chiang Mai 60
+description: "QTL experiment reported in 10.1007/s00122-010-1467-6"
+publication_doi: 10.1007/s00122-010-1467-6
+publication_title: "A SNP in GmBADH2 gene associates with fragrance in vegetable soybean variety “Kaori” and SNAP marker development for the fragrance"
+contributors: "Ruangchai Juwattanasomran, Prakit Somta, Sompong Chankaew, Takehiko Shimizu, Sugunya Wongpornchai, Akito Kaga, Peerasak Srinives"
+public_access_level: public
+license: Open

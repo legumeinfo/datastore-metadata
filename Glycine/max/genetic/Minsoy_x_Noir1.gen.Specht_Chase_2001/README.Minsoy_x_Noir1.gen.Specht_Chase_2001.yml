@@ -1,0 +1,16 @@
+---
+identifier: Minsoy_x_Noir1.gen.Specht_Chase_2001
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2001.412493x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Minsoy x Noir 1
+description: "QTL experiment reported in 10.2135/cropsci2001.412493x"
+publication_doi: 10.2135/cropsci2001.412493x
+publication_title: "Soybean Response to Water: A QTL Analysis of Drought Tolerance"
+contributors: "J.E. Specht, K. Chase, M. Macrander, G.L. Graef, J. Chung, J.P. Markwell, M. Germann, J.H. Orf, K.G. Lark"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: TK780_x_Hidaka4.gen.Shibata_Takayama_2008
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1270/jsbbs.58.361"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - TK780 x Hidaka 4
+description: "QTL experiment reported in 10.1270/jsbbs.58.361"
+publication_doi: 10.1270/jsbbs.58.361
+publication_title: "Genetic relationship between lipid content and linolenic acid concentration in soybean seeds"
+contributors: "Masayuki Shibata, Kiyohiko Takayama, Aya Ujiie, Tetsuya Yamada, Jun Abe, Keisuke Kitamura"
+public_access_level: public
+license: Open

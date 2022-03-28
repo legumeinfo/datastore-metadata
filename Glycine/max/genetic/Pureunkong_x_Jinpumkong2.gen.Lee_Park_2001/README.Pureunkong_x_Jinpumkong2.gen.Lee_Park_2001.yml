@@ -1,0 +1,16 @@
+---
+identifier: Pureunkong_x_Jinpumkong2.gen.Lee_Park_2001
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s001220100595"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Pureunkong x Jinpumkong 2
+description: "QTL experiment reported in 10.1007/s001220100595"
+publication_doi: 10.1007/s001220100595
+publication_title: "Genetic mapping of QTLs conditioning soybean sprout yield and quality"
+contributors: "S. H. Lee, K. Y. Park, H. S. Lee, E. H. Park, H. R. Boerma"
+public_access_level: public
+license: Open

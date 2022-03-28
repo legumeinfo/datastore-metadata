@@ -1,0 +1,16 @@
+---
+identifier: BenningPI595645_x_PI416937.gen.Carpentieri-Pipolo_Pipolo_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-011-0535-6"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Benning (PI 595645) x PI 416937
+description: "QTL experiment reported in 10.1007/s10681-011-0535-6"
+publication_doi: 10.1007/s10681-011-0535-6
+publication_title: "Identification of QTLs associated with limited leaf hydraulic conductance in soybean"
+contributors: "V. Carpentieri-Pipolo, A. E. Pipolo, H. Abdel-Haleem, H. R. Boerma, T. R. Sinclair"
+public_access_level: public
+license: Open

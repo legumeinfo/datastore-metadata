@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_Williams.gen.Hyten_Pantalone_2004a
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11746-004-1027-z"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Williams
+description: "QTL experiment reported in 10.1007/s11746-004-1027-z"
+publication_doi: 10.1007/s11746-004-1027-z
+publication_title: "Molecular mapping and identification of soybean fatty acid modifier quantitative trait loci"
+contributors: "David L. Hyten, Vincent R. Pantalone, Arnold M. Saxton, Michael E. Schmidt, Carl E. Sams"
+public_access_level: public
+license: Open

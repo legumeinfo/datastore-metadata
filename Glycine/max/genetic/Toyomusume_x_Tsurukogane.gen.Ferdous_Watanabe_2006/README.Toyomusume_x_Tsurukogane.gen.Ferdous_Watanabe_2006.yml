@@ -1,0 +1,16 @@
+---
+identifier: Toyomusume_x_Tsurukogane.gen.Ferdous_Watanabe_2006
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1270/jsbbs.56.155"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Toyomusume x Tsurukogane
+description: "QTL experiment reported in 10.1270/jsbbs.56.155"
+publication_doi: 10.1270/jsbbs.56.155
+publication_title: "QTL Analysis of Resistance to Soybean Cyst Nematode Race 3 in Soybean Cultivar Toyomusume"
+contributors: "Shameema Akhter Ferdous, Satoshi Watanabe, Chika Suzuki-Orihara, Yoshinori Tanaka, Motokazu Kamiya, Naoki Yamanaka, Kyuya Harada"
+public_access_level: public
+license: Open

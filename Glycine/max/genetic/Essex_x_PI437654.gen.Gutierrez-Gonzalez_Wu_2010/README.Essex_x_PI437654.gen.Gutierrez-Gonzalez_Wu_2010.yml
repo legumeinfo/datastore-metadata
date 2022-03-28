@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_PI437654.gen.Gutierrez-Gonzalez_Wu_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1186/1471-2229-10-105"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x PI437654
+description: "QTL experiment reported in 10.1186/1471-2229-10-105"
+publication_doi: 10.1186/1471-2229-10-105
+publication_title: "Intricate environment-modulated genetic networks control isoflavone accumulation in soybean seeds"
+contributors: "Juan J Gutierrez-Gonzalez, Xiaolei Wu, Jason D Gillman, Jeong-Dong Lee, Rui Zhong, Oliver Yu, Grover Shannon, Mark Ellersieck, Henry T Nguyen, David A Sleper"
+public_access_level: public
+license: Open

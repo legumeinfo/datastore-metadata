@@ -1,0 +1,16 @@
+---
+identifier: Flyer_x_Hartwig.gen.Kazi_Shultz_2008
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-008-0728-0"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Flyer x Hartwig
+description: "QTL experiment reported in 10.1007/s00122-008-0728-0"
+publication_doi: 10.1007/s00122-008-0728-0
+publication_title: "Separate loci underlie resistance to root infection and leaf scorch during soybean sudden death syndrome"
+contributors: "S. Kazi, J. Shultz, J. Afzal, J. Johnson, V. N. Njiti, D. A. Lightfoot"
+public_access_level: public
+license: Open

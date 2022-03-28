@@ -1,0 +1,16 @@
+---
+identifier: Jackson_x_JWS156-1.gen.Hamwieh_Xu_2008
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1270/jsbbs.58.355"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Jackson x JWS156-1
+description: "QTL experiment reported in 10.1270/jsbbs.58.355"
+publication_doi: 10.1270/jsbbs.58.355
+publication_title: "Conserved salt tolerance quantitative trait locus (QTL) in wild and cultivated soybeans"
+contributors: "Aladdin Hamwieh, Donghe Xu"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Minsoy_x_Noir1.gen.Terry_Chase_2000
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2000.402375x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Minsoy x Noir 1
+description: "QTL experiment reported in 10.2135/cropsci2000.402375x"
+publication_doi: 10.2135/cropsci2000.402375x
+publication_title: "Soybean Quantitative Trait Loci for Resistance to Insects"
+contributors: "L. I. Terry, K. Chase, T. Jarvik, J. Orf, L. Mansur, K. G. Lark"
+public_access_level: public
+license: Open

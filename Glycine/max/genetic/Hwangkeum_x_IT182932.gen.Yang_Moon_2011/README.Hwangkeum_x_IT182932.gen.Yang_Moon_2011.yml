@@ -1,0 +1,16 @@
+---
+identifier: Hwangkeum_x_IT182932.gen.Yang_Moon_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s13258-011-0043-z"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Hwangkeum x IT182932
+description: "QTL experiment reported in 10.1007/s13258-011-0043-z"
+publication_doi: 10.1007/s13258-011-0043-z
+publication_title: "Novel major quantitative trait loci regulating the content of isoflavone in soybean seeds"
+contributors: "Kiwoung Yang, Jung-Kyung Moon, Namhee Jeong, Hyo-Kon Chun, Sung-Taeg Kang, Kyoungwhan Back, Soon-Chun Jeong"
+public_access_level: public
+license: Open

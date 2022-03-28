@@ -1,0 +1,16 @@
+---
+identifier: L-10_x_Heinong37.gen.Chang_Dong_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1186/1471-2164-12-233"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - L-10 x Heinong 37
+description: "QTL experiment reported in 10.1186/1471-2164-12-233"
+publication_doi: 10.1186/1471-2164-12-233
+publication_title: "QTL underlying resistance to two HG types of Heterodera glycines found in soybean cultivar 'L-10'"
+contributors: "Wei Chang, Limin Dong, Zizhen Wang, Haibo Hu, Yingpeng Han, Weili Teng, Hongxia Zhang, Maozu Guo, Wenbin Li"
+public_access_level: public
+license: Open

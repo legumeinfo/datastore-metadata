@@ -1,0 +1,16 @@
+---
+identifier: Elgin_x_PI436684.gen.Kim_Diers_2012b
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-012-1944-1"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Elgin x PI436684
+description: "QTL experiment reported in 10.1007/s00122-012-1944-1"
+publication_doi: 10.1007/s00122-012-1944-1
+publication_title: "Identification of positive yield QTL alleles from exotic soybean germplasm in two backcross populations"
+contributors: "K.-S. Kim, B. W. Diers, D. L. Hyten, M. A. Rouf Mian, J. G. Shannon, R. L. Nelson"
+public_access_level: public
+license: Open

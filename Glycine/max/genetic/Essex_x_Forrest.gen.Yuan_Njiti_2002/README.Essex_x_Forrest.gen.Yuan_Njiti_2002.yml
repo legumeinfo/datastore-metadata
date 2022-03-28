@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_Forrest.gen.Yuan_Njiti_2002
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2002.0271"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Forrest
+description: "QTL experiment reported in 10.2135/cropsci2002.0271"
+publication_doi: 10.2135/cropsci2002.0271
+publication_title: "Quantitative trait loci in Two Soybean Recombinant Inbred Line Populations Segregating for Yield and Disease Resistance"
+contributors: "J. Yuan, V. N. Njiti, K. Meksem, M. J. Iqbal, K. Triwitayakorn, My. A. Kassem, G. T. Davis, M. E. Schmidt, D. A. Lightfoot"
+public_access_level: public
+license: Open

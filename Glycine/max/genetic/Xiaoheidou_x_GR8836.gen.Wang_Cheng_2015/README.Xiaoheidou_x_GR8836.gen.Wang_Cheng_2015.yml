@@ -1,0 +1,16 @@
+---
+identifier: Xiaoheidou_x_GR8836.gen.Wang_Cheng_2015
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-014-1209-y"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Xiaoheidou x GR8836
+description: "QTL experiment reported in 10.1007/s10681-014-1209-y"
+publication_doi: 10.1007/s10681-014-1209-y
+publication_title: "Genetic analysis and quantitative trait locus identification of the reproductive to vegetative growth period ratio in soybean (Glycine max (L.) Merr.)"
+contributors: "Ying Wang, Lirui Cheng, Jiantian Leng, Cunxiang Wu, Guihua Shao, Wensheng Hou, Tianfu Han"
+public_access_level: public
+license: Open

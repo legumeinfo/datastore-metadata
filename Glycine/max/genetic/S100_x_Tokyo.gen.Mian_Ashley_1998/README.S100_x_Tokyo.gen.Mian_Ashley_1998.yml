@@ -1,0 +1,16 @@
+---
+identifier: S100_x_Tokyo.gen.Mian_Ashley_1998
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s001220051012"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - S100 x Tokyo
+description: "QTL experiment reported in 10.1007/s001220051012"
+publication_doi: 10.1007/s001220051012
+publication_title: "QTLs conditioning early growth in a soybean population segregating for growth habit"
+contributors: "M. A. R. Mian, D. A. Ashley, W. K. Vencill, H. R. Boerma"
+public_access_level: public
+license: Open

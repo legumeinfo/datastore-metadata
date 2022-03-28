@@ -1,0 +1,16 @@
+---
+identifier: FiskebyIII_x_Mandarin.gen.Burton_Burkey_2016
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-016-2687-1"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Fiskeby III x Mandarin
+description: "QTL experiment reported in 10.1007/s00122-016-2687-1"
+publication_doi: 10.1007/s00122-016-2687-1
+publication_title: "Phenotypic variation and identification of quantitative trait loci for ozone tolerance in a Fiskeby III × Mandarin (Ottawa) soybean population"
+contributors: "Amy L. Burton, Kent O. Burkey, Thomas E. Carter, James Orf, Perry B. Cregan"
+public_access_level: public
+license: Open

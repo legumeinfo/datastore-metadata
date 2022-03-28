@@ -1,0 +1,16 @@
+---
+identifier: MaBelle_x_Proto.gen.Csanádi_Vollmann_2001
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s001220100621"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Ma.Belle x Proto
+description: "QTL experiment reported in 10.1007/s001220100621"
+publication_doi: 10.1007/s001220100621
+publication_title: "Seed quality QTLs identified in a molecular map of early maturing soybean"
+contributors: "G. Csanádi, J. Vollmann, G. Stift, T. Lelley"
+public_access_level: public
+license: Open

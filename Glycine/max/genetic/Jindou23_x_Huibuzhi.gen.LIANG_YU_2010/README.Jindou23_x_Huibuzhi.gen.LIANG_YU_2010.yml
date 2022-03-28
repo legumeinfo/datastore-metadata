@@ -1,0 +1,16 @@
+---
+identifier: Jindou23_x_Huibuzhi.gen.LIANG_YU_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1016/s1671-2927(09)60197-8"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Jindou 23 x Huibuzhi
+description: "QTL experiment reported in 10.1016/s1671-2927(09)60197-8"
+publication_doi: 10.1016/s1671-2927(09)60197-8
+publication_title: "QTL Mapping of Isoflavone, Oil and Protein Contents in Soybean (Glycine max L. Merr.)"
+contributors: "Hui-zhen LIANG, Yong-liang YU, Shu-feng WANG, Yun LIAN, Ting-feng WANG, Yan-li WEI, Peng-tao GONG, Xue-yi LIU, Xuan-jun FANG, Meng-chen ZHANG"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: SD02-4-59_x_A02-381100.gen.Wang_Jiang_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11032-012-9704-0"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - SD02-4-59 x A02-381100
+description: "QTL experiment reported in 10.1007/s11032-012-9704-0"
+publication_doi: 10.1007/s11032-012-9704-0
+publication_title: "Quantitative trait locus analysis of saturated fatty acids in a population of recombinant inbred lines of soybean"
+contributors: "Xianzhi Wang, Guo-Liang Jiang, Marci Green, Roy A. Scott, David L. Hyten, Perry B. Cregan"
+public_access_level: public
+license: Open

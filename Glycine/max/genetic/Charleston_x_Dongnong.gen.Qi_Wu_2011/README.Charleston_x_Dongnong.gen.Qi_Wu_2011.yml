@@ -1,0 +1,16 @@
+---
+identifier: Charleston_x_Dongnong.gen.Qi_Wu_2011
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-011-0386-1"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Charleston x Dongnong 
+description: "QTL experiment reported in 10.1007/s10681-011-0386-1"
+publication_doi: 10.1007/s10681-011-0386-1
+publication_title: "Soybean oil content QTL mapping and integrating with meta-analysis method for mining genes"
+contributors: "Zhao-ming Qi, Qiong Wu, Xue Han, Ya-nan Sun, Xiang-yu Du, Chun-yan Liu, Hong-wei Jiang, Guo-hua Hu, Qing-shan Chen"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Bossier_x_Embrapa20.gen.Santos_Geraldi_2013
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1111/j.1601-5223.2013.02275.x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Bossier x Embrapa 20
+description: "QTL experiment reported in 10.1111/j.1601-5223.2013.02275.x"
+publication_doi: 10.1111/j.1601-5223.2013.02275.x
+publication_title: "Mapping of QTLs associated with biological nitrogen fixation traits in soybean"
+contributors: "Maria Aparecida Santos, Isaias Olívio Geraldi, Antonio Augusto Franco Garcia, Nágila Bortolatto, Aline Schiavon, Mariangela Hungria"
+public_access_level: public
+license: Open

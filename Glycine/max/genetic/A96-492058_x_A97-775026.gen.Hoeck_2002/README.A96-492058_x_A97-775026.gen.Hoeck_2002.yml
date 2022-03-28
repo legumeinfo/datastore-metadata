@@ -1,0 +1,16 @@
+---
+identifier: A96-492058_x_A97-775026.gen.Hoeck_2002
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.31274/rtd-180813-9889"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - A96-492058 x A97-775026
+description: "QTL experiment reported in 10.31274/rtd-180813-9889"
+publication_doi: 10.31274/rtd-180813-9889
+publication_title: "Molecular marker analysis of seed size in soybean"
+contributors: "Joseph Andrew Hoeck"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: BSR101_x_LG82-8379.gen.Kabelka_Diers_2004
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2004.0784"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - BSR 101 x LG82-8379
+description: "QTL experiment reported in 10.2135/cropsci2004.0784"
+publication_doi: 10.2135/cropsci2004.0784
+publication_title: "Putative Alleles for Increased Yield from Soybean Plant Introductions"
+contributors: "E. A. Kabelka, B. W. Diers, W. R. Fehr, A. R. LeRoy, I. C. Baianu, T. You, D. J. Neece, R. L. Nelson"
+public_access_level: public
+license: Open

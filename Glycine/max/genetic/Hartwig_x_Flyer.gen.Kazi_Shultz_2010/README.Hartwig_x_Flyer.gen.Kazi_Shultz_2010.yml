@@ -1,0 +1,16 @@
+---
+identifier: Hartwig_x_Flyer.gen.Kazi_Shultz_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-009-1181-4"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Hartwig x Flyer
+description: "QTL experiment reported in 10.1007/s00122-009-1181-4"
+publication_doi: 10.1007/s00122-009-1181-4
+publication_title: "Iso-lines and inbred-lines confirmed loci that underlie resistance from cultivar ‘Hartwig’ to three soybean cyst nematode populations"
+contributors: "Samreen Kazi, J. Shultz, J. Afzal, Rizwan Hashmi, Mohammed Jasim, Jason Bond, Prakash R. Arelli, David A. Lightfoot"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Bell_x_Colfax.gen.Patzoldt_Grau_2005
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2003.0615"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Bell x Colfax
+description: "QTL experiment reported in 10.2135/cropsci2003.0615"
+publication_doi: 10.2135/cropsci2003.0615
+publication_title: "Localization of a Quantitative Trait Locus Providing Brown Stem Rot Resistance in the Soybean Cultivar Bell"
+contributors: "M. E. Patzoldt, C. R. Grau, P. A. Stephens, N. C. Kurtzweil, S. R. Carlson, B. W. Diers"
+public_access_level: public
+license: Open

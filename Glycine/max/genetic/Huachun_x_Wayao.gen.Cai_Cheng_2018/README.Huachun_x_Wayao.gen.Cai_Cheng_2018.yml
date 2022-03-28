@@ -1,0 +1,16 @@
+---
+identifier: Huachun_x_Wayao.gen.Cai_Cheng_2018
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-017-3018-x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Huachun x Wayao
+description: "QTL experiment reported in 10.1007/s00122-017-3018-x"
+publication_doi: 10.1007/s00122-017-3018-x
+publication_title: "Fine-mapping of QTLs for individual and total isoflavone content in soybean (Glycine max L.) using a high-density genetic map"
+contributors: "Zhandong Cai, Yanbo Cheng, Zhuwen Ma, Xinguo Liu, Qibin Ma, Qiuju Xia, Gengyun Zhang, Yinghui Mu, Hai Nian"
+public_access_level: public
+license: Open

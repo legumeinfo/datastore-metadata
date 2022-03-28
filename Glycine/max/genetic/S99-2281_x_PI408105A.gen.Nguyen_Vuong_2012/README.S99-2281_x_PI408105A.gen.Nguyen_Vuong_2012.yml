@@ -1,0 +1,16 @@
+---
+identifier: S99-2281_x_PI408105A.gen.Nguyen_Vuong_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2011.09.0466"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - S99-2281 x PI 408105A
+description: "QTL experiment reported in 10.2135/cropsci2011.09.0466"
+publication_doi: 10.2135/cropsci2011.09.0466
+publication_title: "Mapping of Quantitative Trait Loci Associated with Resistance toPhytophthora sojaeand Flooding Tolerance in Soybean"
+contributors: "V. T. Nguyen, T. D. Vuong, T. VanToai, J. D. Lee, X. Wu, M. A. Rouf Mian, A. E. Dorrance, J. G. Shannon, H. T. Nguyen"
+public_access_level: public
+license: Open

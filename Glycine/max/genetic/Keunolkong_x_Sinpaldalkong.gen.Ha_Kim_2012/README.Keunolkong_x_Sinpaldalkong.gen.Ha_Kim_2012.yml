@@ -1,0 +1,16 @@
+---
+identifier: Keunolkong_x_Sinpaldalkong.gen.Ha_Kim_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-012-0719-8"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Keunolkong x Sinpaldalkong
+description: "QTL experiment reported in 10.1007/s10681-012-0719-8"
+publication_doi: 10.1007/s10681-012-0719-8
+publication_title: "Mapping QTLs with epistatic effects and QTL-by-environment interactions for seed coat cracking in soybeans"
+contributors: "Bo-Keun Ha, Hyeun-Kyeung Kim, Sung-Taeg Kang"
+public_access_level: public
+license: Open

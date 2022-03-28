@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_Forrest.gen.Hnetkovsky_Chang_1996
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci1996.0011183x003600020030x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Forrest
+description: "QTL experiment reported in 10.2135/cropsci1996.0011183x003600020030x"
+publication_doi: 10.2135/cropsci1996.0011183x003600020030x
+publication_title: "Genetic Mapping of Loci underlying Field Resistance to Soybean Sudden Death Syndrome (SDS)"
+contributors: "N. Hnetkovsky, S. J. C. Chang, T. W. Doubler, P. T. Gibson, D. A. Lightfott"
+public_access_level: public
+license: Open

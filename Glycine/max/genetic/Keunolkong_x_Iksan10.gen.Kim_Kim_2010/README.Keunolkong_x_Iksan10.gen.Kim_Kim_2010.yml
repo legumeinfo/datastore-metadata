@@ -1,0 +1,16 @@
+---
+identifier: Keunolkong_x_Iksan10.gen.Kim_Kim_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.5352/jls.2010.20.8.1186"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Keunolkong x Iksan10
+description: "QTL experiment reported in 10.5352/jls.2010.20.8.1186"
+publication_doi: 10.5352/jls.2010.20.8.1186
+publication_title: "Analysis of Quantitative Trait Loci (QTLs) for Seed Size and Fatty Acid Composition Using Recombinant Inbred Lines in Soybean"
+contributors: "Hyeun-Kyeung Kim, Yong-Chul Kim, Sun-Tae Kim, Beung-Gu Son, Yong-Whan Choi, Jum-Soon Kang, Young-Hoon Park, Young-Son Cho, In-Soo Choi"
+public_access_level: public
+license: Open

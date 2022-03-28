@@ -1,0 +1,16 @@
+---
+identifier: mixed.gen.Glover_Wang_2004
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2004.0936"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - mixed
+description: "QTL experiment reported in 10.2135/cropsci2004.0936"
+publication_doi: 10.2135/cropsci2004.0936
+publication_title: "Near Isogenic Lines Confirm a Soybean Cyst Nematode Resistance Gene from PI 88788 on Linkage Group J"
+contributors: "K. D. Glover, D. Wang, P. R. Arelli, S. R. Carlson, S. R. Cianzio, B. W. Diers"
+public_access_level: public
+license: Open

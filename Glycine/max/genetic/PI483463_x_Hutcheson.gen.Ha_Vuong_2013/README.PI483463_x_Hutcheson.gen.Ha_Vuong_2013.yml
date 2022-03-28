@@ -1,0 +1,16 @@
+---
+identifier: PI483463_x_Hutcheson.gen.Ha_Vuong_2013
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s10681-013-0944-9"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI483463 x Hutcheson
+description: "QTL experiment reported in 10.1007/s10681-013-0944-9"
+publication_doi: 10.1007/s10681-013-0944-9
+publication_title: "Genetic mapping of quantitative trait loci conditioning salt tolerance in wild soybean (Glycine soja) PI 483463"
+contributors: "Bo-Keun Ha, Tri D. Vuong, Vijayan Velusamy, Henry T. Nguyen, J. Grover Shannon, Jeong-Dong Lee"
+public_access_level: public
+license: Open

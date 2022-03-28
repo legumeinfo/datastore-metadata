@@ -1,0 +1,16 @@
+---
+identifier: FiskbeyIII_x_Williams82.gen.Do_Vuong_2018
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-017-3015-0"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Fiskbey III x Williams 82
+description: "QTL experiment reported in 10.1007/s00122-017-3015-0"
+publication_doi: 10.1007/s00122-017-3015-0
+publication_title: "Mapping and confirmation of loci for salt tolerance in a novel soybean germplasm, Fiskeby III"
+contributors: "Tuyen D. Do, Tri D. Vuong, David Dunn, Scotty Smothers, Gunvant Patil, Dennis C. Yungbluth, Pengyin Chen, Andrew Scaboo, Dong Xu, Thomas E. Carter, Henry T. Nguyen, J. Grover Shannon"
+public_access_level: public
+license: Open

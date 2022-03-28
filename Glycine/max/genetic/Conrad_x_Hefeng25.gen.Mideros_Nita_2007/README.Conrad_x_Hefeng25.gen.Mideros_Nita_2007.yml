@@ -1,0 +1,16 @@
+---
+identifier: Conrad_x_Hefeng25.gen.Mideros_Nita_2007
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1094/phyto-97-5-0655"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Conrad x Hefeng 25
+description: "QTL experiment reported in 10.1094/phyto-97-5-0655"
+publication_doi: 10.1094/phyto-97-5-0655
+publication_title: "Characterization of Components of Partial Resistance, Rps2, and Root Resistance to Phytophthora sojae in Soybean"
+contributors: "Santiago Mideros, Mizuho Nita, Anne E. Dorrance"
+public_access_level: public
+license: Open

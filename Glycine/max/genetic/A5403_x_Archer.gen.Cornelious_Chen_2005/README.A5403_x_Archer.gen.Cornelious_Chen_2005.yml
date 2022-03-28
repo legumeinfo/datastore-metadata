@@ -1,0 +1,16 @@
+---
+identifier: A5403_x_Archer.gen.Cornelious_Chen_2005
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11032-005-5911-2"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - A5403 x Archer
+description: "QTL experiment reported in 10.1007/s11032-005-5911-2"
+publication_doi: 10.1007/s11032-005-5911-2
+publication_title: "Identification of QTLs Underlying Water-Logging Tolerance in Soybean"
+contributors: "B. Cornelious, P. Chen, Y. Chen, N. de Leon, J.G. Shannon, D. Wang"
+public_access_level: public
+license: Open

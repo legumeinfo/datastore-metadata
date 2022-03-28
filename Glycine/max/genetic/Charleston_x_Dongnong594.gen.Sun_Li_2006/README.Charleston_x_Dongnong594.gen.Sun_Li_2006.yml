@@ -1,0 +1,16 @@
+---
+identifier: Charleston_x_Dongnong594.gen.Sun_Li_2006
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-005-0169-y"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Charleston x Dongnong 594
+description: "QTL experiment reported in 10.1007/s00122-005-0169-y"
+publication_doi: 10.1007/s00122-005-0169-y
+publication_title: "Quantitative trait loci analysis for the developmental behavior of Soybean (Glycine max L. Merr.)"
+contributors: "Desheng Sun, Wenbin Li, Zhongchen Zhang, Qingshan Chen, Hailong Ning, Lijuan Qiu, Genlou Sun"
+public_access_level: public
+license: Open

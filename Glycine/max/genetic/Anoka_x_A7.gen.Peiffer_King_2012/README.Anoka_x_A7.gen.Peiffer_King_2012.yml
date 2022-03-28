@@ -1,0 +1,16 @@
+---
+identifier: Anoka_x_A7.gen.Peiffer_King_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1104/pp.111.189860"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Anoka x A7
+description: "QTL experiment reported in 10.1104/pp.111.189860"
+publication_doi: 10.1104/pp.111.189860
+publication_title: "Identification of Candidate Genes Underlying an Iron Efficiency Quantitative Trait Locus in Soybean"
+contributors: "Gregory A. Peiffer, Keith E. King, Andrew J. Severin, Gregory D. May, Silvia R. Cianzio, Shun Fu Lin, Nicholas C. Lauter, Randy C. Shoemaker"
+public_access_level: public
+license: Open

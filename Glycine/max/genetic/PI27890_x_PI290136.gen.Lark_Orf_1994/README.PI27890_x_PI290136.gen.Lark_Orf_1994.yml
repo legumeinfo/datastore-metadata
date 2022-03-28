@@ -1,0 +1,16 @@
+---
+identifier: PI27890_x_PI290136.gen.Lark_Orf_1994
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/bf00223665"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI27890 x PI290136
+description: "QTL experiment reported in 10.1007/bf00223665"
+publication_doi: 10.1007/bf00223665
+publication_title: "Epistatic expression of quantitative trait loci (QTL) in soybean [Glycine max (L.) Merr.] determined by QTL association with RFLP alleles"
+contributors: "K. G. Lark, J. Orf, L. M. Mansur"
+public_access_level: public
+license: Open

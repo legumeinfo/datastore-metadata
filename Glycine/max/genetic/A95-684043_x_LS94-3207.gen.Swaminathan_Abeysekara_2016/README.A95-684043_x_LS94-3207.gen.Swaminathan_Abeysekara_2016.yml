@@ -1,0 +1,16 @@
+---
+identifier: A95-684043_x_LS94-3207.gen.Swaminathan_Abeysekara_2016
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-015-2643-5"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - A95-684043 x LS94-3207
+description: "QTL experiment reported in 10.1007/s00122-015-2643-5"
+publication_doi: 10.1007/s00122-015-2643-5
+publication_title: "Quantitative trait loci underlying host responses of soybean to Fusarium virguliforme toxins that cause foliar sudden death syndrome"
+contributors: "Sivakumar Swaminathan, Nilwala S. Abeysekara, Min Liu, Silvia R. Cianzio, Madan K. Bhattacharyya"
+public_access_level: public
+license: Open

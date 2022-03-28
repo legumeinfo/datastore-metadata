@@ -1,0 +1,16 @@
+---
+identifier: M82806_x_HHP.gen.Brummer_Graef_1997
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700020011x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - M82806 x HHP
+description: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700020011x"
+publication_doi: 10.2135/cropsci1997.0011183x003700020011x
+publication_title: "Mapping QTL for Seed Protein and Oil Content in Eight Soybean Populations"
+contributors: "E. C. Brummer, G. L. Graef, J. Orf, J. R. Wilcox, R. C. Shoemaker"
+public_access_level: public
+license: Open

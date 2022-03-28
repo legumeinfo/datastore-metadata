@@ -1,0 +1,16 @@
+---
+identifier: Skylla_x_E00290.gen.Kandel_Chen_2018
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.3389/fpls.2018.00505"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Skylla x E00290
+description: "QTL experiment reported in 10.3389/fpls.2018.00505"
+publication_doi: 10.3389/fpls.2018.00505
+publication_title: "Soybean Resistance to White Mold: Evaluation of Soybean Germplasm Under Different Conditions and Validation of QTL"
+contributors: "Ramkrishna Kandel, Charles Y. Chen, Craig R. Grau, Ann E. Dorrance, Jean Q. Liu, Yang Wang, Dechun Wang"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: M91-212006_x_SZG9652.gen.Vollmann_Schausberger_2002
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1046/j.1439-0523.2002.00707.x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - M91-212006 x SZG9652
+description: "QTL experiment reported in 10.1046/j.1439-0523.2002.00707.x"
+publication_doi: 10.1046/j.1439-0523.2002.00707.x
+publication_title: "The presence or absence of the soybean Kunitz trypsin inhibitor as a quantitative trait locus for seed protein content"
+contributors: "J. Vollmann, H. Schausberger, H. Bistrich, T. Lelley"
+public_access_level: public
+license: Open

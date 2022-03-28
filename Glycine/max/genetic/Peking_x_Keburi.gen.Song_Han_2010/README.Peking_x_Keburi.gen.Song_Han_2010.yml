@@ -1,0 +1,16 @@
+---
+identifier: Peking_x_Keburi.gen.Song_Han_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00299-009-0804-1"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Peking x Keburi
+description: "QTL experiment reported in 10.1007/s00299-009-0804-1"
+publication_doi: 10.1007/s00299-009-0804-1
+publication_title: "Identification of QTL underlying somatic embryogenesis capacity of immature embryos in soybean (Glycine max (L.) Merr.)"
+contributors: "Xiaohui Song, Yingpeng Han, Weili Teng, Genlou Sun, Wenbin Li"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: PI468916_x_A81-356022.gen.Kabelka_Carlson_2005
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2005.0027"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI 468916 x A81-356022
+description: "QTL experiment reported in 10.2135/cropsci2005.0027"
+publication_doi: 10.2135/cropsci2005.0027
+publication_title: "Localization of Two Loci that Confer Resistance to Soybean Cyst Nematode from Glycine soja PI 468916"
+contributors: "E. A. Kabelka, S. R. Carlson, B. W. Diers"
+public_access_level: public
+license: Open

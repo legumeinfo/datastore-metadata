@@ -1,0 +1,16 @@
+---
+identifier: Magellan_x_PI404198A.gen.Guo_Sleper_2006
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2004.0757"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Magellan x PI 404198A
+description: "QTL experiment reported in 10.2135/cropsci2004.0757"
+publication_doi: 10.2135/cropsci2004.0757
+publication_title: "Quantitative Trait Loci underlying Resistance to Three Soybean Cyst Nematode Populations in Soybean PI 404198A"
+contributors: "B. Guo, D. A. Sleper, H. T. Nguyen, P. R. Arelli, J. G. Shannon"
+public_access_level: public
+license: Open

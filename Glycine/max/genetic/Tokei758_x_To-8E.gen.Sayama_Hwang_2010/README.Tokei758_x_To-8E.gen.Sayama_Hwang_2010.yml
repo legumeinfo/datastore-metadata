@@ -1,0 +1,16 @@
+---
+identifier: Tokei758_x_To-8E.gen.Sayama_Hwang_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1270/jsbbs.60.380"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Tokei 758 x To-8E
+description: "QTL experiment reported in 10.1270/jsbbs.60.380"
+publication_doi: 10.1270/jsbbs.60.380
+publication_title: "Mapping and comparison of quantitative trait loci for soybean branching phenotype in two locations"
+contributors: "Takashi Sayama, Tae-Young Hwang, Hiroyuki Yamazaki, Naoya Yamaguchi, Kunihiko Komatsu, Masakazu Takahashi, Chika Suzuki, Tomoaki Miyoshi, Yoshinori Tanaka, Zhengjun Xia, Yasutaka Tsubokura, Satoshi Watanabe, Kyuya Harada, Hideyuki Funatsuki, Masao Ishimoto"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Cobb_x_PI229358.gen.Narvel_Walker_2001
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2001.1931"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Cobb x PI229358
+description: "QTL experiment reported in 10.2135/cropsci2001.1931"
+publication_doi: 10.2135/cropsci2001.1931
+publication_title: "A Retrospective DNA Marker Assessment of the Development of Insect Resistant Soybean"
+contributors: "James M. Narvel, David R. Walker, Brian G. Rector, John N. All, Wayne A. Parrott, H. Roger Boerma"
+public_access_level: public
+license: Open

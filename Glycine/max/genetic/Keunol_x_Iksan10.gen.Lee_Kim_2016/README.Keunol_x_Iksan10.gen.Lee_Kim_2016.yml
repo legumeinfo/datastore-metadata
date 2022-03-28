@@ -1,0 +1,16 @@
+---
+identifier: Keunol_x_Iksan10.gen.Lee_Kim_2016
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11032-016-0471-1"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Keunol x Iksan 10
+description: "QTL experiment reported in 10.1007/s11032-016-0471-1"
+publication_doi: 10.1007/s11032-016-0471-1
+publication_title: "Positional mapping and identification of novel quantitative trait locus responsible for UV-B radiation tolerance in soybean [Glycine max (L.) Merr.]"
+contributors: "Ju Seok Lee, Sungmin Kim, Bo-Keun Ha, Sungtaeg Kang"
+public_access_level: public
+license: Open

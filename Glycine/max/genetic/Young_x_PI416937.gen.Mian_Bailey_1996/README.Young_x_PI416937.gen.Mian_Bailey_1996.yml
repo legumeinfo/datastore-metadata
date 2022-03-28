@@ -1,0 +1,16 @@
+---
+identifier: Young_x_PI416937.gen.Mian_Bailey_1996
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci1996.0011183x003600050030x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Young x PI416937
+description: "QTL experiment reported in 10.2135/cropsci1996.0011183x003600050030x"
+publication_doi: 10.2135/cropsci1996.0011183x003600050030x
+publication_title: "Molecular Markers Associated with Water Use Efficiency and Leaf Ash in Soybean"
+contributors: "M. A. R. Mian, M. A. Bailey, D. A. Ashley, R. Wells, T. E. Carter, W. A. Parrott, H. R. Boerma"
+public_access_level: public
+license: Open

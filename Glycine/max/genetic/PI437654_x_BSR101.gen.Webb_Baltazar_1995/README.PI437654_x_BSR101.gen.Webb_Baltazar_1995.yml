@@ -1,0 +1,16 @@
+---
+identifier: PI437654_x_BSR101.gen.Webb_Baltazar_1995
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/bf00223282"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI437654 x BSR101
+description: "QTL experiment reported in 10.1007/bf00223282"
+publication_doi: 10.1007/bf00223282
+publication_title: "Genetic mapping of soybean cyst nematode race-3 resistance loci in the soybean PI 437.654"
+contributors: "D. M. Webb, B. M. Baltazar, A. P. Rao-Arelli, J. Schupp, K. Clayton, P. Keim, W. D. Beavis"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Flyer_x_Hartwig.gen.Prabhu_Njiti_1999
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci1999.0011183x003900040005x"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Flyer x Hartwig
+description: "QTL experiment reported in 10.2135/cropsci1999.0011183x003900040005x"
+publication_doi: 10.2135/cropsci1999.0011183x003900040005x
+publication_title: "Selecting Soybean Cultivars for Dual Resistance to Soybean Cyst Nematode and Sudden Death Syndrome Using Two DNA Markers"
+contributors: "R. R. Prabhu, V. N. Njiti, B. Bell‐Johnson, J. E. Johnson, M. E. Schmidt, J. H. Klein, D. A. Lightfoot"
+public_access_level: public
+license: Open

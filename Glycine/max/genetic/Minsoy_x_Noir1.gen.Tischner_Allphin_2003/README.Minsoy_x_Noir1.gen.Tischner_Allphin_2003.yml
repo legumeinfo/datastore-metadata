@@ -1,0 +1,16 @@
+---
+identifier: Minsoy_x_Noir1.gen.Tischner_Allphin_2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.2135/cropsci2003.0464"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Minsoy x Noir 1
+description: "QTL experiment reported in 10.2135/cropsci2003.0464"
+publication_doi: 10.2135/cropsci2003.0464
+publication_title: "Genetics of Seed Abortion and Reproductive Traits in Soybean"
+contributors: "T. Tischner, L. Allphin, K. Chase, J. H. Orf, K. G. Lark"
+public_access_level: public
+license: Open

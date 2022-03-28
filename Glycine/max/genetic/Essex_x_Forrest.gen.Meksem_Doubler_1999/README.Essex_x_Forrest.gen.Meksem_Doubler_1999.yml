@@ -1,0 +1,16 @@
+---
+identifier: Essex_x_Forrest.gen.Meksem_Doubler_1999
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s001220051317"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Forrest
+description: "QTL experiment reported in 10.1007/s001220051317"
+publication_doi: 10.1007/s001220051317
+publication_title: "Clustering among loci underlying soybean resistance to Fusarium solani, SDS and SCN in near-isogenic lines"
+contributors: "K. Meksem, T. W. Doubler, K. Chancharoenchai, N. Nijti, S. J. Chang, A.P. Rao Arelli, P. E. Cregan, L. E. Gray, P. T. Gibson, D. A. Lightfoot"
+public_access_level: public
+license: Open

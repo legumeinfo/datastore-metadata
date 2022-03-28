@@ -1,0 +1,16 @@
+---
+identifier: Pioneer9071_x_8902.gen.Rossi_Orf_2013
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-013-2094-9"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - "Pioneer 9071 x #8902"
+description: "QTL experiment reported in 10.1007/s00122-013-2094-9"
+publication_doi: 10.1007/s00122-013-2094-9
+publication_title: "Genetic basis of soybean adaptation to North American vs. Asian mega-environments in two independent populations from Canadian × Chinese crosses"
+contributors: "M. Eugenia Rossi, James H. Orf, Li-Jun Liu, Zhimin Dong, Istvan Rajcan"
+public_access_level: public
+license: Open

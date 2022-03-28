@@ -1,0 +1,16 @@
+---
+identifier: OACBayfield_x_Hefeng25.gen.Li_Liu_2010
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s00122-010-1264-2"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - OAC Bayfield x Hefeng 25
+description: "QTL experiment reported in 10.1007/s00122-010-1264-2"
+publication_doi: 10.1007/s00122-010-1264-2
+publication_title: "Identification of QTL underlying vitamin E contents in soybean seed among multiple environments"
+contributors: "Haiyan Li, Huancheng Liu, Yingpeng Han, Xiaoxia Wu, Weili Teng, Guifeng Liu, Wenbin Li"
+public_access_level: public
+license: Open

@@ -1,0 +1,16 @@
+---
+identifier: Chamame_x_Laco-1.gen.Juwattanasomran_Somta_2012
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL experiment reported in 10.1007/s11032-010-9523-0"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Chamame x Laco-1
+description: "QTL experiment reported in 10.1007/s11032-010-9523-0"
+publication_doi: 10.1007/s11032-010-9523-0
+publication_title: "Identification of a new fragrance allele in soybean and development of its functional marker"
+contributors: "Ruangchai Juwattanasomran, Prakit Somta, Akito Kaga, Sompong Chankaew, Takehiko Shimizu, Worawit Sorajjapinun, Peerasak Srinives"
+public_access_level: public
+license: Open
