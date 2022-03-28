@@ -1,0 +1,29 @@
+---
+identifier: ICC4958.gnm2.syn.PdvJ
+
+provenance: "The files in this directory originated from https://legumeinfo.org. The LegumeInfo Data Store is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory. See the respective species directories for information about data used in each comparison."
+
+scientific_name: Cicer arietinum
+
+scientific_name_abbrev: cicar
+
+taxid: 3827
+
+genotype:
+  - ICC4958 (desi variety)
+
+synopsis: "Synteny calculations between Cicer arietinum ICC4958 (desi variety) and other species and accessions."
+
+description: "Synteny calculations involve identification of orthologous genes by selecting reciprocal top hits between chromosome pairs from an all-against-all blastp search of genes between two species (evalue threshold of 1e-10), followed by DAGchainer to predict chains of syntenic genes in complete genomes. Proportions of synonymous-site changes (Ks) between orthologs are calculated, and synteny blocks are filtered for block-wise median Ks values. Synteny blocks have also been calculated to show these paralogous WGD-derived duplications."
+
+local_file_creation_date: "2018-06-07"
+
+dataset_release_date: "2018-06-07"
+
+contributors: "Wei Huang, Steven Cannon"
+
+data_curators: Jacqueline Campbell
+
+public_access_level: public
+
+license: Open
