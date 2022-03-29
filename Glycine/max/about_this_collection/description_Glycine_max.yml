@@ -98,3 +98,9 @@ strains:
     name: Williams 82
     origin: Northeast Institute of Geography and Agroecology, CAS
     description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams. This line, IGA1008, was sequenced and annotated by Chu, et al. (2021)."
+  - identifier: FiskebyIII
+    accession: PI 438471
+    name: Fiskeby III
+    origin: Fiskeby, Norrköpping, Sweden
+    description: "Bred by the late Dr. Sven Holmberg in Fiskeby, Norrköpping, Sweden. Highly nutritious — up to 40% protein, high in calcium, iron, and vitamins (particularly A, B1, B12, and C). Thrives in northern climates. 75-80 days."
+
