@@ -1,0 +1,17 @@
+---
+identifier: mixed.gwas.Paulino_Almeida_2021
+taxid: 3885
+scientific_name: Phaseolus vulgaris
+scientific_name_abbrev: phavu
+genotype: 
+  - 205 genotypes selected from the Mesoamerican Diversity Panel (MDP) based on disease resistance and seed characteristics.
+synopsis: GWAS of Fusarium wilt resistance for Common bean, relative to the G19833 assembly 2.0.
+genotyping_platform: BARCBean6K
+genotyping_method: Illumina BARCBean6K_3 BeadChip
+description: "The authors identified genomic regions in Phaseolus vulgaris (Common bean) associated with resistance to Fusarium oxysporum f. sp. phaseoli (Fop), a soil fungus that causes the vascular disease Fusarium wilt. Genome-wide association studies (GWAS) were conducted with 205 genotypes selected from the Mesoamerican Diversity Panel (MDP) based on disease resistance and seed characteristics. The samples were genotyped using 5398 single nucleotide polymorphisms (SNPs) on the Illumina BARCBean6K_3 BeadChip. Fusarium wilt symptoms include plant wilting (leaf , hypocotyl, and general), necrosis (leaf and hypocotyl), vascular discoloration of the hypocotyl, chlorosis, dwarfism, and premature plant death. The disease severity rating (DSR) was measured on a scale ranging from 1 (absence of symptoms) to 9 (dead plant). The DSR for all evaluations for each genotype were used to calculate the area under the disease progress curve (AUDPC). The results were 11 significant marker-phenotype associations for Fusarium wilt resistance on chromosomes Pv01, Pv03, Pv04, Pv05, Pv07, Pv10, and Pv11. NOTE: The authors used BLAST (blastn) to place the BARCBean6k markers onto the gnm2 assembly, but didn't provide those positions except for the Until we have the BARCBean6k markers placed properly on G19833.gnm2, we will associate this file with G19833.gnm1."
+data_curators: Scott Kalberer, Steven Cannon
+publication_doi: 10.3390/genes12050765
+citation: "Paulino JFC, Almeida CP, Bueno CJ, Song Q, Fritsche-Neto R, Carbonell SAM, Chiorato AF, Benchimol-Reis LL. Genome-wide association study reveals genomic regions associated with fusarium wilt resistance in common bean. Genes (Basel). 2021 May 18;12(5):765. doi: 10.3390/genes12050765. PMID: 34069884; PMCID: PMC8157364."
+publication_title: Genome-wide association study reveals genomic regions associated with fusarium wilt resistance in common bean
+contributors: Paulino JFC, Almeida CP, Bueno CJ, Song Q, Fritsche-Neto R, Carbonell SAM, Chiorato AF, Benchimol-Reis LL.
+

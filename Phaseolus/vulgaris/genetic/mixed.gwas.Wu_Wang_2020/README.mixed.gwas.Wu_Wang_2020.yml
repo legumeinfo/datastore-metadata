@@ -1,0 +1,17 @@
+---
+identifier: mixed.gwas.Wu_Wang_2020
+taxid: 3885
+scientific_name: Phaseolus vulgaris
+scientific_name_abbrev: phavu
+genotype: 
+  - 529 landraces and 154 breeding lines, Andean and Mesoamerican gene pools, and 555 Chinese and 128 non-Chinese accessions
+synopsis: GWAS of agronomic, architecture, and biotic stress traits at different locations within China for Common bean, relative to the G19833 assembly 1.0.
+genotyping_platform: Wu_Wang_2020_683_WGRS
+genotyping_method: whole-genome resequencing
+description: "The researchers conducted a large-scale whole-genome resequencing (WGRS) and genome-wide association study (GWAS) evaluation of 683 common bean (Phaseolus vulgaris) accessions. These plants represented both 529 landraces and 154 breeding lines, Andean and Mesoamerican gene pools, and 555 Chinese and 128 non-Chinese accessions. Genotypes were sequenced with Illumina, and paired-end reads of all genotypes were aligned and mapped to the Andean common bean reference genome G19833 (v. 1.0). Anthracnose resistance was evaluated indoors for Colletotrichum lindemuthianum. Marker trait associations (MTAs) were investigated with GWAS for 20 phenotype traits including 15 quantitatively inherited yield components (628 accessions), 2 dichotomous traits (growth habit and plant type: 628 accessions), and 3 biotic stress traits. Genotype-environment interactions were examined for field locations to assess how plants responded to differences in day length, soil, and climate (altitude, temperature, rainfall)."
+data_curators: Scott Kalberer
+publication_doi: 10.1038/s41588-019-0546-0
+citation: "Wu J, Wang L, Fu J, Chen J, Wei S, Zhang S, Zhang J, Tang Y, Chen M, Zhu J, Lei L, Geng Q, Liu C, Wu L, Li X, Wang X, Wang Q, Wang Z, Xing S, Zhang H, Blair MW, Wang S. Resequencing of 683 common bean genotypes identifies yield component trait associations across a north-south cline. Nat Genet. 2020 Jan;52(1):118-125. doi: 10.1038/s41588-019-0546-0. Epub 2019 Dec 23. PMID: 31873299."
+publication_title: Resequencing of 683 common bean genotypes identifies yield component trait associations across a north-south cline.
+contributors: Wu J, Wang L, Fu J, Chen J, Wei S, Zhang S, Zhang J, Tang Y, Chen M, Zhu J, Lei L, Geng Q, Liu C, Wu L, Li X, Wang X, Wang Q, Wang Z, Xing S, Zhang H, Blair MW, Wang S.
+
