@@ -2,13 +2,13 @@
 identifier: PI27890_x_PI290136.gen.Mansur_Orf_1993
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf00211041"
+synopsis: "Determining the linkage of quantitative trait loci to RFLP markers using extreme phenotypes of recombinant inbreds of soybean (Glycine max L. Merr.)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI27890 x PI290136
-description: "QTL experiment reported in 10.1007/bf00211041"
+description: "Further information provided in 10.1007/bf00211041"
 publication_doi: 10.1007/bf00211041
 publication_title: "Determining the linkage of quantitative trait loci to RFLP markers using extreme phenotypes of recombinant inbreds of soybean (Glycine max L. Merr.)"
 contributors: "L. M. Mansur, J. Orf, K. G. Lark"

@@ -2,13 +2,13 @@
 identifier: Lineage69_x_Tucunare.gen.Leite_Pinheiro_2016
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.4238/gmr.15017685"
+synopsis: "QTL mapping of soybean oil content for marker-assisted selection in plant breeding program"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Lineage 69 x Tucunare
-description: "QTL experiment reported in 10.4238/gmr.15017685"
+description: "Further information provided in 10.4238/gmr.15017685"
 publication_doi: 10.4238/gmr.15017685
 publication_title: "QTL mapping of soybean oil content for marker-assisted selection in plant breeding program"
 contributors: "D.C. Leite, J.B. Pinheiro, J.B. Campos, A.O. Di Mauro, S.H. Unêda-Trevisoli"

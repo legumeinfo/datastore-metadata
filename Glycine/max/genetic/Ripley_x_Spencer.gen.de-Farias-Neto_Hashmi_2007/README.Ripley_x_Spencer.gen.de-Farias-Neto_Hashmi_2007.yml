@@ -2,13 +2,13 @@
 identifier: Ripley_x_Spencer.gen.de-Farias-Neto_Hashmi_2007
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s11032-006-9072-8"
+synopsis: "Mapping and confirmation of a new sudden death syndrome resistance QTL on linkage group D2 from the soybean genotypes PI 567374 and ‘Ripley’"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Ripley x Spencer
-description: "QTL experiment reported in 10.1007/s11032-006-9072-8"
+description: "Further information provided in 10.1007/s11032-006-9072-8"
 publication_doi: 10.1007/s11032-006-9072-8
 publication_title: "Mapping and confirmation of a new sudden death syndrome resistance QTL on linkage group D2 from the soybean genotypes PI 567374 and ‘Ripley’"
 contributors: "Austeclinio L. de Farias Neto, Rizwan Hashmi, Michael Schmidt, Shawn R. Carlson, Glen L. Hartman, Shuxian Li, Randall L. Nelson, Brian W. Diers"

@@ -2,13 +2,13 @@
 identifier: Conrad_x_OX760-6-1.gen.Weng_Yu_2007
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-007-9428-0"
+synopsis: "A quantitative trait locus influencing tolerance to Phytophthora root rot in the soybean cultivar ‘Conrad’"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Conrad x OX760-6-1
-description: "QTL experiment reported in 10.1007/s10681-007-9428-0"
+description: "Further information provided in 10.1007/s10681-007-9428-0"
 publication_doi: 10.1007/s10681-007-9428-0
 publication_title: "A quantitative trait locus influencing tolerance to Phytophthora root rot in the soybean cultivar ‘Conrad’"
 contributors: "Changren Weng, Kangfu Yu, Terry R. Anderson, Vaino Poysa"

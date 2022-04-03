@@ -2,13 +2,13 @@
 identifier: PI200538_x_CNS.gen.Tamulonis_Luzzi_1997
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s001220050610"
+synopsis: "DNA marker analysis of loci conferring resistance to peanut root-knot nematode in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI200538 x CNS
-description: "QTL experiment reported in 10.1007/s001220050610"
+description: "Further information provided in 10.1007/s001220050610"
 publication_doi: 10.1007/s001220050610
 publication_title: "DNA marker analysis of loci conferring resistance to peanut root-knot nematode in soybean"
 contributors: "J. P. Tamulonis, B. M. Luzzi, R. S. Hussey, W. A. Parrott, H. R. Boerma"

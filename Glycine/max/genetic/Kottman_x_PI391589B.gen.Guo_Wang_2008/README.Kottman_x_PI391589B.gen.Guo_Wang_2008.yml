@@ -2,13 +2,13 @@
 identifier: Kottman_x_PI391589B.gen.Guo_Wang_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2007.04.0198"
+synopsis: "Genetic Mapping of QTLs Underlying Partial Resistance to in Soybean PI 391589A and PI 391589B"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kottman x PI391589B
-description: "QTL experiment reported in 10.2135/cropsci2007.04.0198"
+description: "Further information provided in 10.2135/cropsci2007.04.0198"
 publication_doi: 10.2135/cropsci2007.04.0198
 publication_title: "Genetic Mapping of QTLs Underlying Partial Resistance to in Soybean PI 391589A and PI 391589B"
 contributors: "Xiaomei Guo, Dechun Wang, Stuart G. Gordon, Emily Helliwell, Trista Smith, Sue Ann Berry, Steven K. St. Martin, Anne E. Dorrance"

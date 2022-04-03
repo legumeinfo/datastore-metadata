@@ -2,13 +2,13 @@
 identifier: Pioneer9071_x_Line8902.gen.Palomeque_Liu_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-009-1227-7"
+synopsis: "Validation of mega-environment universal and specific QTL associated with seed yield and agronomic traits in soybeans"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
-  - "Pioneer 9071 x Line #8902"
-description: "QTL experiment reported in 10.1007/s00122-009-1227-7"
+  - Pioneer 9071 x Line #8902
+description: "Further information provided in 10.1007/s00122-009-1227-7"
 publication_doi: 10.1007/s00122-009-1227-7
 publication_title: "Validation of mega-environment universal and specific QTL associated with seed yield and agronomic traits in soybeans"
 contributors: "Laura Palomeque, Li-Jun Liu, Wenbin Li, Bradley R. Hedges, Elroy R. Cober, Mathew P. Smid, Lewis Lukens, Istvan Rajcan"

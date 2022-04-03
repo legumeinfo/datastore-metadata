@@ -2,13 +2,13 @@
 identifier: Hefeng25_x_Conrad.gen.Han_Li_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-012-1859-x"
+synopsis: "QTL analysis of soybean seed weight across multi-genetic backgrounds and environments"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Hefeng 25 x Conrad
-description: "QTL experiment reported in 10.1007/s00122-012-1859-x"
+description: "Further information provided in 10.1007/s00122-012-1859-x"
 publication_doi: 10.1007/s00122-012-1859-x
 publication_title: "QTL analysis of soybean seed weight across multi-genetic backgrounds and environments"
 contributors: "Yingpeng Han, Dongmei Li, Dan Zhu, Haiyan Li, Xiuping Li, Weili Teng, Wenbin Li"

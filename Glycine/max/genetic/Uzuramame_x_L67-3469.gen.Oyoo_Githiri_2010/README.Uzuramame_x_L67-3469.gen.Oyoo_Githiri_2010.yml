@@ -2,13 +2,13 @@
 identifier: Uzuramame_x_L67-3469.gen.Oyoo_Githiri_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1270/jsbbs.60.28"
+synopsis: "QTL analysis of net-like cracking in soybean seed coats"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Uzuramame x L67-3469
-description: "QTL experiment reported in 10.1270/jsbbs.60.28"
+description: "Further information provided in 10.1270/jsbbs.60.28"
 publication_doi: 10.1270/jsbbs.60.28
 publication_title: "QTL analysis of net-like cracking in soybean seed coats"
 contributors: "Maurice E. Oyoo, Stephen M. Githiri, Eduardo R. Benitez, Ryoji Takahashi"

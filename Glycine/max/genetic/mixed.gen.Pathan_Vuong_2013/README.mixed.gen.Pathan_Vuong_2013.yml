@@ -2,13 +2,13 @@
 identifier: mixed.gen.Pathan_Vuong_2013
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2012.03.0153"
+synopsis: "Genetic Mapping and Confirmation of Quantitative Trait Loci for Seed Protein and Oil Contents and Seed Weight in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - mixed
-description: "QTL experiment reported in 10.2135/cropsci2012.03.0153"
+description: "Further information provided in 10.2135/cropsci2012.03.0153"
 publication_doi: 10.2135/cropsci2012.03.0153
 publication_title: "Genetic Mapping and Confirmation of Quantitative Trait Loci for Seed Protein and Oil Contents and Seed Weight in Soybean"
 contributors: "Safiullah M. Pathan, Tri Vuong, Kerry Clark, Jeong-Dong Lee, J. Grover Shannon, Craig A. Roberts, Mark R. Ellersieck, Joseph W. Burton, Perry B. Cregan, David L. Hyten, Henry T. Nguyen, David A. Sleper"

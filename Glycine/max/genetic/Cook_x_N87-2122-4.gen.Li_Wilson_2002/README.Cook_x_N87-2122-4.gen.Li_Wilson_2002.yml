@@ -2,13 +2,13 @@
 identifier: Cook_x_N87-2122-4.gen.Li_Wilson_2002
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2002.0373"
+synopsis: "Molecular Mapping Genes Conditioning Reduced Palmitic Acid Content in N87-2122-4 Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Cook x N87-2122-4.
-description: "QTL experiment reported in 10.2135/cropsci2002.0373"
+description: "Further information provided in 10.2135/cropsci2002.0373"
 publication_doi: 10.2135/cropsci2002.0373
 publication_title: "Molecular Mapping Genes Conditioning Reduced Palmitic Acid Content in N87-2122-4 Soybean"
 contributors: "Zenglu Li, Richard F. Wilson, Warren E. Rayford, H. Roger Boerma"

@@ -2,13 +2,13 @@
 identifier: Jingdou23_x_ZDD2315.gen.Liang_Yu_2014
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-014-2366-z"
+synopsis: "Inheritance and QTL mapping of related root traits in soybean at the seedling stage"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Jingdou23 x ZDD2315
-description: "QTL experiment reported in 10.1007/s00122-014-2366-z"
+description: "Further information provided in 10.1007/s00122-014-2366-z"
 publication_doi: 10.1007/s00122-014-2366-z
 publication_title: "Inheritance and QTL mapping of related root traits in soybean at the seedling stage"
 contributors: "Huizhen Liang, Yongliang Yu, Hongqi Yang, Lanjie Xu, Wei Dong, Hua Du, Weiwen Cui, Haiyang Zhang"

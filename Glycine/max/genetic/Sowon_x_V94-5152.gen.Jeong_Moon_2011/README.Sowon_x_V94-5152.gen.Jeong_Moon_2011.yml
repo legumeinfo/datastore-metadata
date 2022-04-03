@@ -2,13 +2,13 @@
 identifier: Sowon_x_V94-5152.gen.Jeong_Moon_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-010-1492-5"
+synopsis: "Fine genetic mapping of the genomic region controlling leaflet shape and number of seeds per pod in the soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Sowon x V94-5152
-description: "QTL experiment reported in 10.1007/s00122-010-1492-5"
+description: "Further information provided in 10.1007/s00122-010-1492-5"
 publication_doi: 10.1007/s00122-010-1492-5
 publication_title: "Fine genetic mapping of the genomic region controlling leaflet shape and number of seeds per pod in the soybean"
 contributors: "Namhee Jeong, Jung-Kyung Moon, Hong Sig Kim, Chang-Gi Kim, Soon-Chun Jeong"

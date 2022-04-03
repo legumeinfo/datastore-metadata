@@ -2,13 +2,13 @@
 identifier: PI468916_x_A81356022.gen.Wang_Diers_2001
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/pl00002910"
+synopsis: "Loci underlying resistance to Race 3 of soybean cyst nematode in Glycine soja plant introduction 468916"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI468916 x A81356022
-description: "QTL experiment reported in 10.1007/pl00002910"
+description: "Further information provided in 10.1007/pl00002910"
 publication_doi: 10.1007/pl00002910
 publication_title: "Loci underlying resistance to Race 3 of soybean cyst nematode in Glycine soja plant introduction 468916"
 contributors: "D. Wang, B. W. Diers, P. R. Arelli, R. C. Shoemaker"

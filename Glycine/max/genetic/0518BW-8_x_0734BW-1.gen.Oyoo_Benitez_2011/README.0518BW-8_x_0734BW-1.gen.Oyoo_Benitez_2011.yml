@@ -2,15 +2,15 @@
 identifier: 0518BW-8_x_0734BW-1.gen.Oyoo_Benitez_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2010.02.0121"
+synopsis: "QTL Analysis of Soybean Seed Coat Discoloration Associated with <i>II TT</i> Genotype"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - 0518BW-8 x 0734BW-1
-description: "QTL experiment reported in 10.2135/cropsci2010.02.0121"
+description: "Further information provided in 10.2135/cropsci2010.02.0121"
 publication_doi: 10.2135/cropsci2010.02.0121
-publication_title: "QTL Analysis of Soybean Seed Coat Discoloration Associated with II TT Genotype"
+publication_title: "QTL Analysis of Soybean Seed Coat Discoloration Associated with <i>II TT</i> Genotype"
 contributors: "Maurice E. Oyoo, Eduardo R. Benitez, Hideki Kurosaki, Shizen Ohnishi, Tomoaki Miyoshi, Chikako Kiribuchi-Otobe, Akira Horigane, Ryoji Takahashi"
 public_access_level: public
 license: Open

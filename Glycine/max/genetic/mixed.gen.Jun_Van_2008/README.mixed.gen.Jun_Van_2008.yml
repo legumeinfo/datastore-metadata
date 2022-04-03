@@ -2,13 +2,13 @@
 identifier: mixed.gen.Jun_Van_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-007-9491-6"
+synopsis: "Association analysis using SSR markers to find QTL for seed protein content in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
-  - two subpopulations of 48 germplasm accessions each
-description: "QTL experiment reported in 10.1007/s10681-007-9491-6"
+  - Various x Various
+description: "Further information provided in 10.1007/s10681-007-9491-6"
 publication_doi: 10.1007/s10681-007-9491-6
 publication_title: "Association analysis using SSR markers to find QTL for seed protein content in soybean"
 contributors: "Tae-Hwan Jun, Kyujung Van, Moon Young Kim, Suk-Ha Lee, David R. Walker"

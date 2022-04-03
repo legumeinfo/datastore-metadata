@@ -2,13 +2,13 @@
 identifier: Benning_x_PI416937.gen.Abdel-Haleem_Carter_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-012-1876-9"
+synopsis: "Mapping of quantitative trait loci for canopy-wilting trait in soybean (Glycine max L. Merr)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Benning x PI416937
-description: "QTL experiment reported in 10.1007/s00122-012-1876-9"
+description: "Further information provided in 10.1007/s00122-012-1876-9"
 publication_doi: 10.1007/s00122-012-1876-9
 publication_title: "Mapping of quantitative trait loci for canopy-wilting trait in soybean (Glycine max L. Merr)"
 contributors: "Hussein Abdel-Haleem, Thomas E. Carter, Larry C. Purcell, C. Andy King, Landon L. Ries, Pengyin Chen, William Schapaugh, Thomas R. Sinclair, H. Roger Boerma"

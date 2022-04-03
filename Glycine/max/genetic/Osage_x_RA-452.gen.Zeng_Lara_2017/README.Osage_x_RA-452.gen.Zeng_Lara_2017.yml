@@ -2,13 +2,13 @@
 identifier: Osage_x_RA-452.gen.Zeng_Lara_2017
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2016.07.0600"
+synopsis: "Quantitative Trait Loci for Chloride Tolerance in ‘Osage’ Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Osage x RA-452
-description: "QTL experiment reported in 10.2135/cropsci2016.07.0600"
+description: "Further information provided in 10.2135/cropsci2016.07.0600"
 publication_doi: 10.2135/cropsci2016.07.0600
 publication_title: "Quantitative Trait Loci for Chloride Tolerance in ‘Osage’ Soybean"
 contributors: "Ailan Zeng, Laura Lara, Pengyin Chen, Xiaoyan Luan, Floyd Hancock, Ken Korth, Kristofer Brye, Andy Pereira, Chengjun Wu"

@@ -2,13 +2,13 @@
 identifier: Ippon-Sangoh_x_Fukuyutaka.gen.Komatsu_Hwang_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1270/jsbbs.61.646"
+synopsis: "Identification of QTL controlling post-flowering period in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Ippon-Sangoh x Fukuyutaka
-description: "QTL experiment reported in 10.1270/jsbbs.61.646"
+description: "Further information provided in 10.1270/jsbbs.61.646"
 publication_doi: 10.1270/jsbbs.61.646
 publication_title: "Identification of QTL controlling post-flowering period in soybean"
 contributors: "Kunihiko Komatsu, Tae-Young Hwang, Masakazu Takahashi, Takashi Sayama, Hideyuki Funatsuki, Nobuhiko Oki, Masao Ishimoto"

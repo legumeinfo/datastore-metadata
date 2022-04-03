@@ -2,13 +2,13 @@
 identifier: P9254_x_A97-770012.gen.Charlson_Bailey_2005
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2004.0510"
+synopsis: "Molecular Marker Satt481 is Associated with Iron‐Deficiency Chlorosis Resistance in a Soybean Breeding Population"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - P9254 x A97-770012
-description: "QTL experiment reported in 10.2135/cropsci2004.0510"
+description: "Further information provided in 10.2135/cropsci2004.0510"
 publication_doi: 10.2135/cropsci2004.0510
 publication_title: "Molecular Marker Satt481 is Associated with Iron‐Deficiency Chlorosis Resistance in a Soybean Breeding Population"
 contributors: "Dirk V. Charlson, Theodore B. Bailey, Silvia R. Cianzio, Randy C. Shoemaker"

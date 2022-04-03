@@ -2,13 +2,13 @@
 identifier: Hartwig_x_Y23.gen.Ferreira_Cervigni_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1590/s0100-204x2011000400012"
+synopsis: "QTLs for resistance to soybean cyst nematode, races 3, 9, and 14 in cultivar Hartwig"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Hartwig x Y23
-description: "QTL experiment reported in 10.1590/s0100-204x2011000400012"
+description: "Further information provided in 10.1590/s0100-204x2011000400012"
 publication_doi: 10.1590/s0100-204x2011000400012
 publication_title: "QTLs for resistance to soybean cyst nematode, races 3, 9, and 14 in cultivar Hartwig"
 contributors: "Marcia Flores da Silva Ferreira, Gerardo Domingo Lucio Cervigni, Adésio Ferreira, Ivan Schuster, Fernanda Abreu Santana, Waldir Dias Pereira, Everaldo Gonçalves de Barros, Maurilio Alves Moreira"

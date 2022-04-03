@@ -2,13 +2,13 @@
 identifier: ZDD09454_x_Yudou12.gen.Lu_Wen_2013
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-012-1990-8"
+synopsis: "Identification of the quantitative trait loci (QTL) underlying water soluble protein content in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - ZDD09454 x Yudou12
-description: "QTL experiment reported in 10.1007/s00122-012-1990-8"
+description: "Further information provided in 10.1007/s00122-012-1990-8"
 publication_doi: 10.1007/s00122-012-1990-8
 publication_title: "Identification of the quantitative trait loci (QTL) underlying water soluble protein content in soybean"
 contributors: "Weiguo Lu, Zixiang Wen, Haichao Li, Daohua Yuan, Jinying Li, Hui Zhang, Zhongwen Huang, Shiyou Cui, Weiijun Du"

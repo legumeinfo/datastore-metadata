@@ -2,13 +2,13 @@
 identifier: Hayahikari_x_Toyomusume.gen.Funatsuki_Ishimoto_2006
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1111/j.1439-0523.2006.01199.x"
+synopsis: "Simple sequence repeat markers linked to a major QTL controlling pod shattering in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Hayahikari x Toyomusume
-description: "QTL experiment reported in 10.1111/j.1439-0523.2006.01199.x"
+description: "Further information provided in 10.1111/j.1439-0523.2006.01199.x"
 publication_doi: 10.1111/j.1439-0523.2006.01199.x
 publication_title: "Simple sequence repeat markers linked to a major QTL controlling pod shattering in soybean"
 contributors: "H. Funatsuki, M. Ishimoto, H. Tsuji, K. Kawaguchi, M. Hajika, K. Fujino"

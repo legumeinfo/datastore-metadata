@@ -2,13 +2,13 @@
 identifier: KefengNo1_x_1138-2.gen.Gai_Wang_2007
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s11703-007-0001-3"
+synopsis: "A comparative study on segregation analysis and QTL mapping of quantitative traits in plants—with a case in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kefeng No. 1 x 1138-2
-description: "QTL experiment reported in 10.1007/s11703-007-0001-3"
+description: "Further information provided in 10.1007/s11703-007-0001-3"
 publication_doi: 10.1007/s11703-007-0001-3
 publication_title: "A comparative study on segregation analysis and QTL mapping of quantitative traits in plants—with a case in soybean"
 contributors: "Junyi Gai, Yongjun Wang, Xiaolei Wu, Shouyi Chen"

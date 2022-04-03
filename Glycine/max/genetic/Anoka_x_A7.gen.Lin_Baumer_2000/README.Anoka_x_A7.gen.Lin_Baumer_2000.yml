@@ -2,13 +2,13 @@
 identifier: Anoka_x_A7.gen.Lin_Baumer_2000
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1080/01904160009382153"
+synopsis: "Nutrient solution screening of Fe chlorosis resistance in soybean evaluated by molecular characterization"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Anoka x A7
-description: "QTL experiment reported in 10.1080/01904160009382153"
+description: "Further information provided in 10.1080/01904160009382153"
 publication_doi: 10.1080/01904160009382153
 publication_title: "Nutrient solution screening of Fe chlorosis resistance in soybean evaluated by molecular characterization"
 contributors: "Shun Fun Lin, James Baumer, Drew Ivers, Silvia Cianzio, Randy Shoemaker"

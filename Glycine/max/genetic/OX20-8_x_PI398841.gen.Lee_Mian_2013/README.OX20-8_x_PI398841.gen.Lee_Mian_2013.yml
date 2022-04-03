@@ -2,13 +2,13 @@
 identifier: OX20-8_x_PI398841.gen.Lee_Mian_2013
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-013-2040-x"
+synopsis: "Novel quantitative trait loci for partial resistance to Phytophthora sojae in soybean PI 398841"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - OX20-8 x PI 398841
-description: "QTL experiment reported in 10.1007/s00122-013-2040-x"
+description: "Further information provided in 10.1007/s00122-013-2040-x"
 publication_doi: 10.1007/s00122-013-2040-x
 publication_title: "Novel quantitative trait loci for partial resistance to Phytophthora sojae in soybean PI 398841"
 contributors: "Sungwoo Lee, M. A. Rouf Mian, Leah K. McHale, Hehe Wang, Asela J. Wijeratne, Clay H. Sneller, Anne E. Dorrance"

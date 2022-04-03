@@ -2,13 +2,13 @@
 identifier: Misuzudaizu_x_MoshidouGong503.gen.Yamanaka_Nagamura_2000
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1270/jsbbs.50.109"
+synopsis: "Quantitative Trait Locus Analysis of Flowering Time in Soybean Using a RFLP Linkage Map."
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Misuzudaizu x Moshidou Gong 503
-description: "QTL experiment reported in 10.1270/jsbbs.50.109"
+description: "Further information provided in 10.1270/jsbbs.50.109"
 publication_doi: 10.1270/jsbbs.50.109
 publication_title: "Quantitative Trait Locus Analysis of Flowering Time in Soybean Using a RFLP Linkage Map."
 contributors: "Naoki Yamanaka, Yoshiaki Nagamura, Yasutaka Tsubokura, Kimiko Yamamoto, Ryoji Takahashi, Hiroshi Kouchi, Masahiro Yano, Takuji Sasaki, Kyuya Harada"

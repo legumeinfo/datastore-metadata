@@ -2,13 +2,13 @@
 identifier: Minsoy_x_Archer.gen.Stombaugh_Orf_2004
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2004.2101"
+synopsis: "Quantitative Trait Loci Associated with Cell Wall Polysaccharides in Soybean Seed"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Minsoy x Archer
-description: "QTL experiment reported in 10.2135/cropsci2004.2101"
+description: "Further information provided in 10.2135/cropsci2004.2101"
 publication_doi: 10.2135/cropsci2004.2101
 publication_title: "Quantitative Trait Loci Associated with Cell Wall Polysaccharides in Soybean Seed"
 contributors: "S. K. Stombaugh, J. H. Orf, H. G. Jung, K. Chase, K. G. Lark, D. A. Somers"

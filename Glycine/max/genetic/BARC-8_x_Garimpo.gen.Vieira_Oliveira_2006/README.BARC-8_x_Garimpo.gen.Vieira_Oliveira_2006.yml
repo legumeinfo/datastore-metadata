@@ -2,13 +2,13 @@
 identifier: BARC-8_x_Garimpo.gen.Vieira_Oliveira_2006
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1590/s1677-04202006000200004"
+synopsis: "Use of the QTL approach to the study of soybean trait relationships in two populations of recombinant inbred lines at the F7 and F8 generations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - BARC-8 x Garimpo
-description: "QTL experiment reported in 10.1590/s1677-04202006000200004"
+description: "Further information provided in 10.1590/s1677-04202006000200004"
 publication_doi: 10.1590/s1677-04202006000200004
 publication_title: "Use of the QTL approach to the study of soybean trait relationships in two populations of recombinant inbred lines at the F7 and F8 generations"
 contributors: "Antonio José Dias Vieira, Dario Alves de Oliveira, Taís Cristina Bastos Soares, Ivan Schuster, Newton Deniz Piovesan, Carlos Alberto Martínez, Everaldo Gonçalves de Barros, Maurílio Alves Moreira"

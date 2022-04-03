@@ -2,13 +2,13 @@
 identifier: JindouNo6PI574484_x_197PI471938.gen.Hamwieh_Tuyen_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-011-0347-8"
+synopsis: "Identification and validation of a major QTL for salt tolerance in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Jin dou No. 6 (PI574484) x 197 (PI471938)
-description: "QTL experiment reported in 10.1007/s10681-011-0347-8"
+description: "Further information provided in 10.1007/s10681-011-0347-8"
 publication_doi: 10.1007/s10681-011-0347-8
 publication_title: "Identification and validation of a major QTL for salt tolerance in soybean"
 contributors: "A. Hamwieh, D. D. Tuyen, H. Cong, E. R. Benitez, R. Takahashi, D. H. Xu"

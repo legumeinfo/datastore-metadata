@@ -2,13 +2,13 @@
 identifier: Nasushirome_x_Enrei.gen.Oyoo_Benitez_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2009.08.0440"
+synopsis: "QTL Analysis of Seed Coat Cracking in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Nasushirome x Enrei
-description: "QTL experiment reported in 10.2135/cropsci2009.08.0440"
+description: "Further information provided in 10.2135/cropsci2009.08.0440"
 publication_doi: 10.2135/cropsci2009.08.0440
 publication_title: "QTL Analysis of Seed Coat Cracking in Soybean"
 contributors: "Maurice E. Oyoo, Eduardo R. Benitez, Hisakazu Matsumura, Ryoji Takahashi"

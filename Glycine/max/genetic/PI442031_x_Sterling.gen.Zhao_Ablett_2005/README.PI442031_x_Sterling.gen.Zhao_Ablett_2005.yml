@@ -2,13 +2,13 @@
 identifier: PI442031_x_Sterling.gen.Zhao_Ablett_2005
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2004.0560"
+synopsis: "Inheritance and Genetic Mapping of Resistance to Rhizoctonia Root and Hypocotyl Rot in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI442031 x Sterling
-description: "QTL experiment reported in 10.2135/cropsci2004.0560"
+description: "Further information provided in 10.2135/cropsci2004.0560"
 publication_doi: 10.2135/cropsci2004.0560
 publication_title: "Inheritance and Genetic Mapping of Resistance to Rhizoctonia Root and Hypocotyl Rot in Soybean"
 contributors: "G. Zhao, G. R. Ablett, T. R. Anderson, I. Rajcan, A. W. Schaafsma"

@@ -2,13 +2,13 @@
 identifier: PI417479_x_Williams82.gen.Berger_Minor_1999
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1999.0011183x003900030031x"
+synopsis: "An RFLP Marker Associated with Resistance to Phomopsis Seed Decay in Soybean PI 417479"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI417479 x Williams82
-description: "QTL experiment reported in 10.2135/cropsci1999.0011183x003900030031x"
+description: "Further information provided in 10.2135/cropsci1999.0011183x003900030031x"
 publication_doi: 10.2135/cropsci1999.0011183x003900030031x
 publication_title: "An RFLP Marker Associated with Resistance to Phomopsis Seed Decay in Soybean PI 417479"
 contributors: "G. U. Berger, H. C. Minor"

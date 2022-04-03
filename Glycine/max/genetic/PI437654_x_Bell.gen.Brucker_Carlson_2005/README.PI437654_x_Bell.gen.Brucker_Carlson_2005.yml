@@ -2,13 +2,13 @@
 identifier: PI437654_x_Bell.gen.Brucker_Carlson_2005
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-005-1970-3"
+synopsis: "Rhg1 alleles from soybean PI 437654 and PI 88788 respond differentially to isolates of Heterodera glycines in the greenhouse"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI 437654 x Bell
-description: "QTL experiment reported in 10.1007/s00122-005-1970-3"
+description: "Further information provided in 10.1007/s00122-005-1970-3"
 publication_doi: 10.1007/s00122-005-1970-3
 publication_title: "Rhg1 alleles from soybean PI 437654 and PI 88788 respond differentially to isolates of Heterodera glycines in the greenhouse"
 contributors: "Eric Brucker, Shawn Carlson, Evan Wright, Terry Niblack, Brian Diers"

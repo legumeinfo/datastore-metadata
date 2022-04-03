@@ -2,13 +2,13 @@
 identifier: Essex_x_Forrest.gen.Chang_Doubler_1997
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700030044x"
+synopsis: "Association of Loci Underlying Field Resistance to Soybean Sudden Death Syndrome (SDS) and Cyst Nematode (SCN) Race 3"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Essex x Forrest
-description: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700030044x"
+description: "Further information provided in 10.2135/cropsci1997.0011183x003700030044x"
 publication_doi: 10.2135/cropsci1997.0011183x003700030044x
 publication_title: "Association of Loci Underlying Field Resistance to Soybean Sudden Death Syndrome (SDS) and Cyst Nematode (SCN) Race 3"
 contributors: "S. J. C. Chang, T. W. Doubler, V. Y. Kilo, J. Abu‐Thredeih, R. Prabhu, V. Freire, R. Suttner, J. Klein, M. E. Schmidt, P. T. Gibson, D. A. Lightfoot"

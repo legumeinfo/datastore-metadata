@@ -2,13 +2,13 @@
 identifier: Magellan_x_PI438489B.gen.Vuong_Sleper_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-011-0430-1"
+synopsis: "Confirmation of quantitative trait loci for resistance to multiple-HG types of soybean cyst nematode (Heterodera glycines Ichinohe)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Magellan x PI438489B
-description: "QTL experiment reported in 10.1007/s10681-011-0430-1"
+description: "Further information provided in 10.1007/s10681-011-0430-1"
 publication_doi: 10.1007/s10681-011-0430-1
 publication_title: "Confirmation of quantitative trait loci for resistance to multiple-HG types of soybean cyst nematode (Heterodera glycines Ichinohe)"
 contributors: "T. D. Vuong, D. A. Sleper, J. G. Shannon, X. Wu, H. T. Nguyen"

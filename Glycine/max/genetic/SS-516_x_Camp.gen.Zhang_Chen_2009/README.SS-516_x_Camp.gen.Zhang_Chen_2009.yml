@@ -2,13 +2,13 @@
 identifier: SS-516_x_Camp.gen.Zhang_Chen_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/jhered/esn096"
+synopsis: "Putative Quantitative Trait Loci Associated with Calcium Content in Soybean Seed"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - SS-516 x Camp
-description: "QTL experiment reported in 10.1093/jhered/esn096"
+description: "Further information provided in 10.1093/jhered/esn096"
 publication_doi: 10.1093/jhered/esn096
 publication_title: "Putative Quantitative Trait Loci Associated with Calcium Content in Soybean Seed"
 contributors: "B. Zhang, P. Chen, A. Shi, A. Hou, T. Ishibashi, D. Wang"

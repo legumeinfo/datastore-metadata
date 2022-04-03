@@ -2,13 +2,13 @@
 identifier: Noir1_x_Minsoy.gen.Mansur_Orf_1996
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1996.0011183x003600050042x"
+synopsis: "Genetic Mapping of Agronomic Traits Using Recombinant Inbred Lines of Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Noir 1 x Minsoy
-description: "QTL experiment reported in 10.2135/cropsci1996.0011183x003600050042x"
+description: "Further information provided in 10.2135/cropsci1996.0011183x003600050042x"
 publication_doi: 10.2135/cropsci1996.0011183x003600050042x
 publication_title: "Genetic Mapping of Agronomic Traits Using Recombinant Inbred Lines of Soybean"
 contributors: "L. M. Mansur, J. H. Orf, K. Chase, T. Jarvik, P. B. Cregan, K. G. Lark"

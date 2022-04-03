@@ -2,13 +2,13 @@
 identifier: Toyoharuka_x_Toyomusume.gen.Ohnishi_Funatsuki_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-010-1475-6"
+synopsis: "Variation of GmIRCHS (Glycine max inverted-repeat CHS pseudogene) is related to tolerance of low temperature-induced seed coat discoloration in yellow soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Toyoharuka x Toyomusume
-description: "QTL experiment reported in 10.1007/s00122-010-1475-6"
+description: "Further information provided in 10.1007/s00122-010-1475-6"
 publication_doi: 10.1007/s00122-010-1475-6
 publication_title: "Variation of GmIRCHS (Glycine max inverted-repeat CHS pseudogene) is related to tolerance of low temperature-induced seed coat discoloration in yellow soybean"
 contributors: "Shizen Ohnishi, Hideyuki Funatsuki, Atsushi Kasai, Tasuku Kurauchi, Naoya Yamaguchi, Toru Takeuchi, Hiroyuki Yamazaki, Hideki Kurosaki, Shigehisa Shirai, Tomoaki Miyoshi, Harukuni Horita, Mineo Senda"

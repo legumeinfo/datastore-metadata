@@ -2,13 +2,13 @@
 identifier: Conrad_x_Sloan.gen.Wang_St.-Martin_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2011.06.0336"
+synopsis: "Comparison of Phenotypic Methods and Yield Contributions of Quantitative Trait Loci for Partial Resistance toPhytophthora sojaein Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Conrad x Sloan
-description: "QTL experiment reported in 10.2135/cropsci2011.06.0336"
+description: "Further information provided in 10.2135/cropsci2011.06.0336"
 publication_doi: 10.2135/cropsci2011.06.0336
 publication_title: "Comparison of Phenotypic Methods and Yield Contributions of Quantitative Trait Loci for Partial Resistance toPhytophthora sojaein Soybean"
 contributors: "Hehe Wang, Steven K. St. Martin, Anne E. Dorrance"

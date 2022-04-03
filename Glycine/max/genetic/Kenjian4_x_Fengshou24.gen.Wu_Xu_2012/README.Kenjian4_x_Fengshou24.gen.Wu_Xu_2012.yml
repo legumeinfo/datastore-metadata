@@ -2,13 +2,13 @@
 identifier: Kenjian4_x_Fengshou24.gen.Wu_Xu_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1109/icbeb.2012.269"
+synopsis: "Mapping QTLs for Phosphorus-deficiency Tolerance in Soybean at Seedling Stage"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kenjian4 x Fengshou24
-description: "QTL experiment reported in 10.1109/icbeb.2012.269"
+description: "Further information provided in 10.1109/icbeb.2012.269"
 publication_doi: 10.1109/icbeb.2012.269
 publication_title: "Mapping QTLs for Phosphorus-deficiency Tolerance in Soybean at Seedling Stage"
 contributors: "Jun-jiang Wu, Peng-fei Xu, Li-jun Liu, Shuzhen Zhang, Jin-sheng Wang, Wei-gang Lin, Peng Zhong, Lai Wei, De-jian Dong"

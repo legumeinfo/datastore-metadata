@@ -2,13 +2,13 @@
 identifier: S19-90_x_Williams82.gen.Kim_Diers_2000
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2000.40155x"
+synopsis: "Inheritance of Partial Resistance to Sclerotinia Stem Rot in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - S19-90 x Williams82
-description: "QTL experiment reported in 10.2135/cropsci2000.40155x"
+description: "Further information provided in 10.2135/cropsci2000.40155x"
 publication_doi: 10.2135/cropsci2000.40155x
 publication_title: "Inheritance of Partial Resistance to Sclerotinia Stem Rot in Soybean"
 contributors: "H. S. Kim, B. W. Diers"

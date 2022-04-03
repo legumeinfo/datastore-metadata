@@ -2,13 +2,13 @@
 identifier: mixed.gen.Qi_Wu_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-011-0386-1"
+synopsis: "Soybean oil content QTL mapping and integrating with meta-analysis method for mining genes"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - mixed
-description: "QTL experiment reported in 10.1007/s10681-011-0386-1"
+description: "Further information provided in 10.1007/s10681-011-0386-1"
 publication_doi: 10.1007/s10681-011-0386-1
 publication_title: "Soybean oil content QTL mapping and integrating with meta-analysis method for mining genes"
 contributors: "Zhao-ming Qi, Qiong Wu, Xue Han, Ya-nan Sun, Xiang-yu Du, Chun-yan Liu, Hong-wei Jiang, Guo-hua Hu, Qing-shan Chen"

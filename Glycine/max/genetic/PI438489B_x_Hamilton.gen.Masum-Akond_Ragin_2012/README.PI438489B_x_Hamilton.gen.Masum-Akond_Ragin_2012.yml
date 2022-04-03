@@ -2,13 +2,13 @@
 identifier: PI438489B_x_Hamilton.gen.Masum-Akond_Ragin_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.5539/jas.v4n11p16"
+synopsis: "Quantitative Trait Loci Associated with Moisture, Protein, and Oil Content in Soybean [Glycine max (L.) Merr.]"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI 438489B x Hamilton
-description: "QTL experiment reported in 10.5539/jas.v4n11p16"
+description: "Further information provided in 10.5539/jas.v4n11p16"
 publication_doi: 10.5539/jas.v4n11p16
 publication_title: "Quantitative Trait Loci Associated with Moisture, Protein, and Oil Content in Soybean [Glycine max (L.) Merr.]"
 contributors: "ASM G. Masum Akond, Bobby Ragin, Richard Bazzelle, Stella K. Kantartzi, Khalid Meksem, My Abdelmajid Kassem"

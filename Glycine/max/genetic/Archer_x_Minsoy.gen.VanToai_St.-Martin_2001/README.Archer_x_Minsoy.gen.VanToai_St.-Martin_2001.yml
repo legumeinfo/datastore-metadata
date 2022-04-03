@@ -2,13 +2,13 @@
 identifier: Archer_x_Minsoy.gen.VanToai_St.-Martin_2001
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2001.4141247x"
+synopsis: "Identification of a QTL Associated with Tolerance of Soybean to Soil Waterlogging"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Archer x Minsoy
-description: "QTL experiment reported in 10.2135/cropsci2001.4141247x"
+description: "Further information provided in 10.2135/cropsci2001.4141247x"
 publication_doi: 10.2135/cropsci2001.4141247x
 publication_title: "Identification of a QTL Associated with Tolerance of Soybean to Soil Waterlogging"
 contributors: "Tara T. VanToai, Steven K. St. Martin, Kevin Chase, Getachew Boru, Virginia Schnipke, A. Fred Schmitthenner, Karl G. Lark"

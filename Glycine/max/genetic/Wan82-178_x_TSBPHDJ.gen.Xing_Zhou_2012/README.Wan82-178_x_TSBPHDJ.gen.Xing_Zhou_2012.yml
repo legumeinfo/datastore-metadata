@@ -2,13 +2,13 @@
 identifier: Wan82-178_x_TSBPHDJ.gen.Xing_Zhou_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-012-1878-7"
+synopsis: "Genetic components and major QTL confer resistance to bean pyralid (Lamprosema indicata Fabricius) under multiple environments in four RIL populations of soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Wan 82-178 x TSBPHDJ
-description: "QTL experiment reported in 10.1007/s00122-012-1878-7"
+description: "Further information provided in 10.1007/s00122-012-1878-7"
 publication_doi: 10.1007/s00122-012-1878-7
 publication_title: "Genetic components and major QTL confer resistance to bean pyralid (Lamprosema indicata Fabricius) under multiple environments in four RIL populations of soybean"
 contributors: "Guangnan Xing, Bin Zhou, Yufeng Wang, Tuanjie Zhao, Deyue Yu, Shouyi Chen, Junyi Gai"

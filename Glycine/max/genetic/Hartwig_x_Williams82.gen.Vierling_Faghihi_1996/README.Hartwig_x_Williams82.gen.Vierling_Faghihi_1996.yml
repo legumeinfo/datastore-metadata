@@ -2,13 +2,13 @@
 identifier: Hartwig_x_Williams82.gen.Vierling_Faghihi_1996
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf00222955"
+synopsis: "Association of RFLP markers with loci conferring broad-based resistance to the soybean cyst nematode (Heterodera glycines)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Hartwig x Williams 82
-description: "QTL experiment reported in 10.1007/bf00222955"
+description: "Further information provided in 10.1007/bf00222955"
 publication_doi: 10.1007/bf00222955
 publication_title: "Association of RFLP markers with loci conferring broad-based resistance to the soybean cyst nematode (Heterodera glycines)"
 contributors: "R. A. Vierling, J. Faghihi, V. R. Ferris, J. M. Ferris"

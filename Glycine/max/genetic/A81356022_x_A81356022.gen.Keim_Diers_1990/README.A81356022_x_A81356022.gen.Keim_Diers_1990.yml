@@ -2,13 +2,13 @@
 identifier: A81356022_x_A81356022.gen.Keim_Diers_1990
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/genetics/126.3.735"
+synopsis: "RFLP mapping in soybean: association between marker loci and variation in quantitative traits."
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - A81356022 x A81356022
-description: "QTL experiment reported in 10.1093/genetics/126.3.735"
+description: "Further information provided in 10.1093/genetics/126.3.735"
 publication_doi: 10.1093/genetics/126.3.735
 publication_title: "RFLP mapping in soybean: association between marker loci and variation in quantitative traits."
 contributors: "P Keim, B W Diers, T C Olson, R C Shoemaker"

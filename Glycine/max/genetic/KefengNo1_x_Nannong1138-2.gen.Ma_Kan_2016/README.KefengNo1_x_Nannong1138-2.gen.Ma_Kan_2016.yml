@@ -2,13 +2,13 @@
 identifier: KefengNo1_x_Nannong1138-2.gen.Ma_Kan_2016
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1021/acs.jafc.6b00167"
+synopsis: "Quantitative Trait Loci (QTL) Mapping for Glycinin and β-Conglycinin Contents in Soybean (Glycine max L. Merr.)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kefeng No. 1 x Nannong 1138-2
-description: "QTL experiment reported in 10.1021/acs.jafc.6b00167"
+description: "Further information provided in 10.1021/acs.jafc.6b00167"
 publication_doi: 10.1021/acs.jafc.6b00167
 publication_title: "Quantitative Trait Loci (QTL) Mapping for Glycinin and β-Conglycinin Contents in Soybean (Glycine max L. Merr.)"
 contributors: "Yujie Ma, Guizhen Kan, Xinnan Zhang, Yongli Wang, Wei Zhang, Hongyang Du, Deyue Yu"

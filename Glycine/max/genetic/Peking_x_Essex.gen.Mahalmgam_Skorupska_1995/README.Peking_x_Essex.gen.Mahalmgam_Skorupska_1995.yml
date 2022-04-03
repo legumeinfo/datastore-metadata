@@ -2,13 +2,13 @@
 identifier: Peking_x_Essex.gen.Mahalmgam_Skorupska_1995
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1270/jsbbs1951.45.435"
+synopsis: "DNA Markers for Resistance to Heterodera glycines I. Race 3 in Soybean Cultivar Peking."
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Peking x Essex
-description: "QTL experiment reported in 10.1270/jsbbs1951.45.435"
+description: "Further information provided in 10.1270/jsbbs1951.45.435"
 publication_doi: 10.1270/jsbbs1951.45.435
 publication_title: "DNA Markers for Resistance to Heterodera glycines I. Race 3 in Soybean Cultivar Peking."
 contributors: "R Mahalmgam, H. T. Skorupska"

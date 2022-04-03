@@ -2,13 +2,13 @@
 identifier: N87-984-16_x_TN93-99.gen.Panthee_Pantalone_2005
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2004.0720"
+synopsis: "Quantitative Trait Loci for Seed Protein and Oil Concentration, and Seed Size in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - N87-984-16 x TN93-99
-description: "QTL experiment reported in 10.2135/cropsci2004.0720"
+description: "Further information provided in 10.2135/cropsci2004.0720"
 publication_doi: 10.2135/cropsci2004.0720
 publication_title: "Quantitative Trait Loci for Seed Protein and Oil Concentration, and Seed Size in Soybean"
 contributors: "D. R. Panthee, V. R. Pantalone, D. R. West, A. M. Saxton, C. E. Sams"

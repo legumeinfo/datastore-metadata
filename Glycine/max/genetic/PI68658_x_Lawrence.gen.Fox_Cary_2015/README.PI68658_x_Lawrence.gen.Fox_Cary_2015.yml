@@ -2,13 +2,13 @@
 identifier: PI68658_x_Lawrence.gen.Fox_Cary_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2014.10.0688"
+synopsis: "Confirmation of a Seed Yield QTL in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI 68658 x Lawrence
-description: "QTL experiment reported in 10.2135/cropsci2014.10.0688"
+description: "Further information provided in 10.2135/cropsci2014.10.0688"
 publication_doi: 10.2135/cropsci2014.10.0688
 publication_title: "Confirmation of a Seed Yield QTL in Soybean"
 contributors: "Carolyn M. Fox, Troy R. Cary, Randall L. Nelson, Brian W. Diers"

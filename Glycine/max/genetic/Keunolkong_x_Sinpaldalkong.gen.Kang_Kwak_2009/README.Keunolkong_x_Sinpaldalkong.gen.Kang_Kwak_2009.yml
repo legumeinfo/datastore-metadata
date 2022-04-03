@@ -2,13 +2,13 @@
 identifier: Keunolkong_x_Sinpaldalkong.gen.Kang_Kwak_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-008-9810-6"
+synopsis: "Population-specific QTLs and their different epistatic interactions for pod dehiscence in soybean [Glycine max (L.) Merr.]"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Keunolkong x Sinpaldalkong
-description: "QTL experiment reported in 10.1007/s10681-008-9810-6"
+description: "Further information provided in 10.1007/s10681-008-9810-6"
 publication_doi: 10.1007/s10681-008-9810-6
 publication_title: "Population-specific QTLs and their different epistatic interactions for pod dehiscence in soybean [Glycine max (L.) Merr.]"
 contributors: "Sung-Taeg Kang, Myounghai Kwak, Hyeun-Kyeung Kim, Myoung-Gun Choung, Won-Young Han, In-Youl Baek, Moon Young Kim, Kyujung Van, Suk-Ha Lee"

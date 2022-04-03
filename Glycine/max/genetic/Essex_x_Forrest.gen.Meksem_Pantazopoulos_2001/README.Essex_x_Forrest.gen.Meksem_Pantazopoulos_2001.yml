@@ -2,13 +2,13 @@
 identifier: Essex_x_Forrest.gen.Meksem_Pantazopoulos_2001
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s001220100597"
+synopsis: "’Forrest’ resistance to the soybean cyst nematode is bigenic: saturation mapping of the Rhg1and Rhg4 loci"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Essex x Forrest
-description: "QTL experiment reported in 10.1007/s001220100597"
+description: "Further information provided in 10.1007/s001220100597"
 publication_doi: 10.1007/s001220100597
 publication_title: "’Forrest’ resistance to the soybean cyst nematode is bigenic: saturation mapping of the Rhg1and Rhg4 loci"
 contributors: "K. Meksem, P. Pantazopoulos, V.N. Njiti, L.D. Hyten, P. R. Arelli, D. A. Lightfoot"

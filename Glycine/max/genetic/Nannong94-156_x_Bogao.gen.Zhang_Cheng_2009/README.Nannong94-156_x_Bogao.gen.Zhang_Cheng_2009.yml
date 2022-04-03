@@ -2,13 +2,13 @@
 identifier: Nannong94-156_x_Bogao.gen.Zhang_Cheng_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-009-9880-0"
+synopsis: "Detection of quantitative trait loci for phosphorus deficiency tolerance at soybean seedling stage"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Nannong94-156 x Bogao
-description: "QTL experiment reported in 10.1007/s10681-009-9880-0"
+description: "Further information provided in 10.1007/s10681-009-9880-0"
 publication_doi: 10.1007/s10681-009-9880-0
 publication_title: "Detection of quantitative trait loci for phosphorus deficiency tolerance at soybean seedling stage"
 contributors: "Dan Zhang, Hao Cheng, Leiyue Geng, Guizhen Kan, Shiyou Cui, Qingchang Meng, Junyi Gai, Deyue Yu"

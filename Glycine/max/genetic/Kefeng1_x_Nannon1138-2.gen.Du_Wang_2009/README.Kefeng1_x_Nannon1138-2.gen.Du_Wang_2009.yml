@@ -2,13 +2,13 @@
 identifier: Kefeng1_x_Nannon1138-2.gen.Du_Wang_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1016/s1673-8527(08)60165-4"
+synopsis: "Mapping QTLs for seed yield and drought susceptibility index in soybean (Glycine max L.) across different environments"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kefeng 1 x Nannon 1138-2
-description: "QTL experiment reported in 10.1016/s1673-8527(08)60165-4"
+description: "Further information provided in 10.1016/s1673-8527(08)60165-4"
 publication_doi: 10.1016/s1673-8527(08)60165-4
 publication_title: "Mapping QTLs for seed yield and drought susceptibility index in soybean (Glycine max L.) across different environments"
 contributors: "Weijun Du, Min Wang, Sanxiong Fu, Deyue Yu"

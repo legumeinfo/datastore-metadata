@@ -2,13 +2,13 @@
 identifier: X3145-B-B-3-15_x_ACBrant.gen.Pandurangan_Pajak_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/jxb/ers039"
+synopsis: "Relationship between asparagine metabolism and protein concentration in soybean seed"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - X3145-B-B-3-15 x AC Brant
-description: "QTL experiment reported in 10.1093/jxb/ers039"
+description: "Further information provided in 10.1093/jxb/ers039"
 publication_doi: 10.1093/jxb/ers039
 publication_title: "Relationship between asparagine metabolism and protein concentration in soybean seed"
 contributors: "Sudhakar Pandurangan, Agnieszka Pajak, Stephen J. Molnar, Elroy R. Cober, Sangeeta Dhaubhadel, Cinta Hernández-Sebastià, Werner M. Kaiser, Randall L. Nelson, Steven C. Huber, Frédéric Marsolais"

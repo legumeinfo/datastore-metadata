@@ -2,13 +2,13 @@
 identifier: KS4303sp_x_PI407818B.gen.Orazaly_Chen_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2014.03.0219"
+synopsis: "Identification and Confirmation of Quantitative Trait Loci Associated with Soybean Seed Hardness"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - KS4303sp x PI 407818 B
-description: "QTL experiment reported in 10.2135/cropsci2014.03.0219"
+description: "Further information provided in 10.2135/cropsci2014.03.0219"
 publication_doi: 10.2135/cropsci2014.03.0219
 publication_title: "Identification and Confirmation of Quantitative Trait Loci Associated with Soybean Seed Hardness"
 contributors: "Moldir Orazaly, Pengyin Chen, Ailan Zeng, Bo Zhang"

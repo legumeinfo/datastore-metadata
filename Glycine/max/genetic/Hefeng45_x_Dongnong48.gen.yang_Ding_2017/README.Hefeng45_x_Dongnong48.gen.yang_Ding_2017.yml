@@ -2,13 +2,13 @@
 identifier: Hefeng45_x_Dongnong48.gen.yang_Ding_2017
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1139/cjps-2016-0270"
+synopsis: "Identification of QTL underlying soybean agglutinin content in soybean seeds and analysis for epistatic effects among multiple genetic backgrounds and environments"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Hefeng 45 x Dongnong 48
-description: "QTL experiment reported in 10.1139/cjps-2016-0270"
+description: "Further information provided in 10.1139/cjps-2016-0270"
 publication_doi: 10.1139/cjps-2016-0270
 publication_title: "Identification of QTL underlying soybean agglutinin content in soybean seeds and analysis for epistatic effects among multiple genetic backgrounds and environments"
 contributors: "ming-liang yang, Jun-jie Ding, Hai-yan Li, Mei-nan Sui, Ji-an Wang"

@@ -2,13 +2,13 @@
 identifier: Jidou12_x_JiNF58.gen.Shi_Yan_2018
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1186/s13104-018-3202-3"
+synopsis: "Identification of a major quantitative trait locus underlying salt tolerance in ‘Jidou 12’ soybean cultivar"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Jidou 12 x Ji NF 58
-description: "QTL experiment reported in 10.1186/s13104-018-3202-3"
+description: "Further information provided in 10.1186/s13104-018-3202-3"
 publication_doi: 10.1186/s13104-018-3202-3
 publication_title: "Identification of a major quantitative trait locus underlying salt tolerance in ‘Jidou 12’ soybean cultivar"
 contributors: "XiaoLei Shi, Long Yan, ChunYan Yang, WeiWen Yan, David Octor Moseley, Tao Wang, BingQiang Liu, Rui Di, PengYin Chen, MengChen Zhang"

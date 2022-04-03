@@ -2,13 +2,13 @@
 identifier: Toyomusume_x_Harosoy.gen.Yamada_Funatsuki_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1270/jsbbs.59.435"
+synopsis: "A major QTL, qPDH1, is commonly involved in shattering resistance of soybean cultivars"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Toyomusume x Harosoy
-description: "QTL experiment reported in 10.1270/jsbbs.59.435"
+description: "Further information provided in 10.1270/jsbbs.59.435"
 publication_doi: 10.1270/jsbbs.59.435
 publication_title: "A major QTL, qPDH1, is commonly involved in shattering resistance of soybean cultivars"
 contributors: "Tetsuya Yamada, Hideyuki Funatsuki, Seiji Hagihara, Shohei Fujita, Yoshinori Tanaka, Hiroyuki Tsuji, Masao Ishimoto, Kaien Fujino, Makita Hajika"

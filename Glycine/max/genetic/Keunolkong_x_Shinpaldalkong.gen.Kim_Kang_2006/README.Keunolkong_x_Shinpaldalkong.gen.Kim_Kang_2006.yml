@@ -2,13 +2,13 @@
 identifier: Keunolkong_x_Shinpaldalkong.gen.Kim_Kang_2006
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10265-006-0004-9"
+synopsis: "Mapping of putative quantitative trait loci controlling the total oligosaccharide and sucrose content of Glycine max seeds"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Keunolkong x Shinpaldalkong
-description: "QTL experiment reported in 10.1007/s10265-006-0004-9"
+description: "Further information provided in 10.1007/s10265-006-0004-9"
 publication_doi: 10.1007/s10265-006-0004-9
 publication_title: "Mapping of putative quantitative trait loci controlling the total oligosaccharide and sucrose content of Glycine max seeds"
 contributors: "Hyeun Kyeung Kim, Sung Taeg Kang, Ki Won Oh"

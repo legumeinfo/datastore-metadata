@@ -2,13 +2,13 @@
 identifier: Young_x_PI416937.gen.Fasoula_Harris_2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2003.1754"
+synopsis: "Identification, Mapping, and Confirmation of a Soybean Gene for Bud Blight Resistance"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI416937
-description: "QTL experiment reported in 10.2135/cropsci2003.1754"
+description: "Further information provided in 10.2135/cropsci2003.1754"
 publication_doi: 10.2135/cropsci2003.1754
 publication_title: "Identification, Mapping, and Confirmation of a Soybean Gene for Bud Blight Resistance"
 contributors: "Vasilia A. Fasoula, Donna K. Harris, Matthew A. Bailey, Daniel V. Phillips, H. Roger Boerma"

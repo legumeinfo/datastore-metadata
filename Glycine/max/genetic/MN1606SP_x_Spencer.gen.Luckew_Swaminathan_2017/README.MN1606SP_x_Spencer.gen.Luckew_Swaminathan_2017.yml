@@ -2,13 +2,13 @@
 identifier: MN1606SP_x_Spencer.gen.Luckew_Swaminathan_2017
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-017-2947-8"
+synopsis: "‘MN1606SP’ by ‘Spencer’ filial soybean population reveals novel quantitative trait loci and interactions among loci conditioning SDS resistance"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - MN1606SP x Spencer
-description: "QTL experiment reported in 10.1007/s00122-017-2947-8"
+description: "Further information provided in 10.1007/s00122-017-2947-8"
 publication_doi: 10.1007/s00122-017-2947-8
 publication_title: "‘MN1606SP’ by ‘Spencer’ filial soybean population reveals novel quantitative trait loci and interactions among loci conditioning SDS resistance"
 contributors: "Alexander S. Luckew, Sivakumar Swaminathan, Leonor F. Leandro, James H. Orf, Silvia R. Cianzio"

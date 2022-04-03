@@ -2,13 +2,13 @@
 identifier: SS-516_x_Camp.gen.Zhang_Chen_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2007.10.0544"
+synopsis: "Quantitative Trait Loci Mapping of Seed Hardness in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - SS-516 x Camp
-description: "QTL experiment reported in 10.2135/cropsci2007.10.0544"
+description: "Further information provided in 10.2135/cropsci2007.10.0544"
 publication_doi: 10.2135/cropsci2007.10.0544
 publication_title: "Quantitative Trait Loci Mapping of Seed Hardness in Soybean"
 contributors: "Bo Zhang, Pengyin Chen, Charles Y. Chen, Dechun Wang, Ainong Shi, Anfu Hou, Tetsuaki Ishibashi"

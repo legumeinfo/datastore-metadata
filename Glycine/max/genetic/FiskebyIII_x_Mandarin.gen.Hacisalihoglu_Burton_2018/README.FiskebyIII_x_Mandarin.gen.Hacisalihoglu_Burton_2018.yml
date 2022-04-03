@@ -2,13 +2,13 @@
 identifier: FiskebyIII_x_Mandarin.gen.Hacisalihoglu_Burton_2018
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1111/jipb.12612"
+synopsis: "Quantitative trait loci associated with soybean seed weight and composition under different phosphorus levels"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Fiskeby III x Mandarin
-description: "QTL experiment reported in 10.1111/jipb.12612"
+description: "Further information provided in 10.1111/jipb.12612"
 publication_doi: 10.1111/jipb.12612
 publication_title: "Quantitative trait loci associated with soybean seed weight and composition under different phosphorus levels"
 contributors: "Gokhan Hacisalihoglu, Amy L. Burton, Jeffery L. Gustin, Selim Eker, Safiye Asikli, Elif Hakli Heybet, Levent Ozturk, Ismail Cakmak, Atilla Yazici, Kent O. Burkey, James Orf, A. Mark Settles"

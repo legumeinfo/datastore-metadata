@@ -2,13 +2,13 @@
 identifier: Wilis_x_Toyokomachi.gen.Uchibori_Sasaki_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s11032-008-9238-7"
+synopsis: "QTL analysis for resistance to Soybean dwarf virus in Indonesian soybean cultivar Wilis"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Wilis x Toyokomachi
-description: "QTL experiment reported in 10.1007/s11032-008-9238-7"
+description: "Further information provided in 10.1007/s11032-008-9238-7"
 publication_doi: 10.1007/s11032-008-9238-7
 publication_title: "QTL analysis for resistance to Soybean dwarf virus in Indonesian soybean cultivar Wilis"
 contributors: "Atsushi Uchibori, Jun Sasaki, Toru Takeuchi, Motokazu Kamiya, Akiko Tazawa, Tsuyoshi Inukai, Chikara Masuta"

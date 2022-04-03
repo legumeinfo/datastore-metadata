@@ -2,13 +2,13 @@
 identifier: CNS_x_PI230977.gen.Tamulonis_Luzzi_1997a
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700060039x"
+synopsis: "RFLP Mapping of Resistance to Southern Root‐Knot Nematode in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - CNS x PI230977
-description: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700060039x"
+description: "Further information provided in 10.2135/cropsci1997.0011183x003700060039x"
 publication_doi: 10.2135/cropsci1997.0011183x003700060039x
 publication_title: "RFLP Mapping of Resistance to Southern Root‐Knot Nematode in Soybean"
 contributors: "J. P. Tamulonis, B. M. Luzzi, R. S. Hussey, W. A. Parrott, H. R. Boerma"

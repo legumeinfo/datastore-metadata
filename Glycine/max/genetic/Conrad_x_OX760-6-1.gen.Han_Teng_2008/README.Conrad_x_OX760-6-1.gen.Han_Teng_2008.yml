@@ -2,13 +2,13 @@
 identifier: Conrad_x_OX760-6-1.gen.Han_Teng_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-007-9558-4"
+synopsis: "Mapping QTL tolerance to Phytophthora root rot in soybean using microsatellite and RAPD/SCAR derived markers"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Conrad x OX760-6-1
-description: "QTL experiment reported in 10.1007/s10681-007-9558-4"
+description: "Further information provided in 10.1007/s10681-007-9558-4"
 publication_doi: 10.1007/s10681-007-9558-4
 publication_title: "Mapping QTL tolerance to Phytophthora root rot in soybean using microsatellite and RAPD/SCAR derived markers"
 contributors: "Yingpeng Han, Weili Teng, Kangfu Yu, Vaino Poysa, Terry Anderson, Lijuan Qiu, David A. Lightfoot, Wenbin Li"

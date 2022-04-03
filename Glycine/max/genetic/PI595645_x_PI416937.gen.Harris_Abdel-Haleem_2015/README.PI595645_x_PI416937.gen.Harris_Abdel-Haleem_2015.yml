@@ -2,13 +2,13 @@
 identifier: PI595645_x_PI416937.gen.Harris_Abdel-Haleem_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2015.01.0058"
+synopsis: "Soybean Quantitative Trait Loci Conditioning Soybean Rust-Induced Canopy Damage"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI 595645 x PI 416937
-description: "QTL experiment reported in 10.2135/cropsci2015.01.0058"
+description: "Further information provided in 10.2135/cropsci2015.01.0058"
 publication_doi: 10.2135/cropsci2015.01.0058
 publication_title: "Soybean Quantitative Trait Loci Conditioning Soybean Rust-Induced Canopy Damage"
 contributors: "Donna K. Harris, Hussein Abdel-Haleem, James W. Buck, Daniel V. Phillips, Zenglu Li, H. Roger Boerma"

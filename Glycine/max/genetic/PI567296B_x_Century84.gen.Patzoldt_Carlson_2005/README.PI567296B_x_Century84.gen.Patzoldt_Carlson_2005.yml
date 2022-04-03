@@ -2,13 +2,13 @@
 identifier: PI567296B_x_Century84.gen.Patzoldt_Carlson_2005
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2004.0393"
+synopsis: "Characterization of Resistance to Brown Stem Rot of Soybean in Five Accessions from Central China"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI 567296B x Century 84
-description: "QTL experiment reported in 10.2135/cropsci2004.0393"
+description: "Further information provided in 10.2135/cropsci2004.0393"
 publication_doi: 10.2135/cropsci2004.0393
 publication_title: "Characterization of Resistance to Brown Stem Rot of Soybean in Five Accessions from Central China"
 contributors: "M. E. Patzoldt, S. R. Carlson, B. W. Diers"

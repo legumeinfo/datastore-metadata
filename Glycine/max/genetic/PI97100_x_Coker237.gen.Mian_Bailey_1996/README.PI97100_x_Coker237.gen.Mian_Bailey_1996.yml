@@ -2,13 +2,13 @@
 identifier: PI97100_x_Coker237.gen.Mian_Bailey_1996
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf00230118"
+synopsis: "Molecular markers associated with seed weight in two soybean populations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI97100 x Coker237
-description: "QTL experiment reported in 10.1007/bf00230118"
+description: "Further information provided in 10.1007/bf00230118"
 publication_doi: 10.1007/bf00230118
 publication_title: "Molecular markers associated with seed weight in two soybean populations"
 contributors: "M. A. R. Mian, M. A. Bailey, J. P. Tamulonis, E. R. Shipe, T. E. Carter, W. A. Parrott, D. A. Ashley, R. S. Hussey, H. R. Boerma"

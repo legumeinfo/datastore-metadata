@@ -2,13 +2,13 @@
 identifier: Birsasoya-1_x_JS71-05.gen.Singh_Raipuria_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.15258/sst.2008.36.1.17"
+synopsis: "SSR markers associated with seed longevity in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Birsa soya-1 x JS 71-05
-description: "QTL experiment reported in 10.15258/sst.2008.36.1.17"
+description: "Further information provided in 10.15258/sst.2008.36.1.17"
 publication_doi: 10.15258/sst.2008.36.1.17
 publication_title: "SSR markers associated with seed longevity in soybean"
 contributors: "R.K. Singh, R.K. Raipuria, V.S. Bhatia, A. Rani, null Pushpendra, S.M. Husain, D. Chauhan, G.S: Chauhan, T. Mohapatra"

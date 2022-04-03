@@ -2,13 +2,13 @@
 identifier: Hefeng25_x_MapleArrow.gen.Li_Sun_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-009-0036-z"
+synopsis: "Identification of QTL underlying soluble pigment content in soybean stems related to resistance to soybean white mold (Sclerotinia sclerotiorum)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Hefeng 25 x Maple Arrow
-description: "QTL experiment reported in 10.1007/s10681-009-0036-z"
+description: "Further information provided in 10.1007/s10681-009-0036-z"
 publication_doi: 10.1007/s10681-009-0036-z
 publication_title: "Identification of QTL underlying soluble pigment content in soybean stems related to resistance to soybean white mold (Sclerotinia sclerotiorum)"
 contributors: "Dongmei Li, Mingming Sun, Yingpeng Han, Weili Teng, Wenbin Li"

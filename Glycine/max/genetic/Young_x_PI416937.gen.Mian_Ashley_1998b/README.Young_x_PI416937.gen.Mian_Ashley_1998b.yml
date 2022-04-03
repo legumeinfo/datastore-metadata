@@ -2,13 +2,13 @@
 identifier: Young_x_PI416937.gen.Mian_Ashley_1998b
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1998.0011183x003800020020x"
+synopsis: "An Additional QTL for Water Use Efficiency in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI416937
-description: "QTL experiment reported in 10.2135/cropsci1998.0011183x003800020020x"
+description: "Further information provided in 10.2135/cropsci1998.0011183x003800020020x"
 publication_doi: 10.2135/cropsci1998.0011183x003800020020x
 publication_title: "An Additional QTL for Water Use Efficiency in Soybean"
 contributors: "M. A. R. Mian, D. A. Ashley, H. R. Boerma"

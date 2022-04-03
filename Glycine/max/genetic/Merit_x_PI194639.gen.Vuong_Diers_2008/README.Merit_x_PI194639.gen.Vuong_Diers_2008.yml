@@ -2,13 +2,13 @@
 identifier: Merit_x_PI194639.gen.Vuong_Diers_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2008.01.0019"
+synopsis: "Identification of QTL for Resistance to Sclerotinia Stem Rot in Soybean Plant Introduction 194639"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Merit x PI194639
-description: "QTL experiment reported in 10.2135/cropsci2008.01.0019"
+description: "Further information provided in 10.2135/cropsci2008.01.0019"
 publication_doi: 10.2135/cropsci2008.01.0019
 publication_title: "Identification of QTL for Resistance to Sclerotinia Stem Rot in Soybean Plant Introduction 194639"
 contributors: "T. D. Vuong, B. W. Diers, G. L. Hartman"

@@ -2,13 +2,13 @@
 identifier: KF1_x_NN1138-2.gen.Li_Zhao_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-011-0524-9"
+synopsis: "Genetic structure composed of additive QTL, epistatic QTL pairs and collective unmapped minor QTL conferring oil content and fatty acid components of soybeans"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - KF1 x NN1138-2
-description: "QTL experiment reported in 10.1007/s10681-011-0524-9"
+description: "Further information provided in 10.1007/s10681-011-0524-9"
 publication_doi: 10.1007/s10681-011-0524-9
 publication_title: "Genetic structure composed of additive QTL, epistatic QTL pairs and collective unmapped minor QTL conferring oil content and fatty acid components of soybeans"
 contributors: "Haiwang Li, Tuanjie Zhao, Yufeng Wang, Deyue Yu, Shouyi Chen, Ruibao Zhou, Junyi Gai"

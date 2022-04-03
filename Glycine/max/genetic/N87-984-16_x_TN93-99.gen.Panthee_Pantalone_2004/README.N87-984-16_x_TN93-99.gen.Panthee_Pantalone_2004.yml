@@ -2,13 +2,13 @@
 identifier: N87-984-16_x_TN93-99.gen.Panthee_Pantalone_2004
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s11746-004-0860-4"
+synopsis: "Genomic regions governing soybean seed nitrogen accumulation"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - N87-984-16 x TN93-99
-description: "QTL experiment reported in 10.1007/s11746-004-0860-4"
+description: "Further information provided in 10.1007/s11746-004-0860-4"
 publication_doi: 10.1007/s11746-004-0860-4
 publication_title: "Genomic regions governing soybean seed nitrogen accumulation"
 contributors: "D. R. Panthee, V. R. Pantalone, C. E. Sams, A. M. Saxton, D. R. West, W. E. Rayford"

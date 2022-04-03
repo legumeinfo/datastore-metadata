@@ -2,13 +2,13 @@
 identifier: CSSL3228_x_NN1138D2.gen.Zhang_Wang_2018
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1186/s12864-018-4582-4"
+synopsis: "Combining QTL-seq and linkage mapping to fine map a wild soybean allele characteristic of greater plant height"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
-  - CSSL3228 x NN1138D2
-description: "QTL experiment reported in 10.1186/s12864-018-4582-4"
+  - CSSL3228 x NN1138Ð2
+description: "Further information provided in 10.1186/s12864-018-4582-4"
 publication_doi: 10.1186/s12864-018-4582-4
 publication_title: "Combining QTL-seq and linkage mapping to fine map a wild soybean allele characteristic of greater plant height"
 contributors: "Xiaoli Zhang, Wubin Wang, Na Guo, Youyi Zhang, Yuanpeng Bu, Jinming Zhao, Han Xing"

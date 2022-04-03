@@ -2,13 +2,13 @@
 identifier: Essex_x_Forrest.gen.Sharma_Sharma_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-010-1478-3"
+synopsis: "The genetic control of tolerance to aluminum toxicity in the ‘Essex’ by ‘Forrest’ recombinant inbred line population"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Essex x Forrest
-description: "QTL experiment reported in 10.1007/s00122-010-1478-3"
+description: "Further information provided in 10.1007/s00122-010-1478-3"
 publication_doi: 10.1007/s00122-010-1478-3
 publication_title: "The genetic control of tolerance to aluminum toxicity in the ‘Essex’ by ‘Forrest’ recombinant inbred line population"
 contributors: "Aman D. Sharma, Hemlata Sharma, David A. Lightfoot"

@@ -2,13 +2,13 @@
 identifier: Ohsuzu_x_PI595926.gen.Kato_Sayama_2014
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-014-2304-0"
+synopsis: "A major and stable QTL associated with seed weight in soybean across multiple environments and genetic backgrounds"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Ohsuzu x PI 595926
-description: "QTL experiment reported in 10.1007/s00122-014-2304-0"
+description: "Further information provided in 10.1007/s00122-014-2304-0"
 publication_doi: 10.1007/s00122-014-2304-0
 publication_title: "A major and stable QTL associated with seed weight in soybean across multiple environments and genetic backgrounds"
 contributors: "Shin Kato, Takashi Sayama, Kenichiro Fujii, Setsuzo Yumoto, Yuhi Kono, Tae-Young Hwang, Akio Kikuchi, Yoshitake Takada, Yu Tanaka, Tatsuhiko Shiraiwa, Masao Ishimoto"

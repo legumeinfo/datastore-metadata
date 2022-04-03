@@ -2,13 +2,13 @@
 identifier: BenningPI595645_x_PI416937.gen.Abdel-Haleem_Lee_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-010-1500-9"
+synopsis: "Identification of QTL for increased fibrous roots in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Benning (PI595645) x PI416937
-description: "QTL experiment reported in 10.1007/s00122-010-1500-9"
+description: "Further information provided in 10.1007/s00122-010-1500-9"
 publication_doi: 10.1007/s00122-010-1500-9
 publication_title: "Identification of QTL for increased fibrous roots in soybean"
 contributors: "Hussein Abdel-Haleem, Geung-Joo Lee, Roger H. Boerma"

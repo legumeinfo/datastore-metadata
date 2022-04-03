@@ -2,13 +2,13 @@
 identifier: Young_x_PI229358.gen.Bianchi-Hall_Carter_2000
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2000.402538x"
+synopsis: "Aluminum Tolerance Associated with Quantitative Trait Loci Derived from Soybean PI 416937 in Hydroponics"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI229358
-description: "QTL experiment reported in 10.2135/cropsci2000.402538x"
+description: "Further information provided in 10.2135/cropsci2000.402538x"
 publication_doi: 10.2135/cropsci2000.402538x
 publication_title: "Aluminum Tolerance Associated with Quantitative Trait Loci Derived from Soybean PI 416937 in Hydroponics"
 contributors: "C. M. Bianchi-Hall, Thomas E. Carter, M. A. Bailey, M. A. R. Mian, T. W. Rufty, D. A. Ashley, H. R. Boerma, C. Arellano, R. S. Hussey, W. A. Parrott"

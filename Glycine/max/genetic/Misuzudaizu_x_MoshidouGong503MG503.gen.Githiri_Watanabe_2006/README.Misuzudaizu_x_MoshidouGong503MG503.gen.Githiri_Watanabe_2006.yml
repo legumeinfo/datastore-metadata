@@ -2,13 +2,13 @@
 identifier: Misuzudaizu_x_MoshidouGong503MG503.gen.Githiri_Watanabe_2006
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1111/j.1439-0523.2006.01291.x"
+synopsis: "QTL analysis of flooding tolerance in soybean at an early vegetative growth stage"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Misuzudaizu x Moshidou Gong 503 (MG503)
-description: "QTL experiment reported in 10.1111/j.1439-0523.2006.01291.x"
+description: "Further information provided in 10.1111/j.1439-0523.2006.01291.x"
 publication_doi: 10.1111/j.1439-0523.2006.01291.x
 publication_title: "QTL analysis of flooding tolerance in soybean at an early vegetative growth stage"
 contributors: "S. M. Githiri, S. Watanabe, K. Harada, R. Takahashi"

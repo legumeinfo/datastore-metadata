@@ -2,13 +2,13 @@
 identifier: Young_x_PI416937.gen.Fasoula_Harris_2004
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2004.1218"
+synopsis: "Validation and Designation of Quantitative Trait Loci for Seed Protein, Seed Oil, and Seed Weight from Two Soybean Populations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI 416937
-description: "QTL experiment reported in 10.2135/cropsci2004.1218"
+description: "Further information provided in 10.2135/cropsci2004.1218"
 publication_doi: 10.2135/cropsci2004.1218
 publication_title: "Validation and Designation of Quantitative Trait Loci for Seed Protein, Seed Oil, and Seed Weight from Two Soybean Populations"
 contributors: "Vasilia A. Fasoula, Donna K. Harris, H. Roger Boerma"

@@ -2,13 +2,13 @@
 identifier: MD96-5722_x_Spencer.gen.Akond_Liu_2014
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.4236/ajps.2014.51021"
+synopsis: "Identification of Quantitative Trait Loci (QTL) Underlying Protein, Oil, and Five Major Fatty Acids’ Contents in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - MD 96-5722 x Spencer
-description: "QTL experiment reported in 10.4236/ajps.2014.51021"
+description: "Further information provided in 10.4236/ajps.2014.51021"
 publication_doi: 10.4236/ajps.2014.51021
 publication_title: "Identification of Quantitative Trait Loci (QTL) Underlying Protein, Oil, and Five Major Fatty Acids’ Contents in Soybean"
 contributors: "Masum Akond, Shiming Liu, Melanie Boney, Stella K. Kantartzi, Khalid Meksem, Nacer Bellaloui, David A. Lightfoot, My Abdelmajid Kassem"

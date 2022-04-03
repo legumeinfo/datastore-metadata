@@ -2,13 +2,13 @@
 identifier: No9-I_x_Harosoy-e3.gen.Liu_Abe_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/jhered/esp113"
+synopsis: "QTL Mapping for Photoperiod Insensitivity of a Japanese Soybean Landrace Sakamotowase"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - No. 9-I x Harosoy-e3
-description: "QTL experiment reported in 10.1093/jhered/esp113"
+description: "Further information provided in 10.1093/jhered/esp113"
 publication_doi: 10.1093/jhered/esp113
 publication_title: "QTL Mapping for Photoperiod Insensitivity of a Japanese Soybean Landrace Sakamotowase"
 contributors: "B. Liu, J. Abe"

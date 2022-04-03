@@ -2,13 +2,13 @@
 identifier: Evans_x_Peking.gen.Concibido_Lange_1997
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700010046x"
+synopsis: "Genome Mapping of Soybean Cyst Nematode Resistance Genes in ‘Peking’, PI 90763, and PI 88788 Using DNA Markers"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Evans x Peking
-description: "QTL experiment reported in 10.2135/cropsci1997.0011183x003700010046x"
+description: "Further information provided in 10.2135/cropsci1997.0011183x003700010046x"
 publication_doi: 10.2135/cropsci1997.0011183x003700010046x
 publication_title: "Genome Mapping of Soybean Cyst Nematode Resistance Genes in ‘Peking’, PI 90763, and PI 88788 Using DNA Markers"
 contributors: "Vergel C. Concibido, Douglas A. Lange, Roxanne L. Denny, James H. Orf, Nevin D. Young"

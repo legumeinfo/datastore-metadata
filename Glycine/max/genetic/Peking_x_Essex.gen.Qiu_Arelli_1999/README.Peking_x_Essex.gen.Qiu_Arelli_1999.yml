@@ -2,13 +2,13 @@
 identifier: Peking_x_Essex.gen.Qiu_Arelli_1999
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s001220051080"
+synopsis: "RFLP markers associated with soybean cyst nematode resistance and seed composition in a ‘Peking’×‘Essex’ population"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Peking x Essex
-description: "QTL experiment reported in 10.1007/s001220051080"
+description: "Further information provided in 10.1007/s001220051080"
 publication_doi: 10.1007/s001220051080
 publication_title: "RFLP markers associated with soybean cyst nematode resistance and seed composition in a ‘Peking’×‘Essex’ population"
 contributors: "B. X. Qiu, P. R. Arelli, D. A. Sleper"

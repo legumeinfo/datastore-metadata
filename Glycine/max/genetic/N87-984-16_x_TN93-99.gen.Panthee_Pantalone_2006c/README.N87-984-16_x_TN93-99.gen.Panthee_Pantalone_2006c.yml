@@ -2,13 +2,13 @@
 identifier: N87-984-16_x_TN93-99.gen.Panthee_Pantalone_2006c
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-006-9179-3"
+synopsis: "Modifier QTL for fatty acid composition in soybean oil"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - N87-984-16 x TN93-99
-description: "QTL experiment reported in 10.1007/s10681-006-9179-3"
+description: "Further information provided in 10.1007/s10681-006-9179-3"
 publication_doi: 10.1007/s10681-006-9179-3
 publication_title: "Modifier QTL for fatty acid composition in soybean oil"
 contributors: "D. R. Panthee, V. R. Pantalone, A. M. Saxton"

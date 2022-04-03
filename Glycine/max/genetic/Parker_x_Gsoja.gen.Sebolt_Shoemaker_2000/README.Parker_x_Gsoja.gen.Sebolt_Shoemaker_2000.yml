@@ -2,13 +2,13 @@
 identifier: Parker_x_Gsoja.gen.Sebolt_Shoemaker_2000
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2000.4051438x"
+synopsis: "Analysis of a Quantitative Trait Locus Allele from Wild Soybean That Increases Seed Protein Concentration in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Parker x G.soja
-description: "QTL experiment reported in 10.2135/cropsci2000.4051438x"
+description: "Further information provided in 10.2135/cropsci2000.4051438x"
 publication_doi: 10.2135/cropsci2000.4051438x
 publication_title: "Analysis of a Quantitative Trait Locus Allele from Wild Soybean That Increases Seed Protein Concentration in Soybean"
 contributors: "A. M. Sebolt, R. C. Shoemaker, B. W. Diers"

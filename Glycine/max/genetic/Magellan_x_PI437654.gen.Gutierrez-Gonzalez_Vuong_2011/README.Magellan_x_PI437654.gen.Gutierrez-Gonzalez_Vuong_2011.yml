@@ -2,13 +2,13 @@
 identifier: Magellan_x_PI437654.gen.Gutierrez-Gonzalez_Vuong_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-011-1673-x"
+synopsis: "Major locus and other novel additive and epistatic loci involved in modulation of isoflavone concentration in soybean seeds"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Magellan x PI437654
-description: "QTL experiment reported in 10.1007/s00122-011-1673-x"
+description: "Further information provided in 10.1007/s00122-011-1673-x"
 publication_doi: 10.1007/s00122-011-1673-x
 publication_title: "Major locus and other novel additive and epistatic loci involved in modulation of isoflavone concentration in soybean seeds"
 contributors: "Juan J. Gutierrez-Gonzalez, Tri D. Vuong, Rui Zhong, Oliver Yu, Jeong-Dong Lee, Grover Shannon, Mark Ellersieck, Henry T. Nguyen, David A. Sleper"

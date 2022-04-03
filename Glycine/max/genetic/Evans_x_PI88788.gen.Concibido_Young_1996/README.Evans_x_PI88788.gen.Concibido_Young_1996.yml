@@ -2,13 +2,13 @@
 identifier: Evans_x_PI88788.gen.Concibido_Young_1996
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf00225751"
+synopsis: "Targeted comparative genome analysis and qualitative mapping of a major partial-resistance gene to the soybean cyst nematode"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Evans x PI88788
-description: "QTL experiment reported in 10.1007/bf00225751"
+description: "Further information provided in 10.1007/bf00225751"
 publication_doi: 10.1007/bf00225751
 publication_title: "Targeted comparative genome analysis and qualitative mapping of a major partial-resistance gene to the soybean cyst nematode"
 contributors: "V. C. Concibido, N. D. Young, D. A. Lange, R. L. Denny, D. Danesh, J. H. Orf"

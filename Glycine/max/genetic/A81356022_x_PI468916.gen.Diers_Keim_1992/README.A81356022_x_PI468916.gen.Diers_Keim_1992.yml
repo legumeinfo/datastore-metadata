@@ -2,13 +2,13 @@
 identifier: A81356022_x_PI468916.gen.Diers_Keim_1992
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf00226905"
+synopsis: "RFLP analysis of soybean seed protein and oil content"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - A81356022 x PI468916
-description: "QTL experiment reported in 10.1007/bf00226905"
+description: "Further information provided in 10.1007/bf00226905"
 publication_doi: 10.1007/bf00226905
 publication_title: "RFLP analysis of soybean seed protein and oil content"
 contributors: "B. W. Diers, P. Keim, W. R. Fehr, R. C. Shoemaker"

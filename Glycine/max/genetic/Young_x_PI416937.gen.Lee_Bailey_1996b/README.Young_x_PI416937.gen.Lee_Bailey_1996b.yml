@@ -2,13 +2,13 @@
 identifier: Young_x_PI416937.gen.Lee_Bailey_1996b
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf00224058"
+synopsis: "RFLP loci associated with soybean seed protein and oil content across populations and locations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI416937
-description: "QTL experiment reported in 10.1007/bf00224058"
+description: "Further information provided in 10.1007/bf00224058"
 publication_doi: 10.1007/bf00224058
 publication_title: "RFLP loci associated with soybean seed protein and oil content across populations and locations"
 contributors: "S. H. Lee, M. A. Bailey, M. A. R. Mian, T. E. Carter, E. R. Shipe, D. A. Ashley, W. A. Parrott, R. S. Hussey, H. R. Boerma"

@@ -2,13 +2,13 @@
 identifier: HeFeng25_x_DongnongL-5.gen.Xie_Han_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s11032-011-9607-5"
+synopsis: "SSR- and SNP-related QTL underlying linolenic acid and other fatty acid contents in soybean seeds across multiple environments"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - HeFeng 25 x Dongnong L-5
-description: "QTL experiment reported in 10.1007/s11032-011-9607-5"
+description: "Further information provided in 10.1007/s11032-011-9607-5"
 publication_doi: 10.1007/s11032-011-9607-5
 publication_title: "SSR- and SNP-related QTL underlying linolenic acid and other fatty acid contents in soybean seeds across multiple environments"
 contributors: "Dongwei Xie, Yingpeng Han, Yuhong Zeng, Wei Chang, Weili Teng, Wenbin Li"

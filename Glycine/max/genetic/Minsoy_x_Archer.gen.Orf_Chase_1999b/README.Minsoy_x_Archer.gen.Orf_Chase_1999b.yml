@@ -2,13 +2,13 @@
 identifier: Minsoy_x_Archer.gen.Orf_Chase_1999b
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci1999.3961642x"
+synopsis: "Genetics of Soybean Agronomic Traits: I. Comparison of Three Related Recombinant Inbred Populations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Minsoy x Archer
-description: "QTL experiment reported in 10.2135/cropsci1999.3961642x"
+description: "Further information provided in 10.2135/cropsci1999.3961642x"
 publication_doi: 10.2135/cropsci1999.3961642x
 publication_title: "Genetics of Soybean Agronomic Traits: I. Comparison of Three Related Recombinant Inbred Populations"
 contributors: "J. H. Orf, K. Chase, T. Jarvik, L. M. Mansur, P. B. Cregan, F. R. Adler, K. G. Lark"

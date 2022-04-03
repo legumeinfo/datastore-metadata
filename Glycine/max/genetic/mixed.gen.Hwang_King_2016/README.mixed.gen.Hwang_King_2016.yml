@@ -2,13 +2,13 @@
 identifier: mixed.gen.Hwang_King_2016
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s11032-016-0516-5"
+synopsis: "Meta-analysis to refine map position and reduce confidence intervals for delayed-canopy-wilting QTLs in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - mixed
-description: "QTL experiment reported in 10.1007/s11032-016-0516-5"
+description: "Further information provided in 10.1007/s11032-016-0516-5"
 publication_doi: 10.1007/s11032-016-0516-5
 publication_title: "Meta-analysis to refine map position and reduce confidence intervals for delayed-canopy-wilting QTLs in soybean"
 contributors: "Sadal Hwang, C. Andy King, Pengyin Chen, Jeffery D. Ray, Perry B. Cregan, Thomas E. Carter, Zenglu Li, Hussein Abdel-Haleem, Kevin W. Matson, William Schapaugh, Larry C. Purcell"

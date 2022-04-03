@@ -2,13 +2,13 @@
 identifier: Bogao_x_Nannong94-156.gen.Jun_Freewalt_2014
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1111/pbr.12107"
+synopsis: "Identification of novel QTL for leaf traits in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Bogao x Nannong 94-156
-description: "QTL experiment reported in 10.1111/pbr.12107"
+description: "Further information provided in 10.1111/pbr.12107"
 publication_doi: 10.1111/pbr.12107
 publication_title: "Identification of novel QTL for leaf traits in soybean"
 contributors: "Tae-Hwan Jun, Keith Freewalt, Andy P. Michel, Rouf Mian"

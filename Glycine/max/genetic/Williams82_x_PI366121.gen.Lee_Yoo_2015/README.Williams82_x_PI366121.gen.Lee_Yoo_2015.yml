@@ -2,13 +2,13 @@
 identifier: Williams82_x_PI366121.gen.Lee_Yoo_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-015-2519-8"
+synopsis: "Detection of novel QTLs for foxglove aphid resistance in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Williams 82 x PI 366121
-description: "QTL experiment reported in 10.1007/s00122-015-2519-8"
+description: "Further information provided in 10.1007/s00122-015-2519-8"
 publication_doi: 10.1007/s00122-015-2519-8
 publication_title: "Detection of novel QTLs for foxglove aphid resistance in soybean"
 contributors: "Ju Seok Lee, Min-ho Yoo, Jin Kyo Jung, Kristin D. Bilyeu, Jeong-Dong Lee, Sungtaeg Kang"

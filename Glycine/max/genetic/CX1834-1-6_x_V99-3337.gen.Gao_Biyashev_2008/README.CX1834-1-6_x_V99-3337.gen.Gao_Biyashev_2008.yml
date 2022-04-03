@@ -2,13 +2,13 @@
 identifier: CX1834-1-6_x_V99-3337.gen.Gao_Biyashev_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2007.11.0633"
+synopsis: "Validation of Low-Phytate QTLs and Evaluation of Seedling Emergence of Low-Phytate Soybeans"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - CX1834-1-6 x V99-3337
-description: "QTL experiment reported in 10.2135/cropsci2007.11.0633"
+description: "Further information provided in 10.2135/cropsci2007.11.0633"
 publication_doi: 10.2135/cropsci2007.11.0633
 publication_title: "Validation of Low-Phytate QTLs and Evaluation of Seedling Emergence of Low-Phytate Soybeans"
 contributors: "Y. Gao, R.M. Biyashev, M.A. Saghai Maroof, N.M. Glover, D.M. Tucker, G.R. Buss"

@@ -2,13 +2,13 @@
 identifier: Young_x_PI416937.gen.Bailey_Mian_1997
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/oxfordjournals.jhered.a023075"
+synopsis: "Pod Dehiscence of Soybean: Identification of Quantitative Trait Loci"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI416937
-description: "QTL experiment reported in 10.1093/oxfordjournals.jhered.a023075"
+description: "Further information provided in 10.1093/oxfordjournals.jhered.a023075"
 publication_doi: 10.1093/oxfordjournals.jhered.a023075
 publication_title: "Pod Dehiscence of Soybean: Identification of Quantitative Trait Loci"
 contributors: "M. A. Bailey, M. A. R. Mian, T. E. Carter, D. A. Ashley, H. R. Boerma"

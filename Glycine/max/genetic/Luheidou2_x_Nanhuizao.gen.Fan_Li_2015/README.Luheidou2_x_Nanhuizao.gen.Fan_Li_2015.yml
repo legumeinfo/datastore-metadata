@@ -2,13 +2,13 @@
 identifier: Luheidou2_x_Nanhuizao.gen.Fan_Li_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-015-1491-3"
+synopsis: "Analysis of additive and epistatic quantitative trait loci underlying fatty acid concentrations in soybean seeds across multiple environments"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Luheidou2 x Nanhuizao
-description: "QTL experiment reported in 10.1007/s10681-015-1491-3"
+description: "Further information provided in 10.1007/s10681-015-1491-3"
 publication_doi: 10.1007/s10681-015-1491-3
 publication_title: "Analysis of additive and epistatic quantitative trait loci underlying fatty acid concentrations in soybean seeds across multiple environments"
 contributors: "Shengxu Fan, Bin Li, Fukuan Yu, Fenxia Han, Shurong Yan, Lianzheng Wang, Junming Sun"

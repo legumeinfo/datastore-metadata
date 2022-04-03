@@ -2,13 +2,13 @@
 identifier: MapleDonovan_x_OACBayfield.gen.Huynh_Bastien_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2009.06.0311"
+synopsis: "Identification of QTLs Associated with Partial Resistance to White Mold in Soybean Using Field-Based Inoculation"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Maple Donovan x OAC Bayfield
-description: "QTL experiment reported in 10.2135/cropsci2009.06.0311"
+description: "Further information provided in 10.2135/cropsci2009.06.0311"
 publication_doi: 10.2135/cropsci2009.06.0311
 publication_title: "Identification of QTLs Associated with Partial Resistance to White Mold in Soybean Using Field-Based Inoculation"
 contributors: "T. T. Huynh, M. Bastien, E. Iquira, P. Turcotte, F. Belzile"

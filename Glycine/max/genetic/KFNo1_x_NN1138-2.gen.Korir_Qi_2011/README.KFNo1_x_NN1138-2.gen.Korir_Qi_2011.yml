@@ -2,13 +2,13 @@
 identifier: KFNo1_x_NN1138-2.gen.Korir_Qi_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1111/j.1439-0523.2011.01862.x"
+synopsis: "A study on relative importance of additive, epistasis and unmapped QTL for Aluminium tolerance at seedling stage in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - KF No. 1 x NN1138-2
-description: "QTL experiment reported in 10.1111/j.1439-0523.2011.01862.x"
+description: "Further information provided in 10.1111/j.1439-0523.2011.01862.x"
 publication_doi: 10.1111/j.1439-0523.2011.01862.x
 publication_title: "A study on relative importance of additive, epistasis and unmapped QTL for Aluminium tolerance at seedling stage in soybean"
 contributors: "Paul C. Korir, Bo Qi, Yufeng Wang, Tuanjie Zhao, Deyue Yu, Shouyi Chen, Junyi Gai"

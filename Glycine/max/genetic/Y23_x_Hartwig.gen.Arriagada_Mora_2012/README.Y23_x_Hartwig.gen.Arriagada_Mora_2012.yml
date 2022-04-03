@@ -2,13 +2,13 @@
 identifier: Y23_x_Hartwig.gen.Arriagada_Mora_2012
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-012-0696-y"
+synopsis: "Bayesian mapping of quantitative trait loci (QTL) controlling soybean cyst nematode resistant"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Y23 x Hartwig
-description: "QTL experiment reported in 10.1007/s10681-012-0696-y"
+description: "Further information provided in 10.1007/s10681-012-0696-y"
 publication_doi: 10.1007/s10681-012-0696-y
 publication_title: "Bayesian mapping of quantitative trait loci (QTL) controlling soybean cyst nematode resistant"
 contributors: "Osvin Arriagada, Freddy Mora, Joaquín C. Dellarossa, Marcia F. S. Ferreira, Gerardo D. L. Cervigni, Ivan Schuster"

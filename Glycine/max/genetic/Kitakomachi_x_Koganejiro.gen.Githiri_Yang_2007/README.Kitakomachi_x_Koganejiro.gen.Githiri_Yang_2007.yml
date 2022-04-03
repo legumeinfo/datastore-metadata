@@ -2,13 +2,13 @@
 identifier: Kitakomachi_x_Koganejiro.gen.Githiri_Yang_2007
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/jhered/esm042"
+synopsis: "QTL Analysis of Low Temperature Induced Browning in Soybean Seed Coats"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kitakomachi x Koganejiro
-description: "QTL experiment reported in 10.1093/jhered/esm042"
+description: "Further information provided in 10.1093/jhered/esm042"
 publication_doi: 10.1093/jhered/esm042
 publication_title: "QTL Analysis of Low Temperature Induced Browning in Soybean Seed Coats"
 contributors: "S. M. Githiri, D. Yang, N. A. Khan, D. Xu, T. Komatsuda, R. Takahashi"

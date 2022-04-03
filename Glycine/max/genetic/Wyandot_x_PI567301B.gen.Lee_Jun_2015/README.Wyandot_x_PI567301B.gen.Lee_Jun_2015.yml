@@ -2,13 +2,13 @@
 identifier: Wyandot_x_PI567301B.gen.Lee_Jun_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s10681-014-1252-8"
+synopsis: "SNP markers linked to QTL conditioning plant height, lodging, and maturity in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Wyandot x PI 567301B
-description: "QTL experiment reported in 10.1007/s10681-014-1252-8"
+description: "Further information provided in 10.1007/s10681-014-1252-8"
 publication_doi: 10.1007/s10681-014-1252-8
 publication_title: "SNP markers linked to QTL conditioning plant height, lodging, and maturity in soybean"
 contributors: "Sungwoo Lee, T. H. Jun, Andrew P. Michel, M. A. Rouf Mian"

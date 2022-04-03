@@ -2,13 +2,13 @@
 identifier: Kefeng1_x_Nannong1138-2.gen.DU_YU_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1016/s1671-2927(08)60243-6"
+synopsis: "Analysis of QTLs for the Trichome Density on the Upper and Downer Surface of Leaf Blade in Soybean [Glycine max (L.) Merr.]"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kefeng 1 x Nannong 1138-2
-description: "QTL experiment reported in 10.1016/s1671-2927(08)60243-6"
+description: "Further information provided in 10.1016/s1671-2927(08)60243-6"
 publication_doi: 10.1016/s1671-2927(08)60243-6
 publication_title: "Analysis of QTLs for the Trichome Density on the Upper and Downer Surface of Leaf Blade in Soybean [Glycine max (L.) Merr.]"
 contributors: "Wei-jun DU, De-yue YU, San-xiong FU"

@@ -2,13 +2,13 @@
 identifier: PI88287_x_PI89008.gen.Vaghchhipawala_Bassüner_2001
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1094/mpmi.2001.14.1.42"
+synopsis: "Modulations in Gene Expression and Mapping of Genes Associated with Cyst Nematode Infection of Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI88287 x PI89008
-description: "QTL experiment reported in 10.1094/mpmi.2001.14.1.42"
+description: "Further information provided in 10.1094/mpmi.2001.14.1.42"
 publication_doi: 10.1094/mpmi.2001.14.1.42
 publication_title: "Modulations in Gene Expression and Mapping of Genes Associated with Cyst Nematode Infection of Soybean"
 contributors: "Zarir Vaghchhipawala, Ronald Bassüner, Kathryn Clayton, Kimberley Lewers, Randy Shoemaker, Sally Mackenzie"

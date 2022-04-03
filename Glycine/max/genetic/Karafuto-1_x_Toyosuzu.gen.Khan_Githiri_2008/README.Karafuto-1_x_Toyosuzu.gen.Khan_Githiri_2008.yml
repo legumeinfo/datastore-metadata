@@ -2,13 +2,13 @@
 identifier: Karafuto-1_x_Toyosuzu.gen.Khan_Githiri_2008
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-008-0792-5"
+synopsis: "QTL analysis of cleistogamy in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Karafuto-1 x Toyosuzu
-description: "QTL experiment reported in 10.1007/s00122-008-0792-5"
+description: "Further information provided in 10.1007/s00122-008-0792-5"
 publication_doi: 10.1007/s00122-008-0792-5
 publication_title: "QTL analysis of cleistogamy in soybean"
 contributors: "Nisar A. Khan, Stephen M. Githiri, Eduardo R. Benitez, Jun Abe, Shinji Kawasaki, Takeshi Hayashi, Ryoji Takahashi"

@@ -2,13 +2,13 @@
 identifier: JP110755_x_Fukuyutaka.gen.Kuroda_Kaga_2013
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1002/ece3.606"
+synopsis: "QTL affecting fitness of hybrids between wild and cultivated soybeans in experimental fields"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - JP110755 x Fukuyutaka
-description: "QTL experiment reported in 10.1002/ece3.606"
+description: "Further information provided in 10.1002/ece3.606"
 publication_doi: 10.1002/ece3.606
 publication_title: "QTL affecting fitness of hybrids between wild and cultivated soybeans in experimental fields"
 contributors: "Yosuke Kuroda, Akito Kaga, Norihiko Tomooka, Hiroshi Yano, Yoshitake Takada, Shin Kato, Duncan Vaughan"

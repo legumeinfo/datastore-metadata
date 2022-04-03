@@ -2,13 +2,13 @@
 identifier: JWS156-1_x_Jackson.gen.Tuyen_Lal_2010
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-010-1304-y"
+synopsis: "Identification of a major QTL allele from wild soybean (Glycine soja Sieb. & Zucc.) for increasing alkaline salt tolerance in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - JWS156-1 x Jackson
-description: "QTL experiment reported in 10.1007/s00122-010-1304-y"
+description: "Further information provided in 10.1007/s00122-010-1304-y"
 publication_doi: 10.1007/s00122-010-1304-y
 publication_title: "Identification of a major QTL allele from wild soybean (Glycine soja Sieb. & Zucc.) for increasing alkaline salt tolerance in soybean"
 contributors: "D. D. Tuyen, S. K. Lal, D. H. Xu"

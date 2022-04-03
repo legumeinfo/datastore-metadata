@@ -2,13 +2,13 @@
 identifier: Msoy8001_x_Conquista.gen.Silva_Schuster_2007
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1590/s0100-204x2007000800011"
+synopsis: "Validation of microsatellite markers for assisted selection of soybean resistance to cyst nematode races 3 and 14"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Msoy8001 x Conquista
-description: "QTL experiment reported in 10.1590/s0100-204x2007000800011"
+description: "Further information provided in 10.1590/s0100-204x2007000800011"
 publication_doi: 10.1590/s0100-204x2007000800011
 publication_title: "Validation of microsatellite markers for assisted selection of soybean resistance to cyst nematode races 3 and 14"
 contributors: "Marcia Flores da Silva, Ivan Schuster, João Flávio Veloso da Silva, Adésio Ferreira, Everaldo Gonçalves de Barros, Maurilio Alves Moreira"

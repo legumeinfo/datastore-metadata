@@ -2,13 +2,13 @@
 identifier: KefengNo1_x_Nannong1138-2.gen.Yan_Wang_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1111/jipb.12323"
+synopsis: "Detection and fine‐mapping of SC7 resistance genes via linkage and association analysis in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kefeng No.1 x Nannong 1138-2
-description: "QTL experiment reported in 10.1111/jipb.12323"
+description: "Further information provided in 10.1111/jipb.12323"
 publication_doi: 10.1111/jipb.12323
 publication_title: "Detection and fine‐mapping of SC7 resistance genes via linkage and association analysis in soybean"
 contributors: "Honglang Yan, Hui Wang, Hao Cheng, Zhenbin Hu, Shanshan Chu, Guozheng Zhang, Deyue Yu"

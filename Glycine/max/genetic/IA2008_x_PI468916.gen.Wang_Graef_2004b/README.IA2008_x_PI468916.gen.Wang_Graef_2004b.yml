@@ -2,13 +2,13 @@
 identifier: IA2008_x_PI468916.gen.Wang_Graef_2004b
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-003-1449-z"
+synopsis: "Identification of putative QTL that underlie yield in interspecific soybean backcross populations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - IA2008 x PI 468916
-description: "QTL experiment reported in 10.1007/s00122-003-1449-z"
+description: "Further information provided in 10.1007/s00122-003-1449-z"
 publication_doi: 10.1007/s00122-003-1449-z
 publication_title: "Identification of putative QTL that underlie yield in interspecific soybean backcross populations"
 contributors: "D. Wang, G. L. Graef, A. M. Procopiuk, B. W. Diers"

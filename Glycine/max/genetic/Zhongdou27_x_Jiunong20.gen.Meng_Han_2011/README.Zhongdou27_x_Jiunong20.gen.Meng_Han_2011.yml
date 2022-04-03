@@ -2,13 +2,13 @@
 identifier: Zhongdou27_x_Jiunong20.gen.Meng_Han_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-011-1680-y"
+synopsis: "QTL underlying the resistance to soybean aphid (Aphis glycines Matsumura) through isoflavone-mediated antibiosis in soybean cultivar ‘Zhongdou 27’"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Zhongdou 27 x Jiunong 20
-description: "QTL experiment reported in 10.1007/s00122-011-1680-y"
+description: "Further information provided in 10.1007/s00122-011-1680-y"
 publication_doi: 10.1007/s00122-011-1680-y
 publication_title: "QTL underlying the resistance to soybean aphid (Aphis glycines Matsumura) through isoflavone-mediated antibiosis in soybean cultivar ‘Zhongdou 27’"
 contributors: "Fanli Meng, Yingpeng Han, Weili Teng, Yongguang Li, Wenbin Li"

@@ -2,13 +2,13 @@
 identifier: PI89772_x_Hamilton.gen.Yue_Sleper_2001
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2001.4151589x"
+synopsis: "Mapping Resistance to Multiple Races ofHeterodera glycinesin Soybean PI 89772"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - PI89772 x Hamilton
-description: "QTL experiment reported in 10.2135/cropsci2001.4151589x"
+description: "Further information provided in 10.2135/cropsci2001.4151589x"
 publication_doi: 10.2135/cropsci2001.4151589x
 publication_title: "Mapping Resistance to Multiple Races ofHeterodera glycinesin Soybean PI 89772"
 contributors: "Pin Yue, David A. Sleper, Prakash R. Arelli"

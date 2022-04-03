@@ -2,13 +2,13 @@
 identifier: Noir1_x_Minsoy.gen.Salas_Oyarzo-Llaipen_2006
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-006-0392-1"
+synopsis: "Genetic mapping of seed shape in three populations of recombinant inbred lines of soybean (Glycine max L. Merr.)"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Noir 1 x Minsoy
-description: "QTL experiment reported in 10.1007/s00122-006-0392-1"
+description: "Further information provided in 10.1007/s00122-006-0392-1"
 publication_doi: 10.1007/s00122-006-0392-1
 publication_title: "Genetic mapping of seed shape in three populations of recombinant inbred lines of soybean (Glycine max L. Merr.)"
 contributors: "P. Salas, J. C. Oyarzo-Llaipen, D. Wang, K. Chase, L. Mansur"

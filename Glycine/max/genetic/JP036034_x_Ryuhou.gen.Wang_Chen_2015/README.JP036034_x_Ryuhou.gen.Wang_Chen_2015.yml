@@ -2,13 +2,13 @@
 identifier: JP036034_x_Ryuhou.gen.Wang_Chen_2015
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2014.04.0280"
+synopsis: "Identification of Quantitative Trait Loci for Oil Content in Soybean Seed"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - JP036034 x Ryuhou
-description: "QTL experiment reported in 10.2135/cropsci2014.04.0280"
+description: "Further information provided in 10.2135/cropsci2014.04.0280"
 publication_doi: 10.2135/cropsci2014.04.0280
 publication_title: "Identification of Quantitative Trait Loci for Oil Content in Soybean Seed"
 contributors: "Jiao Wang, Pengyin Chen, Dechun Wang, Grover Shannon, Ainong Shi, Ailan Zeng, Moldir Orazaly"

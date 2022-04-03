@@ -2,13 +2,13 @@
 identifier: KefengNo1_x_Nannong1138-2.gen.Zhang_Wang_2004
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-003-1527-2"
+synopsis: "QTL mapping of ten agronomic traits on the soybean (Glycine max L. Merr.) genetic map and their association with EST markers"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Kefeng No. 1 x Nannong 1138-2
-description: "QTL experiment reported in 10.1007/s00122-003-1527-2"
+description: "Further information provided in 10.1007/s00122-003-1527-2"
 publication_doi: 10.1007/s00122-003-1527-2
 publication_title: "QTL mapping of ten agronomic traits on the soybean (Glycine max L. Merr.) genetic map and their association with EST markers"
 contributors: "W.-K. Zhang, Y.-J. Wang, G.-Z. Luo, J.-S. Zhang, C.-Y. He, X.-L. Wu, J.-Y. Gai, S.-Y. Chen"

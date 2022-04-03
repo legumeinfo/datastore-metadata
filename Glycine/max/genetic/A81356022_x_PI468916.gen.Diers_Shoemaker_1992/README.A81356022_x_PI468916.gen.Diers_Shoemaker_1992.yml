@@ -2,13 +2,13 @@
 identifier: A81356022_x_PI468916.gen.Diers_Shoemaker_1992
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/bf02637690"
+synopsis: "Restriction fragment length polymorphism analysis of soybean fatty acid content"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - A81356022 x PI468916
-description: "QTL experiment reported in 10.1007/bf02637690"
+description: "Further information provided in 10.1007/bf02637690"
 publication_doi: 10.1007/bf02637690
 publication_title: "Restriction fragment length polymorphism analysis of soybean fatty acid content"
 contributors: "B. W. Diers, R. C. Shoemaker"

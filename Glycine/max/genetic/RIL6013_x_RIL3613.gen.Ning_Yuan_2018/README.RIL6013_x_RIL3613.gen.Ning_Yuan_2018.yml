@@ -2,13 +2,13 @@
 identifier: RIL6013_x_RIL3613.gen.Ning_Yuan_2018
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1371/journal.pone.0195830"
+synopsis: "Identification of QTLs related to the vertical distribution and seed-set of pod number in soybean [Glycine max (L.) Merri]"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - RIL6013 x RIL3613
-description: "QTL experiment reported in 10.1371/journal.pone.0195830"
+description: "Further information provided in 10.1371/journal.pone.0195830"
 publication_doi: 10.1371/journal.pone.0195830
 publication_title: "Identification of QTLs related to the vertical distribution and seed-set of pod number in soybean [Glycine max (L.) Merri]"
 contributors: "Hailong Ning, Jiaqi Yuan, Quanzhong Dong, Wenbin Li, Hong Xue, Yanshu Wang, Yu Tian, Wen-Xia Li"

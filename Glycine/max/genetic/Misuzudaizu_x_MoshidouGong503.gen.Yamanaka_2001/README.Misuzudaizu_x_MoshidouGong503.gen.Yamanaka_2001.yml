@@ -2,13 +2,13 @@
 identifier: Misuzudaizu_x_MoshidouGong503.gen.Yamanaka_2001
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1093/dnares/8.2.61"
+synopsis: "An Informative Linkage Map of Soybean Reveals QTLs for Flowering Time, Leaflet Morphology and Regions of Segregation Distortion"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Misuzudaizu x Moshidou Gong 503
-description: "QTL experiment reported in 10.1093/dnares/8.2.61"
+description: "Further information provided in 10.1093/dnares/8.2.61"
 publication_doi: 10.1093/dnares/8.2.61
 publication_title: "An Informative Linkage Map of Soybean Reveals QTLs for Flowering Time, Leaflet Morphology and Regions of Segregation Distortion"
 contributors: "N. Yamanaka"

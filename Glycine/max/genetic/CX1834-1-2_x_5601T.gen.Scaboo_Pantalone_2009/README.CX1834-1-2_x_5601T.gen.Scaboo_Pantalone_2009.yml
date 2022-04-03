@@ -2,13 +2,13 @@
 identifier: CX1834-1-2_x_5601T.gen.Scaboo_Pantalone_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.2135/cropsci2007.11.0614"
+synopsis: "Confirmation of Molecular Markers and Agronomic Traits Associated with Seed Phytate Content in Two Soybean RIL Populations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - CX1834-1-2 x 5601T
-description: "QTL experiment reported in 10.2135/cropsci2007.11.0614"
+description: "Further information provided in 10.2135/cropsci2007.11.0614"
 publication_doi: 10.2135/cropsci2007.11.0614
 publication_title: "Confirmation of Molecular Markers and Agronomic Traits Associated with Seed Phytate Content in Two Soybean RIL Populations"
 contributors: "A.M. Scaboo, V.R. Pantalone, D.R. Walker, H.R. Boerma, D.R. West, F.R. Walker, C.E. Sams"

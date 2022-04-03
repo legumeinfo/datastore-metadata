@@ -2,13 +2,13 @@
 identifier: Douglas_x_Pyramid.gen.Njiti_Meksem_2002
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s001220100682"
+synopsis: "Common loci underlie field resistance to soybean sudden death syndrome in Forrest, Pyramid, Essex, and Douglas"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Douglas x Pyramid
-description: "QTL experiment reported in 10.1007/s001220100682"
+description: "Further information provided in 10.1007/s001220100682"
 publication_doi: 10.1007/s001220100682
 publication_title: "Common loci underlie field resistance to soybean sudden death syndrome in Forrest, Pyramid, Essex, and Douglas"
 contributors: "V. N. Njiti, K. Meksem, M. J. Iqbal, J. E. Johnson, My. A. Kassem, K. F. Zobrist, V. Y. Kilo, D. A. Lightfoot"

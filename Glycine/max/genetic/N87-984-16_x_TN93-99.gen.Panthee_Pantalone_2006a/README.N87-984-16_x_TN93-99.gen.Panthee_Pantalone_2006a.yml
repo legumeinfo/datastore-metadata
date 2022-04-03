@@ -2,13 +2,13 @@
 identifier: N87-984-16_x_TN93-99.gen.Panthee_Pantalone_2006a
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-005-0161-6"
+synopsis: "Quantitative trait loci controlling sulfur containing amino acids, methionine and cysteine, in soybean seeds"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - N87-984-16 x TN93-99
-description: "QTL experiment reported in 10.1007/s00122-005-0161-6"
+description: "Further information provided in 10.1007/s00122-005-0161-6"
 publication_doi: 10.1007/s00122-005-0161-6
 publication_title: "Quantitative trait loci controlling sulfur containing amino acids, methionine and cysteine, in soybean seeds"
 contributors: "D. R. Panthee, V. R. Pantalone, C. E. Sams, A. M. Saxton, D. R. West, J. H. Orf, A. S. Killam"

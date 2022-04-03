@@ -2,13 +2,13 @@
 identifier: XuyongHongdouXu_x_Baohexuan3.gen.Cheng_Wang_2011
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-011-1594-8"
+synopsis: "Genetic analysis and QTL detection of reproductive period and post-flowering photoperiod responses in soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Xuyong Hongdou (Xu) x Baohexuan 3
-description: "QTL experiment reported in 10.1007/s00122-011-1594-8"
+description: "Further information provided in 10.1007/s00122-011-1594-8"
 publication_doi: 10.1007/s00122-011-1594-8
 publication_title: "Genetic analysis and QTL detection of reproductive period and post-flowering photoperiod responses in soybean"
 contributors: "Lirui Cheng, Ying Wang, Chunbin Zhang, Cunxiang Wu, Jianlong Xu, Huiying Zhu, Jiantian Leng, Yangnian Bai, Rongxia Guan, Wensheng Hou, Lijuan Zhang, Tianfu Han"

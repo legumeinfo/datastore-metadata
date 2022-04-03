@@ -2,13 +2,13 @@
 identifier: Zhongdou27_x_Jiunong20.gen.Zeng_Li_2009
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1007/s00122-009-0994-5"
+synopsis: "Identification of QTL underlying isoflavone contents in soybean seeds among multiple environments"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Zhongdou 27 x Jiunong 20
-description: "QTL experiment reported in 10.1007/s00122-009-0994-5"
+description: "Further information provided in 10.1007/s00122-009-0994-5"
 publication_doi: 10.1007/s00122-009-0994-5
 publication_title: "Identification of QTL underlying isoflavone contents in soybean seeds among multiple environments"
 contributors: "Guoliang Zeng, Dongmei Li, Yingpeng Han, Weili Teng, Jian Wang, Liquan Qiu, Wenbin Li"
