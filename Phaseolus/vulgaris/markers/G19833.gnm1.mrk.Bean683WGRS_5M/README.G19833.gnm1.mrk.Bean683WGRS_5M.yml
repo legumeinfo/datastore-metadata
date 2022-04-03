@@ -1,12 +1,12 @@
 ---
-identifier: G19833.gnm1.mrk.Wu_Wang_2020_683_WGRS
+identifier: G19833.gnm1.mrk.Bean683WGRS_5M
 scientific_name: Phaseolus vulgaris
 taxid: 3885
 scientific_name_abbrev: phavu
 genotype: 
   - G19833
-synopsis: Marker SNPs were identified from whole genome resequencing (WGRS) of 683 common bean genotypes, relative to the Phaseolus vulgaris assembly G19833.gnm1.
-genotyping_platform: Wu_Wang_2020_683_WGRS
+synopsis: Approximately 5 million SNP markers reported by Wu, Wang et al. 2020, identified from whole genome resequencing (WGRS) of 683 common bean genotypes, relative to the Phaseolus vulgaris assembly G19833.gnm1.
+genotyping_platform: Bean683WGRS_5M
 description: The researchers conducted a large-scale whole-genome resequencing (WGRS) of 683 common bean (Phaseolus vulgaris) accessions. Paired-end Illumina reads of all genotypes were aligned and mapped to the Andean common bean reference genome G19833 gnm1.
 publication_doi: 10.1038/s41588-019-0546-0
 publication_title: Resequencing of 683 common bean genotypes identifies yield component trait associations across a north-south cline.

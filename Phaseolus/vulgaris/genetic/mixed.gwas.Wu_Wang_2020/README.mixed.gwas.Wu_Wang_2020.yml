@@ -6,7 +6,7 @@ scientific_name_abbrev: phavu
 genotype: 
   - 529 landraces and 154 breeding lines, Andean and Mesoamerican gene pools, and 555 Chinese and 128 non-Chinese accessions
 synopsis: GWAS of agronomic, architecture, and biotic stress traits at different locations within China for Common bean, relative to the G19833 assembly 1.0.
-genotyping_platform: Wu_Wang_2020_683_WGRS
+genotyping_platform: Bean683WGRS_5M
 genotyping_method: whole-genome resequencing
 description: "The researchers conducted a large-scale whole-genome resequencing (WGRS) and genome-wide association study (GWAS) evaluation of 683 common bean (Phaseolus vulgaris) accessions. These plants represented both 529 landraces and 154 breeding lines, Andean and Mesoamerican gene pools, and 555 Chinese and 128 non-Chinese accessions. Genotypes were sequenced with Illumina, and paired-end reads of all genotypes were aligned and mapped to the Andean common bean reference genome G19833 (v. 1.0). Anthracnose resistance was evaluated indoors for Colletotrichum lindemuthianum. Marker trait associations (MTAs) were investigated with GWAS for 20 phenotype traits including 15 quantitatively inherited yield components (628 accessions), 2 dichotomous traits (growth habit and plant type: 628 accessions), and 3 biotic stress traits. Genotype-environment interactions were examined for field locations to assess how plants responded to differences in day length, soil, and climate (altitude, temperature, rainfall)."
 data_curators: Scott Kalberer
