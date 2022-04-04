@@ -1,0 +1,14 @@
+---
+taxid: 53854
+genus: Chamaecrista
+species: fasciculata
+abbrev: chafa
+commonName: partridge pea
+description: "Chamaecrista fasciculata, the partridge pea, is a species of legume native to most of the eastern United States. It is an annual which grows to approximately 0.5 meters tall. It has bright yellow flowers from early summer until first frost, with flowers through the entire flowering season if rainfall is sufficient."
+
+strains:
+  - identifier: MN87
+    accession: MN87
+    name: MN87
+    origin: Toulouse, France
+    description: "Chamaecrista fasciculata MN87 was sequenced and reported in Griesmann, et al. DOI: 10.1126/science.aat1743"
