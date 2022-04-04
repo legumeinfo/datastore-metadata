@@ -1,0 +1,27 @@
+---
+identifier: CIAT22838.gnm1.XF73
+
+synopsis: "Aeschynomene evenia isolate CIAT22838, whole genome shotgun sequencing project."
+
+scientific_name: Aeschynomene evenia
+
+taxid: 561484
+
+scientific_name_abbrev: aesev
+
+genotype:
+  - CIAT 22838
+
+description: "Aeschynomene evenia isolate CIAT22838, whole genome shotgun sequencing project."
+
+bioproject: PRJNA448804
+
+sraproject: SRP150701
+
+genbank_accession: GCA_013621005.1
+
+publication_doi: 10.1038/s41467-021-21094-7
+
+publication_title: "Genetics of nodulation in Aeschynomene evenia uncovers mechanisms of the rhizobium–legume symbiosis"
+
+citation: "Quilbé, J. et al. Genetics of nodulation in Aeschynomene evenia uncovers mechanisms of the rhizobium-legume symbiosis. Nat. Commun. 12, 829 (2021)"
