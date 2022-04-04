@@ -18,6 +18,7 @@ resources:
 
 strains:
   - identifier: ICPL87119 
-    accession: ICPL87119
-    name: ICPL87119
-    origin: International Crops Research Inst. for the Semi-Arid Tropics (ICRISAT) 
+    accession: ICPL 87119
+    name: ICPL 87119
+    description: "ICPL 87119 is a high-yielding pigeonpea variety, resistant to fusarium wilt and sterility mosaic diseases, identified for release in the central and south zones of India in 1992."
+    origin: International Crops Research Inst. for the Semi-Arid Tropics (ICRISAT)
