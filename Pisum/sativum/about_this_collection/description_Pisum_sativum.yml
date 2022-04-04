@@ -8,6 +8,7 @@ description: "Pea is an important grain legume, serving multiple roles: as a dry
 
 strains:
   - identifier: Cameor
+    accession: Cameor
     name: Cameor
     origin: France
     description: "The variety Cameor was released by the French breeding company Seminor in 1973."
