@@ -18,6 +18,8 @@ scientific_name_abbrev: vigra
 genotype:
   - VC1973A
 
+genotyping_platform: TG34
+
 description: "SSR markers from Genome assembly (scaffolds and pseudomolecules) of Vigna radiata. SSRs were predicted using the MISA MIcroSAtellite identification tool (http://pgrc.ipk-gatersleben.de/misa/)"
 
 original_file_creation_date: "2017-01-01"
