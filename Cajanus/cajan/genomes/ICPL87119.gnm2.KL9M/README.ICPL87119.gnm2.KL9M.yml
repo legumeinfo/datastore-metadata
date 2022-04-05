@@ -1,0 +1,46 @@
+---
+identifier: ICPL87119.gnm2.KL9M  
+
+provenance: "The files in this directory originated from https://cegresources.icrisat.org/legumepedia/index.php. That repository is considered primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at these project websites. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://cegresources.icrisat.org/data_public/legumepedia_data/Cajanus_cajan/Genome/Cca.genome.fa.gz"
+
+synopsis: Cajanus cajan genotype ICPL87119 genome assembly v2.0
+
+scientific_name: Cajanus cajan
+
+taxid: 3821
+
+bioproject: PRJNA679437
+
+scientific_name_abbrev: cajca
+
+genotype:
+  - ICPL87119
+
+description: "Files in this directory are genome assembly files for genotype Asha, Garg (2021)"
+
+genbank_accession: none 
+
+original_file_creation_date: "2021-05-10"
+
+local_file_creation_date: "2022-02-17"
+
+publication_doi: 10.1016/j.jare.2021.10.009 
+
+dataset_release_date: "2022-04-02"
+
+publication_title: "chromosome-length genome assemblies of six legume species provide insights into genome organization, evolution, and agronomic traits for crop improvement"
+
+contributors: "Vanika Garg, Olga Dudchenko, Jinpeng Wang, Aamir W. Khan, Saurabh Gupta, Parwinder Kaur, kai Han, Rachit K. Saxena, Sandip M. Kale, Melanie Pham, Jigao Yu, Annapurna Chitikineni, Zhikang Zhang, Guangyi Fan, Christopher Lui, Vinodkumar Valluri, Fanbo Meng, Aditi Bhandari, Xiaochuan Liu ... Rajeev k. Varshney"
+
+data_curators: Wei Huang
+
+public_access_level: public
+
+license: Open
+
+keywords: genome, pigeonpea, Cajanus cajan
+
+citation: "Vanika Garg, Olga Dudchenko, Jinpeng Wang, Aamir W. Khan, Saurabh Gupta, Parwinder Kaur, kai Han, Rachit K. Saxena, Sandip M. Kale, Melanie Pham, Jigao Yu, Annapurna Chitikineni, Zhikang Zhang, Guangyi Fan, Christopher Lui, Vinodkumar Valluri, Fanbo Meng, Aditi Bhandari, Xiaochuan Liu ... Rajeev k. Varshney, Chromosome-length genome assemblies of six legume species provide insights into genome organization, evolution, and agronomic traits for crop improvement. Journal of Advanced Research Nov. (2021)."
+

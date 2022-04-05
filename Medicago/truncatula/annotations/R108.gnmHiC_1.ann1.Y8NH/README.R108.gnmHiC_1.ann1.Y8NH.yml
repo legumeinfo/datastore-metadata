@@ -1,0 +1,48 @@
+---
+identifier: R108.gnmHiC_1.ann1.Y8NH
+
+provenance: "Permission to include in LIS given by Kiran Mysore and Parwinder Kaur"
+
+source: "https://www.dnazoo.org/assemblies/Medicago_truncatula"
+
+synopsis: "An assembly based on the earlier PacBio-based genome (R108_HM340.gnm1.XT6J), put into pseudomolecules using HiC scaffolding."
+
+related_to: R108.gnmHiC_1.7RWS
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+scientific_name_abbrev: medtr
+
+genotype:
+  - R108
+
+description: "Here, we performed in situ Hi-C (48×) to anchor, order, orient scaffolds, and correct misjoins of contigs in a previously published genome assembly (R108 v1.0), resulting in an improved genome assembly containing eight chromosome-length scaffolds that span 97.62% of the sequenced bases in the input assembly. The long-range physical information data generated using Hi-C allowed us to obtain a chromosome-length ordering of the genome assembly, better validate previous draft misjoins, and provide further insights accurately predicting synteny between A17 and R108 regions corresponding to the known chromosome 4/8 translocation."
+
+bioproject: PRJNA512907
+
+sraproject: SRP175152
+
+original_file_creation_date: "2021-08-04"
+
+local_file_creation_date: "2021-12-28"
+
+dataset_release_date: "2022-03-21"
+
+publication_doi: 10.3390/ijms22094326
+
+publication_title: "Delineating the Tnt1 Insertion Landscape of the Model Legume Medicago truncatula cv. R108 at the Hi-C Resolution Using a Chromosome-Length Genome Assembly"
+
+contributors: "Kaur, Parwinder; ... ; Mysore, Kirankumar"
+
+citation: "Kaur P, Lui C, Dudchenko O, Nandety RS, Hurgobin B, Pham M, Lieberman Aiden E, Wen J, Mysore KS. Delineating the Tnt1 Insertion Landscape of the Model Legume Medicago truncatula cv. R108 at the Hi-C Resolution Using a Chromosome-Length Genome Assembly. International Journal of Molecular Sciences. 2021; 22(9):4326. https://doi.org/10.3390/ijms22094326"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: Medicago truncatula, R108, Tnt1 insertion mutants
+

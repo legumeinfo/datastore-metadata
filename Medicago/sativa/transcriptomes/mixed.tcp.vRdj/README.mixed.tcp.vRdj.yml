@@ -1,9 +1,9 @@
 ---
 identifier: mixed.tcp1.vRdj
 
-provenance: "The original repository was http://medsa.comparative-legumes.org/, which has been replaced by this repository at http://legumeinfo.org/data/Medicago_sativa/"
+provenance: "The original repository was http://medsa.comparative-legumes.org/, which has been replaced by this repository at http://data.legumeinfo.org/Medicago_sativa/"
 
-source: "http://legumeinfo.org/data/Medicago_sativa/"
+source: "http://data.legumeinfo.org/Medicago_sativa/"
 
 synopsis: transcriptome assembly
 

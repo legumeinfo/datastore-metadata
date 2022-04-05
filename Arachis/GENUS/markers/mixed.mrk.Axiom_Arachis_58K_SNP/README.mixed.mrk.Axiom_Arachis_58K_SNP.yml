@@ -3,7 +3,7 @@ identifier: mixed.mrk.Axiom_Arachis_58K_SNP
 
 provenance: "Data in this directory derives from a project from the publication by Pandey, Agarwal et al., (2017; see citation field). Placement of the markers on the A. duranensis and A. ipaensis genome assemblies was done by Josh Clevenger in November, 2016, and evaluation and selection of 15746 markers that are polymorphic in A. hypogaea was done by Ye Chu and Josh Clevenger in 2016."
 
-source: "http://legumeinfo.org/data/public/"
+source: "http://data.legumeinfo.org/"
 
 synopsis: Selected SNP markers (15746) from the 2016 58k Axiom Arachis array.
 

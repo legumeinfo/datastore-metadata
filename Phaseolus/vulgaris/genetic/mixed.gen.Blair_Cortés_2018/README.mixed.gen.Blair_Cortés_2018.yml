@@ -2,7 +2,7 @@ identifier: mixed.gen.Blair_Cortés_2018
 
 provenance: "The files in this directory are the primary source of these files. The markers were first described in Blair et al., 2013 (see below), and derive from Supplementary material 2, DOI: 10.1007/s00122-012-1999-z. An augmented set of markers was mapped and described in Blair et al., 2018, and are published in this data set."
 
-source: "https://legumeinfo.org/data/public/Phaseolus/vulgaris"
+source: "https://data.legumeinfo.org/Phaseolus/vulgaris"
 
 synopsis: "Genetic map of markers to Phaseolus vulgaris accession G19833 genome assembly v1.0"
 
