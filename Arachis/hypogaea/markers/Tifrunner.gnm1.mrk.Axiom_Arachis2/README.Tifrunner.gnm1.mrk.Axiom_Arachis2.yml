@@ -1,0 +1,32 @@
+identifier: Tifrunner.gnm1.mrk.Axiom_Arachis2
+ 
+synopsis: "Axiom_Arachis2 is a SNP marker set developed by Clevenger, et al. DOI:10.1016/j.molp.2016.11.015"
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype:
+ - Tifrunner
+
+genotyping_platform: Axiom_Arachis2
+
+description: "To facilitate high-throughput genotyping of Arachis species, 20 genotypes were re-sequenced and genome-wide single nucleotide polymorphisms (SNPs) were selected to develop a large-scale SNP genotyping array. For flexibility in genotyping applications, SNPs polymorphic between tetraploid and diploid species were included for use in cultivated and interspecific populations. A set of 384 accessions was used to test the array resulting in 54 564 markers that produced high-quality polymorphic clusters between diploid species, 47 116 polymorphic markers between cultivated and interspecific hybrids, and 15 897 polymorphic markers within A. hypogaea germplasm. An additional 1193 markers were identified that illuminated genomic regions exhibiting tetrasomic recombination."
+
+publication_doi: 10.1016/j.molp.2016.11.015
+
+publication_title: "Genome-wide SNP Genotyping Resolves Signatures of Selection and Tetrasomic Recombination in Peanut"
+
+contributors: "Josh Clevenger, Ye Chu, Carolina Chavarro, Gaurav Agarwal, David J. Bertioli, Soraya C.M. Leal-Bertioli, Manish K. Pandey, Justin Vaughn, Brian Abernathy, Noelle A. Barkley, Ran Hovav, Mark Burow, Spurthi N. Nayak, Annapurna Chitikineni, Thomas G. Isleib, C. Corley Holbrook, Scott A. Jackson, Rajeev K. Varshney, Peggy Ozias-Akins"
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: peanut, Arachis hypogaea, SNP, genetic marker
+
+citation: "Clevenger, J. et al. Genome-wide SNP Genotyping Resolves Signatures of Selection and Tetrasomic Recombination in Peanut. Mol. Plant 10, 309–322 (2017)"

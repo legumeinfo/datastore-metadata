@@ -1,0 +1,32 @@
+identifier: Tifrunner.gnm1.mrk.Axiom_Arachis_58K
+ 
+synopsis: "Axiom_Arachis_58K is a high-density SNP array with 58,233 SNPs reduced from 163,782 SNPs derived from DNA resequencing and RNA-sequencing of 41 groundnut accessions and wild diploid ancestors."
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype:
+ - Tifrunner
+
+genotyping_platform: Axiom_Arachis_58K
+
+description: "The analysis of the sequencing data generated from 41 genotypes (30 tetraploids and 11 diploids) against the genomes of two groundnut progenitors i.e., A. duranensis (A subgenome) and A. ipaensis (B subgenome) (Supplementary Table S1) yielded a total of 163,782 SNPs i.e., 98,375 SNPs from A subgenome and 65,407 SNPs from B subgenome. Of the 41 genotypes, sequence analysis of 30 tetraploid genotypes identified 118,860 SNPs (58,438 SNPs from A subgenome and 60,422 SNPs from B subgenome) while 11 diploid genotypes yielded 44,922 SNPs (39,937 SNPs from A subgenome and 4,985 SNPs from B subgenome). Among 30 tetraploid genotypes, analysis of WGRS data for 27 genotypes yielded 113, 835 SNPs (58,438 SNPs from A subgenome and 55,397 SNPs from B subgenome) and RNAseq data of three tetraploid genotypes yielded 5,025 SNPs from B subgenome. All the identified 163,782 SNPs were subjected to filtering to select SNPs of good quality. The above SNP set also had 52 highly informative SNPs associated with resistance to foliar fungal diseases and oil quality. During filtering process, a total of 96,858 SNPs were discarded as 46,205 SNPs were found on both genomes, 50,642 SNPs were present on either of the two strands of DNA, and 11 SNPs were found identical. As a result, only 66,924 SNPs passed the filtering test. From this set, 825 SNPs, however, were further removed because of ambiguity and multi-allelic nature of these SNPs, leaving 66,099 good quality SNPs. From the set of 66,099 good quality SNPs, finally, 58,233 SNPs uniformly distributed across A and B subgenomes were tiled on the Axiom_Arachis array."
+
+publication_doi: 10.1038/srep40577
+
+publication_title: "Development and Evaluation of a High Density Genotyping ‘Axiom_Arachis’ Array with 58 K SNPs for Accelerating Genetics and Breeding in Groundnut"
+
+contributors: "Manish K. Pandey, Gaurav Agarwal, Sandip M. Kale, Josh Clevenger, Spurthi N. Nayak, Manda Sriswathi, Annapurna Chitikineni, Carolina Chavarro, Xiaoping Chen, Hari D. Upadhyaya, Manish K. Vishwakarma, Soraya Leal-Bertioli, Xuanqiang Liang, David J. Bertioli, Baozhu Guo, Scott A. Jackson, Peggy Ozias-Akins, Rajeev K. Varshney "
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: peanut, Arachis hypogaea, SNP, genetic marker
+
+citation: "Pandey, M. K. et al. Development and Evaluation of a High Density Genotyping ‘Axiom_Arachis’ Array with 58 K SNPs for Accelerating Genetics and Breeding in Groundnut. Sci. Rep. 7, 40577 (2017)"
