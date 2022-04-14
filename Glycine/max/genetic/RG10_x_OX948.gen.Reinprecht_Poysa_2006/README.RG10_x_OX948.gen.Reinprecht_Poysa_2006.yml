@@ -1,8 +1,9 @@
 ---
 identifier: RG10_x_OX948.gen.Reinprecht_Poysa_2006
+genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "Seed and agronomic QTL in low linolenic acid, lipoxygenase-free soybean (Glycine max(L.) Merrill) germplasm"
+synopsis: "Seed and agronomic QTL in low linolenic acid, lipoxygenase-free soybean (<i>Glycine max</i>(L.) Merrill) germplasm"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
@@ -10,7 +11,7 @@ genotype:
   - RG10 x OX948
 description: "Further information provided in 10.1139/g06-112"
 publication_doi: 10.1139/g06-112
-publication_title: "Seed and agronomic QTL in low linolenic acid, lipoxygenase-free soybean (Glycine max(L.) Merrill) germplasm"
+publication_title: "Seed and agronomic QTL in low linolenic acid, lipoxygenase-free soybean (<i>Glycine max</i>(L.) Merrill) germplasm"
 contributors: "Yarmilla Reinprecht, Vaino W. Poysa, Kangfu Yu, Istvan Rajcan, Gary R. Ablett, K. Peter Pauls"
 public_access_level: public
 license: Open

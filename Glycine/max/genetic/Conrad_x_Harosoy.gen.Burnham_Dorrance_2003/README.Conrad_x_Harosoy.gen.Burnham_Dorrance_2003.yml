@@ -1,8 +1,9 @@
 ---
 identifier: Conrad_x_Harosoy.gen.Burnham_Dorrance_2003
+genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "Quantitative Trait Loci for Partial Resistance to Phytophthora sojae in Soybean"
+synopsis: "Quantitative Trait Loci for Partial Resistance to <i>Phytophthora sojae</i> in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
@@ -10,7 +11,7 @@ genotype:
   - Conrad x Harosoy
 description: "Further information provided in 10.2135/cropsci2003.1610"
 publication_doi: 10.2135/cropsci2003.1610
-publication_title: "Quantitative Trait Loci for Partial Resistance to Phytophthora sojae in Soybean"
+publication_title: "Quantitative Trait Loci for Partial Resistance to <i>Phytophthora sojae</i> in Soybean"
 contributors: "K. D. Burnham, A. E. Dorrance, T. T. VanToai, S. K. St. Martin"
 public_access_level: public
 license: Open

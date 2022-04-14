@@ -1,5 +1,6 @@
 ---
 identifier: PI27890_x_PI290136.gen.Lark_Chase_1995
+genetic_map: GmComposite2003,GmUtah1996,GmComposite1999
 provenance: SoyBase
 source: "https://soybase.org/"
 synopsis: "Interactions between quantitative trait loci in soybean in which trait variation at one locus is conditional upon a specific allele at another."

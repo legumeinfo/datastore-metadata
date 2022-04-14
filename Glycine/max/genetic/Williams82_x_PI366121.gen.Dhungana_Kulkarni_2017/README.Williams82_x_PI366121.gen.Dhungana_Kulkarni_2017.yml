@@ -1,8 +1,9 @@
 ---
 identifier: Williams82_x_PI366121.gen.Dhungana_Kulkarni_2017
+genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "Mapping quantitative trait loci controlling soybean seed starch content in an interspecific cross of ‘Williams 82’ (Glycine max ) and ‘PI 366121’ (Glycine soja )"
+synopsis: "Mapping quantitative trait loci controlling soybean seed starch content in an interspecific cross of ‘Williams 82’ (<i>Glycine max</i> ) and ‘PI 366121’ (<i>Glycine soja</i> )"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
@@ -10,7 +11,7 @@ genotype:
   - Williams 82 x PI 366121
 description: "Further information provided in 10.1111/pbr.12480"
 publication_doi: 10.1111/pbr.12480
-publication_title: "Mapping quantitative trait loci controlling soybean seed starch content in an interspecific cross of ‘Williams 82’ (Glycine max ) and ‘PI 366121’ (Glycine soja )"
+publication_title: "Mapping quantitative trait loci controlling soybean seed starch content in an interspecific cross of ‘Williams 82’ (<i>Glycine max</i> ) and ‘PI 366121’ (<i>Glycine soja</i> )"
 contributors: "Sanjeev K. Dhungana, Krishnanand P. Kulkarni, Cheol W. Park, Hyun Jo, Jong T. Song, Dong-Hyun Shin, Jeong-Dong Lee"
 public_access_level: public
 license: Open

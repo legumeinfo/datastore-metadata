@@ -1,5 +1,6 @@
 ---
 identifier: mixed.gen.Hwang_King_2016
+genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
 synopsis: "Meta-analysis to refine map position and reduce confidence intervals for delayed-canopy-wilting QTLs in soybean"

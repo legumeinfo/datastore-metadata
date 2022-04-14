@@ -1,8 +1,9 @@
 ---
 identifier: Minsoy_x_Noir1.gen.Njiti_Lightfoot_2006
+genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "Genetic analysis infers Dt loci underlie resistance to Fusarium solani f. sp. glycines in indeterminate soybeans"
+synopsis: "Genetic analysis infers <i>Dt</i> loci underlie resistance to <i>Fusarium solani</i> f. sp. <i>glycines</i> in indeterminate soybeans"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
@@ -10,7 +11,7 @@ genotype:
   - Minsoy x Noir 1
 description: "Further information provided in 10.4141/p05-046"
 publication_doi: 10.4141/p05-046
-publication_title: "Genetic analysis infers Dt loci underlie resistance to Fusarium solani f. sp. glycines in indeterminate soybeans"
+publication_title: "Genetic analysis infers <i>Dt</i> loci underlie resistance to <i>Fusarium solani</i> f. sp. <i>glycines</i> in indeterminate soybeans"
 contributors: "V. N. Njiti, D. A. Lightfoot"
 public_access_level: public
 license: Open

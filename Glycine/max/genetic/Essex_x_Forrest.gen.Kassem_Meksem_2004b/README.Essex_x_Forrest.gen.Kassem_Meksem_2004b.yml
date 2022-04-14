@@ -1,14 +1,15 @@
 ---
 identifier: Essex_x_Forrest.gen.Kassem_Meksem_2004b
+genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL experiment reported in 10.1023/b:plso.0000030189.96115.21"
+synopsis: "Loci underlying resistance to manganese toxicity mapped in a soybean recombinant inbred line population of `Essex' x `Forrest'"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Essex x Forrest
-description: "QTL experiment reported in 10.1023/b:plso.0000030189.96115.21"
+description: "Further information provided in 10.1023/b:plso.0000030189.96115.21"
 publication_doi: 10.1023/b:plso.0000030189.96115.21
 publication_title: "Loci underlying resistance to manganese toxicity mapped in a soybean recombinant inbred line population of `Essex' x `Forrest'"
 contributors: "My.A. Kassem, K. Meksem, C.H. Kang, V.N. Njiti, V. Kilo, A.J. Wood, D.A. Lightfoot"
