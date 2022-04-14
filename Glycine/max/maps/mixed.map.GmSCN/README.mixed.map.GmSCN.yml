@@ -1,0 +1,18 @@
+---
+identifier: mixed.map.GmSCN
+genetic_map: GmSCN
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Consensus genetic map GmSCN from SoyBase."
+description: "Consensus genetic map GmSCN drawn from SoyBase."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - mixed
+publication_doi: 10.1093/nar/gkp798
+publication_title: "SoyBase, the USDA-ARS soybean genetics and genomics database"
+contributors: "David Grant, Rex T. Nelson, Steven B. Cannon, Randy C. Shoemaker"
+citation: "Grant, D., Nelson, R. T., Cannon, S. B. & Shoemaker, R. C. SoyBase, the USDA-ARS soybean genetics and genomics database. Nucleic Acids Res. 38, D843–6 (2010)"
+public_access_level: public
+license: Open
