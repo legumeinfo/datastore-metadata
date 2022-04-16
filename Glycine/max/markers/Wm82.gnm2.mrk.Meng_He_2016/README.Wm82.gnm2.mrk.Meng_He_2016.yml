@@ -1,6 +1,8 @@
 ---
 identifier: Wm82.gnm2.mrk.Meng_He_2016
 
+genotyping_platform: Meng_He_2016
+
 taxid: 3847
 
 scientific_name: Glycine max
@@ -14,7 +16,7 @@ description: "The RAD-seq (restriction-site-association DNA sequencing) was used
 
 synopsis: "GWAS study of seed isoflavone content (SIFC), conducted on 366 landraces, genotyped with 116,769 RAD-Seq markers."
 
-publication_title: "Detecting the QTL-allele system of seed isoflavone content in Chinese soybean landrace population for optimal cross design and gene system exploration."
+publication_title: "Detecting the QTL-allele system of seed isoflavone content in Chinese soybean landrace population for optimal cross design and gene system exploration"
 
 publication_doi: 10.1007/s00122-016-2724-0
 

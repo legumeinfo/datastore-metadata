@@ -1,6 +1,8 @@
 ---
 identifier: Wm82.gnm2.mrk.SoySNP50K
 
+genotyping_platform: SoySNP50K
+
 synopsis: "SoySNP50K is an Illumina Infinium II BeadChip that contains over 50,000 SNPs from soybean useful for genotyping a wide variety of cultivated and wild soybean accessions."
 
 related_to: Wm82.gnm2.DTC4
