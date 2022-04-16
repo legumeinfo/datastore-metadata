@@ -1,0 +1,35 @@
+---
+identifier: Wm82.gnm2.mrk.BARCSOYSSR
+
+genotyping_platform: BARCSOYSSR
+
+synopsis: "BARCSOYSSR contains 33,065 locus-specific SSR markers with di-, tri-, and tetranucleotide repeats of five or more."
+
+related_to: Wm82.gnm1.FCtY
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+description: "The objectives of this study were to determine the abundance of SSRs in the soybean genome and to develop and test soybean SSR markers to create a database of locus-specific markers with a high likelihood of polymorphism. A total of 210,990 SSRs with di-, tri-, and tetranucleotide repeats of five or more were identified in the soybean whole genome sequence (WGS) which included 61,458 SSRs consisting of repeat units of di- (≥10), tri- (≥8), and tetranucleotide (≥7). Among the 61,458 SSRs, (AT)n, (ATT)n and (AAAT)n were the most abundant motifs among di-, tri-, and tetranucleotide SSRs, respectively. After screening for a number of factors including locus-specificity using e-PCR, a soybean SSR database (BARCSOYSSR_1.0) with the genome position and primer sequences for 33,065 SSRs was created."
+
+publication_doi: 10.2135/cropsci2009.10.0607
+
+publication_title: "Abundance of SSR Motifs and Development of Candidate Polymorphic SSR Markers (BARCSOYSSR_1.0) in Soybean"
+
+contributors: "Qijian Song, Gaofeng Jia, Youlin Zhu, David Grant, Rex T. Nelson, Eun-Young Hwang, David L. Hyten, and Perry B. Cregan"
+
+citation: "Song, Q. et al. Abundance of SSR Motifs and Development of Candidate Polymorphic SSR Markers (BARCSOYSSR_1.0) in Soybean. Crop Science vol. 50 1950–1960 (2010)"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, genetic markers, genotyping, SSR
