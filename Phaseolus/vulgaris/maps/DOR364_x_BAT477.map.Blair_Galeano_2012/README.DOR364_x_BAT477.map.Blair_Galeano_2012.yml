@@ -1,5 +1,5 @@
 ---
-identifier: DOR364_x_BAT477.gen.Blair_Galeano_2012
+identifier: DOR364_x_BAT477.map.Blair_Galeano_2012
 
 genetic_map: DOR364_x_BAT477_a
 
@@ -8,8 +8,6 @@ synopsis: "A mapping population of 113 RILs in the F5:7 generation was generated
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
-
-bioproject: none
 
 scientific_name_abbrev: phavu
 

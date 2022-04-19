@@ -1,5 +1,5 @@
 ---
-identifier: BAT93_x_JALOEEP558.gen.Caldas_Blair_2009
+identifier: BAT93_x_JALOEEP558.map.Caldas_Blair_2009
 
 genetic_map: BAT93_x_JALOEEP558_a
 
@@ -8,8 +8,6 @@ synopsis: "Three RIL populations were used to find QTLs for seed color."
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
-
-bioproject: none
 
 scientific_name_abbrev: phavu
 

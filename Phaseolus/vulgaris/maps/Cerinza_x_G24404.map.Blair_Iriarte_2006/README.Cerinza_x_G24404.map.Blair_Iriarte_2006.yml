@@ -1,5 +1,5 @@
 ---
-identifier: Cerinza_x_G24404.gen.Blair_Iriarte_2006
+identifier: Cerinza_x_G24404.map.Blair_Iriarte_2006
 
 genetic_map: Cerinza_x_G24404_a
 
@@ -8,8 +8,6 @@ synopsis: "Agronomic performance traits were studied in a population of BC2F(3:5
 scientific_name: Phaseolus vulgaris
 
 taxid: 3885
-
-bioproject: none
 
 scientific_name_abbrev: phavu
 
