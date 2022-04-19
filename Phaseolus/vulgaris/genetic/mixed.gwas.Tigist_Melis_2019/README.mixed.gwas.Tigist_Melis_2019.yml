@@ -1,0 +1,17 @@
+---
+identifier: mixed.gwas.Tigist_Melis_2019
+taxid: 3885
+scientific_name: Phaseolus vulgaris
+scientific_name_abbrev: phavu
+genotype: 
+  - "297 common bean genotypes composed of 202 Ethiopian landraces, 27 breeding lines, 33 released varieties, and 35 Mexican bean weevil-resistant lines."
+synopsis: "GWAS of Mexican bean weevil (Zabrotes subfasciatus) resistance for Common bean, relative to the G19833 assembly 2.0."
+genotyping_platform: BARCBean6K
+genotyping_method: Illumina BARCBean6K_3 BeadChip
+description: "The common bean (Phaseolus vulgaris) in Africa is heavily damaged by the Mexican bean weevil (Zabrotes subfasciatus). This study assessed the population structure and genome-wide marker–trait associations of bruchid resistance in the common bean. The phenotypic diversity and population structure of 297 genotypes were analyzed using the Illumina BARCBean6K_3 BeadChip. The genotypes consisted of landraces, released varieties, breeding lines, and Mexican bean weevil resistant lines. A population structure analysis based on a Bayesian genotype clustering approach classified the 297 genotypes into two subpopulations (Middle American and Andean). Similar population patterns were observed using principal component analysis. The genome-wide association study (GWAS) identified 24 single-nucleotide polymorphisms (SNPs) on nine chromosomes, with a significant (P < 0.05) association with the percentages of adult emergence and seed weight loss. The SNPs located on Pv04 and Pv07 were significantly (P < 0.001) associated with the two traits. Other significant SNPs were identified on other chromosomes of the common bean, but none of them was above the cutoff point (1.00 × 10−4). NOTE: The authors appear to have placed the BARCBean6k markers onto the gnm2 assembly, but only provided positions for those markers with significant associations. Until we have the complete BARCBean6k marker set placed properly on G19833.gnm2, we will associate this file with G19833.gnm1."
+data_curators: Scott Kalberer
+publication_doi: "10.2135/cropsci2018.09.0559"
+citation: "Tigist SG, Melis R, Sibiya J, Amelework AB, Keneni G, Tegene A.  Population Structure and Genome-Wide Association Analysis of Bruchid Resistance in Ethiopian Common Bean Genotypes. Crop Sci. 2019 July-August;59(4):1504-1515. doi: 10.2135/cropsci2018.09.0559. Epub 2019 July 01. PMID: NULL; PMCID: NULL."
+publication_title: "Population Structure and Genome-Wide Association Analysis of Bruchid Resistance in Ethiopian Common Bean Genotypes"
+contributors: Tigist SG, Melis R, Sibiya J, Amelework AB, Keneni G, Tegene A
+
