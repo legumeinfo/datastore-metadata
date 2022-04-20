@@ -1,0 +1,17 @@
+---
+identifier: Charleston_x_DongNong594.gen.Yang_Xin_2013
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification of QTLs for seed and pod traits in soybean and analysis for additive effects and epistatic effects of QTLs among multiple environments."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Charleston x DongNong594
+description: "Further information provided in 10.1007/s00438-013-0779-z"
+publication_doi: 10.1007/s00438-013-0779-z
+publication_title: "Identification of QTLs for seed and pod traits in soybean and analysis for additive effects and epistatic effects of QTLs among multiple environments."
+contributors: "Yang Z, Xin D, Liu C, Jiang H, Han X, Sun Y, Qi Z, Hu G, Chen Q"
+public_access_level: public
+license: Open

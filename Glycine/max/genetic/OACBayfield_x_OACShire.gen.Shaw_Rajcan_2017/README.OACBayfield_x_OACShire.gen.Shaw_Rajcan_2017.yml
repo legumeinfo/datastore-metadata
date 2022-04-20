@@ -1,0 +1,17 @@
+---
+identifier: OACBayfield_x_OACShire.gen.Shaw_Rajcan_2017
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Molecular mapping of soybean seed tocopherols in the cross AC Bayfield X OAC Shire"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - OAC Bayfield x OAC Shire
+description: "Further information provided in 10.1111/pbr.12437 "
+publication_doi: 10.1111/pbr.12437 
+publication_title: "Molecular mapping of soybean seed tocopherols in the cross AC Bayfield X OAC Shire"
+contributors: "Eric J. Shaw, Istvan Rajcan"
+public_access_level: public
+license: Open

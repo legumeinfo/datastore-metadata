@@ -1,0 +1,18 @@
+---
+identifier: A95-684043_x_LS98-0582.gen.Swaminathan_Abeysekara_2018
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Mapping of new quantitative trait loci for sudden death syndrome and soybean cyst nematode resistance in two soybean populations"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - A95-684043 x LS98-0582
+description: "Further information provided in 10.1007/s00122-018-3057-y"
+publication_doi: 10.1007/s00122-018-3057-y
+publication_title: "Mapping of new quantitative trait loci for sudden death syndrome and soybean cyst nematode resistance in two soybean populations"
+contributors: "Sivakumar Swaminathan, Nilwala S Abeysekara, Joshua M Knight, Min Liu, Jia Dong, Matthew E Hudson, Madan K Bhattacharyya, Silvia R Cianzio"
+citation: "Swaminathan S, Abeysekara NS, Knight JM, Liu M, Dong J, Hudson ME, Bhattacharyya MK, Cianzio SR. Mapping of new quantitative trait loci for sudden death syndrome and soybean cyst nematode resistance in two soybean populations. Theor Appl Genet. 2018 May;131(5):1047-1062. doi: 10.1007/s00122-018-3057-y. Epub 2018 Mar 26. PMID: 29582113."
+public_access_level: public
+license: Open

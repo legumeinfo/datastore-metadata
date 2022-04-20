@@ -1,0 +1,17 @@
+---
+identifier: 93705KS4895_x_Jackson.gen.Hwang_King_2015
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Confirmation of delayed canopy wilting QTLs from multiple soybean mapping populations."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - 93705 KS4895 x Jackson
+description: "Further information provided in 10.1007/s00122-015-2566-1"
+publication_doi: 10.1007/s00122-015-2566-1
+publication_title: "Confirmation of delayed canopy wilting QTLs from multiple soybean mapping populations."
+contributors: "Hwang S, King CA, Ray JD, Cregan PB, Chen P, Carter TE Jr, Li Z, Abdel-Haleem H, Matson KW, Schapaugh W Jr, Purcell LC"
+public_access_level: public
+license: Open

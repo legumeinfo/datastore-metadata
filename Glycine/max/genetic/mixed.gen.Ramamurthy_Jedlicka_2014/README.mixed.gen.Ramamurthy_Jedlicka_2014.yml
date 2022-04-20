@@ -1,0 +1,19 @@
+---
+identifier: mixed.gen.Ramamurthy_Jedlicka_2014
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification of new QTLs for seed mineral, cysteine, and methionine concentrations in soybean"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Williams 82 x DSR-173
+  - Williams 82 x NKS19-90
+  - Williams 82 x Vinton 81
+description: "Further information provided in 10.1007/s11032-014-0045-z "
+publication_doi: 10.1007/s11032-014-0045-z 
+publication_title: "Identification of new QTLs for seed mineral, cysteine, and methionine concentrations in soybean"
+contributors: "Raghuprakash Kastoori Ramamurthy, Joseph Jedlicka, George L. Graef, Brian M. Waters"
+public_access_level: public
+license: Open

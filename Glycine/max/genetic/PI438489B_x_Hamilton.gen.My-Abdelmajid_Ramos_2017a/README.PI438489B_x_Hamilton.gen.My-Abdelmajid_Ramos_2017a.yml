@@ -1,0 +1,17 @@
+---
+identifier: PI438489B_x_Hamilton.gen.My-Abdelmajid_Ramos_2017a
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Quantitative Trait Loci (QTL) that Underlie SCN Resistance in Soybean [Glycine max (L.) Merr.] PI438489B by 'Hamilton' Recombinant Inbred Line (RIL) Population "
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI 438489B x Hamilton
+description: "Further information provided in 10.5147/ajpb.2014.0140 "
+publication_doi: 10.5147/ajpb.2014.0140 
+publication_title: "Quantitative Trait Loci (QTL) that Underlie SCN Resistance in Soybean [Glycine max (L.) Merr.] PI438489B by 'Hamilton' Recombinant Inbred Line (RIL) Population "
+contributors: "Kassem My Abdelmajid, Laura Ramos, D. Hyten, J. Bond, P. Arelli, V. Njiti, S. Cianzio, S. Kantartzi, K. Meksem"
+public_access_level: public
+license: Open

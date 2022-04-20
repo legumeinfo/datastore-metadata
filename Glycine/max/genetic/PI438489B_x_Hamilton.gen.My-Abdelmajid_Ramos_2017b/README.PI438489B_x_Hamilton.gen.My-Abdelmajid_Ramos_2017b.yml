@@ -1,0 +1,17 @@
+---
+identifier: PI438489B_x_Hamilton.gen.My-Abdelmajid_Ramos_2017b
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "The 'PI 438489B' by 'Hamilton' SNP-based genetic linkage map of soybean [Glycine max (L.) Merr.] identified quantitative trait loci that underlie seedling SDS resistance"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI 438489B x Hamilton
+description: "Further information provided in 10.5147/pggb.v1i1.148"
+publication_doi: 10.5147/pggb.v1i1.148
+publication_title: "The 'PI 438489B' by 'Hamilton' SNP-based genetic linkage map of soybean [Glycine max (L.) Merr.] identified quantitative trait loci that underlie seedling SDS resistance"
+contributors: "Kassem My Abdelmajid, Laura Ramos, Leonor Leandro, Gladys Mbofung, David L. Hyten, Stella K. Kantartzi, Robert L Grier IV, Victor N. Njiti, Silvia Cianzio, Khalid Meksem"
+public_access_level: public
+license: Open

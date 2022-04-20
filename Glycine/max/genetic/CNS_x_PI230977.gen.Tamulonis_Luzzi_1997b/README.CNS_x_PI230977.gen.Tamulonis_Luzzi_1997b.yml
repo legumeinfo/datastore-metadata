@@ -1,17 +1,17 @@
 ---
 identifier: CNS_x_PI230977.gen.Tamulonis_Luzzi_1997b
-genetic_map: GmRFLP-JPT
+genetic_map: GmRFLP-JPT,GmComposite1999
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "DNA Markers Associated with Resistance to Javanese Root‐Knot Nematode in Soybean"
+synopsis: "RFLP Mapping of Resistance to Southern Root‐Knot Nematode in Soybean"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - CNS x PI230977
-description: "Further information provided in 10.2135/cropsci1997.0011183x003700030015x"
-publication_doi: 10.2135/cropsci1997.0011183x003700030015x
-publication_title: "DNA Markers Associated with Resistance to Javanese Root‐Knot Nematode in Soybean"
-contributors: "J. P. Tamulonis, B. M. Luzzi, R. S. Hussey, W. A. Parrot, H. R. Boerma"
+description: "Further information provided in 10.2135/cropsci1997.0011183x003700060039x"
+publication_doi: 10.2135/cropsci1997.0011183x003700060039x
+publication_title: "RFLP Mapping of Resistance to Southern Root‐Knot Nematode in Soybean"
+contributors: "J. P. Tamulonis, B. M. Luzzi, R. S. Hussey, W. A. Parrott, H. R. Boerma"
 public_access_level: public
 license: Open

@@ -1,0 +1,18 @@
+---
+identifier: Charleston_x_Dongnong594.gen.Qi_Hou_2014
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification of quantitative trait loci (QTLs) for seed protein concentration in soybean and analysis for additive effects and epistatic effects of QTLs under multiple environments"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Charleston x Dongnong594
+description: "Further information provided in 10.1111/pbr.12179 "
+publication_doi: 10.1111/pbr.12179 
+publication_title: "Identification of quantitative trait loci (QTLs) for seed protein concentration in soybean and analysis for additive effects and epistatic effects of QTLs under multiple environments"
+contributors: "Zhaoming Qi, Meng Hou, Xue Han, Chunyan Liu, Hongwei Jiang, Dawei Xin, Guohua Hu, Qingshan Chen"
+citation: "Qi, Z., Hou, M., Han, X., Liu, C., Jiang, H., Xin, D., Hu, G. and Chen, Q. (2014), Identification of quantitative trait loci (QTLs) for seed protein concentration in soybean and analysis for additive effects and epistatic effects of QTLs under multiple environments. Plant Breed, 133: 499-507."
+public_access_level: public
+license: Open

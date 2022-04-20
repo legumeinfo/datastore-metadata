@@ -1,0 +1,17 @@
+---
+identifier: Jiyu50_x_Jinong18.gen.Yao_Liu_2015
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Analysis of quantitative trait loci for main plant traits in soybean."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Jiyu 50 x Jinong 18
+description: "Further information provided in 10.4238/2015.June.8.8"
+publication_doi: 10.4238/2015.June.8.8
+publication_title: "Analysis of quantitative trait loci for main plant traits in soybean."
+contributors: "Yao D, Liu ZZ, Zhang J, Liu SY, Qu J, Guan SY, Pan LD, Wang D, Liu JW, Wang PW"
+public_access_level: public
+license: Open

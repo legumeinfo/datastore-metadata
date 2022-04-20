@@ -1,0 +1,17 @@
+---
+identifier: Embrapa20_x_BRS133.gen.Nicolás_Hungria_2005
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification of quantitative trait loci controlling nodulation and shoot mass in progenies from two Brazilian soybean cultivars"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Embrapa 20 x BRS133
+description: "Further information provided in 10.1016/j.fcr.2005.04.012 "
+publication_doi: 10.1016/j.fcr.2005.04.012 
+publication_title: "Identification of quantitative trait loci controlling nodulation and shoot mass in progenies from two Brazilian soybean cultivars"
+contributors: "Marisa F. Nicolás, Mariangela Hungria, Carlos A.A. Ariasa"
+public_access_level: public
+license: Open

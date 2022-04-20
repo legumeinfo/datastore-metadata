@@ -1,0 +1,17 @@
+---
+identifier: Jiyu69_x_SS0404-T5-76.gen.Shim_Kim_2017
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification of QTLs for branching in soybean (Glycine max (L.) Merrill)"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Jiyu69 x SS0404-T5-76
+description: "Further information provided in 10.1007/s10681-017-2016-z"
+publication_doi: 10.1007/s10681-017-2016-z
+publication_title: "Identification of QTLs for branching in soybean (Glycine max (L.) Merrill)"
+contributors: "Sangrea Shim, Moon Young Kim, Jungmin Ha, Yeong-Ho Lee, Suk-Ha Lee"
+public_access_level: public
+license: Open

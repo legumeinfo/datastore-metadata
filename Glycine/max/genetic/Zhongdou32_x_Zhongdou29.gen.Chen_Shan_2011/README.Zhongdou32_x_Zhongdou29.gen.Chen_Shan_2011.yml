@@ -1,0 +1,17 @@
+---
+identifier: Zhongdou32_x_Zhongdou29.gen.Chen_Shan_2011
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Quantitative trait loci analysis of stem strength and related traits in soybean"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Zhongdou 32 x Zhongdou 29
+description: "Further information provided in 10.1007/s10681-011-0382-5"
+publication_doi: 10.1007/s10681-011-0382-5
+publication_title: "Quantitative trait loci analysis of stem strength and related traits in soybean"
+contributors: "Haifeng Chen, Zhihui Shan, Aihua Sha, Baoduo Wu, Zhonglu Yang, Shuilian Chen, Rong Zhou, Xinan Zhou"
+public_access_level: public
+license: Open

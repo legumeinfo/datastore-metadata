@@ -1,0 +1,17 @@
+---
+identifier: Williams82_x_PI366121.gen.Kulkarni_Asekova_2017
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Mapping QTLs for 100-seed weight in an interspecific soybean cross of Williams 82 (Glycine max) and PI 366121 (Glycine soja) "
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Williams 82 x PI 366121
+description: "Further information provided in 10.1071/CP16246 "
+publication_doi: 10.1071/CP16246 
+publication_title: "Mapping QTLs for 100-seed weight in an interspecific soybean cross of Williams 82 (Glycine max) and PI 366121 (Glycine soja) "
+contributors: "Krishnanand P. Kulkarni, Sovetgul Asekova, Dong-Ho Lee, Kristin Bilyeu, Jong Tae Song, Jeong-Dong Lee"
+public_access_level: public
+license: Open

@@ -1,0 +1,17 @@
+---
+identifier: PI27890_x_PI290136.gen.Mansur_Lark_1993
+genetic_map: GmRFLP-KGL,GmComposite2003,GmComposite1999
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Interval mapping of quantitative trait loci for reproductive, morphological, and seed traits of soybean (Glycine max L.)."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - PI27890 x PI290136
+description: "Further information provided in 10.1007/BF00211040"
+publication_doi: 10.1007/BF00211040
+publication_title: "Interval mapping of quantitative trait loci for reproductive, morphological, and seed traits of soybean (Glycine max L.)."
+contributors: "Mansur LM, Lark KG, Kross H, Oliveira A"
+public_access_level: public
+license: Open

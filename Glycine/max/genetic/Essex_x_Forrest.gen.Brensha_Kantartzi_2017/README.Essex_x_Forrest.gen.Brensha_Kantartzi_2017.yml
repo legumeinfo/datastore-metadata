@@ -1,0 +1,17 @@
+---
+identifier: Essex_x_Forrest.gen.Brensha_Kantartzi_2017
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Genetic Analysis of Root and Shoot Traits in the 'Essex' by 'Forrest' Recombinant Inbred Line (RIL) Population of Soybean [Glycine max (L.) Merr.]"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Forrest
+description: "Further information provided in 10.5147/jpgs.2012.0051"
+publication_doi: 10.5147/jpgs.2012.0051
+publication_title: "Genetic Analysis of Root and Shoot Traits in the 'Essex' by 'Forrest' Recombinant Inbred Line (RIL) Population of Soybean [Glycine max (L.) Merr.]"
+contributors: " Williams Brensha, Stella K. Kantartzi, Khalid Meksem, Robert L. Grier IV, Abdelali Barakat, David A. Lightfoot, My Abdelmajid Kassem"
+public_access_level: public
+license: Open

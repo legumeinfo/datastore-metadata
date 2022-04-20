@@ -1,0 +1,17 @@
+---
+identifier: Williams82_x_PI437655.gen.Jiao_Vuong_2015
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification and evaluation of quantitative trait loci underlying resistance to multiple HG types of soybean cyst nematode in soybean PI 437655."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Williams 82 x PI 437655
+description: "Further information provided in 10.1007/s00122-014-2409-5"
+publication_doi: 10.1007/s00122-014-2409-5
+publication_title: "Identification and evaluation of quantitative trait loci underlying resistance to multiple HG types of soybean cyst nematode in soybean PI 437655."
+contributors: "Jiao Y, Vuong TD, Liu Y, Meinhardt C, Liu Y, Joshi T, Cregan PB, Xu D, Shannon JG, Nguyen HT"
+public_access_level: public
+license: Open

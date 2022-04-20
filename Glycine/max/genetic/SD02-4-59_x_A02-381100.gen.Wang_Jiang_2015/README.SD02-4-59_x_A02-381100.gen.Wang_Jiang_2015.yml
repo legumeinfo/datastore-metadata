@@ -1,0 +1,17 @@
+---
+identifier: SD02-4-59_x_A02-381100.gen.Wang_Jiang_2015
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Quantitative trait locus analysis of seed sulfur-containing amino acids in two recombinant inbred line populations of soybean"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - SD02-4-59 x A02-381100
+description: "Further information provided in 10.1007/s10681-014-1223-0 "
+publication_doi: 10.1007/s10681-014-1223-0 
+publication_title: "Quantitative trait locus analysis of seed sulfur-containing amino acids in two recombinant inbred line populations of soybean"
+contributors: "Xianzhi Wang, Guo-Liang Jiang, Qijian Song, Perry B. Cregan, Roy A. Scott, Jiaoping Zhang, Yang Yen, Michael Brown"
+public_access_level: public
+license: Open

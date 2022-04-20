@@ -3,15 +3,15 @@ identifier: Young_x_PI416937.gen.Lee_Bailey_1996b
 genetic_map: GmComposite2003,GmRFLP-GA1996a,GmComposite1999
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "RFLP loci associated with soybean seed protein and oil content across populations and locations"
+synopsis: "Molecular Markers Associated with Soybean Plant Height, Lodging, and Maturity across Locations"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Young x PI416937
-description: "Further information provided in 10.1007/bf00224058"
-publication_doi: 10.1007/bf00224058
-publication_title: "RFLP loci associated with soybean seed protein and oil content across populations and locations"
-contributors: "S. H. Lee, M. A. Bailey, M. A. R. Mian, T. E. Carter, E. R. Shipe, D. A. Ashley, W. A. Parrott, R. S. Hussey, H. R. Boerma"
+description: "Further information provided in 10.2135/cropsci1996.0011183x003600030035x"
+publication_doi: 10.2135/cropsci1996.0011183x003600030035x
+publication_title: "Molecular Markers Associated with Soybean Plant Height, Lodging, and Maturity across Locations"
+contributors: "S. H. Lee, M. A. Bailey, M. A. R. Mian, T. E. Carter, D. A. Ashley, R. S. Hussey, W. A. Parrott, H. R. Boerma"
 public_access_level: public
 license: Open

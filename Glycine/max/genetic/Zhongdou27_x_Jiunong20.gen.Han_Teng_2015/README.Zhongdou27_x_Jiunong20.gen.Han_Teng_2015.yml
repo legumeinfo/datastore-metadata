@@ -1,0 +1,17 @@
+---
+identifier: Zhongdou27_x_Jiunong20.gen.Han_Teng_2015
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Unconditional and conditional QTL underlying the genetic interrelationships between soybean seed isoflavone, and protein or oil contents"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Zhongdou 27 x Jiunong 20
+description: "Further information provided in 10.1111/pbr.12259 "
+publication_doi: 10.1111/pbr.12259 
+publication_title: "Unconditional and conditional QTL underlying the genetic interrelationships between soybean seed isoflavone, and protein or oil contents"
+contributors: "Yingpeng Han, Weili Teng, Yan Wang, Xue Zhao, Lin Wu, Dongmei Li, Wenbin Li"
+public_access_level: public
+license: Open

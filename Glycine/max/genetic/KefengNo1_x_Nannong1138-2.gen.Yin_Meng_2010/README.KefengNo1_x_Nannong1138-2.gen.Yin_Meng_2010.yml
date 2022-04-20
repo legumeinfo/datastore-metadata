@@ -1,0 +1,17 @@
+---
+identifier: KefengNo1_x_Nannong1138-2.gen.Yin_Meng_2010
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Mapping quantitative trait loci associated with chlorophyll a fluorescence parameters in soybean (Glycine max (L.) Merr.)."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Kefeng No.1 x Nannong1138-2
+description: "Further information provided in 10.1007/s00425-009-1094-0"
+publication_doi: 10.1007/s00425-009-1094-0
+publication_title: "Mapping quantitative trait loci associated with chlorophyll a fluorescence parameters in soybean (Glycine max (L.) Merr.)."
+contributors: "Yin Z, Meng F, Song H, He X, Xu X, Yu D"
+public_access_level: public
+license: Open

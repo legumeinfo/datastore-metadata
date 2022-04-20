@@ -3,15 +3,15 @@ identifier: OACMillennium_x_Heinong38.gen.Palomeque_Li-Jun_2009a
 genetic_map: GmComposite2003
 provenance: SoyBase
 source: "https://soybase.org/"
-synopsis: "QTL in mega-environments: II. Agronomic trait QTL co-localized with seed yield QTL detected in a population derived from a cross of high-yielding adapted × high-yielding exotic soybean lines"
+synopsis: "QTL in mega-environments: I. Universal and specific seed yield QTL detected in a population derived from a cross of high-yielding adapted × high-yielding exotic soybean lines"
 scientific_name: Glycine max
 taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - OAC Millennium x Heinong 38
-description: "Further information provided in 10.1007/s00122-009-1048-8"
-publication_doi: 10.1007/s00122-009-1048-8
-publication_title: "QTL in mega-environments: II. Agronomic trait QTL co-localized with seed yield QTL detected in a population derived from a cross of high-yielding adapted × high-yielding exotic soybean lines"
+description: "Further information provided in 10.1007/s00122-009-1049-7"
+publication_doi: 10.1007/s00122-009-1049-7
+publication_title: "QTL in mega-environments: I. Universal and specific seed yield QTL detected in a population derived from a cross of high-yielding adapted × high-yielding exotic soybean lines"
 contributors: "Laura Palomeque, Liu Li-Jun, Wenbin Li, Bradley Hedges, Elroy R. Cober, Istvan Rajcan"
 public_access_level: public
 license: Open

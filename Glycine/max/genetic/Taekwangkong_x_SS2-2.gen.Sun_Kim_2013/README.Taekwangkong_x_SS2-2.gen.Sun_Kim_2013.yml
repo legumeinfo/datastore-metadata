@@ -1,0 +1,17 @@
+---
+identifier: Taekwangkong_x_SS2-2.gen.Sun_Kim_2013
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTLs for resistance to Phomopsis seed decay are associated with days to maturity in soybean (Glycine max)"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Taekwangkong x SS2-2
+description: "Further information provided in 10.1007/s00122-013-2115-8"
+publication_doi: 10.1007/s00122-013-2115-8
+publication_title: "QTLs for resistance to Phomopsis seed decay are associated with days to maturity in soybean (Glycine max)"
+contributors: "Suli Sun, Moon Young Kim, Kyujung Van, Yin-Won Lee, Baodu Li, Suk-Ha Lee"
+public_access_level: public
+license: Open

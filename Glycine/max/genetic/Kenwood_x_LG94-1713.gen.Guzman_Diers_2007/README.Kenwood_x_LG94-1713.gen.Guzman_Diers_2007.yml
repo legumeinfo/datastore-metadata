@@ -1,0 +1,17 @@
+---
+identifier: Kenwood_x_LG94-1713.gen.Guzman_Diers_2007
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL Associated with Yield in Three Backcross-Derived Populations of Soybean"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Kenwood x LG94-1713
+description: "Further information provided in 10.2135/cropsci2006.01.0003"
+publication_doi: 10.2135/cropsci2006.01.0003
+publication_title: "QTL Associated with Yield in Three Backcross-Derived Populations of Soybean"
+contributors: "P. S. Guzman, B. W. Diers, D. J. Neece, S. K. St. Martin, A. R. LeRoy, C. R. Grau, T. J. Hughes, R. L. Nelson"
+public_access_level: public
+license: Open

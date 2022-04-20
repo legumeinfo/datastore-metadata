@@ -1,0 +1,17 @@
+---
+identifier: KS4895_x_Jackson.gen.Hwang_Ray_2014
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Genetics and mapping of quantitative traits for nodule number, weight, and size in soybean (Glycine max L.[Merr.]) "
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - KS4895 x Jackson
+description: "Further information provided in 10.1007/s10681-013-1005-0 "
+publication_doi: 10.1007/s10681-013-1005-0 
+publication_title: "Genetics and mapping of quantitative traits for nodule number, weight, and size in soybean (Glycine max L.[Merr.]) "
+contributors: "Sadal Hwang, Jeffery D. Ray, Perry B. Cregan, C. Andy King, Marilynn K. Davies, Larry C. Purcell"
+public_access_level: public
+license: Open

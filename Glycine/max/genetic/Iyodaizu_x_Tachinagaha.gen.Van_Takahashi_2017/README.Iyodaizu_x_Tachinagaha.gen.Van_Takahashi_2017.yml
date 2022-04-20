@@ -1,0 +1,17 @@
+---
+identifier: Iyodaizu_x_Tachinagaha.gen.Van_Takahashi_2017
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Mapping quantitative trait loci for root development under hypoxia conditions in soybean (Glycine max L. Merr.)."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Iyodaizu x Tachinagaha
+description: "Further information provided in 10.1007/s00122-016-2847-3"
+publication_doi: 10.1007/s00122-016-2847-3
+publication_title: "Mapping quantitative trait loci for root development under hypoxia conditions in soybean (Glycine max L. Merr.)."
+contributors: "Van Nguyen L, Takahashi R, Githiri SM, Rodriguez TO, Tsutsumi N, Kajihara S, Sayama T, Ishimoto M, Harada K, Suematsu K, Abiko T, Mochizuki T"
+public_access_level: public
+license: Open

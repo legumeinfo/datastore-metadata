@@ -1,0 +1,17 @@
+---
+identifier: Essex_x_Forrest.gen.Yesudas_Sharma_2010
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification of QTL in soybean underlying resistance to herbivory by Japanese beetles (Popillia japonica, Newman)."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Essex x Forrest
+description: "Further information provided in 10.1007/s00122-010-1314-9"
+publication_doi: 10.1007/s00122-010-1314-9
+publication_title: "Identification of QTL in soybean underlying resistance to herbivory by Japanese beetles (Popillia japonica, Newman)."
+contributors: "Yesudas CR, Sharma H, Lightfoot DA"
+public_access_level: public
+license: Open

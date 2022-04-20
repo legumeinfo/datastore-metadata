@@ -1,0 +1,18 @@
+---
+identifier: Charleston_x_DongNong594.gen.Teng_Han_2009
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "QTL analyses of seed weight during the development of soybean (Glycine max L. Merr.)"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Charleston x Dong Nong 594
+description: "Further information provided in 10.1038/hdy.2008.108"
+publication_doi: 10.1038/hdy.2008.108 
+publication_title: "QTL analyses of seed weight during the development of soybean (Glycine max L. Merr.)"
+contributors: "W Teng, Y Han, Y Du, D Sun, Z Zhang, L Qiu, G Sun, W Li"
+citation: "Teng W, Han Y, Du Y, Sun D, Zhang Z, Qiu L, Sun G, Li W. QTL analyses of seed weight during the development of soybean (Glycine max L. Merr.). Heredity (Edinb). 2009 Apr;102(4):372-80. doi: 10.1038/hdy.2008.108. Epub 2008 Oct 29. PMID: 18971958."
+public_access_level: public
+license: Open

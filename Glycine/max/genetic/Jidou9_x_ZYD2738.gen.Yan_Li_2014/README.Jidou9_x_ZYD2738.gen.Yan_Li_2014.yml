@@ -1,0 +1,17 @@
+---
+identifier: Jidou9_x_ZYD2738.gen.Yan_Li_2014
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Identification and validation of an over-dominant QTL controlling soybean weight using populations derived from Glycine max x Glycine soja"
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Jidou 9 x ZYD2738
+description: "Further information provided in 10.1111/pbr.12197 "
+publication_doi: 10.1111/pbr.12197 
+publication_title: "Identification and validation of an over-dominant QTL controlling soybean weight using populations derived from Glycine max x Glycine soja"
+contributors: "Long Yan, Ying-Hui Li, Chun-Yan Yang, Shu-Xin Ren, Ru-Zhen Chang, Meng-Chen Zhang, Li-Juan Qiu"
+public_access_level: public
+license: Open

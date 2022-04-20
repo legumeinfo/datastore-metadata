@@ -1,0 +1,17 @@
+---
+identifier: Fukuyutaka_x_Himeshirazu.gen.Oki_Komatsu_2012
+genetic_map: GmComposite2003
+provenance: SoyBase
+source: "https://soybase.org/"
+synopsis: "Genetic analysis of antixenosis resistance to the common cutworm (Spodoptera litura Fabricius) and its relationship with pubescence characteristics in soybean (Glycine max (L.) Merr.)."
+scientific_name: Glycine max
+taxid: 3847
+scientific_name_abbrev: glyma
+genotype:
+  - Fukuyutaka x Himeshirazu
+description: "Further information provided in 10.1270/jsbbs.61.608"
+publication_doi: 10.1270/jsbbs.61.608
+publication_title: "Genetic analysis of antixenosis resistance to the common cutworm (Spodoptera litura Fabricius) and its relationship with pubescence characteristics in soybean (Glycine max (L.) Merr.)."
+contributors: "Oki N, Komatsu K, Sayama T, Ishimoto M, Takahashi M, Takahashi M"
+public_access_level: public
+license: Open
