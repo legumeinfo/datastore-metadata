@@ -1,4 +1,4 @@
-identifier: MAGIC-2017.gen.Huynh_Ehlers_2018
+identifier: MAGIC-2017.map.Huynh_Ehlers_2018
   
 synopsis: "A MAGIC population for cowpea developed from eight founder parents."
 
@@ -12,8 +12,6 @@ scientific_name_abbrev: vigun
 
 genotype: 
   - MAGIC population of 305 F8 RILs from 8 cowpea accessions
-
-genetic_map: MAGIC-2017.map.Huynh_Ehlers_2018
 
 description: "We developed a MAGIC population for cowpea from eight founder parents. These founders were genetically diverse and carried many abiotic and biotic stress resistance, seed quality and agronomic traits relevant to cowpea improvement in the United States and sub-Saharan Africa. The eight parents were inter-crossed using structured matings to ensure that the population would have balanced representation from each parent, followed by single-seed descent, resulting in 305 F8 recombinant inbred lines each carrying a mosaic of genome blocks contributed by all founders. A total of 305 MAGIC F8 RILs were generated from unique eight‐way crosses derived from six pedigree funnels. Genotyping with the 51,128 single nucleotide polymorphism (SNP) Illumina iSelect BeadArray resulted in 36,346 SNPs that were polymorphic between the eight parents (68.26%)."
 
