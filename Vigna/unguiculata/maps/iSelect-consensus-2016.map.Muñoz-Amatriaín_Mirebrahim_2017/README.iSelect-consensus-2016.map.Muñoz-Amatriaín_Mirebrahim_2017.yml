@@ -11,6 +11,8 @@ scientific_name_abbrev: vigun
 genotype:
  - 37 cowpea accessions relevant to Africa, China, and the USA
 
+genetic_map: iSelect-consensus-2016
+
 description: "The Illumina Cowpea iSelect Consortium Array was built from 37 cowpea accessions relevant to Africa, China, and the USA aligned to the WGS assembly of IT97K‐499‐35 to discover SNPs. The design also included 1163 SNPs from the prior GoldenGate assay and 60 presumed organelle SNPs. 51,128 SNPs are represented in the final product, which is available from Illumina."
 
 dataset_doi: 10.1111/tpj.13404
