@@ -16,9 +16,9 @@ bioproject: PRJNA374770
 scientific_name_abbrev: chafa
 
 genotype:
-  - MN87 (ICERNS isolate NF-2018-5)
+  - MN87
 
-description: "Draft genome assembly for Chamaecrista fasciculata"
+description: "Draft genome assembly for Chamaecrista fasciculata, genotype MN87 and ICERNS isolate NF-2018-5"
 
 dataset_doi: 10.5524/101044
 
