@@ -1,0 +1,31 @@
+---
+
+identifier: Wm82.gnm2.mrk.Tran_Steketee_2019
+
+synopsis: "Diverse soybean accessions (462) were screened for resistance to SCN and genotyped using SoySNP50K Infinium Chip and a set of 3 funtional KASP SNP markers, identifying both 88788-type and Peking-type resistance."
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotyping_platform: Tran_Steketee_2019
+
+genotype: Wm82.a2.v2
+
+description: SoySNP50K is an Illumina Infinium II BeadChip that contains over 50,000 SNPs from soybean. Of 60,800 SNPs, 50,701 were targeted to euchromatic regions and 10,000 to heterochromatic regions of the 20 soybean chromosomes. In addition, 99 SNPs were targeted to unanchored sequence scaffolds. Of the 60,800 SNPs, a total of 52,041 passed Illumina’s manufacturing phase to produce the SoySNP50K iSelect BeadChip. Validation of the SoySNP50K chip with 96 landrace genotypes, 96 elite cultivars and 96 wild soybean accessions showed that 47,337 SNPs were polymorphic and generated successful SNP allele calls. In addition, 40,841 of the 47,337 SNPs (86%) had minor allele frequencies ≥10% among the landraces, elite cultivars and the wild soybean accessions. This marker set was used in combination with three KASP SNP markers developed at the Rhg1 and Rhg4 loci to perfrom this GWAS and haplotype analysis at the previously stated SCN resistance loci. In total, 35,820 SNPs were used for GWAS, which identified 12 SNPs at four genomic regions on Chrs 7, 8, 10, and 18 that were significantly associated with SCN resistance (P < 0.001). Of those, three SNPs were located at Rhg1 and Rhg4. KASP SNP genotyping results of the 462 accessions at the Rhg1 and Rhg4 loci identified 30 that carried PI 88788-type resistance, 50 that carried Peking-type resistance, and 58 that carried neither the Peking-type nor the PI 88788-type resistance alleles, indicating they may possess novel SCN resistance alleles. 
+
+publication_doi: "10.3389/fpls.2019.00401"
+
+publication_title: Genome-Wide Association Analysis Pinpoints Additional Major Genomic Regions Conferring Resistance to Soybean Cyst Nematode (Heterodera glycines Ichinohe)
+
+contributors: Tran DT, Steketee CJ, Boehm JD Jr., Noe J, Li Z
+
+citation: "Tran DT, Steketee CJ, Boehm JD Jr, Noe J, Li Z. Genome-Wide Association Analysis Pinpoints Additional Major Genomic Regions Conferring Resistance to Soybean Cyst Nematode (Heterodera glycines Ichinohe). Front Plant Sci. 2019 Apr 10;10:401. doi: 10.3389/fpls.2019.00401. PMID: 31031779; PMCID: PMC6470319."
+
+data_curators: Samuel Clouse, Scott Kalberer
+
+public_access_level: public
+
+license: Open
