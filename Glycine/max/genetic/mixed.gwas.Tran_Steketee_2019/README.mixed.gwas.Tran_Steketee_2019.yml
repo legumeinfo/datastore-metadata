@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Tran_Steketee_2019
+
+taxid: 3847
+
+scientific_name: Glycine max
+
+scientific_name_abbrev: glyma
+
+synopsis: GWAS of Soybean Cyst Nematode (SCN) (Heterodera glycines) resistance for Soybean, relative to the Williams 82 assembly 2.0.
+
+description: The most damaging pest in the production of Soybean (Glycine max) is the soybean cyst nematode (SCN) (Heterodera glycines). This study assessed the  genome-wide marker–trait associations of SCN resistance in soybean. 462 genotypes were analyzed using Illumina's SoySNP50K iSelect Beadchips and three functional SCN KASP SNP markers GSM 381, GSM 383, and GSM 191 developed at the Rhg1 and Rhg4 loci. SCN resistance was measured using the FI index, which was defined as a ratio between the number of cysts on a given line and on Lee 74 (susceptible control line). The genome-wide association study (GWAS) identified 12 single-nucleotide polymorphisms (SNPs) on four chromosomes that had a significant (P < 0.05) association with the FI index.  Significance was defined as a FI index below 30% and therefore sub-catagorized as resistant (R) (FI > 10%) or moderately resistant (MR) (10% < FI < 30%) to soybean cyst nematodes. 26 other SCN associated SNPs were identified on other chromosomes of soybean, but none of them were above the p-value cutoff point of 0.05.
+
+genotype: 
+  - "448 accessions (MG 0 to VIII) from the United States Department of Agriculture (USDA) Soybean Germplasm Collection and the University of Georgia (UGA) soybean breeding program."
+
+genotyping_platform: Tran_Steketee_2019
+
+genotyping_method: SoySNP50K Infinium BeadChip & functional SCN KASP SNP markers GSM 381, GSM 383, and GSM 191 developed at the Rhg1 and Rhg4 loci
+
+data_curators: Samuel Clouse, Scott Kalberer
+
+publication_doi: "10.3389/fpls.2019.00401"
+
+citation: "Tran DT, Steketee CJ, Boehm JD Jr, Noe J, Li Z. Genome-Wide Association Analysis Pinpoints Additional Major Genomic Regions Conferring Resistance to Soybean Cyst Nematode (Heterodera glycines Ichinohe). Front Plant Sci. 2019 Apr 10;10:401. doi: 10.3389/fpls.2019.00401. PMID: 31031779; PMCID: PMC6470319."
+
+publication_title: "Genome-Wide Association Analysis Pinpoints Additional Major Genomic Regions Conferring Resistance to Soybean Cyst Nematode (Heterodera glycines Ichinohe)"
+
+contributors: Tran DT, Steketee CJ, Boehm JD Jr., Noe J, Li Z
+
