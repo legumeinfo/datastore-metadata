@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Wen_Chang_2019
+
+taxid: 3885
+
+scientific_name: Phaseolus vulgaris
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - A core set of 363 common bean accessions 
+
+synopsis: "GWAS assessing soybean cyst nematode (SCN) (Heterodera glycines) resistance, seed coat color, and seed weight in 363 diverse accessions of common bean, P. vulgaris relative to the G19833 assembly 1.0"
+
+genotyping_platform: Wen_Chang_2019
+
+genotyping_method: Genotyping by sequencing GBS (Illumina)
+
+description: "Common bean and soybean encounter many of the same pathogens including soybean cyst nematode (SCN), Heterodera glycines (HG) Ichinohe. The genetic architecture of SCN resistance in soybean has been intensively studied and reviewed. Two resistance loci in soybean, Rhg1 on chromosome (Chr) 18 and Rhg4 on Chr 8, were repeatedly detected in bi-parental linkage mapping. SCN resistance in common bean may rely on mechanisms similar to those reported for soybean, but genetic mapping for SCN resistance in common bean by either bi-parental linkage mapping or GWAS is lacking. In our study, a core collection of 315 common bean accessions was genotyped using genotyping-by-sequencing (GBS) phenotyped against SCN HG types 2.5.7 and 1.2.3.5.6.7, the most common SCN HG types in the Midwest and northern soybean producing areas in the US. In addition to SCN resistance, previously identified QTL for two agronomic traits (seed coat color and seed weight 363 accesions) were included to validate the reliability of our GWAS. The GWAS for coat color and seed weight were compared to the results in the literature in order to validate our methodology. The discovery of SNPs that match to previously described QTL for seed coat color and seed weight indicated the correctness of our GWAS results. The genome-wide association study (GWAS) identified 7 single-nucleotide polymorphisms (SNPs) on 3 chromosomes (1,9,7), with a significant (P < 0.05) association with SCN resistance. The SNPs located on Pv01 and Pv09 were significantly (P < 0.05) associated with resistance to SCN HG 2.5.7 and one SNP on Pv07 was significantly (P > 0.05) associated with resistance to SCN HG 1.2.3.5.6.7."
+
+data_curators: Samuel Clouse, Scott Kalberer
+
+publication_doi: "10.1038/s41438-018-0085-3"
+
+citation: "Wen L, Chang HX, Brown PJ, Domier LL, Hartman GL. Genome-wide association and genomic prediction identifies soybean cyst nematode resistance in common bean including a syntenic region to soybean Rhg1 locus. Horticulture Research, Volume 6, 2019, 9, https://doi.org/10.1038/s41438-018-0085-3"
+
+publication_title: Genome-wide association and genomic prediction identifies soybean cyst nematode resistance in common bean including a syntenic region to soybean Rhg1 locus
+
+contributors: Wen L, Chang HX, Brown PJ, Domier LL, Hartman GL
+
