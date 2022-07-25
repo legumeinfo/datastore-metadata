@@ -1,0 +1,32 @@
+---
+identifier: G19833.gnm2.mrk.Escobar_Oladzad_2022
+
+synopsis: "A set of 52,201 SNPs reported by Escobar, Oladzad et al. (2022) based on genotyping-by-sequencing (GBS) of a multiparent advanced generation inter-cross (MAGIC) dry bean population of 1,050 F5:7 RILs. Reads were mapped and sorted against the G19833.gnm2 reference assembly for common bean."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotyping_platform: HapMap_SNP_GBS_Escobar_Oladzad_2022
+
+genotype: 
+  - G19833
+
+description: "A multiparent advanced generation inter-cross (MAGIC) population, comprising 1,050 F5:7 recombinant inbred lines, was developed to facilitate mapping of loci and breeding efforts related to dry bean resistance against white mold (Sclerotinia sclerotiorum). Genomic libraries, developed using genotyping-by-sequencing (GBS), were sequenced for each genotype. Reads were mapped and sorted against the G19833.gnm2 reference genome for common bean (Phaseolus vulgaris v2.1) using the Burrows-Wheeler Alignment tool and SAMtools. Unified Genotyper was used to call single-nucleotide polymorphisms (SNPs). The final HapMap possessed a total of 52,201 SNPs after filtering sequence data for a minimum read depth of two, discarding markers with 25% missing data, eliminating genotypes with more than 90% missing genetic information, and keeping SNPs with a minor allele frequency  > 0.01."
+
+publication_doi: "10.1002/tpg2.20190"
+
+publication_title: New Genomic Regions Associated with White Mold Resistance in Dry Bean Using a MAGIC Population
+
+contributors: Escobar E, Oladzad A, Simons K, Miklas P, Lee RK, Schroder S, Bandillo N, Wunsch M, McClean PE, Osorno JM
+
+citation: "Escobar E, Oladzad A, Simons K, Miklas P, Lee RK, Schroder S, Bandillo N, Wunsch M, McClean PE, Osorno JM. New Genomic Regions Associated with White Mold Resistance in Dry Bean using a MAGIC Population. Plant Genome. 2022 March;15(1):e20190. doi: 10.1002/tpg2.20190. Epub 2022 February 2. PMID: 35106945."
+
+data_curators: Scott Kalberer
+
+public_access_level: public
+
+license: Open
+

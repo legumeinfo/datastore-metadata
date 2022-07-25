@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Escobar_Oladzad_2022
+
+taxid: 3885
+
+scientific_name: Phaseolus vulgaris
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - "The multiparent advanced generation inter-cross (MAGIC) population of common bean genotypes was composed of 1,050 F5:7 recombinant inbred lines. The eight MAGIC population founder lines were all sourced from race Durango of the Middle American gene pool with 7 pinto beans and 1 great northern bean. The pinto and great northern bean market classes were of special interest due to their commercial importance and susceptibility to white mold (Sclerotinia sclerotiorum)."
+
+synopsis: GWAS of white mold (Sclerotinia sclerotiorum) resistance for Common bean, relative to the G19833 assembly 2.
+
+genotyping_platform: HapMap_SNP_GBS_Escobar_Oladzad_2022
+
+genotyping_method: Genotyping by Sequencing (GBS) of MAGIC population
+
+description: "Dry bean (Phaseolus vulgaris L.) production in many regions is threatened by white mold (WM) [Sclerotinia sclerotiorum (Lib.) de Bary]. A WM multiparent advanced generation inter-cross (MAGIC) population (1,050 F5:7 RILs) was developed to facilitate mapping and breeding efforts. A seedling straw test screening method provided a quick assay to phenotype the population for response to WM isolate 1980. Nineteen MAGIC lines were identified with improved disease resistance. For genome-wide association studies (GWAS), the data was transformed into three phenotypic distributions—quantitative, polynomial, and binomial—and coupled with 52,201 single-nucleotide polymorphisms (SNPs). The three phenotypic distributions identified 30 significant genomic intervals [−log10 (P value) ≥ 3.0]. However, across distributions, three major new genomic regions on Pv11 as well as two regions previously reported on Pv07 and Pv08 were found to be associated with resistance. Cumulative R2 values were 57% for the binomial distribution using 13 genomic intervals, 41% for polynomial using eight intervals, and 40% for quantitative using 11 intervals."
+
+data_curators: Scott Kalberer
+
+publication_doi: "10.1002/tpg2.20190"
+
+citation: "Escobar E, Oladzad A, Simons K, Miklas P, Lee RK, Schroder S, Bandillo N, Wunsch M, McClean PE, Osorno JM. New Genomic Regions Associated with White Mold Resistance in Dry Bean using a MAGIC Population. Plant Genome. 2022 March;15(1):e20190. doi: 10.1002/tpg2.20190. Epub 2022 February 2. PMID: 35106945."
+
+publication_title: "New Genomic Regions Associated with White Mold Resistance in Dry Bean Using a MAGIC Population"
+
+contributors: Escobar E, Oladzad A, Simons K, Miklas P, Lee RK, Schroder S, Bandillo N, Wunsch M, McClean PE, Osorno JM
+
