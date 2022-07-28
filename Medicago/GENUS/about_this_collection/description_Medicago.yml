@@ -7,8 +7,13 @@ description: "Medicago is a genus of flowering plants, commonly known as medick 
 species:
   - sativa
   - truncatula  
+  - ruthenica
+  - polymorpha
 
 resources:
+  - name: "Medicago Analysis Portal"
+    URL: "https://medicago.legumeinfo.org"
+    description: "LIS genus-centric portal for Medicago resources"
   - name: MedicMine
     URL: "https://mines.legumeinfo.org/medicmine/begin.do"
     description: "InterMine interface for accessing genetic and genomic data for several species in Medicago."

@@ -12,6 +12,10 @@ strains:
     name: CADL (Cultivated Alfalfa at the Diploid Level)
     origin: Noble Foundation
     description: "CADL (HM342) was developed from cultivated tetraploids over 10 years to produce a diploid form."
+    resources:
+      - name: Medicago SequenceServer
+        URL: "https://medicago.legumeinfo.org/tools/sequenceserver"
+        description: "SequenceServer BLAST against the CADL_HM342 genome assembly v1.0"
   - identifier: XinJiangDaYe  
     accession: XinJiangDaYe
     name: XinJiangDaYe
@@ -27,8 +31,30 @@ strains:
       - name: LIS SequenceServer
         URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the XinJiangDaYe assembly v1.0"
+  - identifier: Zhongmu_No_1  
+    accession: Zhongmu_No_1
+    name: "Zhongmu No. 1"
+    origin: China
+    description: "Zhongmu No. 1 is a widely grown cultivar in Northern China"
+    resources:
+      - name: Medicago SequenceServer
+        URL: "https://medicago.legumeinfo.org/tools/sequenceserver"
+        description: "SequenceServer BLAST against the Zhongmu No. 1 genome assembly v1.0"
+  - identifier: PI464715
+    accession: PI464715
+    name: PI464715
+    origin: Turkey
+    description: "PI464715 is a representative of Medicago sativa spp. caerulea, the diploid progenitor of the cultivated autotetraploid"
+    resources:
+      - name: Medicago SequenceServer
+        URL: "https://medicago.legumeinfo.org/tools/sequenceserver"
+        description: "SequenceServer BLAST against the PI464715 genome assembly v1.0"
   - identifier: RegenSY27x
     accession: RegenSY27x
     name: RegenSY27x
     origin: Samac Lab, USDA
     description: "This plant was selected for high regeneration in tissue culture. It was bred by crossing two plants, first generation selfed (S1) parents from Regen-S (Medicago sativa) and Regen-Y (Medicago falcata) (Bingham, ET. 1991. Registration of alfalfa hybrid Regen-SY germplasm for tissue culture and transformation research. Crop Science 31:1098.) It has purple flowers but clusters more closely with M. falcata than with M. sativa."
+    resources:
+      - name: Medicago SequenceServer
+        URL: "https://medicago.legumeinfo.org/tools/sequenceserver"
+        description: "SequenceServer BLAST against the RegenSY27x genome assembly v0.9"
