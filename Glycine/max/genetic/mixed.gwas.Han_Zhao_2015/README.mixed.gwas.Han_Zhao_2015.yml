@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Han_Zhao_2015
+
+taxid: 3847
+
+scientific_name: Glycine Max
+
+scientific_name_abbrev: glyma
+
+genotype: 
+  - 440 diverse soybean landraces and elite cultivars mostly collected in China. 
+
+synopsis: "440 soybean landraces and elite cultivars were screened for resistance to SCN HG Type 0 and HG Type 1.2.3.5.7; GWAS relative to Wm82.gnm2" 
+
+genotyping_platform: Han_Zhao_2015
+
+genotyping_method: Specific Locus Amplified Fragment Sequencing (SLAF-seq)
+
+description: "The Genomic DNA of the 440 accessions were partially sequenced using specific-locus amplified fragment sequencing (SLAF-seq) approach by Illumina Genome Analyzer II. The 347 million paired-end reads with 45 bp read length were mapped to the reference soybean gen- ome (Wm82.a2.v1) and a mean of 57,418 high quality tags were identified from paired-end reads for each accession. A data set of 36,976 SNPs at Minor Allele Fre- quency (MAF)≥4 % was generated from 57,418 high quality tags. The rate of missing data was controlled at less than 10 % for each accession. The set of SNPs covered 20 chromosomes of soybean. The resulting SNP density of one SNP per 27 Kbp was available in the present study."
+
+data_curators: Samuel Clouse, Steven Cannon
+
+publication_doi: "10.1186/s12864-015-1800-1"
+
+citation: "Han Y, Zhao X, Cao G, Wang Y, Li Y, Liu D, Teng W, Zhang Z, Li D, Qiu L, Zheng H, Li W. Genetic characteristics of soybean resistance to HG type 0 and HG type 1.2.3.5.7 of the cyst nematode analyzed by genome-wide association mapping. BMC Genomics. 2015 Aug 13;16(1):598. doi: 10.1186/s12864-015-1800-1. PMID: 26268218; PMCID: PMC4542112."
+
+publication_title: Genetic characteristics of soybean resistance to HG type 0 and HG type 1.2.3.5.7 of the cyst nematode analyzed by genome-wide association mapping.
+
+contributors: Han Y., Zhao X., Cao G., Wang Y., Li Y., Liu D., Teng W., Zhang Z., Qiu H., Li W.
+
