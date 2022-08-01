@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Bao_Vuong_2014
+
+taxid: 3847
+
+scientific_name: Glycine max
+
+scientific_name_abbrev: glyma
+
+genotype: 
+  - 282 representative accessions from the University of Minnesota soybean breeding program
+
+synopsis: 282 representative accessions from the University of Minnesota soybean breeding program using a genome-wide panel of 1536 single nucleotide polymorphism (SNP) markers and evaluated plant responses to SCN HG type 0
+
+genotyping_platform: 1536_USLP1
+
+genotyping_method: Illumina GoldenGate SNP assay with the Universal Soy Linkage Panel 1.0 
+
+description: DNA samples were genotyped using an Illumina GoldenGate SNP assay with the Universal Soy Linkage Panel 1.0 of 1536 single nucleotide polymorphism (SNP) markers. The SNPs with >5% minor allele frequency (MAF) and a missing data rate < 50% were retained, followed by imputation of missing SNP data based on population mean of each marker. Total 1247 SNP markers passed the filters and were used in the subsequent analysis.
+
+data_curators: Samuel Clouse, Steven Cannon
+
+publication_doi: 10.3835/plantgenome2013.11.0039
+
+citation: "Bao, Y., Vuong, T., Meinhardt, C., Tiffin, P., Denny, R., Chen, S., Nguyen, H., Orf, J. and Young, N., 2014. Potential of Association Mapping and Genomic Selection to Explore PI 88788 Derived Soybean Cyst Nematode Resistance. The Plant Genome, 7(3)."
+
+publication_title: Potential of Association Mapping and Genomic Selection to Explore PI 88788 Derived Soybean Cyst Nematode Resistance
+
+contributors: Bao Y., Vuong T., Meinhardt C., Triffin P., Denny R., Chen S., Nguyen H.T., Orf J.T., Young N.D.
+
