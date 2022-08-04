@@ -1,0 +1,31 @@
+---
+identifier: Wm82.gnm2.mrk.Vuong_Sonah_2015
+
+synopsis: Markers associated with Soybean Cyst Nematode (SCN) resistance in Soybean, relative to the Wm82.gnm2 assembly. Markers derive from the SoySNP50K set.
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotyping_platform: Vuong_Sonah_2015
+
+genotype: 
+  - Wm82
+
+description: "SoySNP50K is an Illumina Infinium II BeadChip that contains over 50,000 SNPs from soybean. Of 60,800 SNPs, 50,701 were targeted to euchromatic regions and 10,000 to heterochromatic regions of the 20 soybean chromosomes. In addition, 99 SNPs were targeted to unanchored sequence scaffolds. Of the 60,800 SNPs, a total of 52,041 passed Illumina’s manufacturing phase to produce the SoySNP50K iSelect BeadChip. Validation of the SoySNP50K chip with 96 landrace genotypes, 96 elite cultivars and 96 wild soybean accessions showed that 47,337 SNPs were polymorphic and generated successful SNP allele calls. In addition, 40,841 of the 47,337 SNPs (86%) had minor allele frequencies ≥10% among the landraces, elite cultivars and the wild soybean accessions. A total of 35,270 SNPs from this set were selected for GWAS in this study after excluding SNPs with more than 20 % missing data and a minor allele frequency less than 5 %. GWAS was performed using generalized linear model (GLM) identified 223 SNPs distributed over 19 different chromosomes and associated with resistance to SCN HG Type 0. GWAS identified 14 loci distributed over different chromosomes comprising 60 SNPs significantly associated with SCN resistance."
+
+publication_doi: "10.1186/s12864-015-1811-y"
+
+publication_title: Genetic architecture of cyst nematode resistance revealed by genome-wide association study in soybean.
+
+contributors: Vuong, T.D., Sonah, H., Meinhardt, C.G., Deshmukh R., Kadam S., Nelson R.L., Shannon J.G., Nguyen H. T.
+
+citation: "Vuong TD, Sonah H, Meinhardt CG, Deshmukh R, Kadam S, Nelson RL, Shannon JG, Nguyen HT. Genetic architecture of cyst nematode resistance revealed by genome-wide association study in soybean. BMC Genomics. 2015 Aug 12;16:593. doi: 10.1186/s12864-015-1811-y. PMID: 26263897; PMCID: PMC4533770."
+
+data_curators: Samuel Clouse, Steven Cannon
+
+public_access_level: public
+
+license: Open

@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Vuong_Sonah_2015
+
+taxid: 3847
+
+scientific_name: Glycine Max
+
+scientific_name_abbrev: glyma
+
+genotype: 
+  - 553 soybean plant introductions (PIs) from MG III to V
+
+synopsis: "GWAS of Soybean Cyst Nematode (SCN) (Heterodera glycines) resistance for Soybean, relative to the Wm82.gnm2 assembly (originally reported with respect to Wm82.gnm1)" 
+
+genotyping_platform: Vuong_Sonah_2015
+
+genotyping_method: Illumina SoySNP50K Infinium BeadChip
+
+description: "A diverse panel of 553 soybean germplasm accessions, which were undergone multivariate selection procedures and best represents the diversity of the total collection, was evaluated for response to SCN HG Type 0. Over 50,000 SNP markers of the soybean genome generated in the SoySNP50K iSelect BeadChip were accessed from  www.soybase.org. A total of 35,270 SNPs were selected for GWAS after excluding SNPs with more than 20 % missing data and a minor allele frequency less than 5 %. GWAS was performed using generalized linear model (GLM) identified 223 SNPs distributed over 19 different chromosomes and associated with resistance to SCN HG Type 0. The MLM identified 41 SNPs distributed over 16 loci on 14 different chromosomes that were significantly associated with resistance to SCN HG Type 0 (Table 2, Fig. 7). The known loci rhg1 on Chr. 18 and Rhg4 on Chr. 8, were also identified in this study. Highly significant SNPs on Chr. 8 between 7.5 to 8.6 Mb and on Chr. 18 between 1.2 to 6.6 Mb were associated with SCN resistance. These loci did not show a high level of significance even though these loci harbor a very high level of resistance."
+
+data_curators: Samuel Clouse, Steven Cannon
+
+publication_doi: "10.1186/s12864-015-1811-y"
+
+citation: "Vuong TD, Sonah H, Meinhardt CG, Deshmukh R, Kadam S, Nelson RL, Shannon JG, Nguyen HT. Genetic architecture of cyst nematode resistance revealed by genome-wide association study in soybean. BMC Genomics. 2015 Aug 12;16:593. doi: 10.1186/s12864-015-1811-y. PMID: 26263897; PMCID: PMC4533770."
+
+publication_title: Genetic architecture of cyst nematode resistance revealed by genome-wide association study in soybean. 
+
+contributors: T. D. Vuong, H. Sonah, C. G. Meinhardt, R. Deshmukh, S. Kadam & H. T. Nguyen
+
