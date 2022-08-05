@@ -1,0 +1,30 @@
+---
+identifier: mixed.gwas.Zhang_Li_2016
+
+taxid: 3848
+
+scientific_name: Glycine soja
+
+scientific_name_abbrev: glyso
+
+genotype: 
+  - 235 wild soybean (Glycine soja) accessions. 
+
+synopsis: GWAS of soybean cyst nematode (SCN)  resistance for wild soybean bean, relative to the soybean genome Wm82.gnm2
+
+genotyping_platform: Zhang_Li_2016
+
+genotyping_method: Illumina SoySNP50k iSelect BeadChip
+
+description: "Genome-Wide Association Study of Resistance to Soybean Cyst Nematode (Heterodera glycines) HG Type 2.5.7 in Wild Soybean (Glycine soja)"
+
+data_curators: Samuel Clouse, Steven Cannon
+
+publication_doi: 10.3389/fpls.2016.01214
+
+citation: "Zhang H, Li C, Davis EL, Wang J, Griffin JD, Kofsky J, Song BH. Genome-Wide Association Study of Resistance to Soybean Cyst Nematode (Heterodera glycines) HG Type 2.5.7 in Wild Soybean (Glycine soja). Front Plant Sci. 2016 Aug 17;7:1214. doi: 10.3389/fpls.2016.01214. PMID: 27582748; PMCID: PMC4987380."
+
+publication_title: Genome-Wide Association Study of Resistance to Soybean Cyst Nematode (Heterodera glycines) HG Type 2.5.7 in Wild Soybean (Glycine soja)
+
+contributors: Zhang H, Li C, Sibiya J, Davis EL, Wang J, Griffin JD, Kofsky J, Song BH. 
+
