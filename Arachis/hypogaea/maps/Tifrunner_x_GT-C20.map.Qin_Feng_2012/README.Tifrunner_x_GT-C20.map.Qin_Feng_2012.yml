@@ -1,0 +1,32 @@
+identifier: Tifrunner_x_GT-C20.map.Qin_Feng_2012
+  
+synopsis: "SSR-based genetic map constructed using a F5:6 RIL population derived from Tifrunner x GT-C20"
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: 
+
+scientific_name_abbrev: arahy
+
+genotype: 
+  - Tifrunner x GT-C20
+
+description: "This SSR-based genetic map was constructed using a F5:6 RIL population derived from the cross of Tifrunner with GT-C20.  The map is composed of 26 linkage groups; however, five of these linkage groups included only 2 markers each.  There are 239 total mapped loci (generated using 216 primer pairs) that comprise 238 SSR loci and 1 CAPS marker for ahFAD2A.  The map covers a total distance of 1213.4 cM, exhibits an average distance between markers of 5.7 cM, and displays a range of linkage group lengths from 3.1 to 136.5 cM."
+
+publication_doi: 10.1007/s00122-011-1737-y
+
+dataset_release_date: 
+
+publication_title: "An integrated genetic linkage map of cultivated peanut (Arachis hypogaea L.) constructed from two RIL populations"
+
+contributors: "Qin, Hongde; Feng, Suping; Chen, Charles; Guo, Yufang; Knapp, Steven; Culbreath, Albert; He, Guohao; Wang, Ming Li; Zhang, Xinyou; Holbrook, C Corley; Ozias-Akins, Peggy; Guo, Baozhu"
+
+data_curators: Steven Cannon, Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Qin, H. et al. An integrated genetic linkage map of cultivated peanut (Arachis hypogaea L.) constructed from two RIL populations. Theor. Appl. Genet. 124, 653–664 (2012)"
