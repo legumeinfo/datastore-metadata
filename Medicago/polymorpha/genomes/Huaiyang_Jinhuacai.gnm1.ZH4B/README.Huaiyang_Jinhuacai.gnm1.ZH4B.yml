@@ -1,0 +1,42 @@
+---
+identifier: Huaiyang_Jinhuacai.gnm1.ZH4B
+
+provenance: "Genome assembly obtained via publication"
+
+source: "https://download.cncb.ac.cn/gwh/Plants/Medicago_polymorpha_Medicago_polymorpha_GWHANWO00000000.1/GWHANWO00000000.1.genome.fasta.gz"
+
+synopsis: "Pseudomolecule assembly and unanchored contigs for diploid Medicago polymorpha Huaiyang Jinhuacai"
+
+related_to: Huaiyang_Jinhuacai.gnm1.ann1.TLK1
+
+scientific_name: Medicago polymorpha
+
+taxid: 47084
+
+bioproject: PRJCA003129
+
+scientific_name_abbrev: medpo
+
+genotype:
+  - Huaiyang_Jinhuacai
+
+description: "Genome assembly of diploid Medicago polymorpha using PacBio RSII, Illumina for error correction and HiC-based scaffolding"
+
+original_file_creation_date: "2021-12-28"
+
+dataset_release_date: "2022-07-01"
+
+publication_doi: "10.1038/s41438-021-00483-5"
+
+publication_title: "The genome of Medicago polymorpha provides insights into its edibility and nutritional value as a vegetable and forage legume
+"
+
+contributors: "Jiawen Cui, Zhaogeng Lu, ..., Biao Jin"
+
+data_curators: Andrew Farmer
+
+public_access_level: Public
+
+license: Open
+
+citation: "Cui J, Lu Z, Wang T, Chen G, Mostafa S, Ren H, Liu S, Fu C, Wang L, Zhu Y, Lu J, Chen X, Wei Z, Jin B. The genome of Medicago polymorpha provides insights into its edibility and nutritional value as a vegetable and forage legume. Hortic Res. 2021 Mar 1;8(1):47. doi: 10.1038/s41438-021-00483-5. PMID: 33642569; PMCID: PMC7917105."

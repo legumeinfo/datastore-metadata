@@ -1,0 +1,18 @@
+---
+taxid: 47084
+genus: Medicago
+species: polymorpha 
+abbrev: medpo
+description: "Highly nutritious forage legume with global distribution, widely consumed by livestock and also used as a vegetable in China."
+
+resources: 
+  - name: Medicago SequenceServer
+    URL: "https://medicago.legumeinfo.org/tools/sequenceserver"
+    description: "SequenceServer BLAST against Medicago polymorpha sequence resources"   
+
+strains:
+  - identifier: Huaiyang_Jinhuacai
+    accession: Huaiyang_Jinhuacai
+    name: "Huaiyang Jinhuacai"
+    origin: China
+    description: "Main nationally authorized cultivar in China"

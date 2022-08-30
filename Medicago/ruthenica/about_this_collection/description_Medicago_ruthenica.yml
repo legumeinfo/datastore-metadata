@@ -1,0 +1,18 @@
+---
+taxid: 70973
+genus: Medicago
+species: ruthenica 
+abbrev: medru
+description: "A wild perennial forage species widely distributed in semi-arid grasslands and adapted tolerate environmental stresses including drought, low temperatures, and infertile soils"
+
+resources: 
+  - name: Medicago SequenceServer
+    URL: "https://medicago.legumeinfo.org/tools/sequenceserver"
+    description: "SequenceServer BLAST against the Medicago ruthenica Xinghe v1.0 genome assembly"   
+
+strains:
+  - identifier: Xinghe
+    accession: Xinghe
+    name: Xinghe
+    origin: Northern China
+    description: "Occurs naturally in arid and semi-arid areas of northern China"
