@@ -1,0 +1,43 @@
+---
+identifier: Hwangkeum.gnm1.ann1.1G4F
+
+provenance: "The files in this directory originated from NCBI (https://www.ncbi.nlm.nih.gov/). The NCBI repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the projects listed above. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repository. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/020/497/155/GCA_020497155.1_ASM2049715v1/"
+
+synopsis: Genome annotation files for Glycine max genotype Hwangkeum, Kim et al. (2021)
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject: PRJNA628825
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Hwangkeum
+
+description: "Files in this directory are genome annotation files for Glycine max Hwangkeum, Kim et al. (2021)"
+
+original_file_creation_date: "2020-06-30"
+
+local_file_creation_date: "2022-07-20"
+
+publication_doi: 10.1093/g3journal/jkab272
+
+dataset_release_date: "2022-09-01"
+
+publication_title: "Genome assembly of the popular Korean soybean cultivar Hwangkeum"
+
+contributors: "Myung-Shin Kim, Taeyoung Lee, Jeonghun Baek, Ji Hong Kim, Changhoon Kim, Soon-Chun Jeong"
+
+data_curators: Wei Huang 
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: genome annotation, Hwangkeum
+
+citation: "Myung-Shin Kim, Taeyoung Lee, Jeonghun Baek, Ji Hong Kim, Changhoon Kim, Soon-Chun Jeong, Genome assembly of the popular Korean soybean cultivar Hwangkeum. G3 Genes|Genomes|Genetics, Oct. 2021"
