@@ -1,8 +1,8 @@
-identifier: Huayu28_x_P76.gen.Hu_Zhang_2018
+identifier: Huayu28_x_P76.map.Hu_Zhang_2018
 
 genetic_map: Huayu28_x_P76.Hu_Zhang_2018
 
-synopsis: "A genetic map from a Huayu28 x P76 RIL population composed of 2,334 markers (2,266 SNPs and 68 microsatellites) for the study of seed oleic and linoleic acid content"
+synopsis: "A genetic map from a Huayu28 x P76 RIL population composed of 2,334 markers (2,266 SNPs and 68 microsatellites) for the study of seed oleic and linoleic acid content."
 
 scientific_name: Arachis hypogaea
 
@@ -28,4 +28,3 @@ public_access_level: public
 license: Open
 
 citation: "Hu, X. H. et al. High-Density Genetic Map Construction and Identification of QTLs Controlling Oleic and Linoleic Acid in Peanut using SLAF-seq and SSRs. Sci. Rep. 8, 5479 (2018)"
-
