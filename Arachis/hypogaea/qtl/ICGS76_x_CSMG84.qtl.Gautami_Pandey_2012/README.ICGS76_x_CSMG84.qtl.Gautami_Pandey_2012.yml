@@ -1,4 +1,4 @@
-identifier: ICGS76_x_CSMG84.gen.Gautami_Pandey_2012
+identifier: ICGS76_x_CSMG84.qtl.Gautami_Pandey_2012
 
 genetic_map: ICGS76_x_CSMG84.Gautami_Pandey_2012
 
@@ -8,7 +8,7 @@ source: https://static-content.springer.com/esm/art%3A10.1007%2Fs11032-011-9660-
 
 synopsis: "SSR genetic map generated from a RIL population derived from the cross of ICGS 76 with CSMG 84-1"
 
-related_to: consensus map Consensus.gen.Gautami_Pandey_2012
+related_to: consensus map Consensus.qtl.Gautami_Pandey_2012
 
 scientific_name: Arachis hypogaea
 

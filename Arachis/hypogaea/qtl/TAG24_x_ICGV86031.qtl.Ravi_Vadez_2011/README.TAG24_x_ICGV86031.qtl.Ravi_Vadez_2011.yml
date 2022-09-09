@@ -1,4 +1,4 @@
-identifier: TAG24_x_ICGV86031.gen.Ravi_Vadez_2011
+identifier: TAG24_x_ICGV86031.qtl.Ravi_Vadez_2011
 
 genetic_map: TAG24_x_ICGV86031.Ravi_Vadez_2011
 
@@ -6,7 +6,7 @@ provenance: Extracted from image in paper.
 
 synopsis: "SSR genetic map from a cross of 'TAG 24' and 'ICGV 86031'"
 
-related_to: Consensus map Consensus.gen.Gautami_Pandey_2012
+related_to: Consensus map Consensus.qtl.Gautami_Pandey_2012
 
 scientific_name: Arachis hypogaea
 
