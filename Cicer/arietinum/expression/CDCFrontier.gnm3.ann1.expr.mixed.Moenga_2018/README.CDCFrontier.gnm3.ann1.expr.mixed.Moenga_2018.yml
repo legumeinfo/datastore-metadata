@@ -1,0 +1,24 @@
+---
+identifier: CDCFrontier.gnm3.ann1.expr.mixed.Moenga_2018
+
+scientific_name: Cicer arietinum
+
+taxid: 3827
+
+scientific_name_abbrev: cicar
+
+genotype:
+  - ICC14778
+  - ICC8058
+  
+synopsis: "Study of drought on gene expression from chickpea genotypes ICC14778 and ICC8058 mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+
+description: "We need a better description of this expression collection."
+
+expression_unit: TPM
+
+local_file_creation_date: "2022-07-14"
+
+contributors: "Susan Moenga, Andrew Farmer"
+
+license: public

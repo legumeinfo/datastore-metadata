@@ -1,0 +1,23 @@
+---
+identifier: CDCFrontier.gnm3.ann1.expr.CDC_Consul.Perilla-Henao_2018
+
+scientific_name: Cicer arietinum
+
+taxid: 3827
+
+scientific_name_abbrev: cicar
+
+genotype:
+  - CDC_Consul
+  
+synopsis: "Study of Nitrogen effects on gene expression from chickpea genotype CDC_Consul mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+
+description: "We need a better description of this expression collection."
+
+expression_unit: TPM
+
+local_file_creation_date: "2022-07-14"
+
+contributors: "Laura Perilla-Henao, Andrew Farmer"
+
+license: public

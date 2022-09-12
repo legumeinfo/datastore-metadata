@@ -1,0 +1,23 @@
+---
+identifier: CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018
+
+scientific_name: Cicer arietinum
+
+taxid: 3827
+
+scientific_name_abbrev: cicar
+
+genotype:
+  - Hybrid
+  
+synopsis: "Study of development in a hybrid chickpea genotype with reads mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+
+description: "We need a better description of this expression collection."
+
+expression_unit: TPM
+
+local_file_creation_date: "2022-07-14"
+
+contributors: "Cook Lab, Andrew Farmer"
+
+license: public

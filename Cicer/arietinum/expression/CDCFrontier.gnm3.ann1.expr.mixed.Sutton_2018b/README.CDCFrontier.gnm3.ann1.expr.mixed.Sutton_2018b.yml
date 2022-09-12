@@ -1,0 +1,24 @@
+---
+identifier: CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b
+
+scientific_name: Cicer arietinum
+
+taxid: 3827
+
+scientific_name_abbrev: cicar
+
+genotype:
+  - Rupali 
+  - Yorker
+  
+synopsis: "Study of phytophthora effects on gene expression from chickpea genotypes Rupali and Yorker mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+
+description: "We need a better description of this expression collection."
+
+expression_unit: TPM
+
+local_file_creation_date: "2022-07-14"
+
+contributors: "Tim Sutton, Andrew Farmer"
+
+license: public
