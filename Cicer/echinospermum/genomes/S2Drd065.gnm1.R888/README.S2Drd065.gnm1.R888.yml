@@ -1,0 +1,27 @@
+---
+identifier: S2Drd065.gnm1.R888
+
+synopsis: "Cicer echinospermum genotype S2Drd065 genome assembly v1"
+
+scientific_name: Cicer echinospermum
+
+taxid: 90897
+
+scientific_name_abbrev: cicec
+
+genotype:
+  - S2Drd065
+
+description: "Genome assembly for echinospermum genotype S2Drd065 from the Cook Lab, UC-Davis."
+
+original_file_creation_date: "2022-03-01"
+
+contributors: "Cook Lab, UC-Davis"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: genome, Cicer echinospermum
