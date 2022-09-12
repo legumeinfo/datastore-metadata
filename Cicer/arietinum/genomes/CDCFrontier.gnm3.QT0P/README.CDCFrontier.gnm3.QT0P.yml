@@ -1,0 +1,26 @@
+---
+identifier: CDCFrontier.gnm3.QT0P
+
+synopsis: "Cicer arietinum genotype CDCFrontier genome assembly v3"
+
+scientific_name: Cicer arietinum
+
+taxid: 3827
+
+scientific_name_abbrev: cicar 
+
+genotype:
+  - CDCFrontier
+
+description: "Genome assembly v3 for genotype CDCFrontier from the Cook Lab, UC-Davis."
+
+original_file_creation_date: "2022-03-01"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: genome, Cicer arietinum
+
