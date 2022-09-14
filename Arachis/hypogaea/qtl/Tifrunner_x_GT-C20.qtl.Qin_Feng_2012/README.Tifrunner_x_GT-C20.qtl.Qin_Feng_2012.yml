@@ -1,6 +1,6 @@
 identifier: Tifrunner_x_GT-C20.qtl.Qin_Feng_2012
 
-genetic_map: TT_Tifrunner_x_GT-C20_a
+genetic_map: TT_Tifrunner_x_GT-C20.Qin_Feng_2012
 
 synopsis: "SSR-based genetic map constructed using a F5:6 RIL population derived from Tifrunner x GT-C20"
 
@@ -14,8 +14,6 @@ scientific_name_abbrev: arahy
 
 genotype: 
   - Tifrunner x GT-C20
-
-genetic_map: Tifrunner_x_GT-C20.map.Qin_Feng_2012
 
 description: "This SSR-based genetic map was constructed using a F5:6 RIL population derived from the cross of Tifrunner with GT-C20.  The map is composed of 26 linkage groups; however, five of these linkage groups included only 2 markers each.  There are 239 total mapped loci (generated using 216 primer pairs) that comprise 238 SSR loci and 1 CAPS marker for ahFAD2A.  The map covers a total distance of 1213.4 cM, exhibits an average distance between markers of 5.7 cM, and displays a range of linkage group lengths from 3.1 to 136.5 cM."
 
