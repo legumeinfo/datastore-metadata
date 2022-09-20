@@ -15,6 +15,7 @@
 *.pdf
 *.jpg
 *.swp
+*.png
 .nfs.*
 *~
 MANIFEST.*
