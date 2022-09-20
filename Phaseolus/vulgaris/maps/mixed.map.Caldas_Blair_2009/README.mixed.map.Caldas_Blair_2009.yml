@@ -1,0 +1,33 @@
+---
+identifier: mixed.map.Caldas_Blair_2009
+
+genetic_map: mixed.Caldas_Blair_2009
+
+synopsis: "Genetic maps derived from three RIL populations, DOR364xG19833, BAT93xJALOEEP558, and G2333xG19839, were used to find QTLs for seed color."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - DOR364 x G19833 (87 F9:11 RILs)
+  - BAT93 x JALOEEP558 (72 F8:11 RILs)
+  - G2333 x G19839 (84 F5:8 RILs)
+
+description: "The objective of this study was to analyze the relationship between quantitative trait loci (QTL) for seed tannin concentration in common bean and Mendelian genes for seed coat color and pattern. Three populations of recombinant inbred lines, derived from crosses between the Andean and Mesoamerican genepools were used for QTL identification and for mapping STS markers associated with seed color loci. Linkage group lengths and QTL-relevant marker positions were drawn from Figure 2 in the publication."
+
+publication_doi: 10.1007/s00122-009-1023-4
+
+publication_title: "Inheritance of seed condensed tannins and their relationship with seed-coat color and pattern genes in common bean (Phaseolus vulgaris L.)"
+
+contributors: "Gina Viviana Caldas and Matthew W. Blair"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Caldas, G.V. and Blair, M.W. Inheritance of seed condensed tannins and their relationship with seed-coat color and pattern genes in common bean (Phaseolus vulgaris L.). Theor. Appl. Genet. 119, 131–142 (2009)" 
