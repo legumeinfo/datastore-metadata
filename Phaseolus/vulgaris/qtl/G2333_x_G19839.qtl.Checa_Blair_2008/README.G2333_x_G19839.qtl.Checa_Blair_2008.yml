@@ -3,7 +3,7 @@ identifier: G2333_x_G19839.qtl.Checa_Blair_2008
 
 genetic_map: G2333_x_G19839.Checa_Blair_2008
 
-synopsis: "The G2333_x_G19839_a genetic map contains all 11 common bean linkage groups.  It has a total length of 1175 cM and 149 mapped total markers."
+synopsis: "QTLs for growth habit: Plant height, Internode length, Climbing ability, and Branch number, from a G2333 x G19839 genetic map."
 
 scientific_name: Phaseolus vulgaris
 
@@ -12,15 +12,15 @@ taxid: 3885
 scientific_name_abbrev: phavu
 
 genotype: 
-  - G2333 x G19839
+  - G2333 x G19839 RILs
 
-description: "The G2333_x_G19839_a genetic map contains all 11 common bean linkage groups.  It has a total length of 1175 cM and 149 mapped total markers (four of these markers generated two loci each).  The map contains 79 microsatellite, 57 RAPD, 8 SCAR, and 3 STS markers; there is also a marker for the seed protein phaseolin (Phs) and a morphological marker for flower color (V).  The average length of a linkage group is 106.81 cM and the average number of markers per linkage group is 13.5.  The average distance between marker loci across all linkage groups is 7.89 cM.  The G2333_x_G19839_a map could be aligned with the common bean integrated map of Freyre, Skroch et al. (1998) based on positions of shared SSR markers (see also Blair, Pedraza et al., 2003).  The map description comes from Ochoa, Blair et al. (2006) where this population was originally presented.  However, the lengths of individual linkage groups were taken from Figure 2 in Checa and Blair (2008) in which a more complete version of this genetic map was available with reported linkage group sizes."
+description: "Common bean varies in growth habit from aggressive climbing types to bush beans. Growth habit is determined by a combination of factors including determinate versus indeterminate growth, total plant height, degree of branching and internode length. Together these factors make up climbing ability. The objective of this research was to determine the quantitative trait loci (QTL) controlling climbing ability in a F5:8 recombinant inbred line population derived from an inter-gene pool cross of an aggressive indeterminate climbing bean with type IV growth habit (G2333) by an indeterminate bush bean of type IIb growth habit (G19839). The population was planted in four randomized complete block design experiments across environments that varied in altitude (from 1,000 to 1,750 masl) and soil fertility (low versus high phosphorus). QTL were identified for plant height, internode length and number of branches per plant on a genetic map covering all common bean linkage groups with a total length of 1,175 cM. In addition a scale was developed to evaluate overall climbing ability and was also used to identify QTL. A total of 7 QTL were found for plant height, 9 for climbing ability, 6 for internode length and 1 for branch number. The largest number and most significant QTL were found on the lower half of linkage group B04 suggesting a major pleiotropic locus for growth habit traits at this location of the genome that is distinct from previously characterized genes which control plant morphology of the crop."
 
 publication_doi: 10.1007/s11032-008-9167-5
 
 publication_title: "Mapping QTL for climbing ability and component traits in common bean (Phaseolus vulgaris L.)"
 
-contributors: "Checa, Oscar E; Blair, Matthew W"
+contributors: "Oscar E Checa, Matthew W Blair"
 
 data_curators: Sam Hokin
 
@@ -28,4 +28,4 @@ public_access_level: public
 
 license: Open
 
-citation: "Checa, O. E. & Blair, M. W. Mapping QTL for climbing ability and component traits in common bean (Phaseolus vulgaris L.). Mol. Breed. 22, 201–215 (2008)"
+citation: "Checa, O. E. and Blair, M. W. Mapping QTL for climbing ability and component traits in common bean (Phaseolus vulgaris L.). Mol. Breed. 22, 201–215 (2008)"
