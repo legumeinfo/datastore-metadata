@@ -1,0 +1,31 @@
+---
+identifier: Xana_x_Cornell49242.map.Pérez-Vega_Trabanco_2013
+
+genetic_map: Xana_x_Cornell49242.Pérez-Vega_Trabanco_2013
+
+synopsis: "Genetic map of 329 loci from Xana x Cornell49242 used for a QTL study of powdery mildew resistance."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - Xana x Cornell 49242
+
+description: "The location of powdery mildew resistance genes was investigated in a linkage genetic map developed for the XC RIL population. Contingency tests revealed significant associations for 28 loci out of a total of 329 mapped loci. Fifteen were isolated or formed groups with less than two loci. The thirteen remaining loci were located at three regions in linkage groups Pv04, Pv09, and Pv11. The involvement of Pv09 was discarded due to the observed segregation in the subpopulation obtained from the Xana genotype for the loci located in this region."
+
+publication_doi: 10.1007/s00122-013-2068-y 
+
+publication_title: "Genetic mapping of two genes conferring resistance to powdery mildew in common bean (Phaseolus vulgaris L.)"
+
+contributors: "Elena Pérez-Vega, Noemí Trabanco, Ana Campa, Juan José Ferreira"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Pérez-Vega E, Trabanco N, Campa A, Ferreira JJ. Genetic mapping of two genes conferring resistance to powdery mildew in common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2013 Jun;126(6):1503-12."

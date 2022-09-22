@@ -3,7 +3,7 @@ identifier: Xana_x_Cornell49242.qtl.Pérez-Vega_Pascual_2012
 
 genetic_map: XCRIL2010
 
-synopsis: "QTL study of phenological traits performed on a genetic map of 104 F7 RILs from Xana x Cornell49242."
+synopsis: "QTL study of white mold resistance performed on a genetic map of 104 F7 RILs from Xana x Cornell 49242."
 
 scientific_name: Phaseolus vulgaris
 
@@ -12,7 +12,7 @@ taxid: 3885
 scientific_name_abbrev: phavu
 
 genotype: 
-  - Xana x Cornell49242
+  - Xana x Cornell 49242
 
 description: "White mold, caused by the fungus Sclerotinia sclerotiorum (Lib.) de Bary, is a devastating disease in common bean (Phaseolus vulgaris L.). Resistance to this pathogen can be due to physiological or avoidance mechanisms. We sought to characterize the partial physiological resistance exhibited by Xana dry bean in the greenhouse straw test using quantitative trait locus (QTL) analysis. A population of 104 F7 recombinant inbred lines (RILs) derived from an inter-gene pool cross between Xana and the susceptible black bean Cornell 49242 was evaluated against five local isolates of Sclerotinia. The effect of morphological traits (plant height, first internode length, and first internode width) on response to white mold was examined. The level of resistance exhibited by Xana to five isolates of S. sclerotiorum was similar to that of the well-known resistant lines PC50, A195, and G122. Eighteen QTL, involving the linkage groups B1, B3, B6, B7, B8, and B11, were found to be significant in at least one evaluation and in the mean of the two evaluations. The number of significant QTL identified per trait ranged from one to five. Four major regions on B1, B6, and B7 were associated with partial resistance to white mold, confirming the results obtained in other populations. A relative specificity in the number and the position of the identified QTL was found depending on the isolate used. QTL involved in the control of morphological traits and in the response to white mold were co-located at the same relative position on B1, B6, and B7. The role of these genomic regions in physiological resistance or avoidance mechanisms to white mold is discussed."
 

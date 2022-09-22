@@ -1,0 +1,31 @@
+---
+identifier: Xana_x_Cornell49242.qtl.Pérez-Vega_Trabanco_2013
+
+genetic_map: Xana_x_Cornell49242.Pérez-Vega_Trabanco_2013
+
+synopsis: "QTL study of resistance to powdery mildew performed on a genetic map of 329 loci from Xana x Cornell49242."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - Xana x Cornell 49242
+
+description: "Powdery mildew (PM) is a serious disease in many legume species, including the common bean (Phaseolus vulgaris L.). This study investigated the genetic control behind resistance reaction to PM in the bean genotype Cornell 49242. The results revealed evidence supporting a qualitative mode of inheritance for resistance and the involvement of two independent genes in the resistance reaction. The location of these resistance genes was investigated in a linkage genetic map developed for the XC RIL population. Contingency tests revealed significant associations for 28 loci out of a total of 329 mapped loci. Fifteen were isolated or formed groups with less than two loci. The thirteen remaining loci were located at three regions in linkage groups Pv04, Pv09, and Pv11. The involvement of Pv09 was discarded due to the observed segregation in the subpopulation obtained from the Xana genotype for the loci located in this region. In contrast, the two subpopulations obtained from the Xana genotype for the BM161 locus, linked to the Co-3/9 anthracnose resistance gene (Pv04), and from the Xana genotype for the SCAReoli locus, linked to the Co-2 anthracnose resistance gene (Pv11), exhibited monogenic segregations, suggesting that both regions were involved in the genetic control of resistance. A genetic dissection was carried out to verify the involvement of both regions in the reaction to PM. Two resistant recombinant lines were selected, according to their genotypes, for the block of loci included in the Co-2 and Co-3/9 regions, and they were crossed with the susceptible parent, Xana. Linkage analysis in the respective F2 populations supported the hypothesis that a dominant gene (Pm1) was located in the linkage group Pv11 and another gene (Pm2) was located in the linkage group Pv04. This is the first report showing the localization of resistance genes against powdery mildew in Phaseolus vulgaris and the results offer the opportunity to increase the efficiency of breeding programs by means of marker-assisted selection."
+
+publication_doi: 10.1007/s00122-013-2068-y 
+
+publication_title: "Genetic mapping of two genes conferring resistance to powdery mildew in common bean (Phaseolus vulgaris L.)"
+
+contributors: "Elena Pérez-Vega, Noemí Trabanco, Ana Campa, Juan José Ferreira"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Pérez-Vega E, Trabanco N, Campa A, Ferreira JJ. Genetic mapping of two genes conferring resistance to powdery mildew in common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2013 Jun;126(6):1503-12."
