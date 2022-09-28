@@ -1,0 +1,31 @@
+---
+identifier: Xana_x_Cornell49242.qtl.Murube_Campa_2020
+
+genetic_map: XCRIL2020
+
+synopsis: "QTL study of seed and pod phenotypes using two nested RIL populations from Xana x Cornell 49242 (XC) and Xana x BAT93 (XB); XC QTLs are listed here."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - Xana x Cornell 49242
+
+description: "The aim of this study was to identify QTLs associated with seed and pod phenotypes and to evaluate the consistency of these QTLs across different environments and genetic backgrounds. Two nested RIL populations obtained from Xana x Cornell 4924 (XC) and Xana x BAT93 (XB) were used. The populations were phenotyped with respect to pod and seed size and number of seeds per pod and seed weight over two (XB) or five seasons (XC) using a randomized complete block design. The XC population was re-genotyped, and an updated linkage map, with 732 markers and a total length of 1390 cM, was developed. The XB population was genotyped using genotyping by sequencing (GBS), and the corresponding genetic linkage map consisted of 497 single-nucleotide polymorphisms (SNPs) with a total length of 1547 cM. Altogether, 13 and 18 QTLs for pod traits and 21 and 25 QTLs for seed traits were detected in the XC and XB populations, respectively. In addition, 20 and 27 significant epistatic interactions between QTLs were detected in the XC and XB populations, respectively."
+
+publication_doi: 10.1007/s11032-019-1085-1
+
+publication_title: "Toward validation of QTLs associated with pod and seed size in common bean using two nested recombinant inbred line populations"
+
+contributors: "Ester Murube, Qijian Song, Phillip McClean, Juan José Ferreira"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Murube, E., Campa, A., Song, Q. et al. Toward validation of QTLs associated with pod and seed size in common bean using two nested recombinant inbred line populations. Mol Breeding 40, 7 (2020)"
