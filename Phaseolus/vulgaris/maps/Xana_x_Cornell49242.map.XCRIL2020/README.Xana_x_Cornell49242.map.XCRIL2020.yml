@@ -1,0 +1,31 @@
+---
+identifier: Xana_x_Cornell49242.map.XCRIL2020
+
+genetic_map: XCRIL2020
+
+synopsis: "Genetic map from a RIL population from Xana x Cornell 49242."
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype: 
+  - Xana x Cornell 49242
+
+description: "Two nested RIL populations obtained from Xana x Cornell 4924 (XC) and Xana x BAT93 (XB) were used. The XC population was re-genotyped, and an updated linkage map, with 732 markers and a total length of 1390 cM, was developed."
+
+publication_doi: 10.1007/s11032-019-1085-1
+
+publication_title: "Toward validation of QTLs associated with pod and seed size in common bean using two nested recombinant inbred line populations"
+
+contributors: "Ester Murube, Qijian Song, Phillip McClean, Juan José Ferreira"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
+
+citation: "Murube, E., Campa, A., Song, Q. et al. Toward validation of QTLs associated with pod and seed size in common bean using two nested recombinant inbred line populations. Mol Breeding 40, 7 (2020)"

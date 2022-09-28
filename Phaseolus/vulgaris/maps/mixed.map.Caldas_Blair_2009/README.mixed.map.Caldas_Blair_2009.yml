@@ -12,9 +12,9 @@ taxid: 3885
 scientific_name_abbrev: phavu
 
 genotype: 
-  - DOR364 x G19833 (87 F9:11 RILs)
-  - BAT93 x JALOEEP558 (72 F8:11 RILs)
-  - G2333 x G19839 (84 F5:8 RILs)
+  - DOR364 x G19833
+  - BAT93 x JALOEEP558
+  - G2333 x G19839
 
 description: "The objective of this study was to analyze the relationship between quantitative trait loci (QTL) for seed tannin concentration in common bean and Mendelian genes for seed coat color and pattern. Three populations of recombinant inbred lines, derived from crosses between the Andean and Mesoamerican genepools were used for QTL identification and for mapping STS markers associated with seed color loci. Linkage group lengths and QTL-relevant marker positions were drawn from Figure 2 in the publication."
 
