@@ -1,0 +1,19 @@
+---
+identifier: IT97K-499-35.gnm1.mrk.Angira_Zhang_2020
+synopsis: "Flanking SNP markers for First flower and Plant height QTLs discovered in a population of 175 F2:8 RILs derived from a cross between the Cowpeas GoldenEyeCream and IT98K-476-8. Marker positions determined by homology vs. the Vigna unguiculata IT97K-499-35 v1.0 assembly."
+scientific_name: Vigna unguiculata
+scientific_name_abbrev: vigun
+taxid: 3917
+genotype: 
+  - GoldenEyeCream_x_IT98K-476-8
+description: "Cowpea (Vigna unguiculata (L.) Walp.) is a worldwide important multifunctional legume crop for food grain, vegetable, fodder, and cover crop. Nevertheless, only limited research has been conducted on agronomic traits. Here, we report quantitative trait locus (QTL) analysis of the days to flowering (DTF) and plant height (PH) using a dense SNP linkage map recently developed from a recombinant inbred line (RIL) population derived from a cross between Golden Eye Cream and IT98K-476-8. The population was phenotyped for DTF and PH through field and greenhouse trials under two environments. The QTLs controlling these traits were mapped using multiple-environment combined and individual trial phenotypic data. The combined data analysis identified one major QTL (qDTF9.1) for DTF, and one major QTL (qPH9.1) and a minor QTL (qPH4.1) for PH. qDTF9.1 and qPH9.1 were adjacent to each other on Chromosome 9 and each explained 29.3% and 29.5% of the phenotypic variation (PVE), respectively. The individual trial data analysis identified a minor QTL (qDTF2.1) on Chromosome 2 for DTF and two minor QTLs (qPH4.1 and qPH4.2) on Chromosome 4 for PH, while the major QTLs, qDTF9.1 and qPH9.1, were consistently identified in all trials conducted. Epistasis analysis revealed that qDTF9.1 interacted with one locus on Chromosome 4, contributed 50% of the PVE, and qPH9.1 interacted with one locus on each of Chromosomes 4 and 6, contributing 30% and 23% of the PVE, respectively, suggesting that epistasis plays an important role in the trait performance. These results, therefore, provide a deeper understanding of the genetic architecture of plant DTF and PH, and molecular tools necessary for cloning the genes and for enhanced cowpea breeding."
+genotyping_platform: Angira_Zhang_2020
+publication_doi: 10.1007/s00438-020-01680-y
+publication_title: Quantitative Trait Loci Influencing Days to Flowering and Plant Height in Cowpea, Vigna unguiculata (L.) Walp
+contributors: Angira B, Zhang Y, Scheuring CF, Zhang Y, Masor L, Coleman JR, Liu YH, Singh BB, Zhang HB, Hays DB, Zhang M.
+citation: "Angira B, Zhang Y, Scheuring CF, Zhang Y, Masor L, Coleman JR, Liu YH, Singh BB, Zhang HB, Hays DB, Zhang M. Quantitative Trait Loci Influencing Days to Flowering and Plant Height in Cowpea, Vigna unguiculata (L.) Walp. Mol Genet Genomics. 2020 Sep;295(5):1187-1195. doi: 10.1007/s00438-020-01680-y. Epub 2020 May 31. PMID: 32476049."
+data_curators: Scott Kalberer
+public_access_level: Public
+license: Open
+keywords: QTL mapping, Plant height, Days to flowering, Genomic position, Cowpea
+
