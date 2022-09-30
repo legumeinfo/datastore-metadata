@@ -1,0 +1,34 @@
+---
+identifier: G19833.gnm1.mrk.Blair_Cortés_2013
+
+synopsis: "A 768-marker Illumina GoldenGate array of SNP markers based on Trans-legume Orthologous Group (TOG) genes; marker physical coordinates relative to G19833.gnm1"
+
+scientific_name: Phaseolus vulgaris
+
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - G19833
+
+description: "This marker set corresponds with a 768 feature, Illumina GoldenGate assay for common bean, of single nucleotide polymorphisms (SNP) based on Trans-legume Orthologous Group (TOG) genes. A total of 91.4% of TOG markers had singleton hits with annotated Pv genes and all mapped outside of regions of resistance gene clusters."
+
+publication_doi: 10.1007/s00122-012-1999-z
+
+pubmed_id: 23124389
+
+publication_title: "A high-throughput SNP marker system for parental polymorphism screening, and diversity analysis in common bean (Phaseolus vulgaris L.)."
+
+contributors: "Blair MW, Cortés AJ, Penmetsa RV, Farmer A, Carrasquilla-Garcia N, Cook DR."
+
+citation: "Blair MW, Cortés AJ, Penmetsa RV, Farmer A, Carrasquilla-Garcia N, Cook DR. A high-throughput SNP marker system for parental polymorphism screening, and diversity analysis in common bean (Phaseolus vulgaris L.). Theor Appl Genet. 2013 Feb;126(2):535-48. doi: 10.1007/s00122-012-1999-z. Epub 2012 Nov 3. PMID: 23124389."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+genotyping_platform: Blair_Cortés_2013
+
