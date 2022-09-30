@@ -3,7 +3,7 @@ identifier: BAT93_x_JALOEEP558.map.Blair_Cortés_2018
 
 genetic_map: BAT93_x_JALOEEP558.Blair_Cortés_2018
 
-synopsis: "This BAT93 x JALOEEP558 map was constructed using Mapdisto v. 2.0 (Lorieux, 2012), assuming an RI model and using the create groups command both with and without anchor markers."
+synopsis: "Map of BAT93 x JALOEEP558, using 'TOG' markers from the GoldenGate SNP array reported in Blair, Cortés et al. 2013; Also known as PvCookUCDavis2009."
 
 scientific_name: Phaseolus vulgaris
 
@@ -14,7 +14,7 @@ scientific_name_abbrev: phavu
 genotype:
   - BAT93 x JALOEEP558
 
-description: "This BAT93 x JALOEEP558 map was constructed using Mapdisto v. 2.0 (Lorieux, 2012), assuming an RI model and using the create groups command both with and without anchor markers."
+description: "This BAT93 x JALOEEP558 map was constructed using 'TOG' markers from the 768-marker Illumina GoldenGate SNP array reported in Blair, Cortés et al. 2013, with the map described in Blair Cortés 2018. Also known as PvCookUCDavis2009."
 
 publication_doi: 10.1371/journal.pone.0189597
 
@@ -28,6 +28,7 @@ public_access_level: public
 
 license: Open
 
-citation: "Blair, M. W. et al. Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS One 13, e0189597 (2018)"
+citation: "Blair MW, Cortés AJ, Farmer AD, Huang W, Ambachew D, Penmetsa RV, Carrasquilla-Garcia N, Assefa T, Cannon SB. Uneven recombination rate and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS One. 2018 Mar 9;13(3):e0189597. doi: 10.1371/journal.pone.0189597. PMID: 29522524; PMCID: PMC5844515."
 
-genotyping_platform: PvCookUCDavis2009
+genotyping_platform: Blair_Cortés_2013
+
