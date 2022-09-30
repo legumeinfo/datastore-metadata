@@ -1,5 +1,5 @@
 ---
-identifier: mixed.map.XCXBRIL2020
+identifier: Xana_x_BAT93.map.XBRIL2020
 
 genetic_map: XBRIL2020
 
@@ -16,7 +16,7 @@ genotype:
 
 description: "The Xana x BAT93 (XB) population was genotyped using genotyping by sequencing (GBS), and the corresponding genetic linkage map consists of 497 single-nucleotide polymorphisms (SNPs) with a total length of 1547 cM. NOTE: Pv07 is truncated and Pv10 is not given due to segregation distortion associated with the BAT93 alleles."
 
-publication_doii: 10.1007/s11032-019-1085-1
+publication_doi: 10.1007/s11032-019-1085-1
 
 publication_title: "Toward validation of QTLs associated with pod and seed size in common bean using two nested recombinant inbred line populations"
 
