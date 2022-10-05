@@ -1,0 +1,19 @@
+---
+taxid: 3864
+genus: Lens
+species: culinaris
+abbrev: lencu
+commonName: lentil
+description: "An edible pulse crop, so named for its lens-shaped seeds. The majority of worldwide lentil production is from Canada and India, although the crop is thought to have been domesticated originally in the Fertile Crescent. Lentil is thought to be one of the first crops domesticated by humans."
+resources:
+  - name: LIS SequenceServer
+    URL: "https://sequenceserver.legumeinfo.org/"
+    description: "SequenceServer BLAST against the Lens culinaris assembly 2.0"
+
+strains:
+  - identifier: CDC_Redberry
+    accession: 
+    name: CDC_Redberry
+    origin: "Crop Development Centre, University of Saskatchewan, Saskatoon, Saskatchewan"
+    description: "CDC Redberry is a high-yielding, red cotyledon lentil cultivar with resistance to ascochyta blight and race Ct1 of anthracnose (DOI:10.4141/P05-071)"
+    resources:

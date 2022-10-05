@@ -1,0 +1,42 @@
+identifier: CDC_Redberry.gnm2.7C5P
+
+provenance: ""
+
+source: "https://knowpulse.usask.ca/data_files/assemblies/Lcu.2RBY.zip"
+
+synopsis: "Genome assembly for Lens culinaris CDC Redberry version 2"
+
+scientific_name: Lens culinaris
+
+taxid: 3864
+
+bioproject: PRJNA343689
+
+scientific_name_abbrev: lencu
+
+genotype:
+  - CDC_Redberry
+
+description: "This CDC Redberry Lens culinaris genome assembly was constructed with long-read data (34x PacBio SMRT, 20x Oxford nanopore reads). The contiguity of the assembly was further validated and improved using HiC data, as well as both an optical and genetic map (LR-01; ILL 1704 x CDC Robin intraspecific RIL). The finished assembly is 3.69 Gb arranged in 7 pseudo-molecules and 2,068 unplaced unitigs."
+
+genbank_accession: 
+
+local_file_creation_date: "2022-10-05"
+
+publication_doi: 10.1101/2021.07.23.453237
+
+dataset_release_date: "2022-10-05"
+
+publication_title: "Genomic rearrangements have consequences for introgression breeding as revealed by genome assemblies of wild and cultivated lentil species."
+
+contributors: "Larissa Ramsay, Chu Shin Koh, Sateesh Kagale, Dongying Gao, Sukhjiwan Kaur, Teketel Haile, Tadesse S. Gela, Li-An Chen, Zhe Cao, David J. Konkin, Helena Toegelová, Jaroslav Doležel, Benjamin D. Rosen, Robert Stonehouse, Jodi L. Humann, Dorrie Main, Clarice J.  Coyne, Rebecca J. McGee, Douglas R. Cook10, R. Varma Penmetsa10, Albert Vandenberg, Crystal Chan, Sabine Banniza, David Edwards, Philipp E. Bayer, Jacqueline Batley, Sripada M. Udupa, Kirstin E. Bett"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: Lentil, Lens culinaris, genome
+
+citation: "Ramsay L, Koh CS, Kagale S, Gao D, Kaur S, Haile T, Gela TS, Chen LA, Cao Z, Konkin DJ, Toegelová H, Doležel J, Rosen BD, Stonehouse R, Humann JL, Main D, Coyne CJ, McGee RJ, Cook DR, Penmetsa RV, Vandenberg A, Chan C, Banniza S, Edwards D, Bayer PE, Batley J, Udupa SM, Bett KE. Genomic rearrangements have consequences for introgression breeding as revealed by genome assemblies of wild and cultivated lentil species. bioRxiv. 2021 Jul 24."

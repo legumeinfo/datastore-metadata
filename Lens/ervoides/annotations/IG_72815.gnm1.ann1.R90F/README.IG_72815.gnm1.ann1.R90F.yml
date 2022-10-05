@@ -1,0 +1,15 @@
+identifier: IG_72815.gnm1.ann1.R90F
+
+synopsis: Genome annotation version 1 for Lens ervoides IG 72815 genome version 1
+
+scientific_name: Lens ervoides
+
+taxid: 41257
+
+scientific_name_abbrev: lener
+
+genotype:
+  - IG_72815
+
+description: Genome annotation version 1 for Lens ervoides IG 72815 genome version 1
+

@@ -1,0 +1,17 @@
+---
+taxid: 3863
+genus: Lens
+commonName: Lens Mill.
+description: "Lens is a genus within the legume family, whose species include the cultivated lentil (L. culinaris). A SNP-based phylogenetic study (Wong et al., 2015) divides the genus into seven species partitioned into four gene pools; L. culinaris/L. orientalis/L. tomentosus, L. lamottei/L. odemensis, L. ervoides and L. nigricans respectively make up the primary, secondary, tertiary and quaternary gene pools."
+
+species:
+  - culinaris
+  - ervoides
+
+resources:
+  - name: Genome Context Viewer
+    URL: "https://gcv.legumeinfo.org/gene;lis=lencu.CDC_Redberry.gnm2.ann1.Lcu.2RBY.2g031380"
+    description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
+  - name: Germplasm GIS  
+    URL: "https://germplasm-map.legumeinfo.org/#?zoom=1&maxRecs=2000&taxonQuery=Lens&traitScale=global&geocodedOnly&traitExcludeUnchar=false&limitToMapExtent=false&lat=17.31&lng=-38.32&mapHeight=188&baseMap=ESRI%20-%20NatGeo%20(default,%20reference%20map)&ne_lat=63.860035895395306&ne_lng=407.81250000000006&sw_lat=-43.580390855607845&sw_lng=-484.45312500000006&accessionIdsInclusive=false&traitOverlay=&country="
+    description: "Geographic information system viewer, showing collection locations for Lens data held by the U.S. National Plant Germplasm System."

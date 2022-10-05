@@ -1,0 +1,15 @@
+identifier: CDC_Redberry.gnm2.ann1.5FB4
+
+synopsis: Genome annotation version 1 for Lens culinaris CDC Redberry genome version 2
+
+scientific_name: Lens culinaris
+
+taxid: 3864
+
+scientific_name_abbrev: lencu
+
+genotype:
+  - CDC_Redberry
+
+description: Genome annotation version 1 for Lens culinaris CDC Redberry genome version 2
+
