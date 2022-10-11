@@ -3,11 +3,10 @@ taxid: 41257
 genus: Lens
 species: ervoides
 abbrev: lener
-commonName: 
 description: "Lens ervoides is a wild relative species of the cultivated lentil (Lens culinaris). It has been considered as being either in the secondary or tertiary gene pools relative to the crop species."
 resources:
   - name: LIS SequenceServer
-    URL: "https://sequenceserver.legumeinfo.org/"
+    url: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against the Lens ervoides assembly 1.0"
 
 strains:
@@ -16,4 +15,3 @@ strains:
     name: IG_72815
     origin: ICARDA
     description: "Anthracnose resistant wild accession used in interspecific crosses iwith L. culinaris cv. Eston (DOI:10.4141/cjps2013-072)"
-    resources:
