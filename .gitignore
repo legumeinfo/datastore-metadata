@@ -17,6 +17,7 @@
 *.swp
 *.png
 *.webp
+*.id_map
 .nfs.*
 *~
 MANIFEST.*
