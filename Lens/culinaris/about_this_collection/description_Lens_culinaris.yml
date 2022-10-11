@@ -12,8 +12,7 @@ resources:
 
 strains:
   - identifier: CDC_Redberry
-    accession: 
     name: CDC_Redberry
+    accession: CDC_Redberry
     origin: "Crop Development Centre, University of Saskatchewan, Saskatoon, Saskatchewan"
     description: "CDC Redberry is a high-yielding, red cotyledon lentil cultivar with resistance to ascochyta blight and race Ct1 of anthracnose (DOI:10.4141/P05-071)"
-    resources:
