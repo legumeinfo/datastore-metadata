@@ -6,7 +6,7 @@ abbrev: lener
 description: "Lens ervoides is a wild relative species of the cultivated lentil (Lens culinaris). It has been considered as being either in the secondary or tertiary gene pools relative to the crop species."
 resources:
   - name: LIS SequenceServer
-    url: "https://sequenceserver.legumeinfo.org/"
+    URL: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against the Lens ervoides assembly 1.0"
 
 strains:
