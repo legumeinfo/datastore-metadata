@@ -1,0 +1,32 @@
+---
+identifier: XinJiangDaYe.gnm1.ann1.expr.B47_F56.ORourke_Fu_2015
+
+synopsis: "Alfalfa expression atlas for M. sativa ssp. sativa (B47) and M. sativa ssp. falcata (F56) roots, root nodules, leaves, flowers, and elongating and post-elongation stem internodes."
+
+scientific_name: Medicago sativa
+
+taxid: 3879
+
+bioproject: PRJNA276155
+
+sraproject: SRP055547
+
+scientific_name_abbrev: medsa
+
+genotype:
+  - sativa B47
+  - falcata F56
+  
+description: "A de novo transcriptome assembly from two alfalfa subspecies, M. sativa ssp. sativa (B47) and M. sativa ssp. falcata (F56) was developed using Illumina RNA-seq technology. Transcripts from roots, nitrogen-fixing root nodules, leaves, flowers, elongating stem internodes, and post-elongation stem internodes were assembled into the Medicago sativa Gene Index 1.2 (MSGI 1.2) representing 112,626 unique transcript sequences. Nodule-specific and transcripts involved in cell wall biosynthesis were identified. Statistical analyses identified 20,447 transcripts differentially expressed between the two subspecies. Pair-wise comparisons of each tissue combination identified 58,932 sequences differentially expressed in B47 and 69,143 sequences differentially expressed in F56. Comparing transcript abundance in floral tissues of B47 and F56 identified expression differences in sequences involved in anthocyanin and carotenoid synthesis, which determine flower pigmentation. Single nucleotide polymorphisms (SNPs) unique to each M. sativa subspecies (110,241) were identified. SRA reads were mapped by LIS against a 'monoploid' version of XinJiangDaYe.gnm1.12MR (by choosing the longest individual chromosome from each set of 4 haplotypes to bring the genome down from 32 'allele-aware' chromosomes to 8 chromosomes in hopes of reducing multimapping ambiguity)."
+
+expression_unit: TPM
+
+local_file_creation_date: "2022-10-14"
+
+publication_doi: 10.1186/s12864-015-1718-7
+
+publication_title: "The Medicago sativa gene index 1.2: a web-accessible gene expression atlas for investigating expression differences between Medicago sativa subspecies"
+
+citation: "O’Rourke, J.A., Fu, F., Bucciarelli, B. et al. The Medicago sativa gene index 1.2: a web-accessible gene expression atlas for investigating expression differences between Medicago sativa subspecies. BMC Genomics 16, 502 (2015)."
+
+license: public
