@@ -17,13 +17,15 @@ original_file_creation_date: "2019-02-01"
 
 local_file_creation_date: "2019-02-01"
 
-publication_doi: 10.3389/fpls.2019.00345
-
 dataset_release_date: "2019-02-18"
+
+publication_doi: 10.3389/fpls.2019.00345
 
 publication_title: "Cercis: a Non-Polyploid Genomic Relic within the Generally Polyploid Legume Family"
 
 contributors: "Steven Cannon, David Fernandez-Baca, Akshay Yadav, Jacob Stai, Andrew Farmer, Carole Sinou, Anne Bruneau"
+
+citation: "Stai JS, Yadav A, Sinou C, Bruneau A, Doyle JJ, Fernández-Baca D, Cannon SB. Cercis: A Non-polyploid Genomic Relic Within the Generally Polyploid Legume Family. Front Plant Sci. 2019 Apr 11;10:345. doi: 10.3389/fpls.2019.00345. PMID: 31105714; PMCID: PMC6499179."
 
 data_curators: Steven Cannon
 
@@ -33,4 +35,3 @@ license: open
 
 keywords: legumes, gene family, Glycine max, Phaseolus vulgaris, Vigna angularis, Vigna radiata, Vigna unguiculata, Cajanus cajan, Medicago truncatula, Cicer arietinum, Trifolium pratense, Lotus japonicus, Lupinus angustifolius, Arachis duranensis, Arachis ipaensis, Arachis hypogaea, Cercis canadensis, Bauhinia tomentosa, Mimosa pudica, Chamaecrista fasciculata, Nissolia schottii
 
-citation: "Legume Federation project gene families, NSF DBI 1444806."
