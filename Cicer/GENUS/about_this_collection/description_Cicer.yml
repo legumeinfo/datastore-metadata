@@ -6,6 +6,8 @@ description: "Cicer is a genus of the legume family, Fabaceae, and the only genu
 
 species:
   - arietinum 
+  - echinospermum
+  - reticulatum
 
 resources:
   - name: ChickpeaMine
