@@ -8,17 +8,17 @@ taxid: 3827
 scientific_name_abbrev: cicar
 
 genotype:
-  - Rupali 
-  - Yorker
+  - Rupali (low PRR resistance)
+  - Yorker (moderate PRR resistance)
   
-synopsis: "Study of phytophthora effects on gene expression from chickpea genotypes Rupali and Yorker mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+synopsis: "Study of Phytophthora effects on gene expression from differing PRR resistance chickpea genotypes Rupali and Yorker, mapped to the CDCFrontier.gnm3.ann1 genome annotation."
 
-description: "We need a better description of this expression collection."
+description: "RNA-sequencing was used to identify changes in plant gene expression induced by Phytophthora medicaginis in roots of three chickpea genotypes: the breeding line 04067-81-2-1-1 (a backcross derivative from C. echinospermum with pedigree: Howzat/ ILWC 245//99039-1013) with high Phytophthora root rot (PRR) resistance; an Australian chickpea variety Yorker (pedigree: 8507-28H/946-31) of moderate PRR resistance; and the sensitive chickpea variety Rupali (pedigree: FLIP84-15C/ ICCV88516// Amethyst). At 8 hours after inoculation with P. medicaginis zoospores, root tissue from three replicates from each of the control and inoculated treatments of the three chickpea genotypes were harvested for RNA extraction and RNA-sequence data generation. The analysis of differential expression of genes obtained from RNA-sequencing data followed by gene ontology analysis identified several key categories such as plasma membrane bound cell wall enzymes including protein kinases/phosphatases, ion channels, transcription factors and proteolytic machinery. Note: this LIS dataset omits the data from the 04067-81-2-1-1 breeding line."
 
 expression_unit: TPM
 
 local_file_creation_date: "2022-07-14"
 
-contributors: "Tim Sutton, Andrew Farmer"
+contributors: "Tim Sutton, Judith Atieno, Andrew Farmer"
 
 license: public
