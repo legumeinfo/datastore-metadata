@@ -10,7 +10,7 @@ scientific_name_abbrev: cicar
 genotype:
   - Hybrid
   
-synopsis: "Study of development in a hybrid chickpea genotype with reads mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+synopsis: "Study of development in a hybrid chickpea genotype, with reads mapped to the CDCFrontier.gnm3.ann1 genome annotation."
 
 description: "We need a better description of this expression collection."
 

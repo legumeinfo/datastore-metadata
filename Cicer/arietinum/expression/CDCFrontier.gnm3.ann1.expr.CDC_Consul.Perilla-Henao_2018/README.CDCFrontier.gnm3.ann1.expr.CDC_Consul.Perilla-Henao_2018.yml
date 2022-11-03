@@ -10,9 +10,9 @@ scientific_name_abbrev: cicar
 genotype:
   - CDC_Consul
   
-synopsis: "Study of Nitrogen effects on gene expression from chickpea genotype CDC_Consul mapped to the CDCFrontier.gnm3.ann1 genome annotation."
+synopsis: "Study of nitrogen effects on gene expression from chickpea genotype CDC_Consul, with reads mapped to the CDCFrontier.gnm3.ann1 genome annotation."
 
-description: "We need a better description of this expression collection."
+description: "Transcriptome of genotype Consul_CDC during flowering/pod setting under symbiosis, inorganic nitrogen (10 mM NH4NO3), or nitrogen starvation (0 mM NH4NO3). The aerial (shoot) transcriptome corresponds to the youngest fully expanded leaves. The root transcriptome corresponds to secondary roots from the first inch below shoot/root junction. Nodules correspond to inoculation with symbionts M. ciceri and M. mediterraneum in independent treatments; the nodules were harvested from the root crown and primary central root." 
 
 expression_unit: TPM
 
