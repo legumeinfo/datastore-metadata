@@ -8,7 +8,7 @@ scientific_name: Phaseolus vulgaris
 scientific_name_abbrev: phavu
 
 genotype: 
-  - "The multiparent advanced generation inter-cross (MAGIC) population of common bean genotypes was composed of 1,050 F5:7 recombinant inbred lines. The eight MAGIC population founder lines were all sourced from race Durango of the Middle American gene pool with 7 pinto beans and 1 great northern bean. The pinto and great northern bean market classes were of special interest due to their commercial importance and susceptibility to white mold (Sclerotinia sclerotiorum)."
+  - MAGIC population of 1050 F5:7 recombinant inbred lines, founders from race Durango of the Middle American gene pool with 7 pinto beans and 1 great northern bean.
 
 synopsis: GWAS of white mold (Sclerotinia sclerotiorum) resistance for Common bean, relative to the G19833 assembly 2.
 
@@ -20,7 +20,7 @@ description: "Dry bean (Phaseolus vulgaris L.) production in many regions is thr
 
 data_curators: Scott Kalberer
 
-publication_doi: "10.1002/tpg2.20190"
+publication_doi: 10.1002/tpg2.20190
 
 citation: "Escobar E, Oladzad A, Simons K, Miklas P, Lee RK, Schroder S, Bandillo N, Wunsch M, McClean PE, Osorno JM. New Genomic Regions Associated with White Mold Resistance in Dry Bean using a MAGIC Population. Plant Genome. 2022 March;15(1):e20190. doi: 10.1002/tpg2.20190. Epub 2022 February 2. PMID: 35106945."
 

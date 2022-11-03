@@ -1,17 +1,31 @@
 ---
 identifier: G19833.gnm2.mrk.Andean_MidAmer_GBS
-synopsis: Marker SNPs developed by GBS on Andean and Middle American gene pools, with reads mapped to the Phaseolus vulgaris G19833 gnm2 assembly.
+
+synopsis: "Marker SNPs developed by GBS on Andean and Middle American gene pools, with reads mapped to the Phaseolus vulgaris G19833 gnm2 assembly."
+
 scientific_name: Phaseolus vulgaris
+
 taxid: 3885
+
 scientific_name_abbrev: phavu
+
 genotype: 
   - G19833
+
 genotyping_platform: Andean_MidAmer_GBS
-description: SNP markers were identified using GBS of the Bean Abiotic Stress Evaluation (BASE) panels for Phaseolus vulgaris, relative to the G19833.gnm2 assembly. The BASE panels included the BASE_120 [genotypes from 93 Middle American (MA), 22 Andean, 4 Tepary bean pools], BASE_Meso [119 genotypes mostly from Race Mesoamerica], and BASE_Andean [124 Andean genotypes]. Haplotypes from the Andean and Middle American gene pools originate from https://gsajournals.figshare.com/articles/dataset/Supplemental_Material_for_Oladzad_et_al_2019/7965305. The combined marker file is derived from the two haplotype files.
+
+description: "SNP markers were identified using GBS of the Bean Abiotic Stress Evaluation (BASE) panels for Phaseolus vulgaris, relative to the G19833.gnm2 assembly. The BASE panels included the BASE_120 [genotypes from 93 Middle American (MA), 22 Andean, 4 Tepary bean pools], BASE_Meso [119 genotypes mostly from Race Mesoamerica], and BASE_Andean [124 Andean genotypes]. Haplotypes from the Andean and Middle American gene pools originate from https://gsajournals.figshare.com/articles/dataset/Supplemental_Material_for_Oladzad_et_al_2019/7965305. The combined marker file is derived from the two haplotype files."
+
 publication_doi: 10.1534/g3.119.400072
+
 publication_title: Single and multi-trait GWAS identify genetic factors associated with production traits in common bean under abiotic stress environments.
+
 contributors: Oladzad A, Porch T, Rosas JC, Moghaddam SM, Beaver J, Beebe SE, Burridge J, Jochua CN, Miguel MA, Miklas PN, Raatz B, White JW, Lynch J, McClean PE.
+
 citation: "Oladzad A, Porch T, Rosas JC, Moghaddam SM, Beaver J, Beebe SE, Burridge J, Jochua CN, Miguel MA, Miklas PN, Raatz B, White JW, Lynch J, McClean PE. Single and multi-trait GWAS identify genetic factors associated with production traits in common bean under abiotic stress environments. G3 (Bethesda). 2019 Jun 5;9(6):1881-1892. doi: 10.1534/g3.119.400072. Erratum in: G3 (Bethesda). 2020 Jun 1;10(6):2129. PMID: 31167806; PMCID: PMC6553540."
+
 data_curators: Scott Kalberer, Steven Cannon
+
 public_access_level: public
+
 license: Open
