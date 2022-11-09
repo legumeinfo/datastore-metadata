@@ -10,9 +10,9 @@ species:
   - reticulatum
 
 resources:
-  - name: ChickpeaMine
-    URL: "https://mines.legumeinfo.org/chickpeamine/begin.do"
-    description: "InterMine interface for accessing genetic and genomic data for several species in Cicer."
+  - name: CicerMine
+    URL: "https://mines.legumeinfo.org/cicermine/begin.do"
+    description: "InterMine interface for accessing genetic and genomic data for several Cicer species."
   - name: GCViT
     URL: "https://gcvit.cicer.legumeinfo.org"
     description: "Genotype comparison visualization tool."
