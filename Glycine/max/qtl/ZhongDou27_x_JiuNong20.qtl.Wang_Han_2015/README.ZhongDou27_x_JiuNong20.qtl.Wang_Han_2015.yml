@@ -8,6 +8,7 @@ taxid: 3847
 scientific_name_abbrev: glyma
 genotype:
   - Zhong Dou 27 x Jiu Nong 20
+genetic_map: GmComposite2003
 description: "Further information provided in 10.1371/journal.pone.0118447"
 publication_doi: 10.1371/journal.pone.0118447
 publication_title: "Mapping Isoflavone QTL with Main, Epistatic and QTL × Environment Effects in Recombinant Inbred Lines of Soybean"
