@@ -1,0 +1,34 @@
+identifier: CB27_x_IT97K-556-6.map.Huynh_Ehlers_2015
+  
+synopsis: "Field-based assays for genetic mapping involved 92 F8 RILs derived from a cross of cowpea aphid-susceptible CB27 and aphid-resistant breeding line IT97K556-6."
+
+scientific_name: Vigna unguiculata
+
+taxid: 3917
+
+bioproject: 
+
+scientific_name_abbrev: vigun
+
+genotype: 
+  - CB27 x IT97K-556-6
+
+genetic_map: CB27_x_IT97K-556-6.Huynh_Ehlers_2015
+
+description: "Cowpea aphid (Aphis craccivora, CPA) resistance was studied using F8 RILs derived from a cross between susceptible California Blackeye 27 (CB27), which was bred by University of California–Riverside (UCR), and a resistant breeding line IT97K-556-6 from the International Institute of Tropical Agriculture (IITA) breeding nursery in Nigeria."
+
+genotyping_platform: Cowpea1MSelectedSNPs
+
+genotyping_method: "Marker genotype data for 92 RILs of the CB27 x IT97K-556-6 population were generated from the Illumina GoldenGate assay of 1,536 genome-wide SNP markers."
+
+publication_doi: 10.1007/s11032-015-0254-0
+
+publication_title: "Genetic mapping and legume synteny of aphid resistance in African cowpea (Vigna unguiculata L. Walp.) grown in California"
+
+contributors: "Huynh, Bao-Lam; Ehlers, Jeffrey D; Ndeve, Arsenio; Wanamaker, Steve; Lucas, Mitchell R; Close, Timothy J; Roberts, Philip A"
+
+data_curators: Sam Hokin
+
+public_access_level: public
+
+license: Open
