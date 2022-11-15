@@ -1,0 +1,50 @@
+---
+identifier: VC1973A.gnm7.SB53
+
+provenance: "The files in this directory originated from the Crop Genomics Lab of Dr. Suk-Ha Lee, http://plantgenomics.snu.ac.kr. The Crop Genomics Lab repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "http://plantgenomics.snu.ac.kr/mediawiki-1.21.3/index.php/Main_Page"
+
+synopsis: "Vigna radiata (mungbean) accession VC1973A, assembly version 7 (2021)"
+
+scientific_name: Vigna radiata
+
+taxid: 157791
+
+scientific_name_abbrev: vigra
+
+genotype: 
+  - VC1973A
+
+description: "This assembly, of accession VC1973A, is a near-complete genome sequence of mungbean with a scaffold N50 value of 5.2 Mb and only a 0.4% gap, with a total scaffold size of 475 Mb. Primary sequence was generated with PacBio RS II and assembled with Canu version 1. The corrected reads were assembled into contigs using Falcon (Version 0.3.0). The contigs were scaffolded with Illumina mate-pair reads with library sizes of 5, 10, and 40 kb using SSPACE (Version 3.0). Gaps in the superscaffolds were filled by Illumina short reads using Gapfiller (Version 1.10)."
+
+bioproject: 
+
+sraproject: SRRS9994113
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: "2021-07-18"
+
+local_file_creation_date: "2022-11-15"
+
+dataset_release_date: "2022-11-10"
+
+publication_doi: 10.1002/tpg2.20121
+
+publication_title: "A near-complete genome sequence of mungbean (Vigna radiata L.) provides key insights into the modern breeding program."
+
+contributors: Ha J, Satyawan D, Jeong H, Lee E, Cho KH, Kim MY, Lee SH
+
+citation: "Ha J, Satyawan D, Jeong H, Lee E, Cho KH, Kim MY, Lee SH. A near-complete genome sequence of mungbean (Vigna radiata L.) provides key insights into the modern breeding program. Plant Genome. 2021 Nov;14(3):e20121. doi: 10.1002/tpg2.20121. Epub 2021 Jul 18. PMID: 34275211."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Vigna radiata, mungbean, mung bean, VC1973A
+
