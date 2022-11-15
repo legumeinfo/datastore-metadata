@@ -1,4 +1,4 @@
-identifier: ZN016_x_Zhijiang282.qtl.Xu_Wu_2017
+identifier: ZN016_x_Zhijiang282.gwas.Xu_Wu_2017
   
 synopsis: "A novel genotyping assay for over 50,000 SNPs was employed to delineate genomic regions governing cowpea pod length."
 
@@ -10,8 +10,6 @@ scientific_name_abbrev: vigun
 
 genotype: 
   - ZN016 x Zhijiang282
-
-genetic_map: ZN016_x_Zhijiang282.Xu_Wu_2017
 
 description: "The population used in genetic mapping included 132 recombinant inbred lines (F6:8, ‘ZZ’ population) developed by single‐seed descent from the cross ZN016 x Zhijiang282. ZN016 is a landrace vegetable cowpea accession originating from southern China with medium‐long pods (~38 cm) while Zhijiang282 is a typical asparagus bean cultivar with long pods."
 
