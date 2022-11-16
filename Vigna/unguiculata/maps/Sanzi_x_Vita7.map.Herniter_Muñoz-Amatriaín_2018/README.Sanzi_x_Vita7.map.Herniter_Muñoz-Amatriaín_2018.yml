@@ -1,4 +1,4 @@
-identifier: mixed.qtl.Herniter_Muñoz-Amatriaín_2018
+identifier: Sanzi_x_Vita7.map.Herniter_Muñoz-Amatriaín_2018
   
 synopsis: "Four populations were used to study black seed coat and pod tip color: two biparental RIL populations, the UC-Riverside eight-parent MAGIC population, and a diversity minicore population."
 
@@ -9,11 +9,9 @@ taxid: 3917
 scientific_name_abbrev: vigun
 
 genotype: 
-  - CB27 x IT82E-18
   - Sanzi x Vita 7
-  - MAGIC-2017
 
-genetic_map: CB27_x_IT82E-18.Herniter_Muñoz-Amatriaín_2018, Sanzi_x_Vita7.Herniter_Muñoz-Amatriaín_2018, MAGIC-2017
+genetic_map: Sanzi_x_Vita7.Herniter_Muñoz-Amatriaín_2018
 
 description: "This study of black seed coat and pod tip color in cowpea used: (1) 94 F6-8 RILs derived from California Blackeye 27 (CB27), which has a medium-sized black eye seed coat and purple pod tips, and IT82E-18, which has a solid brown coat and green pod tips; (2) a RIL population provided by the IITA with 121 F6-8 RILs derived from a cross between Sanzi, a landrace with a speckled black and purple seed coat and purple pod tips, and Vita 7, which has a solid tan coat and green pod tips; (3) the UC-Riverside MAGIC population of 305 F8 RILs; (4) the UC-Riverside minicore population of 367. Accessions within the minicore population show great phenotypic diversity, including in seed coat color traits."
 
