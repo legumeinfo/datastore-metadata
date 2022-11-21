@@ -18,15 +18,15 @@ scientific_name_abbrev: glyd3
 genotype:
   - G1403
 
-description: "Files in this directory are genome annotation files for Glycine D3 tomentella, accession G1403, from Zhuang, Wang et al. (2021): \"A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition.\" The D3 identifier in the name signifies an isozyme class for G. tomentella, marking this as a diploid species in a diploid/polyploid complex in the tomentella group. See Sherman-Broyles ... Doyle et al., 2014 (doi:10.3732/ajb.1400121)."
+description: "Files in this directory are genome annotation files for Glycine D3 tomentella, accession G1403, from Zhuang, Wang et al. (2022): \"Phylogenomics of the genus Glycine sheds light on polyploid evolution and life-strategy transition\" The D3 identifier in the name signifies an isozyme class for G. tomentella, marking this as a diploid species in a diploid/polyploid complex in the tomentella group. See Sherman-Broyles ... Doyle et al., 2014 (doi:10.3732/ajb.1400121)."
 
 original_file_creation_date: "2021-05-27"
 
 local_file_creation_date: "2020-08-09"
 
-publication_doi: 10.21203/rs.3.rs-548382/v1
+publication_doi: 10.1038/s41477-022-01102-4
 
-publication_title: "A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition"
+publication_title: "Phylogenomics of the genus Glycine sheds light on polyploid evolution and life-strategy transition"
 
 contributors: "Yongbin Zhuang, Xutong Wang, Xianchong Li, Junmei Hu, Lichuan Fan, Steven Cannon, Jane Grimwood, Jeremy Schmutz, Scott A. Jackson, Jeffrey J. Doyle, Xian Sheng Zhang, Dajian Zhang, Jianxin Ma"
 
@@ -38,5 +38,5 @@ license: open
 
 keywords: Glycine D3 tomentella
 
-citation: "Yongbin Zhuang, Xutong Wang, Xianchong Li et al. A super-pangenome framework of the genus Glycine unveils polyploid evolution and life-strategy transition, 27 May 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-548382/v1]"
+citation: "Yongbin Zhuang, Xutong Wang, Xianchong Li et al. Phylogenomics of the genus Glycine sheds light on polyploid evolution and life-strategy transition. Nat. Plants 8, 233–244 (2022)" 
 
