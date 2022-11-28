@@ -1,0 +1,50 @@
+---
+identifier: Col0.gnm9.ann11.KH24
+
+provenance: "The files in this directory originated from http://phytozome.jgi.doe.gov, but originated in the TAIR and Araport projects. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://phytozome-next.jgi.doe.gov/info/Athaliana_Araport11"
+
+synopsis: "Araport11 annotation on the TAIR9 genome assembly"
+
+scientific_name: Arabidopsis thaliana
+
+taxid: 3702
+
+scientific_name_abbrev: arath
+
+genotype: 
+  - Col0
+
+description: "This is the Araport11 annotation, released in 2016, on the TAIR9 genome assembly of the Col-0 ecotype."
+
+bioproject: 
+
+sraproject: 
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: "2016-11-08"
+
+local_file_creation_date: "2022-11-27"
+
+dataset_release_date: "2022-11-27"
+
+publication_doi: 10.1111/tpj.13415
+
+publication_title: "Araport11: a complete reannotation of the Arabidopsis thaliana reference genome."
+
+contributors: The Arabidopsis Genome Initiative, TAIR, and Araport projects
+
+citation: "Cheng CY, Krishnakumar V, Chan AP, Thibaud-Nissen F, Schobel S, Town CD. Araport11: a complete reannotation of the Arabidopsis thaliana reference genome. Plant J. 2017 Feb;89(4):789-804. doi: 10.1111/tpj.13415. Epub 2017 Feb 10. PMID: 27862469."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Arabidopsis, Col-0, Col0, Columbia-0, Araport, TAIR
+
