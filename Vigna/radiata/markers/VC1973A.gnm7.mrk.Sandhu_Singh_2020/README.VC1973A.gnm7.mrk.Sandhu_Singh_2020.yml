@@ -1,9 +1,9 @@
 ---
-identifier: VC1973A.gnm6.mrk.Sandhu_Singh_2020
+identifier: VC1973A.gnm7.mrk.Sandhu_Singh_2020
 
 provenance: "The files in this directory were provided by Dr. Arti Singh and Mr. Kevin Chiteri in December, 2020. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, SoyBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
-synopsis: "SNP markers from the mung bean Illumina iSelect BeadArray, with associations reported in Sandhu Singh 2020 relative to gnm6"
+synopsis: "SNP markers from the mung bean Illumina iSelect BeadArray, with associations reported in Sandhu Singh 2020 relative to gnm6, and projected into gnm7 coordinates"
 
 scientific_name: Vigna radiata
 
@@ -22,17 +22,17 @@ genotyping_platform: Sandhu_Singh_2020
 
 original_file_creation_date: "2020-12-01"
 
-local_file_creation_date: "2021-08-01"
+local_file_creation_date: "2022-12-29"
 
 publication_doi: 10.1002/csc2.20322
 
-dataset_release_date: "2021-08-01"
+dataset_release_date: "2022-12-29"
 
 publication_title: "Strategies for the utilization of the USDA mung bean germplasm collection for breeding outcomes"
 
 contributors: "Kulbir Sandhu, Kevin Chiteri, Arti Singh"
 
-data_curators: Steven Cannon
+data_curators: Steven Cannon, Kevin Chiteri
 
 public_access_level: public
 
