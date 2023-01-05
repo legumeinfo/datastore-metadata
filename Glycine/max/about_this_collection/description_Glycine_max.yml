@@ -108,4 +108,119 @@ strains:
     name: Fiskeby III
     origin: Fiskeby, Norrköpping, Sweden
     description: "Bred by the late Dr. Sven Holmberg in Fiskeby, Norrköpping, Sweden. Highly nutritious — up to 40% protein, high in calcium, iron, and vitamins (particularly A, B1, B12, and C). Thrives in northern climates. 75-80 days."
+  - identifier: 58-161
+    accession: SoyL04
+    name: 58-161
+    origin: China, Jiang Su
+    description: Landrace 58-161 (SoyL04 from China, Jiang Su, from Liu et al. 2020
+  - identifier: Amsoy
+    accession: SoyC05
+    name: Amsoy
+    origin: United States, Iowa
+    description: Cultivar Amsoy (SoyC05 from United States, Iowa, from Liu et al. 2020
+  - identifier: DongNongNo_50
+    accession: SoyC12
+    name: Dong Nong No.50
+    origin: China, Hei Long Jiang
+    description: Cultivar Dong Nong No.50 (SoyC12 from China, Hei Long Jiang, from Liu et al. 2020
+  - identifier: FengDiHuang
+    accession: SoyL07
+    name: Feng Di Huang
+    origin: China, Ji Lin
+    description: Landrace Feng Di Huang (SoyL07 from China, Ji Lin, from Liu et al. 2020
+  - identifier: HanDouNo_5
+    accession: SoyC09
+    name: Han Dou No.5
+    origin: China, He Bei
+    description: Cultivar Han Dou No.5 (SoyC09 from China, He Bei, from Liu et al. 2020
+  - identifier: HeiHeNo_43
+    accession: SoyC13
+    name: Hei He No.43 
+    origin: China, Hei Long Jiang
+    description: Cultivar Hei He No.43  (SoyC13 from China, Hei Long Jiang, from Liu et al. 2020
+  - identifier: JiDouNo_17
+    accession: SoyC11
+    name: Ji Dou No.17
+    origin: China, He Bei
+    description: Cultivar Ji Dou No.17 (SoyC11 from China, He Bei, from Liu et al. 2020
+  - identifier: JinDouNo_23
+    accession: SoyC07
+    name: Jin Dou No.23
+    origin: China, Shan Xi
+    description: Cultivar Jin Dou No.23 (SoyC07 from China, Shan Xi, from Liu et al. 2020
+  - identifier: JuXuanNo_23
+    accession: SoyC03
+    name: Ju Xuan No.23
+    origin: China, Shan Dong
+    description: Cultivar Ju Xuan No.23 (SoyC03 from China, Shan Dong, from Liu et al. 2020
+  - identifier: KeShanNo_1
+    accession: SoyC14
+    name: Ke Shan No.1
+    origin: China, Hei Long Jiang
+    description: Cultivar Ke Shan No.1 (SoyC14 from China, Hei Long Jiang, from Liu et al. 2020
+  - identifier: PI_398296
+    accession: SoyL05
+    name: PI 398296
+    origin: South Korea, Kyonggi
+    description: Landrace PI 398296 (SoyL05 from South Korea, Kyonggi, from Liu et al. 2020
+  - identifier: PI_548362
+    accession: SoyC10
+    name: PI 548362
+    origin: United States, Illinois
+    description: Cultivar PI 548362 (SoyC10 from United States, Illinois, from Liu et al. 2020
+  - identifier: QiHuangNo_34
+    accession: SoyC08
+    name: Qi Huang No.34
+    origin: China, Shan Dong
+    description: Cultivar Qi Huang No.34 (SoyC08 from China, Shan Dong, from Liu et al. 2020
+  - identifier: ShiShengChangYe
+    accession: SoyL09
+    name: Shi Sheng Chang Ye
+    origin: Japan, Hokkaido
+    description: Landrace Shi Sheng Chang Ye (SoyL09 from Japan, Hokkaido, from Liu et al. 2020
+  - identifier: TieFengNo_18
+    accession: SoyC02
+    name: Tie Feng No.18
+    origin: China, Hei Long Jiang
+    description: Cultivar Tie Feng No.18 (SoyC02 from China, Hei Long Jiang, from Liu et al. 2020
+  - identifier: TieJiaSiLiHuang
+    accession: SoyL08
+    name: Tie Jia Si Li Huang
+    origin: China, Ji Lin
+    description: Landrace Tie Jia Si Li Huang (SoyL08 from China, Ji Lin, from Liu et al. 2020
+  - identifier: TongShanTianEDan
+    accession: SoyL03
+    name: Tong Shan Tian E Dan
+    origin: China, Jiang Su
+    description: Landrace Tong Shan Tian E Dan (SoyL03 from China, Jiang Su, from Liu et al. 2020
+  - identifier: WanDouNo_28
+    accession: SoyC04
+    name: Wan Dou No.28
+    origin: China, An Hui
+    description: Cultivar Wan Dou No.28 (SoyC04 from China, An Hui, from Liu et al. 2020
+  - identifier: XuDouNo_1
+    accession: SoyC01
+    name: Xu Dou No.1
+    origin: China, Jiang Su
+    description: Cultivar Xu Dou No.1 (SoyC01 from China, Jiang Su, from Liu et al. 2020
+  - identifier: YuDouNo_22
+    accession: SoyC06
+    name: Yu Dou No.22
+    origin: China, He Nan
+    description: Cultivar Yu Dou No.22 (SoyC06 from China, He Nan, from Liu et al. 2020
+  - identifier: ZhangChunManCangJin
+    accession: SoyL06
+    name: Chang Chun Man Cang Jin
+    origin: China, Ji Lin
+    description: Landrace Chang Chun Man Cang Jin (SoyL06 from China, Ji Lin, from Liu et al. 2020
+  - identifier: Zhutwinning2
+    accession: SoyL01
+    name: Zhutwinning2
+    origin: China
+    description: Landrace Zhutwinning2 (SoyL01 from China, from Liu et al. 2020
+  - identifier: ZiHuaNo_4
+    accession: SoyL02
+    name: Zi Hua No.4
+    origin: China, Hei Long Jiang
+    description: Landrace Zi Hua No.4 (SoyL02 from China, Hei Long Jiang, from Liu et al. 2020
 

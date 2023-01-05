@@ -1,0 +1,50 @@
+---
+identifier: PI_548362.gnm1.V9S7
+
+provenance: "The files in this directory originated from the Genome Warehouse of the China National Center for Bioinformation, https://ngdc.cncb.ac.cn/gwh. The Genome Warehouse repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://ngdc.cncb.ac.cn/gwh/Genome/43/show"
+
+synopsis: "Genome assembly for Glycine max accession PI_548362 (SoyC10) from Liu, Du et al. 2020."
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype: 
+  - PI_548362
+
+description: "Genome assembly for Glycine max accession PI_548362 (SoyC10) from Liu, Du et al. 2020. The 26 accessions were sequenced individually using single-molecule real-time (SMRT) sequencing with an average coverage depth of 96X, optical mapping with an average coverage depth of 277X, chromosome conformation capture (Hi-C) sequencing with an average coverage depth of 136X, and Illumina sequencing (HiSeq) with an average coverage depth of 68X."
+
+bioproject: 
+
+sraproject: 
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: "2020-04-08"
+
+local_file_creation_date: "2022-12-09"
+
+dataset_release_date: "2022-12-12"
+
+publication_doi: 10.1016/j.cell.2020.05.023
+
+publication_title: "Pan-Genome of Wild and Cultivated Soybeans"
+
+contributors: Yucheng Liu, Huilong Du, Haikuan Zhang, Yanting Shen, Hua Peng, Shulin Liu, Guo-An Zhou, Miao Shi, Pengcheng Li, Xuehui Huang, Yan Li, Min Zhang, Zheng Wang, Baoge Zhu, Bin Han, Chengzhi Liang, Zhixi Tian
+
+citation: "Liu Y, Du H, Li P, Shen Y, Peng H, Liu S, Zhou GA, Zhang H, Liu Z, Shi M, Huang X, Li Y, Zhang M, Wang Z, Zhu B, Han B, Liang C, Tian Z. Pan-Genome of Wild and Cultivated Soybeans. Cell. 2020 Jul 9;182(1):162-176.e13. doi: 10.1016/j.cell.2020.05.023. Epub 2020 Jun 17. PMID: 32553274."
+
+data_curators: Andrew Farmer, Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, pangenome
+

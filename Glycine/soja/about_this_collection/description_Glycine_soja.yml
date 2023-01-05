@@ -46,3 +46,19 @@ strains:
     name: GsojaF
     origin: National Wild Soybean Preservation Center, ICS, CAAS
     description: "This Glycine soja wild soybean accession was sequenced and annotated by Chu, et al. (2021)."
+  - identifier: PI_549046
+    accession: SoyW02
+    name: PI 549046
+    origin: China, Shaan Xi
+    description: Wild (G. soja) accession PI 549046 (SoyW02 from China, Shaan Xi, from Liu et al. 2020
+  - identifier: PI_562565
+    accession: SoyW01
+    name: PI 562565
+    origin: South Korea, Jeolla Puk
+    description: Wild (G. soja) accession PI 562565 (SoyW01 from South Korea, Jeolla Puk, from Liu et al. 2020
+  - identifier: PI_578357
+    accession: SoyW03
+    name: PI 578357
+    origin: Russian Federation, Federation Amur
+    description: Wild (G. soja) accession PI 578357 (SoyW03 from Russian Federation, Federation Amur, from Liu et al. 2020
+
