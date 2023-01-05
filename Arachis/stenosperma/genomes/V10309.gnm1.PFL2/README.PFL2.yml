@@ -1,0 +1,48 @@
+---
+identifier: V10309.gnm1.PFL2
+
+provenance: "The files in this directory originated from http://peanutbase.org. There is also a corresponding genome assembly at GenBank. Files in this directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and PeanutBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files, then please also cite the respective database project(s) related to this directory."
+
+source: http://peanutbase.org
+
+synopsis: Genome assembly 1 for Arachis stenosperma, accession V10309
+
+scientific_name: Arachis stenosperma
+
+taxid: 217475
+
+bioproject: PRJNA610652
+
+scientific_name_abbrev: arast
+
+genotype:
+  - V10309
+
+description: "Genome assembly 1 for Arachis stenosperma, accession V10309, with sequenced generated using PacBio Sequel; Illumina HiSeq. Arachis stenosperma Krapov. & W.C. Greg. is a wild peanut relative native to central Brazil, in the past it was cultivated by native peoples of South America, and was carried to the Atlantic coast, where populations persist to the present day. It is a source of strong pest and disease resistance and has been used by peanut breeders and geneticists in interspecific hybrids. A. stenosperma is diploid species in the A-genome group of Arachis, which has similarity to the A genome of tetraploid cultivated peanut (A. hypogaea). This accession was sequenced with PacBio long reads, with contributions by USDA-ARS and researchers at Mars Inc. and the University of Georgia"
+
+dataset_doi: none
+
+genbank_accession: GCA_014773155.1
+
+original_file_creation_date: "2020-10-02"
+
+local_file_creation_date: "2020-05-20"
+
+publication_doi: none
+
+dataset_release_date: "2022-12-01"
+
+publication_title: 
+
+contributors: Clevenger,J., Cannon,S.B., Youngblood, C., Vaughn,J.N., Abernathy, B, Bertioli,D.J., Scheffler, B.
+
+data_curators: Steven Cannon
+
+public_access_level: public, with usage restriction
+
+license: open
+
+keywords: Arachis stenosperma
+
+citation: 
+
