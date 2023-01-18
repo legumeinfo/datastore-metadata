@@ -18,6 +18,10 @@ scientific_name_abbrev: medtr
 genotype:
   - A17
 
+chromosome_prefix: "MtrunA17Chr1,MtrunA17Chr2,MtrunA17Chr3,MtrunA17Chr4,MtrunA17Chr5,MtrunA17Chr6,MtrunA17Chr7,MtrunA17Chr8"
+
+supercontig_prefix: MtrunA17Chr0c
+
 description: "Genome assembly (unplaced contigs and pseudomolecules) for Medicago truncatula (version Mt5.0) A17."
 
 dataset_doi: 10.25794/reference/4l6cescf

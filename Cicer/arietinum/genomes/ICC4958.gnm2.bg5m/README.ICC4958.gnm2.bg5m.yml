@@ -18,6 +18,10 @@ scientific_name_abbrev: cicar
 genotype:
   - ICC4958 (desi variety)
 
+chromosome_prefix: Ca
+
+supercontig_prefix: scaffold,contig
+
 description: "Genome assembly (pseudomolecules) of Cicer arietinum ICC4958 (desi variety)."
 
 genbank_accession: GCA_000347275.2

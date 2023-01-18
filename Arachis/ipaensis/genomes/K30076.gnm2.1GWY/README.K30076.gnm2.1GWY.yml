@@ -20,6 +20,8 @@ genotype:
 
 description: "Files in this directory include the scaffold assemblies for Arachis ipaensis, accession K30076. This is a high-quality chromosome-scale genome sequence, based on PacBio RSII and PacBio Sequel assembled using the software Mecat and Arrow, and polished using Illumina HiSeq read data using the software Pilon. Scaffolds were ordered into pseudomolecules by Dovetail using Hi-C Chicago libraries and the softwares HiRise and SNAP."
 
+chromosome_prefix: chr
+
 genbank_accession: CP049892-CP049901
 
 original_file_creation_date: "2019-04-01"

@@ -20,6 +20,10 @@ genotype:
 
 description: "Files in this directory include the scaffold assemblies for Arachis duranensis, and the pseudomolecule assemblies, version 2.0 for the genome."
 
+chromosome_prefix: chr
+
+supercontig_prefix: Scaffold
+
 original_file_creation_date: "2019-05-01"
 
 local_file_creation_date: "2019-09-01"

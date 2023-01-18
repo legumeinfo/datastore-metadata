@@ -16,6 +16,10 @@ scientific_name_abbrev: prupe
 genotype: 
   - Lovell
 
+chromosome_prefix: Pp
+
+supercontig_prefix: scaffold
+
 description: "Peach v2.0 was generated from DNA from the doubled haploid cultivar 'Lovell' (PLOV2-2N) which means that the genes and intervening DNA is fixed or identical for all alleles and both chromosomal copies of the genome. This doubled haploid nature has facilitated a highly accurate and consistent assembly of the peach genome. Peach v2.0 currently consists of 8 pseudomolecules representing the 8 chromosomes of peach, and are numbered according to their corresponding linkage groups. The genome sequencing consisted of approximately 8.47 fold whole genome shotgun sequencing employing the accurate Sanger methodology and was assembled using Arachne. See full description at Phytozome/JGI repository (address above)."
 
 bioproject: PRJNA31227

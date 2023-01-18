@@ -20,6 +20,10 @@ scientific_name_abbrev: medpo
 genotype:
   - Huaiyang_Jinhuacai
 
+chromosome_prefix: chr
+
+supercontig_prefix: CONTIG
+
 description: "Genome assembly of diploid Medicago polymorpha using PacBio RSII, Illumina for error correction and HiC-based scaffolding"
 
 original_file_creation_date: "2021-12-28"

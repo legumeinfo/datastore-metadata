@@ -14,6 +14,8 @@ scientific_name_abbrev: medsa
 genotype:
   - CADL (HM342)
 
+supercontig_prefix: Scc4a34
+
 description: "Initial genome assembly for CADL_HM342 (= Cultivated Alfalfa at the Diploid Level); Pacbio Falcon assembly followed by Dovetail scaffolding"
 
 local_file_creation_date: "2020-01-23"

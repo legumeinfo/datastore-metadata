@@ -17,6 +17,10 @@ scientific_name_abbrev: vigan
 genotype:
   - Gyeongwon IT213134
 
+chromosome_prefix: Va
+
+supercontig_prefix: scaffold
+
 description: Genome assembly (scaffolds, pseudomolecules, and information about scaffold placement in pseudomolecules)
 
 genbank_accession: GCA_000465365.1

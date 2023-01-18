@@ -18,6 +18,10 @@ scientific_name_abbrev: glyso
 genotype:
   - W05
 
+chromosome_prefix: Chr
+
+supercontig_prefix: tig
+
 description: "Genome assembly files for cultivar W05 from Xie, Lam et al. (2019): A reference-grade wild soybean genome"
 
 genbank_accession: GCA_004193775.2

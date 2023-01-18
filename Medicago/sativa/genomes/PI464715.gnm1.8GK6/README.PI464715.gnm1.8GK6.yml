@@ -20,6 +20,10 @@ scientific_name_abbrev: medsa
 genotype:
   - PI464715
 
+chromosome_prefix: Chr
+
+supercontig_prefix: Contig
+
 description: ""
 
 original_file_creation_date: "2021-12-28"

@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Williams 82
 
+chromosome_prefix: Gm
+
+supercontig_prefix: scaffold
+
 description: "Genome assembly"
 
 original_file_creation_date: "2010-01-14"

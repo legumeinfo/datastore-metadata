@@ -18,6 +18,10 @@ scientific_name_abbrev: lupan
 genotype: 
   - Tanjil
 
+chromosome_prefix: NLL
+
+supercontig_prefix: Scaffold
+
 description: "Genome assembly (scaffolds, pseudomolecules, and information about scaffold placement in pseudomolecules), for Lupinus angustifolius (Tanjil)."
 
 publication_doi: 10.1111/pbi.12615

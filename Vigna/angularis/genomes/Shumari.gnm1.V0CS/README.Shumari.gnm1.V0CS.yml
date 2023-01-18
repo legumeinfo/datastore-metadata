@@ -15,6 +15,10 @@ scientific_name_abbrev: vigan
 genotype:
   - Shumari
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: Genome assembly for the Vigna angularis, accession Shumari
 
 original_file_creation_date: "2016-01-01"

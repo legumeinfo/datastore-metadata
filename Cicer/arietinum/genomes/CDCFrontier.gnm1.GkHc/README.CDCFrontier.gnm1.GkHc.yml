@@ -18,6 +18,10 @@ scientific_name_abbrev: cicar
 genotype:
   - CDCFrontier (kabuli variety)
 
+chromosome_prefix: Ca
+
+supercontig_prefix: scaffold
+
 description: "Genome assembly (pseudomolecules) v1 of Cicer arietinum CDCFrontier (kabuli variety)."
 
 dataset_doi: 10.5524/100076

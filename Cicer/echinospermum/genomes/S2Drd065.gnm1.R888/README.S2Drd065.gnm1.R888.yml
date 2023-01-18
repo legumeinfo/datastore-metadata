@@ -12,6 +12,10 @@ scientific_name_abbrev: cicec
 genotype:
   - S2Drd065
 
+chromosome_prefix: chr
+
+supercontig_prefix: C
+
 description: "Genome assembly for echinospermum genotype S2Drd065 from the Cook Lab, UC-Davis."
 
 original_file_creation_date: "2022-03-01"

@@ -18,6 +18,8 @@ scientific_name_abbrev: faial
 genotype:
   - World AgroForestry Center
 
+supercontig_prefix: scaffold
+
 description: "Draft genome assembly for Faidherbia albida"
 
 dataset_doi: 10.5524/101054

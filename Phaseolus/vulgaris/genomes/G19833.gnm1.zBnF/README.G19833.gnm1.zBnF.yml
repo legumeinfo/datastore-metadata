@@ -18,6 +18,10 @@ scientific_name_abbrev: phavu
 genotype:
   - G19833
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: "Files in this directory include the scaffold assemblies for Phaseolus vulgaris, version 1.0 for the genome."
 
 genbank_accession: GCA_000499845.1

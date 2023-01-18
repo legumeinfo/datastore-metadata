@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Jinyuan
 
+chromosome_prefix: chr
+
+supercontig_prefix: unanchor
+
 description: "Files in this directory are genome assembly files for cultivar Jinyuan (Jinyuan_IGA1006 in the publication; WHFS_GmJY_1.0 in the GenBank assembly record), Chu et al. (2020); https://www.ncbi.nlm.nih.gov/bioproject/?term=prjna561626. Note: the publication uses the form Jingyuan in one place, but we use the form Jinyuan (lacking g) as used in the GenBank record. This accession may be in the same lineage as others called Jinuan, e.g. https://npgsweb.ars-grin.gov/gringlobal/accessiondetail?id=1370763"
 
 dataset_doi: 10.6084/m9.figshare.14727255

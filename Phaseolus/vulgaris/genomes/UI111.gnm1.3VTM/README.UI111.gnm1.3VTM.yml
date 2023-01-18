@@ -18,6 +18,10 @@ scientific_name_abbrev: phavu
 genotype:
   - UI111
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: "Files in this directory include the genome assembly for Phaseolus vulgaris accession UI111"
 
 original_file_creation_date: "2019-11-01"

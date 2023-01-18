@@ -17,6 +17,10 @@ scientific_name_abbrev: lener
 genotype:
   - IG_72815
 
+chromosome_prefix: Ler.1DRT.Chr
+
+supercontig_prefix: Ler.1DRT.unitig
+
 description: "This IG 72815 ASM Lens ervoides genome assembly was constructed with long-read data (52x Oxford nanopore reads). The contiguity of the assembly was further validated and improved using HiC data and a genetic map (LR-66; L1-02-827 x IG 72815 intraspecific RIL). The finished assembly is 2.87 Gb arranged in 7 pseudo-molecules and 1,134 unplaced unitigs."
 
 genbank_accession: 

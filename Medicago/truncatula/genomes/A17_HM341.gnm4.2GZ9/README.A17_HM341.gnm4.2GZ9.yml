@@ -18,6 +18,10 @@ scientific_name_abbrev: medtr
 genotype:
   - A17 (HM341)
 
+chromosome_prefix: chr
+
+supercontig_prefix: scaffold
+
 description: "Genome assembly (scaffolds and pseudomolecules) for Medicago truncatula (version Mt4.0) A17 (HM341)."
 
 genbank_accession: GCF_000219495.3

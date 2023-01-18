@@ -18,6 +18,8 @@ scientific_name_abbrev: cerca
 genotype:
   - ISC453364 (ICERNS isolate NF-2018-4)
 
+supercontig_prefix: scaffold
+
 description: "Draft genome assembly for Cercis canadensis"
 
 dataset_doi: 10.5524/101044

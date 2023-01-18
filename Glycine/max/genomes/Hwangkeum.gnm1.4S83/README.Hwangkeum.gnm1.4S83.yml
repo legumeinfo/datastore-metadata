@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Hwangkeum
 
+chromosome_prefix: Chr
+
+supercontig_prefix: Contig_Un
+
 description: "Files in this diretory are genome assembly files for genome type Hwangkeum, Kim (2021)"
 
 original_file_creation_date: "2020-06-30"

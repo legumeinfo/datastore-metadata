@@ -18,6 +18,8 @@ scientific_name_abbrev: lotja
 genotype:
   - MG20
 
+chromosome_prefix: Lj
+
 description: "Genome assembly (pseudomolecules) of Lotus japonicus MG20."
 
 genbank_accession: GCA_000181115.2 

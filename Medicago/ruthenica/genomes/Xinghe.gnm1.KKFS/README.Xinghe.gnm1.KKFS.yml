@@ -20,6 +20,10 @@ scientific_name_abbrev: medru
 genotype:
   - Xinghe
 
+chromosome_prefix: Mru
+
+supercontig_prefix: ctg
+
 description: "Genome assembly of wild diploid Medicago ruthenica Xinghe using PacBio, Illumina, 10×Genomics, and Hi-C"
 
 original_file_creation_date: "2021-12-28"

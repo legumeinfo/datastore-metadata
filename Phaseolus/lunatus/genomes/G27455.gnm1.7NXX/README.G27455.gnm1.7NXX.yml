@@ -18,6 +18,10 @@ scientific_name_abbrev: phalu
 genotype:
   - G27455
 
+chromosome_prefix: Pl
+
+supercontig_prefix: tig
+
 description: "Files in this directory include the genome assembly for Phaseolus lunatus accession G27455"
 
 genbank_accession: GCA_013389735.1

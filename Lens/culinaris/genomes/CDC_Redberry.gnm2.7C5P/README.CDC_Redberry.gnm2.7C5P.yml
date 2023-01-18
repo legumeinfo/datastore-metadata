@@ -17,6 +17,10 @@ scientific_name_abbrev: lencu
 genotype:
   - CDC_Redberry
 
+chromosome_prefix: Lcu.2RBY.Chr
+
+supercontig_prefix: Lcu.2RBY.unitig
+
 description: "This CDC Redberry Lens culinaris genome assembly was constructed with long-read data (34x PacBio SMRT, 20x Oxford nanopore reads). The contiguity of the assembly was further validated and improved using HiC data, as well as both an optical and genetic map (LR-01; ILL 1704 x CDC Robin intraspecific RIL). The finished assembly is 3.69 Gb arranged in 7 pseudo-molecules and 2,068 unplaced unitigs."
 
 genbank_accession: 

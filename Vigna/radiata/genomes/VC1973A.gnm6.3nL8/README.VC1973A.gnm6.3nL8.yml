@@ -17,6 +17,10 @@ scientific_name_abbrev: vigra
 genotype:
   - VC1973A
 
+chromosome_prefix: Vr
+
+supercontig_prefix: scaffold
+
 description: Genome assembly (scaffolds and pseudomolecules) for Vigna radiata
 
 genbank_accession: GCF_000741045.1

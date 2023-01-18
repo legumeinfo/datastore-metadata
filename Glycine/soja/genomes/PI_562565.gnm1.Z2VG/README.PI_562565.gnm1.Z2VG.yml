@@ -16,6 +16,10 @@ scientific_name_abbrev: glyso
 genotype: 
   - PI_562565
 
+chromosome_prefix: Chr
+
+supercontig_prefix: HiC_scaffold
+
 description: "Genome assembly for Glycine soja accession PI_562565 (SoyW01) from the 26 accession pan-genome set of Liu, Du et al. 2020. The 26 accessions were sequenced individually using single-molecule real-time (SMRT) sequencing with an average coverage depth of 96X, optical mapping with an average coverage depth of 277X, chromosome conformation capture (Hi-C) sequencing with an average coverage depth of 136X, and Illumina sequencing (HiSeq) with an average coverage depth of 68X."
 
 bioproject: 

@@ -11,4 +11,8 @@ scientific_name_abbrev: vigun
 genotype:
   - CB5-2
 
+chromosome_prefix: chr
+
+supercontig_prefix: ScsGwly
+
 description: Vigna unguiculata genome assembly for CB5-2.gnm1.WDTB

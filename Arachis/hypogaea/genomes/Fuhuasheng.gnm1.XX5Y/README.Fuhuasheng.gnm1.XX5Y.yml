@@ -19,6 +19,8 @@ genotype:
 
 description: Files in this directory are pseudomolecule assemblies for Arachis hypogaea cultivar Fuhuasheng.
 
+chromosome_prefix: chr
+
 genbank_accession: GCA_004170445.1
 
 original_file_creation_date: "2019-02-12"

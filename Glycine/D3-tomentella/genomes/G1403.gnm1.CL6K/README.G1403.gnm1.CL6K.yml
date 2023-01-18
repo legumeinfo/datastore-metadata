@@ -18,6 +18,8 @@ scientific_name_abbrev: glyd3
 genotype:
   - G1403
 
+chromosome_prefix: Chr
+
 description: "Files in this directory are genome assemblies for Glycine D3 tomentella, accession G1403, from Zhuang, Wang et al. (2022): \"Phylogenomics of the genus Glycine sheds light on polyploid evolution and life-strategy transition\" The D3 identifier in the name signifies an isozyme class for G. tomentella, marking this as a diploid species in a diploid/polyploid complex in the tomentella group. See Sherman-Broyles ... Doyle et al., 2014 (doi:10.3732/ajb.1400121)."
 
 original_file_creation_date: "2021-05-27"

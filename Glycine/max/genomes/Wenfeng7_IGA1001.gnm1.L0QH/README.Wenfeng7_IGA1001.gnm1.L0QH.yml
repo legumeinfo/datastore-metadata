@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Wenfeng 7 
 
+chromosome_prefix: chr
+
+supercontig_prefix: unanchor
+
 description: "Files in this directory are genome assembly files for cultivar Wenfeng 7 (Wenfeng7_IGA1001 in publication; WHFS_GmWF7_1.0 in the GenBank assembly redord); Chu et al. (2021): Eight soybean reference genome resources from varying latitudes and agronmic traits. "
 
 dataset_doi: 10.6084/m9.figshare.14727255 

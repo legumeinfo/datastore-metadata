@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Zhonghuang 13 (Zh13)
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: "Files in this directory are genome assembly files for cultivar Zhonghuang 13, Shen et al. (2018): De novo assembly of a Chinese soybean genome"
 
 original_file_creation_date: "2018-07-27"

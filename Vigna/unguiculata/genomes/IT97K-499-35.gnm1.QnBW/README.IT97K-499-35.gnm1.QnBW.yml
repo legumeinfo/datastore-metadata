@@ -17,6 +17,10 @@ scientific_name_abbrev: vigun
 genotype:
   - IT97K-499-35
 
+chromosome_prefix: Vu
+
+supercontig_prefix: contig
+
 description: "Cowpea, Vigna unguiculata L. Walp, is a diploid warm-season legume, also known as black-eyed pea among other common names. Cowpea is relevant as a grain legume in the USA and Europe, and as a fresh vegetable in China and elsewhere, and is of major importance as food and fodder in sub-Saharan Africa. This release of the annotated genome (v1.0) of elite African variety IT97K-499-35 was derived from Pacific Biosciences long reads, two Bionano Genomics optical maps and ten genetic linkage maps. This work was conducted mainly under the NSF BREAD project Advancing the Cowpea Genome for Food Security with partial support from the Feed the Future Innovation Lab for Climate Resilient Cowpea."
 
 genbank_accession: GCA_004118075.1

@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Lee
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: "Files in this directory are genome assembly files for genotype Lee, Garg (2021)"
 
 genbank_accession: none 

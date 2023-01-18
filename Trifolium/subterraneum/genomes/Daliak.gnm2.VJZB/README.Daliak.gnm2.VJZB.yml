@@ -18,6 +18,10 @@ scientific_name_abbrev: trisu
 genotype:
   - Daliak
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: "Files in this directory are genome assembly files for genotype Daliak, Garg (2021)"
 
 genbank_accession: none 

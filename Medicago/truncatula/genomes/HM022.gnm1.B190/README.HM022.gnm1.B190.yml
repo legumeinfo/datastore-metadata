@@ -18,6 +18,8 @@ scientific_name_abbrev: medtr
 genotype:
   - HM022
 
+supercontig_prefix: scaffold
+
 description: "Genome assembly for Medicago truncatula (HM022)"
 
 original_file_creation_date: "2015-04-29"

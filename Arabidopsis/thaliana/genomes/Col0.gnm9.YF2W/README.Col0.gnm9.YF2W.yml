@@ -16,6 +16,8 @@ scientific_name_abbrev: arath
 genotype: 
   - Col0
 
+chromosome_prefix: Chr
+
 description: "This is the TAIR9 genome assembly of the Col-0 ecotype, produced by the Arabidopsis Genome Initiative."
 
 bioproject: 

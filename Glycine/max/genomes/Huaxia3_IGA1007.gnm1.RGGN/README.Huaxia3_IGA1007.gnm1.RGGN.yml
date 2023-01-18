@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Huaxia 3 
 
+chromosome_prefix: chr
+
+supercontig_prefix: unanchor
+
 description: "Files in this directory are genome assembly files for cultivar Huaxia 3 (Huaxia3_IGA1007; WHFS_GmHX3_1.0 in the GenBank assembly record), Chu et al. (2021):  Eight soybean reference genome resources from varying latitudes and agronmic traits."
 
 dataset_doi: 10.6084/m9.figshare.14727255

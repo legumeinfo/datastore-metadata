@@ -16,6 +16,8 @@ scientific_name_abbrev: vitvi
 genotype: 
   - PN40024
 
+chromosome_prefix: chr
+
 description: "This is the 12X March 2010 release of the draft genome and v2.1 annotation of Vitis vinifera by the French-Italian Public Consortium for Grapevine Genome Characterization. Please see Genoscope and the publication below."
 
 bioproject: 

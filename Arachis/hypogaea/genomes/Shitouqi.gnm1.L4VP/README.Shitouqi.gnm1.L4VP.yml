@@ -19,6 +19,8 @@ genotype:
 
 description: Files in this directory are pseudomolecule assemblies for Arachis hypogaea cultivar Shitouqi.
 
+chromosome_prefix: chr
+
 original_file_creation_date: "2018-07-20"
 
 local_file_creation_date: "2019-05-01"

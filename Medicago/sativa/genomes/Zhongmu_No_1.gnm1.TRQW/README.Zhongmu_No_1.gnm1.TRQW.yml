@@ -20,6 +20,10 @@ scientific_name_abbrev: medsa
 genotype:
   - Zhongmu_No_1
 
+chromosome_prefix: Chr
+
+supercontig_prefix: contig
+
 description: "A de novo assembled 816-Mb high-quality, chromosome-level haploid genome sequence for ‘Zhongmu No.1’ alfalfa, a heterozygous autotetraploid; PacBio read assembly + BioNano optical map and HiC scaffolding."
 
 original_file_creation_date: "2021-12-28"

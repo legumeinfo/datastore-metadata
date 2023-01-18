@@ -18,6 +18,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Williams 82
 
+chromosome_prefix: Gm
+
+supercontig_prefix: scaffold
+
 description: "Genome assembly for Williams 82. The Williams 82 version 4 assembly (Wm82v4) builds on the widely-used assembly version 2, as well as an incremental version 3 that involved incorporation of BAC sequence to fill contig gaps in 2016. The Wm82v2 assembly was primarily Sanger-based, and new gap-filling in v3 and v4 utilized PacBio-based BAC assemblies targeted to gap regions. The Wm82v4 assembly closed 3,626 gaps and added 5,138,978 bp of sequence relative to Wm82v2, increasing the contig N50 from 233.1 kbp to 419.3 kbp."
 
 original_file_creation_date: "2018-04-23"

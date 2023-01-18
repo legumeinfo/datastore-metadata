@@ -16,6 +16,10 @@ scientific_name_abbrev: tripr
 genotype:
   - Milvus B
 
+chromosome_prefix: Tp
+
+supercontig_prefix: scaf
+
 description: "Genome assembly (pseudomolecules) for Trifolium pratense (Milvus B)."
 
 genbank_accession: GCA_900079335.1

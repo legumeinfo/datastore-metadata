@@ -17,6 +17,10 @@ scientific_name_abbrev: araip
 genotype:
   - K30076
 
+chromosome_prefix: Araip.B
+
+supercontig_prefix: Aipa
+
 description: "Genome assembly 1 for Arachis ipaensis, accession K30076. Files in this directory include the scaffold assemblies for Arachis ipaensis, and the pseudomolecule assemblies, for the genome."
 
 genbank_accession: GCA_000816755.2

@@ -18,6 +18,8 @@ scientific_name_abbrev: glyfa
 genotype:
   - G1718
 
+chromosome_prefix: Chr
+
 description: "Files in this directory are genome assemblies for Glycine falcata, accession G1718, from Zhuang, Wang et al. (2022): \Phylogenomics of the genus Glycine sheds light on polyploid evolution and life-strategy transition\""
 
 original_file_creation_date: "2021-05-27"

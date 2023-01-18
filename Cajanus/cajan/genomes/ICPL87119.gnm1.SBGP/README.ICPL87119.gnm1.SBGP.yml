@@ -18,6 +18,10 @@ scientific_name_abbrev: cajca
 genotype:
   - Asha (ICPL 87119)
 
+chromosome_prefix: Cc
+
+supercontig_prefix: Scaffold
+
 description: "Files in this directory included the AGP file, which specifices how a chromosome is assembled from components and a fasta file with assembled pseudomolecules for C. cajan genome version 1.0."
 
 genbank_accession: GCA_000340665.1 

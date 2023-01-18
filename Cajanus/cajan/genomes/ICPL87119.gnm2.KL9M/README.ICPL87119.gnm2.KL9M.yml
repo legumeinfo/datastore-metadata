@@ -18,6 +18,10 @@ scientific_name_abbrev: cajca
 genotype:
   - ICPL87119
 
+chromosome_prefix: chr
+
+supercontig_prefix: scaffold
+
 description: "Files in this directory are genome assembly files for genotype Asha, Garg (2021)"
 
 genbank_accession: none 

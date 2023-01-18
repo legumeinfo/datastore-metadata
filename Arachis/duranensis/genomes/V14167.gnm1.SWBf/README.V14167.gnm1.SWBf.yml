@@ -17,6 +17,10 @@ genotype:
 
 description: Files in this directory include the scaffold assemblies for Arachis duranensis, and the pseudomolecule assemblies, version 1.0 for the genome. See the original README file for complete description.
 
+chromosome_prefix: Aradu.A
+
+supercontig_prefix: Adur
+
 genbank_accession: JQIN01
 
 original_file_creation_date: "2014-03-15"

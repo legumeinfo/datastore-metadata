@@ -16,6 +16,10 @@ scientific_name_abbrev: glyma
 genotype:
   - Lee
 
+chromosome_prefix: Gm
+
+supercontig_prefix: sc
+
 description: "Initial genome assembly for Glycine max cultivar Lee. The assembly incorporates Illumina sequence and optical mapping from NRGene. Pseudomolecule anchoring of scaffolds was accomplished using two dense genetic maps as well as synteny comparisons with Glycine max reference assembly for cultivar Williams 82 and Glycine soja PI 483463. This assembly corresponds to quality control round 12 (QC12), Oct 26, 2017"
 
 genbank_accession: PELE00000000

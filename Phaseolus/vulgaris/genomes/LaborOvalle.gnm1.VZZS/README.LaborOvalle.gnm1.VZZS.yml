@@ -16,6 +16,10 @@ scientific_name_abbrev: phavu
 genotype:
   - Labor Ovalle
 
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
 description: "Genome assembly for Phaseolus vulgaris accession Labor Ovalle. Labor Ovalle is a race Guatemala common bean variety released by the Institute of Agricultural Science and Technology (ICTA). Labor Ovalle was a landrace native to the highlands that was improved by selection efforts of the ICTA breeding program led by Dr. Fernando Aldana. Labor Ovalle is a round-seeded Bolonilio market class bean. The project was a joint effort of North Dakota State University and Hudson/Alpha Institute for Biotechnology. Funding for the project was provided by the United States Agency for International Development through the Feed the Future Legume Innovation Laboratory."
 
 original_file_creation_date: "2021-01-14"

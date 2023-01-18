@@ -14,6 +14,8 @@ genotype:
 
 description: "Aeschynomene evenia isolate CIAT22838, whole genome shotgun sequencing project."
 
+chromosome_prefix: Ae
+
 bioproject: PRJNA448804
 
 sraproject: SRP150701
