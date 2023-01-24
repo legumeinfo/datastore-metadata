@@ -28,7 +28,9 @@ local_file_creation_date: "2019-05-14"
 
 dataset_release_date: "2015-05-20"
 
-publication_title: 10.1038/s41467-019-09142-9
+publication_doi: 10.1038/s41467-019-09142-9
+
+publication_title: "A reference-grade wild soybean genome"
 
 contributors: "Hon-Ming Lam, Ting-Fung Chan"
 
