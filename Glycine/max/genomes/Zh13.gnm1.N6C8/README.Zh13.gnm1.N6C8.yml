@@ -18,7 +18,7 @@ scientific_name_abbrev: glyma
 genotype:
   - Zhonghuang 13 (Zh13)
 
-chromosome_prefix: Chr
+chromosome_prefix: Chr,Chloroplast,Mitochondrion
 
 supercontig_prefix: scaffold
 
