@@ -16,6 +16,8 @@ description: "Aeschynomene evenia isolate CIAT22838, whole genome shotgun sequen
 
 chromosome_prefix: Ae,Chloroplast,Mitochondrion
 
+supercontig_prefix: Unknown
+
 bioproject: PRJNA448804
 
 sraproject: SRP150701
