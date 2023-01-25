@@ -1,4 +1,5 @@
-8cb8147fc603349b35966e4967b4bfe3  ./MANIFEST.A17.gnm5.ann1_6.L2RX.descriptions.yml
+1c0c8951542ae4eac1f80ad374dc31cd  ./MANIFEST.A17.gnm5.ann1_6.L2RX.descriptions.yml
+86eedf2868cfb213f4bafb30347b66a2  ./medtr.A17.gnm5.ann1_6.L2RX.cds.bed.gz
 2b576cb964e306ee409c8244bd660520  ./busco/medtr.A17.gnm5.ann1_6.L2RX.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.medtr.A17.gnm5.ann1_6.L2RX.protein.faa.gz_busco.txt
 b62f39c7251ad63727e366e51e54dec3  ./medtr.A17.gnm5.ann1_6.L2RX.mrna.fna.gz.fai
 c2f12edcd057fce0d3746bd73fad158b  ./medtr.A17.gnm5.ann1_6.L2RX.repeats.gff3.gz
@@ -8,7 +9,7 @@ ae1df8d5934cd69a41d73d089112d420  ./medtr.A17.gnm5.ann1_6.L2RX.iprscan.gff3.gz
 1065ab72940f9b225d33615b693ddb1a  ./README.A17.gnm5.ann1_6.L2RX.yml
 491e5a53aacbeef78ef1a1abe9a6d3c0  ./medtr.A17.gnm5.ann1_6.L2RX.protein.faa.gz.gzi
 481dd9d86ddca977e96e6c317d352374  ./medtr.A17.gnm5.ann1_6.L2RX.iprscan.gff3.gz.tbi
-95338cd3d78c70da486249c838ed933e  ./MANIFEST.A17.gnm5.ann1_6.L2RX.correspondence.yml
+39e506f53607073cc0607f51273d3270  ./MANIFEST.A17.gnm5.ann1_6.L2RX.correspondence.yml
 aa2d8ccf52e3ff3b73a1edb567cb94b3  ./medtr.A17.gnm5.ann1_6.L2RX.legfed_v1_0.M65K.pathway.tsv.gz
 bb9e167d8c388913e7ec044f9ad6d914  ./medtr.A17.gnm5.ann1_6.L2RX.phytozome_10_2.HFNR.gfa.tsv.gz
 6f50d770a0a584eb92b01843b6631ac5  ./medtr.A17.gnm5.ann1_6.L2RX.cds.fna.gz.gzi
@@ -18,6 +19,7 @@ bb9e167d8c388913e7ec044f9ad6d914  ./medtr.A17.gnm5.ann1_6.L2RX.phytozome_10_2.HF
 68c26b2997149796d87be7128661e8cc  ./medtr.A17.gnm5.ann1_6.L2RX.cds.fna.gz
 c40e752c2b697e7c3f5c85a4ae051ac1  ./medtr.A17.gnm5.ann1_6.L2RX.mrna.fna.gz.gzi
 498c7bc22878fba0d0228faf54e38493  ./medtr.A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz.tbi
-a09f7b764ca86657c7cff44d321ad674  ./CHANGES.A17.gnm5.ann1_6.L2RX.txt
+65f695344a0d9b9d2663332501c49b03  ./CHANGES.A17.gnm5.ann1_6.L2RX.txt
 f3664c9df68c3c740a0305477253f2d2  ./medtr.A17.gnm5.ann1_6.L2RX.mrna.fna.gz
 a957419a9e9cf078c5d821aca04939d3  ./medtr.A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz
+b72c2a7420318d8d7dcf8350de1914b7  ./medtr.A17.gnm5.ann1_6.L2RX.cds.bed.gz.csi

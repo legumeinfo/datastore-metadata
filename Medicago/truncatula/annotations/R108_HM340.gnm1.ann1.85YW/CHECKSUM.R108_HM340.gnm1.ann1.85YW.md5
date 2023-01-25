@@ -1,4 +1,4 @@
-4e6c6a5fd234339a292f819bb42e6fac  ./medtr.R108_HM340.gnm1.ann1.85YW.iprscan.gff3.gz.tbi
+56caa2e454443330af191b281cbb73b1  ./medtr.R108_HM340.gnm1.ann1.85YW.iprscan.gff3.gz.tbi
 0529dd11a8aa5f7b83f7a57ebe0919ec  ./medtr.R108_HM340.gnm1.ann1.85YW.protein_primary.faa.gz
 b59487d3591d0def7f72b4fa550ee807  ./medtr.R108_HM340.gnm1.ann1.85YW.protein.faa.gz.fai
 db3dd5d222cee79d47a525c4c2b18991  ./medtr.R108_HM340.gnm1.ann1.85YW.cds_primary.fna.gz.gzi
@@ -16,7 +16,7 @@ d2123f9778e2b517709ca5d33a0b40d2  ./medtr.R108_HM340.gnm1.ann1.85YW.cds_primary.
 cf12c3f6e5b0d6e667fb9999e03061f1  ./medtr.R108_HM340.gnm1.ann1.85YW.legfed_v1_0.M65K.gfa.tsv.gz
 a7c0b8c984a2aeeed4ee167b9d59b14d  ./busco/medtr.R108_HM340.gnm1.ann1.85YW.protein_primaryTranscript.faa.gz_busco/short_summary.specific.embryophyta_odb10.medtr.R108_HM340.gnm1.ann1.85YW.protein_primaryTranscript.faa.gz_busco.txt
 aaad67bb1b9fa4d57ff6809eeda8ec4f  ./busco/medtr.R108_HM340.gnm1.ann1.85YW.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.medtr.R108_HM340.gnm1.ann1.85YW.protein.faa.gz_busco.txt
-4706bf4e3d6baa7ef51c030b40bae803  ./medtr.R108_HM340.gnm1.ann1.85YW.iprscan.gff3.gz
+6f8bc370e4bfdd95572940e343dfcbf2  ./medtr.R108_HM340.gnm1.ann1.85YW.iprscan.gff3.gz
 9e274dec25fd35f52e8cbda43661a461  ./medtr.R108_HM340.gnm1.ann1.85YW.gene_models_main.gff3.gz.tbi
 840147eb64323e986bf6c32ae7d56818  ./CHANGES.R108_HM340.gnm1.ann1.85YW.txt
 95cd444fef7d9ea3eb69d44e9f467bfa  ./medtr.R108_HM340.gnm1.ann1.85YW.cds.fna.gz

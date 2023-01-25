@@ -7,6 +7,7 @@ ed6510d4a99d1e9214ddf0cc00c6d83e  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds.fna.gz.fai
 8724256f754dd8321ee654fb7a5ce81a  ./glyso.PI483463.gnm1.ann1.3Q3Q.legfed_v1_0.M65K.gfa.tsv.gz
 55cfc62813c9a30d6b3968def42114c3  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna.fna.gz.gzi
 4b019e46a53a0ec70a0b41efbc2e368c  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna_primary.fna.gz.fai
+c2d4e0a1c8763115cd6c3d9f25d27219  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_main.bed.gz.tbi
 7ec79c77eb12179db9b6b575693215b8  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds_primary.fna.gz.fai
 7247c8f64b05d173b98ccf7ca3ef68d5  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_main.gff3.gz.tbi
 87161bc10407d30b0e2f7d56919a8f3e  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_exons.gff3.gz
@@ -19,16 +20,13 @@ eb453f2850fd4d54339be5493ffef47c  ./glyso.PI483463.gnm1.ann1.3Q3Q.protein.faa.gz
 ab1da9c60e9196a10857a4d42f7607e3  ./glyso.PI483463.gnm1.ann1.3Q3Q.protein_primary.faa.gz
 2ee6c67031233459f62838304b1051cc  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds_primary.fna.gz.gzi
 e82e9c99cc5dd65200d37b0815d0b5d8  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna.fna.gz.fai
-4d3ee5771540f72324374f29320f05ef  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_main.bed.gz
+2c796fa8b0948cb99d057dfde63b3ffc  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_main.bed.gz
 192eb1812f44ead578f56e917d302d90  ./glyso.PI483463.gnm1.ann1.3Q3Q.protein_primary.faa.gz.gzi
 67ec72bd8537d8f03ab4313d5d8b9d0d  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds.fna.gz.gzi
 b382a656d8578b5ac5de26775ad8eb3b  ./MANIFEST.PI483463.gnm1.ann1.3Q3Q.descriptions.yml
 27f725f1ec586bedc8ce65f4e564bf34  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna_primary.fna.gz.gzi
-639f67d17e43a9dae31bc63d71f2008a  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds.bed.gz
 920f08f843471f3194509da939500181  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna.fna.gz
 e654eb9c268a845b3b77cb533f8217f8  ./glyso.PI483463.gnm1.ann1.3Q3Q.info_annot.txt.gz
-30de8be09aec2917080957f05984290f  ./.glyso.PI483463.gnm1.ann1.3Q3Q.legfed_v1_0.M65K.gfa.tsv.gz.swp
 21a2bb20722843b11774ce6f9d5bae11  ./glyso.PI483463.gnm1.ann1.3Q3Q.protein.faa.gz.gzi
-462420be13b84ad8c13b7f3765db5247  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds.bed.gz.tbi
 ce4c2999f84d9fd350c15a60494770e9  ./README.PI483463.gnm1.ann1.3Q3Q.yml
 4e0ff131f7c6f4cf6c1114adc0a14a7f  ./MANIFEST.PI483463.gnm1.ann1.3Q3Q.correspondence.yml

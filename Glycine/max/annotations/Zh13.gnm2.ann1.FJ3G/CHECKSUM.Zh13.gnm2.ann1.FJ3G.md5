@@ -5,15 +5,13 @@ b9ace371f88ec772727efba1fbb50239  ./glyma.Zh13.gnm2.ann1.FJ3G.protein_primary.fa
 e883a0c76e567ec0e39eaa8171ce4700  ./glyma.Zh13.gnm2.ann1.FJ3G.protein_primary.faa.gz
 edd5c0b9dcd3f072e32b447c24e83830  ./glyma.Zh13.gnm2.ann1.FJ3G.protein.faa.gz
 a727c619eca6c9ac086ee87e27882c8d  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna.fna.gz.fai
-00fa297a943bd253b05b89e0c610ad25  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.bed.gz
+99fac526eb3f437e6c35b46cd8abba8a  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.bed.gz
 c9c372e8ba1da94047231dda7050b89e  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz.gzi
 9e897fbeede9560489880f06b432bc8c  ./README.Zh13.gnm2.ann1.FJ3G.yml
-161174eb61abe61a97e7e022bd9fffb8  ./glyma.Zh13.gnm2.ann1.FJ3G.cds.bed.gz.tbi
 28f8b9075c0716c72f2629e0b4c96ad2  ./glyma.Zh13.gnm2.ann1.FJ3G.protein.faa.gz.gzi
-7667d0b9e50a8f5cbba2f1428c44f1e2  ./glyma.Zh13.gnm2.ann1.FJ3G.cds.bed.gz
 f43765aa9cc8a1d7ea9c395440a823dd  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.gff3.gz.tbi
 10c2db7059be2d7705b5cc8973a80fca  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.gff3.gz
-661be2967d547775a9300661ace59040  ./CHANGES.Zh13.gnm2.ann1.FJ3G.txt
+2042c6c2c38b5c5729be130f1777eef8  ./CHANGES.Zh13.gnm2.ann1.FJ3G.txt
 dea986ac93e60f8787e87b524e190b2a  ./glyma.Zh13.gnm2.ann1.FJ3G.cds.fna.gz
 c947e9b20572e56290b206dbb8e93857  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna.fna.gz
 83f5e25d2dde528ac87feb78587168ec  ./glyma.Zh13.gnm2.ann1.FJ3G.protein.faa.gz.fai
@@ -22,6 +20,7 @@ b48bfc9b033edca897332b5bc0d4a6e5  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.g
 27a20d96aee77796dedd3bfff2a14db9  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz.fai
 a4351888b889c3167677cc3e6f62c301  ./glyma.Zh13.gnm2.ann1.FJ3G.legfed_v1_0.M65K.gfa.tsv.gz
 43de16f0f4704086ba4d579118bf79f5  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna.fna.gz.gzi
+15a2c6d38d524284d8007b76ea51c2f5  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.bed.gz.tbi
 20ff98f0cbbefa971609761c352bac86  ./glyma.Zh13.gnm2.ann1.FJ3G.transposon_repeat.gff3.gz
 59c9aa6abf4e2a5390ffccf57ba238ea  ./glyma.Zh13.gnm2.ann1.FJ3G.cds_primary.fna.gz.fai
 1f738f24ee5fb1a90cc3471e5269a00d  ./MANIFEST.Zh13.gnm2.ann1.FJ3G.descriptions.yml
