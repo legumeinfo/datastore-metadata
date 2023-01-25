@@ -14,7 +14,7 @@ genotype:
 
 description: "Aeschynomene evenia isolate CIAT22838, whole genome shotgun sequencing project."
 
-chromosome_prefix: Ae
+chromosome_prefix: Ae,Chloroplast,Mitochondrion
 
 bioproject: PRJNA448804
 
