@@ -1,7 +1,7 @@
 c46e4ec3d1776d1d683ad4ba048d8dbb  ./cerca.ISC453364.gnm1.ann1.HZJM.fragments.tar.gz
 61a45e25d3143fae6962f2d6f9d90c50  ./cerca.ISC453364.gnm1.ann1.HZJM.repeats.gff3.gz
-709872fc2910431b1e8b7074bfe38c67  ./cerca.ISC453364.gnm1.ann1.HZJM.gene_models_main.gff3.gZ
 099f4c5e05b56891e926d475dc22cfa9  ./cerca.ISC453364.gnm1.ann1.HZJM.cds.fna.gz.fai
+3984cf4581ce2d6e8114e66da3e673c6  ./cerca.ISC453364.gnm1.ann1.HZJM.legfed_v1_0.M65K.gfa.tsv.gz
 1b378d41f8f23da50417d47d00265a05  ./cerca.ISC453364.gnm1.ann1.HZJM.protein.faa.gz.fai
 29cf516792f5ef0181e30d5df43f4247  ./cerca.ISC453364.gnm1.ann1.HZJM.cds.fna.gz
 099f4c5e05b56891e926d475dc22cfa9  ./cerca.ISC453364.gnm1.ann1.HZJM.mrna.fna.gz.fai
@@ -19,5 +19,4 @@ c5b76146bee49c4f668985f641f9b1fc  ./MANIFEST.ISC453364.gnm1.ann1.HZJM.correspond
 68f00efecbb50d9aedf2b5227565c5a1  ./cerca.ISC453364.gnm1.ann1.HZJM.gene_models_main.gff3.gz
 29cf516792f5ef0181e30d5df43f4247  ./cerca.ISC453364.gnm1.ann1.HZJM.mrna.fna.gz
 9e25f279fc0a9ae293eb886fc2c7f4eb  ./CHANGES.ISC453364.gnm1.ann1.HZJM.txt
-3984cf4581ce2d6e8114e66da3e673c6  ./cerca.ISC453364.gnm1.B05Z.legfed_v1_0.M65K.gfa.tsv.gz
 cab055667de9ad9d004af91d878230b2  ./cerca.ISC453364.gnm1.ann1.HZJM.wo_gene_models_main.gff3.gz

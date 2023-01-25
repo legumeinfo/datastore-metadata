@@ -1,4 +1,5 @@
 f02318395c1323469e8763b8e283a801  ./pissa.Cameor.gnm1.ann1.7SZR.gene_models_main.gff3.gz
+87f911a653d538de312da1b8ad1935bc  ./pissa.Cameor.gnm1.ann1.7SZR.mrna_primary.fna.gz
 d4b56535e0f2610fe67f6057ac593000  ./pissa.Cameor.gnm1.ann1.7SZR.protein_primary.faa.gz.gzi
 1ad9737b1548c01dd2493429ef3b5c5b  ./pissa.Cameor.gnm1.ann1.7SZR.mrna.fna.gz.fai
 d716ffa3b68326da9c92aa2abdbd518e  ./pissa.Cameor.gnm1.ann1.7SZR.gene_models_main.gff3.gz.csi
@@ -10,12 +11,14 @@ cea35fdbe658227b4f4f16ef2d2a347a  ./pissa.Cameor.gnm1.ann1.7SZR.cds_primary.fna.
 5db95c71dca46416a4a49828c3f6721d  ./pissa.Cameor.gnm1.ann1.7SZR.legfed_v1_0.M65K.gfa.tsv.gz
 cdc440a11f823552a090f0fa0544af25  ./busco/pissa.Cameor.gnm1.ann1.7SZR.protein_primaryTranscript.faa.gz_busco/short_summary.specific.embryophyta_odb10.pissa.Cameor.gnm1.ann1.7SZR.protein_primaryTranscript.faa.gz_busco.txt
 46a12e84a0296dfcea227429b66e8659  ./busco/pissa.Cameor.gnm1.ann1.7SZR.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.pissa.Cameor.gnm1.ann1.7SZR.protein.faa.gz_busco.txt
-6dbbe9830b6528100cdeb4bc9e272194  ./pissa.Cameor.gnm1.ann1.7SZR.cds.bed.gz.csi
+0d567a5737bf9933c62d067af2a0588c  ./pissa.Cameor.gnm1.ann1.7SZR.cds.bed.gz.csi
 5196394aca3fb8a57a4680057b5259d2  ./pissa.Cameor.gnm1.ann1.7SZR.cds.fna.gz
+38d3278994eccaf853f7d013e0390a66  ./pissa.Cameor.gnm1.ann1.7SZR.mrna_primary.fna.gz.fai
 cac5b777d7eec32e45174a64c152b5da  ./pissa.Cameor.gnm1.ann1.7SZR.cds_primary.fna.gz
 68599be6b89b34577246571e3c110921  ./CHANGES.Cameor.gnm1.ann1.7SZR.txt
+a9fc9dc3678d6099db3a393fbac2dcdd  ./pissa.Cameor.gnm1.ann1.7SZR.mrna_primary.fna.gz.gzi
 57fb53fdba9fb42140103266036a6d12  ./MANIFEST.Cameor.gnm1.ann1.7SZR.descriptions.yml
-d673b3dbaef571704a403ddf563f479a  ./pissa.Cameor.gnm1.ann1.7SZR.cds.bed.gz
+b7ca7b00838ea1fb3b84ffb543df74e4  ./pissa.Cameor.gnm1.ann1.7SZR.cds.bed.gz
 221117109239a30599c5b12c3af737ad  ./MANIFEST.Cameor.gnm1.ann1.7SZR.correspondence.yml
 6c291f3445b1dc87b3ead173fd159126  ./pissa.Cameor.gnm1.ann1.7SZR.mrna.fna.gz
 fda119447f209ed74bf80da9b21106e7  ./pissa.Cameor.gnm1.ann1.7SZR.protein.faa.gz.fai

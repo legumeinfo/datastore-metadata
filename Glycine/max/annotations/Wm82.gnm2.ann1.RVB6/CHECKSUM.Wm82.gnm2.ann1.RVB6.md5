@@ -1,5 +1,5 @@
 cd686c6bb8d6fe423bc151c535bc7c9c  ./glyma.Wm82.gnm2.ann1.RVB6.mrna.fna.gz.gzi
-ab81112bf9be9d60cf191a0a3167ee38  ./glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.bed.gz
+8cde2b3e5e1f421ca0f1109fa5193ef6  ./glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.bed.gz
 b7db377764e51aa005f13a98f4ba17cc  ./glyma.Wm82.gnm2.ann1.RVB6.mrna_primary.fna.gz.gzi
 33834c38642c08b5319072ee727cba44  ./glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz.gzi
 055d97ad06d4a9d69e78a2ec4fac3459  ./glyma.Wm82.gnm2.ann1.RVB6.markers.gff3.gz
@@ -13,11 +13,11 @@ d4bc053a7695910e98c9fe740234c9ea  ./glyma.Wm82.gnm2.ann1.RVB6.cds_primary.fna.gz
 3e65918e211a4f609c68a27136aa75d7  ./glyma.Wm82.gnm2.ann1.RVB6.protein_primary.faa.gz.gzi
 d76e408e99bd0f68bf6ea1a15a2e85ac  ./glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz
 b352c08c83c2c102f977df9a1de38044  ./MANIFEST.Wm82.gnm2.ann1.RVB6.descriptions.yml
-d24d0ac10e53db1ee28a0850a60358f7  ./glyma.Wm82.gnm2.ann1.RVB6.cds.bed.gz.tbi
 2f9243e0bf6f9f86cae993ae5e3a13d7  ./glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz
 0fbab90169178950a9796ade5e697c3b  ./glyma.Wm82.gnm2.ann1.RVB6.legfed_v1_0.M65K.gfa.tsv.gz
 3ede956dc130df155e684ed7db6e7f7f  ./glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz
 354f7209b0e2dc28f64565f3a5880cc5  ./glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz.gzi
+799f4051e8ccc9abd1a1dc96017f6bd8  ./glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.bed.gz.tbi
 19b833e43e2b6b8f5c07d52497dc48db  ./glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3.gz
 f3a535164d45c7563c9e96c46dcfd264  ./glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz.fai
 83a691e8eaea0aa4abe11bcf3047f178  ./original_data_usage_policy.txt
@@ -34,5 +34,4 @@ bc86ca0426b50bb3d0b53d7c0ad90ec4  ./glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz.fai
 c20f861f2c5c090ef975d1092c1afd7d  ./CHANGES.Wm82.gnm2.ann1.RVB6.txt
 ade7b72ada31ae759ac1b0a450c39a5f  ./glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3.gz.tbi
 e85f99a3c61e94f62e7f558ea1040f1f  ./glyma.Wm82.gnm2.ann1.RVB6.mrna_primary.fna.gz.fai
-cd9780ac80dc21cc954923ab687c19a1  ./glyma.Wm82.gnm2.ann1.RVB6.cds.bed.gz
 4c4888707562400db2d1c4fba4ca8bda  ./glyma.Wm82.gnm2.ann1.RVB6.info_annot.txt.gz

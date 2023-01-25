@@ -11,9 +11,10 @@ eea609c3c16da778da99c6faeaf962ea  ./glyso.F_IGA1003.gnm1.ann1.G61B.gene_models_m
 8e3f5ec780f20e10c16199cdeb87c9d1  ./glyso.F_IGA1003.gnm1.ann1.G61B.gene_models_exons.gff3.gz.tbi
 3491f8b4b514b230031e299743ee009b  ./glyso.F_IGA1003.gnm1.ann1.G61B.cds.fna.gz.gzi
 183a35d31e7080acab30e74512847f4e  ./glyso.F_IGA1003.gnm1.ann1.G61B.protein.faa.gz
-3751fc6755f77c57189fd4a67c98cc82  ./glyso.F_IGA1003.gnm1.ann1.G61B.cds.bed.gz
-5d09713cf35a4ac37589049eaa06f3dc  ./README.F_IGA1003.gnm1.ann1.G61B.yml
+abed4447c24fcfae0755fb1815e41e50  ./README.F_IGA1003.gnm1.ann1.G61B.yml
 bb8919891dde51202c8eea9b71b49a15  ./glyso.F_IGA1003.gnm1.ann1.G61B.legfed_v1_0.M65K.gfa.tsv.gz
+1c90a5798fdc61d9322dfeef482b2c07  ./glyso.F_IGA1003.gnm1.ann1.G61B.gene_models_main.bed.gz.tbi
 c86caad72f859ff9fe2f9029546ab712  ./glyso.F_IGA1003.gnm1.ann1.G61B.mrna.fna.gz.gzi
+a5e15ed113a586244db910a5a1f37503  ./glyso.F_IGA1003.gnm1.ann1.G61B.gene_models_main.bed.gz
 b826243542c11badcc621f0de5438e8d  ./glyso.F_IGA1003.gnm1.ann1.G61B.protein.faa.gz.fai
 fbe30ec94980e295224770bd0b8850ff  ./glyso.F_IGA1003.gnm1.ann1.G61B.gene_models_exons.gff3.gz

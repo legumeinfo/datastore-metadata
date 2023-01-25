@@ -2,12 +2,13 @@
 7bfca87e9404e2909b09ef60223ebcba  ./MANIFEST.WAFC.gnm1.ann1.RTP9.correspondence.yml
 1cdcb6891506a5a8e08c20d7f6e9dfc9  ./faial.WAFC.gnm1.ann1.RTP9.cds.fna.gz.fai
 6d9debc7cdf3712670256a40a409e1c6  ./faial.WAFC.gnm1.ann1.RTP9.protein.faa.gz.fai
-be882b8a34fc7ac26e04a8761c0e27ab  ./faial.WAFC.gnm1.ann1.RTP9.cds.bed.gz
+e1aa0bc3d3339cf8162605799ad03600  ./faial.WAFC.gnm1.ann1.RTP9.cds.bed.gz
 c8def3356242867d939cffe7017ececf  ./faial.WAFC.gnm1.ann1.RTP9.gene_models_main.gff3.gz.tbi
 407c80813e58570a77bff50e7f037e37  ./busco/faial.WAFC.gnm1.ann1.RTP9.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.faihe.unk.gnm1.ann1.RTP9.protein.faa.gz_busco.txt
 302aa21c4f18a9206298a1d3aafdb6a5  ./faial.WAFC.gnm1.ann1.RTP9.repeats.gff3.gz
 344c5df587e6ffcabc9ed9c2c40878de  ./README.WAFC.gnm1.ann1.RTP9.yml
 8a279053012af96fc9b96c6186bc5ea1  ./MANIFEST.WAFC.gnm1.ann1.RTP9.descriptions.yml
+d93926066a09574a4f17794f5cd9b315  ./faial.WAFC.gnm1.ann1.RTP9.cds.bed.gz.tbi
 8b553b853bca60453a78cc56048fb978  ./faial.WAFC.gnm1.ann1.RTP9.mrna.fna.gz
 3d1e46e9163c9311cc94d8bcfb19800b  ./CHANGES.WAFC.gnm1.ann1.RTP9.txt
 97592470f01462d9e292d63cbf0cc221  ./faial.WAFC.gnm1.ann1.RTP9.protein.faa.gz.gzi

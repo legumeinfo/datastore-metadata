@@ -1,6 +1,5 @@
 cfc828b04a3923f1b0d011fa6fda03d7  ./README.A17.gnm5.div.Epstein_Burghardt_2022.yml
 58168764479715885e88047e30669049  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives.2021-09-29.vcf.gz
-7d614bac37304f65c32d6b19fe688862  ./SRA_accessions_list.tsv
 433dbcfe8f6e7e27b6e45c93940f57f7  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives_imputed.2021-09-29.vcf.plot-stats.pdf
 ec2aab02bda8aa6cd9f9d30c6226b709  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_raw_variant_calls.2021-09-29.vcf.plot-stats.pdf
 ff1890a0ee89609090e791be1ec8c131  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_raw_variant_calls.2021-09-29.vcf.stats
@@ -10,6 +9,7 @@ ff1890a0ee89609090e791be1ec8c131  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt
 ae0dabf699a292a53e84a7e2f0161d54  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives.2021-09-29.vcf.plot-stats.pdf
 fb5338b13b30e1f2c5320144ef240fe3  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives.2021-09-29.vcf.gz.tbi
 34be6743199f02fa75450c12f7c022c4  ./Mt5_SNP_calling_pipeline.pdf
+b39bfbc2188514908f2493d401bab2e6  ./SRA_accessions_list.tsv.gz
 3b7559bbf58d79a11bc266ed8136f74f  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives_imputed.2021-09-29.vcf.gz
 56aee81272896c4d1aeb89dc48492d47  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives_imputed.2021-09-29.vcf.stats
 4b994f86fb3db01c67e267c35046136e  ./medtr.A17.gnm5.div.Epstein_Burghardt_2022.Mt5_qual30_primitives.2021-09-29.vcf.stats

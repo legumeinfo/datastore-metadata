@@ -12,8 +12,9 @@ e657e4f0abf0345394a63b32d7c41cfe  ./vigun.UCR779.gnm1.ann1.VF6G.mrna_primary.fna
 1350d94276e506b556c5a29d5aa6a4e7  ./vigun.UCR779.gnm1.ann1.VF6G.gene_models_main.gff3.gz.tbi
 feec53c950647657643f45709b18e21d  ./vigun.UCR779.gnm1.ann1.VF6G.cds_primary.fna.gz
 5ad0159cc7eb8dece197847591a27408  ./vigun.UCR779.gnm1.ann1.VF6G.cds.bed.gz
-319cfcd3cfbfbfbcd74e1f70d90fd79e  ./vigun.UCR779.gnm1.ann1.VF6G.gene_models_main.bed.gz
+bc9a12f872411a91ba6b162961b7ae52  ./vigun.UCR779.gnm1.ann1.VF6G.gene_models_main.bed.gz
 c3c4dcebf308692ea88b6e6e6f7d63f3  ./vigun.UCR779.gnm1.ann1.VF6G.mrna_primary.fna.gz.gzi
+86161ab56a24fbcffad74df4ffe9a2e4  ./vigun.UCR779.gnm1.ann1.VF6G.gene_models_main.bed.gz.tbi
 f1c3222b9a003899c5615821de97c889  ./vigun.UCR779.gnm1.ann1.VF6G.protein_primary.faa.gz.gzi
 2a60006726693b389e7225545aa7f55d  ./vigun.UCR779.gnm1.ann1.VF6G.legfed_v1_0.M65K.gfa.tsv.gz
 01b19c61ab8b3a2cce12b2ab42327f3a  ./vigun.UCR779.gnm1.ann1.VF6G.legfed_v1_0.M65K.pathway.tsv.gz
@@ -22,4 +23,5 @@ f1c3222b9a003899c5615821de97c889  ./vigun.UCR779.gnm1.ann1.VF6G.protein_primary.
 94e55f1ea7a45801212043592331d8fb  ./vigun.UCR779.gnm1.ann1.VF6G.cds_primary.fna.gz.gzi
 fb4339b55bc31e48800b2dfaf0d50f07  ./vigun.UCR779.gnm1.ann1.VF6G.protein_primary.faa.gz
 b8539a74c1254e92f843a1a7325c18c8  ./vigun.UCR779.gnm1.ann1.VF6G.protein.faa.gz.gzi
+c42f5f3ed541efb9558a64408f9b5da6  ./README.UCR779.gnm1.ann1.VF6G.yml
 3a2243a8841fa7ec2891595b7b4e9731  ./vigun.UCR779.gnm1.ann1.VF6G.cds.fna.gz.fai
