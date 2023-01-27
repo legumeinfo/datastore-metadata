@@ -1,6 +1,9 @@
+c4c06ff15fcf820fba8735e6fbecd927  ./BUSCO/phavu.UI111.gnm1.3VTM.busco.fabales_odb10.full_table.tsv.gz
+2102d6d9557c88b3ee5fb3e77e70c6e7  ./BUSCO/phavu.UI111.gnm1.3VTM.busco.fabales_odb10.short_summary.txt
+34ee48e5e81516065d3172ca36614aa2  ./BUSCO/phavu.UI111.gnm1.3VTM.busco.fabales_odb10.short_summary.json
 f928b75ff029b1e2e219892e0e978c77  ./MANIFEST.UI111.gnm1.3VTM.descriptions.yml
 d140b075be38fdec1211225108f36545  ./phavu.UI111.gnm1.3VTM.genome_main.fna.gz.fai
-6d61ae4ca285d958d3be24a6c90807fb  ./README.UI111.gnm1.3VTM.yml
+721210c9d8b88b1984ac93429422bf74  ./README.UI111.gnm1.3VTM.yml
 7ae7a2cbfe24390f4a3791177928e0c0  ./phavu.UI111.gnm1.3VTM.genome_hardmasked.fna.gz
 a6099a14e89f2e398f52190941d34ff1  ./phavu.UI111.gnm1.3VTM.genome_main.fna.gz
 471dc4ac5b5952a5788da648a4866f86  ./CHANGES.UI111.gnm1.3VTM.txt

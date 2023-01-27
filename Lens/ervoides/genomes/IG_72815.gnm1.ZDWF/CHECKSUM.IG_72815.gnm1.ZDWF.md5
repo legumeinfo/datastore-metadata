@@ -1,5 +1,9 @@
-cfc9ce0a89b0a2bf0646cf8e932e51ed  ./README.IG_72815.gnm1.ZDWF.yml
+1193f217ae3a9dc1b9cf12cdb1b5a1cd  ./README.IG_72815.gnm1.ZDWF.yml
 759ededdb8345107547a5ba83d87de57  ./lener.IG_72815.gnm1.ZDWF.genome_main.fna.gz.fai
 558fab39bdf68dacf18ce51737d188c8  ./lener.IG_72815.gnm1.ZDWF.genome_main.fna.gz
 e90f54abd9829dd8e1ee5ecc2cd63da4  ./lener.IG_72815.gnm1.ZDWF.genome_main.fna.gz.gzi
+39e839aeffe5f93f7a76bd49f88f4497  ./BUSCO/lener.IG_72815.gnm1.ZDWF.busco.fabales_odb10.short_summary.json
+a4c5060fb62b0f710c9dbabde319415d  ./BUSCO/lener.IG_72815.gnm1.ZDWF.busco.fabales_odb10.short_summary.txt
+f5df7ccbbf42f4acd0303ca2fd38f3e8  ./BUSCO/lener.IG_72815.gnm1.ZDWF.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
 0343f394168588e7488eaab9f1eff78e  ./lener.IG_72815.gnm1.ZDWF.id_map

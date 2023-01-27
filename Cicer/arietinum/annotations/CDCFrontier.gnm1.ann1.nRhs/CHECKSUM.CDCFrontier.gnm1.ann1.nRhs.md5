@@ -6,6 +6,9 @@ b3c5eb60843050a1f9a6de42767c1faf  ./CHANGES.CDCFrontier.gnm1.ann1.nRhs.txt
 f29539492d1feeb6341be887879cff7d  ./cicar.CDCFrontier.gnm1.ann1.nRhs.cds.fna.gz
 d098077ee468b5edff98012534383c89  ./cicar.CDCFrontier.gnm1.ann1.nRhs.cds.fna.gz.fai
 362d140b23c36aa67f16e0f15b9f9e52  ./cicar.CDCFrontier.gnm1.ann1.nRhs.annot_snRNA.gff.gz
+82fe7ce144e92dcba6db4d60f35eaf4c  ./BUSCO/cicar.CDCFrontier.gnm1.ann1.nRhs.busco.fabales_odb10.short_summary.json
+295f3e8d03e76768061ed632c177d261  ./BUSCO/cicar.CDCFrontier.gnm1.ann1.nRhs.busco.fabales_odb10.full_table.tsv.gz
+8a2a2cede83c8cfc012f6a8d2d98ae54  ./BUSCO/cicar.CDCFrontier.gnm1.ann1.nRhs.busco.fabales_odb10.short_summary.txt
 0f0a069f1c6041803309f7bec10de561  ./cicar.CDCFrontier.gnm1.ann1.nRhs.gene_models_main.gff3.gz
 24f546effef2da020a7b9b42746dbcf4  ./cicar.CDCFrontier.gnm1.ann1.nRhs.repeat_models_trf.gff.gz
 685384a457e0035447fbbc91b3bf438e  ./cicar.CDCFrontier.gnm1.ann1.nRhs.protein.faa.gz.gzi

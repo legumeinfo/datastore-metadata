@@ -1,7 +1,11 @@
 d0eb52a54544be3ba55f46af78ab06ed  ./glyd3.G1403.gnm1.CL6K.genome_main.fna.gz.gzi
-c9bbbbf2062b920076b2b646413cf0e4  ./README.G1403.gnm1.CL6K.yml
+1bc4c32c85b0b67de65512b18c3885e1  ./README.G1403.gnm1.CL6K.yml
 63fe593387daefe8e2ecec67e5b66594  ./glyd3.G1403.gnm1.CL6K.genome_main.fna.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+e991de59876efbabe2bca04e6e56a5f4  ./BUSCO/glyd3.G1403.gnm1.CL6K.busco.fabales_odb10.full_table.tsv.gz
+48ab996803852c1973aae74c464fae6f  ./BUSCO/glyd3.G1403.gnm1.CL6K.busco.fabales_odb10.short_summary.json
+ce4b3cbb05cb52034cfe327f25790c0a  ./BUSCO/glyd3.G1403.gnm1.CL6K.busco.fabales_odb10.short_summary.txt
 ae86da540c4b86b5a1a676c0ae7a0981  ./glyd3.G1403.gnm1.CL6K.genome_main.fna.gz.fai
-6bf708ddb5cac31e82258d944030b109  ./CHANGES.G1403.gnm1.CL6K.txt
+60f0645373e528da79dfa5ec2c18411d  ./CHANGES.G1403.gnm1.CL6K.txt
 78093860f9f465397fc5541b8ae90d15  ./MANIFEST.G1403.gnm1.CL6K.descriptions.yml
 fbc0421e5dbaf32b06b150b63f6e56b6  ./MANIFEST.G1403.gnm1.CL6K.correspondence.yml

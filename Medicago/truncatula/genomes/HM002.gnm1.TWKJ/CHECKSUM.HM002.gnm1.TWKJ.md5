@@ -1,8 +1,12 @@
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM002.gnm1.TWKJ.descriptions.yml
 cbb8cd30b69856db94016cc16de406b0  ./medtr.HM002.gnm1.TWKJ.genome_main.fna.gz.gzi
 233cfe00a41ff8509d28a94a658a39b7  ./medtr.HM002.gnm1.TWKJ.genome_main.fna.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+c596a6c4a679e3c237c11815234ca638  ./BUSCO/medtr.HM002.gnm1.TWKJ.busco.fabales_odb10.full_table.tsv.gz
+fe89bd14d2e9e0930a334527bef1927d  ./BUSCO/medtr.HM002.gnm1.TWKJ.busco.fabales_odb10.short_summary.txt
+361984881e66559aee18416f5877ae9b  ./BUSCO/medtr.HM002.gnm1.TWKJ.busco.fabales_odb10.short_summary.json
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM002.gnm1.TWKJ.correspondence.yml
 e16d1281bd9b838a554a7f9660305482  ./medtr.HM002.gnm1.TWKJ.genome_main.fna.gz.fai
 ec2cbfebdad98dd3c05c11e96ed01e8f  ./busco/medtr.HM002.gnm1.TWKJ.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.medtr.HM002.gnm1.TWKJ.genome_main.fna.gz_busco.txt
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM002.gnm1.TWKJ.txt
-5b0a446099d748ef28a173a4b4c3caf1  ./README.HM002.gnm1.TWKJ.yml
+84b8e8b1bf5f9d10edcbd8ec91321f29  ./README.HM002.gnm1.TWKJ.yml

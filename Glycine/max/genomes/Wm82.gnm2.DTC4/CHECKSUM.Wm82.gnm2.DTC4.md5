@@ -1,5 +1,8 @@
 83a691e8eaea0aa4abe11bcf3047f178  ./original_data_usage_policy.txt
-d6b70130f7c616dae0d35109ffb82efb  ./README.Wm82.gnm2.DTC4.yml
+962cd840747e5f7c69e2e8dd8f3f25d4  ./BUSCO/glyma.Wm82.gnm2.DTC4.busco.fabales_odb10.short_summary.txt
+64ac2649b2f94bc4c6f32817041385c4  ./BUSCO/glyma.Wm82.gnm2.DTC4.busco.fabales_odb10.short_summary.json
+6aefa58b9de9acf017e047e4347654ab  ./BUSCO/glyma.Wm82.gnm2.DTC4.busco.fabales_odb10.full_table.tsv.gz
+5dd11546d9694c8e5c888f74618e082e  ./README.Wm82.gnm2.DTC4.yml
 0e4118e001e7d58fb5d53b646cc8496f  ./glyma.Wm82.gnm2.DTC4.genome_main.fna.gz.fai
 1e5c00461f00e696ecfa8e3f70383781  ./MANIFEST.Wm82.gnm2.DTC4.descriptions.yml
 f902a0e86d1acec0784276ae0c07b32b  ./CHANGES.Wm82.gnm2.DTC4.txt

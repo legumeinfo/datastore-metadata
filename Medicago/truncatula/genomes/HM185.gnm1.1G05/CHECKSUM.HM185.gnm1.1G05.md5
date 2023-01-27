@@ -5,4 +5,8 @@ f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM185.gnm1.1G05.correspondence.yml
 7d7f4201f25806c48c86dd0497734db2  ./medtr.HM185.gnm1.1G05.genome_main.fna.gz
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM185.gnm1.1G05.txt
 ddcec6a5ef3e567cdf295b2d71ca4d2d  ./medtr.HM185.gnm1.1G05.genome_main.fna.gz.fai
-cdeecbbd9424f08c581378cc5009ba95  ./README.HM185.gnm1.1G05.yml
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+c43a0c5e1dacf19efa8270eec789bb79  ./BUSCO/medtr.HM185.gnm1.1G05.busco.fabales_odb10.short_summary.txt
+cfdc2e17ba36fe6460f4563d69092f71  ./BUSCO/medtr.HM185.gnm1.1G05.busco.fabales_odb10.full_table.tsv.gz
+81ec55d90e410519c7f9f0ef2e338904  ./BUSCO/medtr.HM185.gnm1.1G05.busco.fabales_odb10.short_summary.json
+da1439a484506416e70064dc4142c789  ./README.HM185.gnm1.1G05.yml

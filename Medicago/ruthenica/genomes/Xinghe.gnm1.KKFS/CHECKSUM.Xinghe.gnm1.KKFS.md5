@@ -1,4 +1,7 @@
 5befce7523881018256e3f1fdc4e8359  ./medru.Xinghe.gnm1.KKFS.genome_main.fna.gz.fai
+f3f0d9a16e26af9e417e6c43336e2a9d  ./BUSCO/medru.Xinghe.gnm1.KKFS.busco.fabales_odb10.short_summary.txt
+6b4df2ce93a0d28c83a82718c0e737d9  ./BUSCO/medru.Xinghe.gnm1.KKFS.busco.fabales_odb10.short_summary.json
+07d4051797959cb9f3d963fabc561815  ./BUSCO/medru.Xinghe.gnm1.KKFS.busco.fabales_odb10.full_table.tsv.gz
 505790b5bbec36b6dd54234f92bb1b54  ./medru.Xinghe.gnm1.KKFS.genome_main.fna.gz
-957f5e3407754e75f50dba033d831fa5  ./README.Xinghe.gnm1.KKFS.yml
+27afea788b36950de8d484a63f234aed  ./README.Xinghe.gnm1.KKFS.yml
 6d0fddf1dc8a1ea0a7b5a8895618d613  ./medru.Xinghe.gnm1.KKFS.genome_main.fna.gz.gzi

@@ -1,0 +1,11 @@
+6f1bb81658987fb8bf079143769365ef  ./phaac.W6_15578.gnm2.L2V4.genome_main.fna.gz
+c94619e74d47c72edf86bbfb4be6cc6b  ./MANIFEST.W6_15578.gnm2.L2V4.correspondence.yml
+00b665f2dcc7c1ca4cc1ce4dad52dff6  ./CHANGES.W6_15578.gnm2.L2V4.txt
+1bc8537914ed44235657ae42eab5be77  ./phaac.W6_15578.gnm2.L2V4.genome_main.fna.gz.gzi
+1cda67e42b70aa9033ddacb81c5212b6  ./phaac.W6_15578.gnm2.L2V4.genome_main.fna.gz.fai
+144dcac211d56a761fd606c2ad136059  ./BUSCO/phaac.W6_15578.gnm2.L2V4.busco.fabales_odb10.short_summary.txt
+f37990be97d979f816925f3fb0a8df49  ./BUSCO/phaac.W6_15578.gnm2.L2V4.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+1ebcc32c64e9c8c2ff8a395302912297  ./BUSCO/phaac.W6_15578.gnm2.L2V4.busco.fabales_odb10.short_summary.json
+f9122707208c75245f15bd62b2e8bed5  ./MANIFEST.W6_15578.gnm2.L2V4.descriptions.yml
+96e2007e423be4d500db4625e6392b8e  ./README.W6_15578.gnm2.L2V4.yml

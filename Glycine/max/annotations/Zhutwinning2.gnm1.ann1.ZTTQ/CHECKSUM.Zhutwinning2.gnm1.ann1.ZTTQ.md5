@@ -18,6 +18,9 @@ a7053645ef0b52bbe2f48dbaee5d7e1b  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.gene_model
 c4f75379f1e119054a3f80dc736b45cf  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.protein.faa.gz
 52da87525fd99b7a6e03736a2d213b9b  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.gene_models_main.bed.gz.tbi
 000a595b0a49cb9d48c1512120665313  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.cds_primary.fna.gz
+e591be4734df1b93420753225cc3dd00  ./BUSCO/glyma.Zhutwinning2.gnm1.ann1.ZTTQ.busco.fabales_odb10.short_summary.txt
+9be2686c71f0674c5c0ec85d8b6a9784  ./BUSCO/glyma.Zhutwinning2.gnm1.ann1.ZTTQ.busco.fabales_odb10.full_table.tsv.gz
+8f9ca5d7aca741d3348f3cbcf46873ac  ./BUSCO/glyma.Zhutwinning2.gnm1.ann1.ZTTQ.busco.fabales_odb10.short_summary.json
 fad41e7f8dec2cd060f1b690510de9ff  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.legfed_v1_0.M65K.gfa.tsv.gz
 b7e53ebcb8670d428e6317964856d355  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.cds.fna.gz.gzi
 d9b0feec1cedc67e4f75f7e9955406c6  ./glyma.Zhutwinning2.gnm1.ann1.ZTTQ.iprscan.gff3.gz

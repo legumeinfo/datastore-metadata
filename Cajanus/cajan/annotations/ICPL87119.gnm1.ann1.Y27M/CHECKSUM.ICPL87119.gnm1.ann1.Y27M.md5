@@ -6,6 +6,9 @@ e4d6c25fd8040732dd12cf1a795900c2  ./README.ICPL87119.gnm1.ann1.Y27M.yml
 c4eb71edcbd72809650f2d863e6e20fe  ./cajca.ICPL87119.gnm1.ann1.Y27M.protein.faa.gz.gzi
 5cc935fe6745c8b68630fa3f2a810942  ./cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_miRNA.gff.gz
 ab7421c295f4c4a5048c93b0b9b68c02  ./cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_KEGG.txt.gz
+bb92abe47a908b77565d9cb851b90c18  ./BUSCO/cajca.ICPL87119.gnm1.ann1.Y27M.busco.fabales_odb10.short_summary.txt
+31d6b07c61c92c35ae82606f02c6100d  ./BUSCO/cajca.ICPL87119.gnm1.ann1.Y27M.busco.fabales_odb10.short_summary.json
+e6e3708a6a2061dc306151d7802b189a  ./BUSCO/cajca.ICPL87119.gnm1.ann1.Y27M.busco.fabales_odb10.full_table.tsv.gz
 848e2ae23ed4ef66d2092b8bac193739  ./cajca.ICPL87119.gnm1.ann1.Y27M.cds.bed.gz
 afe1072dc71074cf3e6deeb9264e225e  ./cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_rRNA.gff.gz
 60bc8a5b05ef6f6f22cf43775622f284  ./cajca.ICPL87119.gnm1.ann1.Y27M.cds.fna.gz.fai

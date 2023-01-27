@@ -6,6 +6,9 @@ b85ba598c66ba6cf174aa38fa5299bad  ./glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.cds.fna
 ca4d1b73c2df2bd852a77451ff9fa0e8  ./glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.cds_primary.fna.gz.fai
 567183daaa2ff4721fd089ffdb80f294  ./README.TieJiaSiLiHuang.gnm1.ann1.W70Z.yml
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.TieJiaSiLiHuang.gnm1.ann1.W70Z.txt
+3590eccedd6a739c263162887d83e191  ./BUSCO/glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.busco.fabales_odb10.short_summary.txt
+db6f724c4107189617718be4ff61f935  ./BUSCO/glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.busco.fabales_odb10.full_table.tsv.gz
+95b4ed3f7bbdf702aad5d914b857744b  ./BUSCO/glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.busco.fabales_odb10.short_summary.json
 ff2beb9c32b8af84791e45435f9e20b0  ./glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.protein.faa.gz.fai
 0d70ac057bc67ba74c6c8296ef928031  ./glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.protein_primary.faa.gz.gzi
 f796f0e688dd7fbad1ceae2d874e6e3b  ./glyma.TieJiaSiLiHuang.gnm1.ann1.W70Z.gene_models_main.gff3.gz.tbi

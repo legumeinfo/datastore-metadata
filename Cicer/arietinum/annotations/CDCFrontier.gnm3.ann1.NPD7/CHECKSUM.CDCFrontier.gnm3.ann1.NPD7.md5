@@ -3,6 +3,9 @@
 90d4448bba39fb50c28e64dcd7aca9a0  ./cicar.CDCFrontier.gnm3.ann1.NPD7.gene_models_main.gff3.gz.tbi
 cd0cd2ebfeba764d47207706a81c88e8  ./cicar.CDCFrontier.gnm3.ann1.NPD7.legfed_v1_0.M65K.gfa.tsv.gz
 b1a5382550a1ebc29ab0d28e3a8adb7d  ./cicar.CDCFrontier.gnm3.ann1.NPD7.mrna.fna.gz
+020825cab2e68d11d30eba9fa0ebffac  ./BUSCO/cicar.CDCFrontier.gnm3.ann1.NPD7.busco.fabales_odb10.short_summary.txt
+de5459ed8790b0c1e15ef9c5db82c461  ./BUSCO/cicar.CDCFrontier.gnm3.ann1.NPD7.busco.fabales_odb10.full_table.tsv.gz
+b08ec7419295408e40f8aa6be9a51561  ./BUSCO/cicar.CDCFrontier.gnm3.ann1.NPD7.busco.fabales_odb10.short_summary.json
 c6d746d74eea7c10ca5af502edab2983  ./README.CDCFrontier.gnm3.ann1.NPD7.yml
 137fef4aacb2c136160cc83e5344cbee  ./cicar.CDCFrontier.gnm3.ann1.NPD7.protein.faa.gz
 58ffeeb38ab31d993c5db12325605acd  ./cicar.CDCFrontier.gnm3.ann1.NPD7.cds.bed.gz

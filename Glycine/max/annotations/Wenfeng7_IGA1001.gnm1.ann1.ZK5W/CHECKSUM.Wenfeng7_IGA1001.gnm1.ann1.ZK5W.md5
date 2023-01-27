@@ -12,6 +12,9 @@ a835a6f84de3017cd61f70918e7ceaf3  ./glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.cds.fn
 6673d15a1c9e6a29b861c13ec4ca007c  ./glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.protein.faa.gz.fai
 0b3ef2ac6fb1fb7b0144ced59be4606b  ./glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.mrna.fna.gz.fai
 26c1837d919370c3a7a95eacb31ed0a8  ./MANIFEST.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.descriptions.yml
+9fb4b7e6565c6f613c0548066e617112  ./BUSCO/glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.busco.fabales_odb10.full_table.tsv.gz
+916675e275e0040a6f9ca5a46f0dfb10  ./BUSCO/glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.busco.fabales_odb10.short_summary.txt
+9b3898360fcc7e46412ad48339f058d9  ./BUSCO/glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.busco.fabales_odb10.short_summary.json
 93db1b923063c9ca43df94e376babae7  ./glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.cds.fna.gz.gzi
 87238203f041cd5db1437ce5bfa75758  ./glyma.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.protein.faa.gz
 6fc2ff7a94b36cfa2980abcfce58ab4b  ./CHANGES.Wenfeng7_IGA1001.gnm1.ann1.ZK5W.txt

@@ -13,6 +13,9 @@ dda30317deec5abbffc87f4437ef5af4  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.gene_models_
 947d099d11cb8088eec004fedf6bc9f4  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.gene_models_main.gff3.gz.tbi
 ad62ad7b8a15ed2cd3f976d338282947  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.protein.faa.gz.gzi
 38f3dce6fd3075c131bd4fcf68aee302  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.gene_models_main.gff3.gz
+0186b242299833c44f9dc1b4accfafbf  ./BUSCO/glyma.Wm82_ISU01.gnm2.ann1.FGFB.busco.fabales_odb10.short_summary.txt
+8be02f54a89a3ffb016a0252567b6227  ./BUSCO/glyma.Wm82_ISU01.gnm2.ann1.FGFB.busco.fabales_odb10.short_summary.json
+1b9969f2f3592cf138ce7cdfa5bdc42d  ./BUSCO/glyma.Wm82_ISU01.gnm2.ann1.FGFB.busco.fabales_odb10.full_table.tsv.gz
 7b7fedc8c20415e4753ac67be8b8bac0  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.gene_models_exons.gff3.gz
 6ef91bb013d135f6981f04da1ddb076b  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.mrna.fna.gz.fai
 46cb8ba430137772e98651ceea053e24  ./glyma.Wm82_ISU01.gnm2.ann1.FGFB.protein_primary.faa.gz.gzi

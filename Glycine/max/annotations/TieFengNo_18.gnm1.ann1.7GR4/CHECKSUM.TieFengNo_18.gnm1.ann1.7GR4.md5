@@ -9,6 +9,9 @@ d541d45a7c23c048820a63cc4043fd01  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.gene_model
 2f12b0cd0d226a1134f6cd8b89acb5b7  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.mrna.fna.gz
 716de48f24d0f51ac0ed9d8a42419d7b  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.gene_models_main.gff3.gz.tbi
 c9b3f3573a699bc7270c5081153ef77e  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.cds.fna.gz
+0440ee04f56bff524e1a7772321154a9  ./BUSCO/glyma.TieFengNo_18.gnm1.ann1.7GR4.busco.fabales_odb10.short_summary.json
+0ab17407bd0151d9ca1aef47fa8c4922  ./BUSCO/glyma.TieFengNo_18.gnm1.ann1.7GR4.busco.fabales_odb10.short_summary.txt
+4f1ea466989ec860aee0b461b60e0707  ./BUSCO/glyma.TieFengNo_18.gnm1.ann1.7GR4.busco.fabales_odb10.full_table.tsv.gz
 b80b9d3a9e0a6dc4afa2fb34ae243cf3  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.mrna.fna.gz.gzi
 ff4e6ba6ecf76eebd5795ed5d639d7df  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.cds_primary.fna.gz.fai
 bf4c4c904be730020ea60722753d4d70  ./glyma.TieFengNo_18.gnm1.ann1.7GR4.cds_primary.fna.gz.gzi

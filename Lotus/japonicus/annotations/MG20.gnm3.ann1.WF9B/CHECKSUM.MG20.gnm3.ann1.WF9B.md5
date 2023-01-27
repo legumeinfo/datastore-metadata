@@ -3,6 +3,9 @@
 d8414faa697d19526b4f8d561ab2057c  ./lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz
 a94d0a2a457e1a91dd0567ebb5af4aad  ./MANIFEST.MG20.gnm3.ann1.WF9B.descriptions.yml
 178d6d4771232495fb8c6ce4b1380c30  ./lotja.MG20.gnm3.ann1.WF9B.legfed_v1_0.M65K.gfa.tsv.gz
+6abb20bed1d11f3c32e389ffe3009f70  ./BUSCO/lotja.MG20.gnm3.ann1.WF9B.busco.fabales_odb10.short_summary.json
+af48a6a3067676e64bbe5feccc8bf82c  ./BUSCO/lotja.MG20.gnm3.ann1.WF9B.busco.fabales_odb10.full_table.tsv.gz
+94540a0f478549c95d66116f2fd22e20  ./BUSCO/lotja.MG20.gnm3.ann1.WF9B.busco.fabales_odb10.short_summary.txt
 8a694a9c8a4f49c35ad393636bcc5e0a  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz.tbi
 0f4b8875dc5eac37ab04067d9ac353bd  ./lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz.fai
 bae609ed62c4a2430a23c6b39fe98a78  ./lotja.MG20.gnm3.ann1.WF9B.protein_primary.faa.gz.gzi

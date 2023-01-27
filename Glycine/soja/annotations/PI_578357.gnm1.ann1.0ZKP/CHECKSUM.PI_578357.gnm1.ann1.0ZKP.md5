@@ -25,4 +25,7 @@ b52812156834ecf906a8dfb0bc5e3007  ./glyso.PI_578357.gnm1.ann1.0ZKP.cds.fna.gz.fa
 6ae7b0e30a68567cc41fc8ac85183b7b  ./MANIFEST.PI_578357.gnm1.ann1.0ZKP.correspondence.yml
 be0b8764fcaf589de55a8e4366a39dc2  ./glyso.PI_578357.gnm1.ann1.0ZKP.cds_primary.fna.gz
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.PI_578357.gnm1.ann1.0ZKP.txt
+9d660ed24b8b7eebd8e6445760795604  ./BUSCO/glyso.PI_578357.gnm1.ann1.0ZKP.busco.fabales_odb10.short_summary.json
+dc1a19ee51a06f0929b2fe35ec78003f  ./BUSCO/glyso.PI_578357.gnm1.ann1.0ZKP.busco.fabales_odb10.full_table.tsv.gz
+12ecf7930b4fe950f05c9f57e1286eee  ./BUSCO/glyso.PI_578357.gnm1.ann1.0ZKP.busco.fabales_odb10.short_summary.txt
 2545e5b335e402c4f87314212fc1384d  ./glyso.PI_578357.gnm1.ann1.0ZKP.iprscan.gff3.gz

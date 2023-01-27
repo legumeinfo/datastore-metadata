@@ -1,7 +1,10 @@
 504601f120b2c00f4f4e01290b7f5b4a  ./glyma.Huaxia3_IGA1007.gnm1.RGGN.genome_main.fna.gz
 70ed00d8d7a7bd9b0b0a6212e33b5f28  ./MANIFEST.Huaxia3_IGA1007.gnm1.RGGN.correspondence.yml
 397240febf8b513481a3e2be740934de  ./CHANGES.Huaxia3_IGA1007.gnm1.RGGN.txt
+15853fd6ffc12c3dc522e4b61f8fe1f6  ./BUSCO/glyma.Huaxia3_IGA1007.gnm1.RGGN.busco.fabales_odb10.short_summary.json
+44aab229888b0dd0af27aa563b9cbe8c  ./BUSCO/glyma.Huaxia3_IGA1007.gnm1.RGGN.busco.fabales_odb10.short_summary.txt
+965f00bce42597bb767ac32cdda8b6ec  ./BUSCO/glyma.Huaxia3_IGA1007.gnm1.RGGN.busco.fabales_odb10.full_table.tsv.gz
 373d3a3f89f3cac23ea80ea5f3aace50  ./glyma.Huaxia3_IGA1007.gnm1.RGGN.genome_main.fna.gz.gzi
 7220cb6df021f15196d6333460ccd1b6  ./glyma.Huaxia3_IGA1007.gnm1.RGGN.genome_main.fna.gz.fai
 b53b0c8cf1f92be18830c58acbe99e0d  ./MANIFEST.Huaxia3_IGA1007.gnm1.RGGN.descriptions.yml
-43824d349f90f9fb5a61d877a0743db6  ./README.Huaxia3_IGA1007.gnm1.RGGN.yml
+8695eeb5ffc484b9f670fd2619b5daa1  ./README.Huaxia3_IGA1007.gnm1.RGGN.yml

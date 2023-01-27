@@ -4,5 +4,9 @@ f429b4cc0e569d353243e923d4b8045f  ./medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz
 0f9dbb858c0d9337f152a91572327d5f  ./CHANGES.A17_HM341.gnm4.2GZ9.txt
 1712b093d569e29b5b659861585adb79  ./busco/medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz_busco.txt
 81afbd2b20d80f8b469d56d342f95207  ./MANIFEST.A17_HM341.gnm4.2GZ9.correspondence.yml
-f1bf04fd9b40cd6446e1c7a3b061a48a  ./README.A17_HM341.gnm4.2GZ9.yml
+b2958a3be3de51e21235a370175d4fc4  ./BUSCO/medtr.A17_HM341.gnm4.2GZ9.busco.fabales_odb10.short_summary.txt
+f394575ab976fe5f08f54d8bbe032aea  ./BUSCO/medtr.A17_HM341.gnm4.2GZ9.busco.fabales_odb10.short_summary.json
+0902cd7ac130d2dc7c774323f7c56936  ./BUSCO/medtr.A17_HM341.gnm4.2GZ9.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+df5a52eeea717718eb2dd65153b1e390  ./README.A17_HM341.gnm4.2GZ9.yml
 fcdf55726a714a81e8801e215831ec90  ./medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz.gzi

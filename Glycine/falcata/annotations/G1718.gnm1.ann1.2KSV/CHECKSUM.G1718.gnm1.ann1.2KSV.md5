@@ -7,6 +7,9 @@ c47ea7eef73dc078fe9327373801619a  ./CHANGES.G1718.gnm1.2KSV.txt
 872f61c6ea1d7c9a5dcba5c807b70155  ./glyfa.G1718.gnm1.ann1.2KSV.protein.faa.gz.fai
 4c8d5a5ecf12538a69c11e5dbfd12718  ./glyfa.G1718.gnm1.ann1.2KSV.cds.fna.gz.gzi
 2762bb99a8e990ca36fc2a1efa8d4593  ./glyfa.G1718.gnm1.ann1.2KSV.protein.faa.gz
+ffb5ef731579ba9a56de77c22a22b67b  ./BUSCO/glyfa.G1718.gnm1.ann1.2KSV.busco.fabales_odb10.short_summary.json
+d4cc1c60f845eef11868b0c6e220c17d  ./BUSCO/glyfa.G1718.gnm1.ann1.2KSV.busco.fabales_odb10.full_table.tsv.gz
+9026547c86fbe0d8c0c72dd5d9ff4f8a  ./BUSCO/glyfa.G1718.gnm1.ann1.2KSV.busco.fabales_odb10.short_summary.txt
 9d0429225b9bd7b75c0ca40af0007c26  ./README.G1718.gnm1.ann1.2KSV.yml
 7c68e6625b7c78f4f91f734665b954a6  ./glyfa.G1718.gnm1.ann1.2KSV.cds.fna.gz
 c0e9eeb00327c2f23c61ab9a55fee1fe  ./glyfa.G1718.gnm1.ann1.2KSV.gene_models_main.bed.gz

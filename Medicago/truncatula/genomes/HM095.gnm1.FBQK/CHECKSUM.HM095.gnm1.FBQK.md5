@@ -1,5 +1,9 @@
+cdbef5147187e7f0e364d31a2a25a2f4  ./BUSCO/medtr.HM095.gnm1.FBQK.busco.fabales_odb10.short_summary.json
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+f1f7ac46e4626c23e728d4c26c39f7b7  ./BUSCO/medtr.HM095.gnm1.FBQK.busco.fabales_odb10.short_summary.txt
+9f7ed1e45102898cfbbc22a9ad5bc851  ./BUSCO/medtr.HM095.gnm1.FBQK.busco.fabales_odb10.full_table.tsv.gz
 121341c07b94147da501deecbc2b5669  ./medtr.HM095.gnm1.FBQK.genome_main.fna.gz
-f9cf77969b44a1139e546d00dcc50170  ./README.HM095.gnm1.FBQK.yml
+a073821b8205aaccb986522493ec1f79  ./README.HM095.gnm1.FBQK.yml
 81cc74844e64dcec731e6f482c3e94b3  ./medtr.HM095.gnm1.FBQK.genome_main.fna.gz.gzi
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM095.gnm1.FBQK.descriptions.yml
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM095.gnm1.FBQK.txt

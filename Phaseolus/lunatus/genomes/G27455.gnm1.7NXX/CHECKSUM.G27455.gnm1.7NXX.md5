@@ -1,5 +1,8 @@
-3904234761af55e00400b83ce29f6442  ./README.G27455.gnm1.7NXX.yml
+095afda0af18b916b2c5944fe110c2ba  ./README.G27455.gnm1.7NXX.yml
 0cc3b651a7cbd802af696386c2435e2b  ./phalu.G27455.gnm1.7NXX.genome_main.fna.gz.fai
+798c8e279e8d25dc3af3eee08ed545ac  ./BUSCO/phalu.G27455.gnm1.7NXX.busco.fabales_odb10.full_table.tsv.gz
+dc6024603ddd5264c79ca49f95a48450  ./BUSCO/phalu.G27455.gnm1.7NXX.busco.fabales_odb10.short_summary.txt
+03ab050f20c2a77385287bd2bc216f0b  ./BUSCO/phalu.G27455.gnm1.7NXX.busco.fabales_odb10.short_summary.json
 27e23107ab48ba1ae17f83294aa28eba  ./phalu.G27455.gnm1.7NXX.genome_main.gff3.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.G27455.gnm1.7NXX.correspondence.yml
 b141c28f354a0db118c4fca202158e12  ./CHANGES.G27455.gnm1.7NXX.txt

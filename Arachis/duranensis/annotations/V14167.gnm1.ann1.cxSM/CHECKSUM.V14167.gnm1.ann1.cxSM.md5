@@ -26,3 +26,6 @@ fcf645a3b2256ebe3e0f051f84c362ca  ./aradu.V14167.gnm1.ann1.cxSM.gene_models_main
 c2e4305a8382fd78fe08de9b3a137d4c  ./aradu.V14167.gnm1.ann1.cxSM.gene_models_lowqual_or_TE.gff.gz
 51d0f8ef9718833862cab4cc47b4fe3a  ./aradu.V14167.gnm1.ann1.cxSM.cds.bed.gz.tbi
 30552bb49c1849334f57414bef1c911e  ./aradu.V14167.gnm1.ann1.cxSM.pathway.tsv.gz
+6980112817725bc2b1bb40d368d5ba88  ./BUSCO/aradu.V14167.gnm1.ann1.cxSM.busco.fabales_odb10.full_table.tsv.gz
+bde0afe5587687af1651f867392ec8ff  ./BUSCO/aradu.V14167.gnm1.ann1.cxSM.busco.fabales_odb10.short_summary.txt
+d209f0f1b69d54a8eea74f350d85d01a  ./BUSCO/aradu.V14167.gnm1.ann1.cxSM.busco.fabales_odb10.short_summary.json

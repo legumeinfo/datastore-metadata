@@ -12,6 +12,9 @@ bbfa4d66754b7d4d7a1b8e5ebda893d7  ./arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_m
 78a5c1dd71f15f66e146c80ab1e11490  ./arahy.Tifrunner.gnm1.ann1.CCJH.protein_primary.faa.gz.fai
 ea1247118b6bc4aa297f9fafbd925e20  ./arahy.Tifrunner.gnm1.ann1.CCJH.protein.faa.gz.gzi
 d96a7201c506c17cd3b7472a368b4ed3  ./arahy.Tifrunner.gnm1.ann1.CCJH.mrna_primary.fna.gz.gzi
+185c458ea13109c81eb0d8638bc1b1ef  ./BUSCO/arahy.Tifrunner.gnm1.ann1.CCJH.busco.fabales_odb10.full_table.tsv.gz
+5f2a73affb954e91e7a42ff115edf8da  ./BUSCO/arahy.Tifrunner.gnm1.ann1.CCJH.busco.fabales_odb10.short_summary.txt
+abdc1487c61c45db6d8f8a79725c762a  ./BUSCO/arahy.Tifrunner.gnm1.ann1.CCJH.busco.fabales_odb10.short_summary.json
 1bd0b676632b047795b2afb908ca14e7  ./arahy.Tifrunner.gnm1.ann1.CCJH.mrna.fna.gz
 b3d89da3340d142248d3f58d4d1ba6ff  ./arahy.Tifrunner.gnm1.ann1.CCJH.legfed_v1_0.M65K.pathway.tsv.gz
 59cf0c0faa152f06afbfe0240f55e38f  ./arahy.Tifrunner.gnm1.ann1.CCJH.protein.faa.gz.fai

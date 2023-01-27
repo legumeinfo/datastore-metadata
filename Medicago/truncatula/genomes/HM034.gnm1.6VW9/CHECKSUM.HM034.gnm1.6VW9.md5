@@ -3,6 +3,10 @@
 c1938eaeafcfeb5173b8743dd1365ac1  ./medtr.HM034.gnm1.6VW9.genome_main.fna.gz.fai
 424720ee2954a265e2eafd04d2a1aa2f  ./medtr.HM034.gnm1.6VW9.genome_main.fna.gz.gzi
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM034.gnm1.6VW9.txt
-84493766c88b384641262ed72e4627f8  ./README.HM034.gnm1.6VW9.yml
+03f9bb81a6c6a74ff957f776e5dc1f70  ./BUSCO/medtr.HM034.gnm1.6VW9.busco.fabales_odb10.short_summary.json
+a4930c74767b5130dbd39e1a7298ac20  ./BUSCO/medtr.HM034.gnm1.6VW9.busco.fabales_odb10.full_table.tsv.gz
+ca13fcbeee3ef4c0bd42cf2aac41b4d8  ./BUSCO/medtr.HM034.gnm1.6VW9.busco.fabales_odb10.short_summary.txt
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+3c37c5865e8ba835523eec9f59b6dc33  ./README.HM034.gnm1.6VW9.yml
 2918c4b5274bc812a0db36a9892ef321  ./medtr.HM034.gnm1.6VW9.genome_main.fna.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM034.gnm1.6VW9.correspondence.yml

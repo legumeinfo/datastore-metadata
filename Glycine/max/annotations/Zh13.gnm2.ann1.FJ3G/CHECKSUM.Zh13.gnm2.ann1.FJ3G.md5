@@ -18,6 +18,9 @@ c947e9b20572e56290b206dbb8e93857  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna.fna.gz
 c81f138a71bf168c71413f257c1aae9b  ./glyma.Zh13.gnm2.ann1.FJ3G.transposon_repeat.gff3.gz.tbi
 b48bfc9b033edca897332b5bc0d4a6e5  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz
 27a20d96aee77796dedd3bfff2a14db9  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz.fai
+09cde30824f1c4b9f3518b8fd2b9e4ff  ./BUSCO/glyma.Zh13.gnm2.ann1.FJ3G.busco.fabales_odb10.short_summary.txt
+a8756301ac4bfd6e135e4f232e6f1eb0  ./BUSCO/glyma.Zh13.gnm2.ann1.FJ3G.busco.fabales_odb10.full_table.tsv.gz
+2afd635841dadd026f0214f0151dd46e  ./BUSCO/glyma.Zh13.gnm2.ann1.FJ3G.busco.fabales_odb10.short_summary.json
 a4351888b889c3167677cc3e6f62c301  ./glyma.Zh13.gnm2.ann1.FJ3G.legfed_v1_0.M65K.gfa.tsv.gz
 43de16f0f4704086ba4d579118bf79f5  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna.fna.gz.gzi
 15a2c6d38d524284d8007b76ea51c2f5  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.bed.gz.tbi

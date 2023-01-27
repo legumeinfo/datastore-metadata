@@ -1,4 +1,7 @@
 7e6672c555874c37ed3002060cb9e29e  ./medsa.XinJiangDaYe.gnm1.12MR.genome_main.fna.gz.fai
 7ae2b2afaf87ea8b5d91baba927f17f3  ./medsa.XinJiangDaYe.gnm1.12MR.genome_main.fna.gz
-a1a6053c57e1d7210a673a6e75385de6  ./README.XinJiangDaYe.gnm1.12MR.yml
+fe85a53ac4773c6cdb3836d051eb6f43  ./README.XinJiangDaYe.gnm1.12MR.yml
+21446190a21e231667e318d19dacbb93  ./BUSCO/medsa.XinJiangDaYe.gnm1.12MR.busco.fabales_odb10.short_summary.json
+cb7b37d03beb2d37510c9d91acd82db1  ./BUSCO/medsa.XinJiangDaYe.gnm1.12MR.busco.fabales_odb10.full_table.tsv.gz
+e5db38e3d0ab4178f2c2f0e3f0433ee7  ./BUSCO/medsa.XinJiangDaYe.gnm1.12MR.busco.fabales_odb10.short_summary.txt
 781cd3b0b18e495c5f3f6fbba25dc301  ./medsa.XinJiangDaYe.gnm1.12MR.genome_main.fna.gz.gzi

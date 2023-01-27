@@ -6,6 +6,9 @@
 2ee537f51bdba1480b3ea86f9b9c3bbf  ./glydo.G1134.gnm1.ann1.4BJM.protein.faa.gz.fai
 8654e5b4364d16d9a86d6c050396a670  ./README.G1134.gnm1.ann1.4BJM.yml
 c78eb2a1b4e37fd314ff597b3497e8a2  ./glydo.G1134.gnm1.ann1.4BJM.gene_models_main.gff3.gz
+fe67b1835f52925e80ab3f16acfe46ca  ./BUSCO/glydo.G1134.gnm1.ann1.4BJM.busco.fabales_odb10.full_table.tsv.gz
+6d13d14c4a25b240e5ca5b478ddb06f5  ./BUSCO/glydo.G1134.gnm1.ann1.4BJM.busco.fabales_odb10.short_summary.txt
+20b0c634403306bd25563546df4536de  ./BUSCO/glydo.G1134.gnm1.ann1.4BJM.busco.fabales_odb10.short_summary.json
 885b0f70cb3d6f2755b75b442743e8f6  ./glydo.G1134.gnm1.ann1.4BJM.cds.fna.gz.fai
 6b43dd704b08d7f4e44e94d16ffc7963  ./glydo.G1134.gnm1.ann1.4BJM.mrna.fna.gz.fai
 c47ea7eef73dc078fe9327373801619a  ./CHANGES.G1134.gnm1.4BJM.txt

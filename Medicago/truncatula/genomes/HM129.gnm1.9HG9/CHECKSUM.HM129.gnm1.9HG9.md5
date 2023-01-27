@@ -1,8 +1,12 @@
 35a97038e3a69aa883f6fc15e90079fe  ./medtr.HM129.gnm1.9HG9.genome_main.fna.gz.gzi
 a599f1f482c61f5b5c9154f72a76164a  ./medtr.HM129.gnm1.9HG9.genome_main.fna.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+7e57ac02b4ccbc2ec359894d1236f2df  ./BUSCO/medtr.HM129.gnm1.9HG9.busco.fabales_odb10.short_summary.json
+834bc72b762ec9a3ed49c37c244da9dc  ./BUSCO/medtr.HM129.gnm1.9HG9.busco.fabales_odb10.short_summary.txt
+fae94d00d722dfa461f4c72c0a56265b  ./BUSCO/medtr.HM129.gnm1.9HG9.busco.fabales_odb10.full_table.tsv.gz
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM129.gnm1.9HG9.txt
 033a78980641d70bc408113744bba1d9  ./busco/medtr.HM129.gnm1.9HG9.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.medtr.HM129.gnm1.9HG9.genome_main.fna.gz_busco.txt
-8d268ec6fd3534f9d4a74c32f11f8672  ./README.HM129.gnm1.9HG9.yml
+fa57eaf43b4e165dd3801da650bf1e98  ./README.HM129.gnm1.9HG9.yml
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM129.gnm1.9HG9.correspondence.yml
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM129.gnm1.9HG9.descriptions.yml
 f37299fe075c951345ac40b35283bfef  ./medtr.HM129.gnm1.9HG9.genome_main.fna.gz.fai

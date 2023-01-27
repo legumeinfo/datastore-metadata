@@ -17,6 +17,9 @@ c61e8e350e9575e0abde5ebdb354a2b8  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.cds_primary.
 e7aa81367339060020465465568e501a  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.protein_primary.faa.gz
 8795b65357745147d772bdcbdb186e48  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.cds_primary.fna.gz
 4282e45fcfa3a20bbe6e5c2588dafcd1  ./README.JiDouNo_17.gnm1.ann1.X5PX.yml
+b2e1e7b67f86e1b4ae9e7d03f4e44036  ./BUSCO/glyma.JiDouNo_17.gnm1.ann1.X5PX.busco.fabales_odb10.short_summary.txt
+e5f2bb45655eaae98e24821acde61027  ./BUSCO/glyma.JiDouNo_17.gnm1.ann1.X5PX.busco.fabales_odb10.full_table.tsv.gz
+1b2e2de3820c037cf47c8b419338cd04  ./BUSCO/glyma.JiDouNo_17.gnm1.ann1.X5PX.busco.fabales_odb10.short_summary.json
 ccffabcd83eca3f1747de893baa507a2  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.protein.faa.gz
 67b8b2073469529514f2c9b4a6dcaad4  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.protein.faa.gz.fai
 bbe6a4663c5dca8c99ee7ee44f889b41  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.cds.fna.gz.gzi

@@ -27,6 +27,9 @@ ad269bb48045204a38433f769ed23ccd  ./README.Tifrunner.gnm2.ann1.4K0L.yml
 b93e760b45f38cf31c561bac64b3d808  ./arahy.Tifrunner.gnm2.ann1.4K0L.mrna_primary.fna.gz.fai
 4338f04e206a712bf6b75963d712d3f5  ./arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M65K.gfa.tsv.gz
 da22ca798ef7d8c2ac0f450ca5bb1df1  ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz.tbi
+164822fc5d3924941254504bd52b5c22  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.full_table.tsv.gz
+4441ab10d195c9e57ee7cac9acec4a07  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.short_summary.json
+c183edfcfb2f8f747b3a1afa257f26c8  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.short_summary.txt
 3a1c34fbd9db5cd0ab0434265ed9996a  ./MANIFEST.Tifrunner.gnm2.ann1.4K0L.descriptions.yml
 2c776bba4999251dc2e548d95a47069c  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz
 5c0714846443ba0849b88706a49ae4ae  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz.fai

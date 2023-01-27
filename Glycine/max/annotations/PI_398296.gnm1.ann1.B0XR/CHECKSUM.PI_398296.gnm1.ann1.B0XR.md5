@@ -4,6 +4,9 @@ f30c04f2f8a7eb4bb032e13500225a35  ./glyma.PI_398296.gnm1.ann1.B0XR.mrna.fna.gz.g
 b04e81ccab20fa2471955049db6dd1f6  ./glyma.PI_398296.gnm1.ann1.B0XR.protein_primary.faa.gz.gzi
 56018638cedcef54c25217ef98b81644  ./MANIFEST.PI_398296.gnm1.ann1.B0XR.descriptions.yml
 fb218d26ca11a5fe8f5dc99e68347167  ./glyma.PI_398296.gnm1.ann1.B0XR.cds.fna.gz
+c1cc53a6ae8d561d9396a6a79818efda  ./BUSCO/glyma.PI_398296.gnm1.ann1.B0XR.busco.fabales_odb10.short_summary.txt
+97eb38b74cb228644414daa894509ab8  ./BUSCO/glyma.PI_398296.gnm1.ann1.B0XR.busco.fabales_odb10.full_table.tsv.gz
+29b81342a6ac060ef02c5eae623fbafb  ./BUSCO/glyma.PI_398296.gnm1.ann1.B0XR.busco.fabales_odb10.short_summary.json
 4adf779db61ab182b12e41858c7224c2  ./glyma.PI_398296.gnm1.ann1.B0XR.cds_primary.fna.gz.gzi
 d85a80dd86152c2a2ba17c2c86972c76  ./glyma.PI_398296.gnm1.ann1.B0XR.protein_primary.faa.gz
 9ef803849946b8e3d183f1aeefa4c720  ./glyma.PI_398296.gnm1.ann1.B0XR.cds.fna.gz.fai

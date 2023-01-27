@@ -9,6 +9,9 @@ ac2c2215c5b3d2ac5820217f5670019c  ./glyma.Zh13_IGA1005.gnm1.ann1.87Z5.protein.fa
 5bb31f8792a73edf24363701d2595886  ./MANIFEST.Zh13_IGA1005.gnm1.ann1.87Z5.correspondence.yml
 1f08e9fee4144b2bd8a1b130300f9c69  ./CHANGES.Zh13_IGA1005.gnm1.ann1.87Z5.txt
 aa5b577deb96f32203d0d7b6cb2f01ab  ./README.Zh13_IGA1005.gnm1.ann1.87Z5.yml
+53ddc21430b1c07869989f3b8e1edda7  ./BUSCO/glyma.Zh13_IGA1005.gnm1.ann1.87Z5.busco.fabales_odb10.full_table.tsv.gz
+89f027875f46e47fde4c4e06e8089c67  ./BUSCO/glyma.Zh13_IGA1005.gnm1.ann1.87Z5.busco.fabales_odb10.short_summary.txt
+392c134ec28140a8b587c976f330f553  ./BUSCO/glyma.Zh13_IGA1005.gnm1.ann1.87Z5.busco.fabales_odb10.short_summary.json
 ef6db63bca8c267cd6ab0438498ab84b  ./glyma.Zh13_IGA1005.gnm1.ann1.87Z5.mrna.fna.gz
 fd007cf2280febe9de1f49f886cd1cfc  ./glyma.Zh13_IGA1005.gnm1.ann1.87Z5.protein.faa.gz.gzi
 ba8471bd66e5cc8c14ea7a032a056971  ./glyma.Zh13_IGA1005.gnm1.ann1.87Z5.gene_models_main.gff3.gz.tbi

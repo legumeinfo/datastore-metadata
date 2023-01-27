@@ -1,4 +1,7 @@
 f20b11b2cb9330602700e90c662f9538  ./glyma.Amsoy.gnm1.ann1.6S5P.protein.faa.gz
+94ff5f3702dded5bb87b9a770cbdcb26  ./BUSCO/glyma.Amsoy.gnm1.ann1.6S5P.busco.fabales_odb10.full_table.tsv.gz
+2a83589d665a66639981168c12dbef93  ./BUSCO/glyma.Amsoy.gnm1.ann1.6S5P.busco.fabales_odb10.short_summary.json
+d3de1a2c205606a5929a53ed19de5f41  ./BUSCO/glyma.Amsoy.gnm1.ann1.6S5P.busco.fabales_odb10.short_summary.txt
 e496fbf203f9cf22572430dafcbc3f48  ./glyma.Amsoy.gnm1.ann1.6S5P.mrna.fna.gz
 3f4ee7ad02c5c9b76d8d2e0aba7212cd  ./glyma.Amsoy.gnm1.ann1.6S5P.cds.fna.gz.gzi
 9d9a382527dc1a2f9d59f2a1e4b14e29  ./glyma.Amsoy.gnm1.ann1.6S5P.cds_primary.fna.gz

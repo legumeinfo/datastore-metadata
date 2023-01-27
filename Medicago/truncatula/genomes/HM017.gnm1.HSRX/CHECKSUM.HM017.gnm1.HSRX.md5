@@ -1,6 +1,10 @@
 64d2ffaff2c497e7f6af3f513e8a0912  ./medtr.HM017.gnm1.HSRX.genome_main.fna.gz.fai
-d413a1ed97631b17dcbb36c8a93d50e7  ./README.HM017.gnm1.HSRX.yml
+9b578c0e8540b56d07128c5f9fcc4e4e  ./README.HM017.gnm1.HSRX.yml
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM017.gnm1.HSRX.descriptions.yml
+a6e0885356c89a1819a9382923775c10  ./BUSCO/medtr.HM017.gnm1.HSRX.busco.fabales_odb10.full_table.tsv.gz
+3dd638e27082ff7b51e9d57b23bade2c  ./BUSCO/medtr.HM017.gnm1.HSRX.busco.fabales_odb10.short_summary.txt
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+38f11e102703b588a76253cf050b17a7  ./BUSCO/medtr.HM017.gnm1.HSRX.busco.fabales_odb10.short_summary.json
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM017.gnm1.HSRX.txt
 8071629008cb33f3d8a1dfc13760a8c9  ./busco/medtr.HM017.gnm1.HSRX.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.medtr.HM017.gnm1.HSRX.genome_main.fna.gz_busco.txt
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM017.gnm1.HSRX.correspondence.yml

@@ -5,7 +5,10 @@ e62853cdfe7e4726f725dddb841a4143  ./_h5ai.footers.html
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.CADL_HM342.gnm1.rVNY.correspondence.yml
 8333bf18f5026d57a24d3599a8ff1b76  ./CHANGES.CADL_HM342.gnm1.rVNY.txt
 e7f6cce2b5b4003136e217b655b54ebf  ./usage_policy.txt
-c849d7b07d725d5da9c4eae300bb4361  ./medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz
+af014b056203404b2825b8f82cf8f193  ./medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.CADL_HM342.gnm1.rVNY.descriptions.yml
-7e03f962e1cb85d1ef5f0df2b6fa8671  ./README.CADL_HM342.gnm1.rVNY.yml
-b41de892c93d3c4a6272c911b76cfacb  ./medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz.gzi
+3fb3755107633eb9dbdda2edf31b3c08  ./BUSCO/medsa.CADL_HM342.gnm1.rVNY.busco.fabales_odb10.short_summary.json
+4c49bf6268fb2ad1de781dbc41cd5d62  ./BUSCO/medsa.CADL_HM342.gnm1.rVNY.busco.fabales_odb10.full_table.tsv.gz
+1e5fe011226945bcc28ca98b60ce58c6  ./BUSCO/medsa.CADL_HM342.gnm1.rVNY.busco.fabales_odb10.short_summary.txt
+c697296f97d8f0dfe94b76460e340fbe  ./README.CADL_HM342.gnm1.rVNY.yml
+0aef80576377e7ffefa1c3ff197e1148  ./medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz.gzi

@@ -16,6 +16,9 @@ e25d69125f398818371381e8e084aa11  ./glyst.G1974.gnm1.ann1.F257.mrna.fna.gz.gzi
 3b8a47c2c503ae1477d0ad7b7cae702e  ./glyst.G1974.gnm1.ann1.F257.legfed_v1_0.M65K.gfa.tsv.gz
 debcfc197d66ccea60dad676686371b7  ./glyst.G1974.gnm1.ann1.F257.gene_models_main.bed.gz.tbi
 c47ea7eef73dc078fe9327373801619a  ./CHANGES.G1974.gnm1.F257.txt
+582e0e2c4f5eb7b88ac92a3f3837e10d  ./BUSCO/glyst.G1974.gnm1.ann1.F257.busco.fabales_odb10.full_table.tsv.gz
+25d419f502013b969ed3bb3052073956  ./BUSCO/glyst.G1974.gnm1.ann1.F257.busco.fabales_odb10.short_summary.txt
+3d1c03d4fd479bb516585119b3bc88b0  ./BUSCO/glyst.G1974.gnm1.ann1.F257.busco.fabales_odb10.short_summary.json
 543d74d2ecc0e764eaf21f1889272a4b  ./glyst.G1974.gnm1.ann1.F257.cds.fna.gz.fai
 0ef0307c0e109a97187cc0e2220e0475  ./glyst.G1974.gnm1.ann1.F257.gene_models_main.bed.gz
 22f395d20780accd49bb17b9f861261f  ./README.G1974.gnm1.ann1.F257.yml

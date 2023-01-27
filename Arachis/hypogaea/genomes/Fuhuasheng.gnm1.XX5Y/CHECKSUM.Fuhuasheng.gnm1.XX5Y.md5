@@ -1,7 +1,10 @@
-61b39cbea7635a48a4bb1b0940be6466  ./README.Fuhuasheng.gnm1.XX5Y.yml
+ce538385b2e2fac1d146b17700cd3e45  ./README.Fuhuasheng.gnm1.XX5Y.yml
 56c4c1d0609e605c3f922f3f93ba9f6e  ./arahy.Fuhuasheng.gnm1.XX5Y.genome_main.fna.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.Fuhuasheng.gnm1.XX5Y.correspondence.yml
 1c64725f3cd9147903a29947f31a3724  ./arahy.Fuhuasheng.gnm1.XX5Y.genome_main.fna.gz.gzi
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.Fuhuasheng.gnm1.XX5Y.descriptions.yml
 23cec5f9133f0a28a5b83a81eea8463d  ./CHANGES.Fuhuasheng.gnm1.XX5Y.txt
+85a79ccceede9866d0ed8a74256a3798  ./BUSCO/arahy.Fuhuasheng.gnm1.XX5Y.busco.fabales_odb10.short_summary.json
+916e049fdf9105879ecb37e12f03e42f  ./BUSCO/arahy.Fuhuasheng.gnm1.XX5Y.busco.fabales_odb10.full_table.tsv.gz
+def6437639c3fcae5ef6098f9fa579b0  ./BUSCO/arahy.Fuhuasheng.gnm1.XX5Y.busco.fabales_odb10.short_summary.txt
 cb3876d25d02c3995e5f91fa97629aef  ./arahy.Fuhuasheng.gnm1.XX5Y.genome_main.fna.gz.fai

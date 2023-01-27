@@ -1,12 +1,15 @@
 d9eb9b0cf80f455dce47814c23875f57  ./busco/glyma.Wm82.gnm4.4PTR.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.glyma.Wm82.gnm4.4PTR.genome_main.fna.gz_busco.txt
 ed86d10ef7d9a2479265f64d25e00d77  ./glyma.Wm82.gnm4.4PTR.genome_hardmasked.fna.gz
 879d6d0724f99bb481c863faf2eaf078  ./glyma.Wm82.gnm4.4PTR.genome_main.fna.gz.fai
-d904c847fcb1e8e2b99a7e60809c7d9d  ./README.Wm82.gnm4.4PTR.yml
+17711b86e8b3a97c0b474b4bc8fb9505  ./README.Wm82.gnm4.4PTR.yml
 8920386524189dd241682accc5541c1a  ./MANIFEST.Wm82.gnm4.4PTR.descriptions.yml
 1c51b5bf84aa761ba03577f5f93511f9  ./glyma.Wm82.gnm4.4PTR.BssSI_01_EXP_REFINEFINAL1.cmap.gz
 d0e72e3bb440a996b9652328a9d58068  ./glyma.Wm82.gnm4.4PTR.genome_softmasked.fna.gz
 8c79991540761df9759d125ad7c075d1  ./glyma.Wm82.gnm4.4PTR.info_name_hash.txt
 d6e65a8e7480a23d4dac1b2a97fefb3d  ./CHANGES.Wm82.gnm4.4PTR.txt
+8803ca1ba69cc71d7d71c68237c78c51  ./BUSCO/glyma.Wm82.gnm4.4PTR.busco.fabales_odb10.full_table.tsv.gz
+0170c48fed204a5f9efe1cd2f1f74bff  ./BUSCO/glyma.Wm82.gnm4.4PTR.busco.fabales_odb10.short_summary.txt
+4f1f4dea39bc34963040f370239e45a1  ./BUSCO/glyma.Wm82.gnm4.4PTR.busco.fabales_odb10.short_summary.json
 85d8942e48c1e09efee5d90c5616b21c  ./glyma.Wm82.gnm4.4PTR.genome_main.fna.gz.gzi
 d9b74dd1de493333c04dd6df2b6c7681  ./MANIFEST.Wm82.gnm4.4PTR.correspondence.yml
 00607a121fb1bfe85b512adb7b9a74c6  ./glyma.Wm82.gnm4.4PTR.BspQI_Molecules.bnx.gz

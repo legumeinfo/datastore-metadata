@@ -1,6 +1,9 @@
+57c8a6fa20bacbdd3253702fbb648b49  ./BUSCO/medtr.R108.gnmHiC_1.7RWS.busco.fabales_odb10.short_summary.json
+68eacab9797e1f218d965751a926bfff  ./BUSCO/medtr.R108.gnmHiC_1.7RWS.busco.fabales_odb10.short_summary.txt
+d4897433cd5f51bb1507023edbbe045b  ./BUSCO/medtr.R108.gnmHiC_1.7RWS.busco.fabales_odb10.full_table.tsv.gz
 08ea314c585b7fafcf618ca9df814c0f  ./CHANGES.R108.gnmHiC_1.7RWS.txt
 1546455027d18b5efae8015f3e9bfa2f  ./medtr.R108.gnmHiC_1.7RWS.genome_main.fna.gz.fai
 5d7b4072545fbbb2f7bde9269b9fa96f  ./medtr.R108.gnmHiC_1.7RWS.genome_main.fna.gz.gzi
-23a668b1046bbf5e17426001ba39521e  ./README.R108.gnmHiC_1.7RWS.yml
+e1784ab9bbf91e6c53a3f9f8366ce795  ./README.R108.gnmHiC_1.7RWS.yml
 e852ca697c541f0809912c85d329b2b1  ./medtr.R108.gnmHiC_1.7RWS.genome_main.fna.gz
 34204d20bb7ec16593c24a9e16488cac  ./medtr.R108.gnmHiC_1.7RWS.id_map.txt

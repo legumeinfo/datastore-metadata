@@ -1,5 +1,8 @@
 9df9130e21be3af8f6c77f9ae052ebff  ./glysy.G1300.gnm1.ann1.RRK6.gene_models_main.gff3.gz.tbi
 f16a76020bb0426aae786751f10eb39f  ./glysy.G1300.gnm1.ann1.RRK6.protein.faa.gz.gzi
+50565fc2df3e56ac7736c77bb512b9ed  ./BUSCO/glysy.G1300.gnm1.ann1.RRK6.busco.fabales_odb10.short_summary.json
+755b9290ed510145f71fa05710a58912  ./BUSCO/glysy.G1300.gnm1.ann1.RRK6.busco.fabales_odb10.short_summary.txt
+9938bf1a8b6848e5481683a17818ea0a  ./BUSCO/glysy.G1300.gnm1.ann1.RRK6.busco.fabales_odb10.full_table.tsv.gz
 cbe733059ab47ee49b13d9de6439c4e8  ./glysy.G1300.gnm1.ann1.RRK6.mrna.fna.gz.gzi
 10f4fa035b9eb97c379dd79e84848be9  ./glysy.G1300.gnm1.ann1.RRK6.cds.fna.gz
 8bcef9162786834bbd81d5b7a3e356ba  ./MANIFEST.G1300.gnm1.ann1.RRK6.descriptions.yml

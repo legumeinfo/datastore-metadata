@@ -2,7 +2,10 @@ db4cf2447de4284f248a1927c897e047  ./CHANGES.Gyeongwon.gnm3.JyYC.txt
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.Gyeongwon.gnm3.JyYC.descriptions.yml
 2259ff7d01bc298c9ee8336a5f5df2da  ./vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.Gyeongwon.gnm3.JyYC.correspondence.yml
-c3567dc380a7e3332c348887844f49c8  ./README.Gyeongwon.gnm3.JyYC.yml
+9109193a10305a24c9f9c0c70b21a2de  ./BUSCO/vigan.Gyeongwon.gnm3.JyYC.busco.fabales_odb10.short_summary.json
+3cbcc4d9005497cb9c5910e57718cfa6  ./BUSCO/vigan.Gyeongwon.gnm3.JyYC.busco.fabales_odb10.short_summary.txt
+c907ff4bc37816d66366750cd82528c7  ./BUSCO/vigan.Gyeongwon.gnm3.JyYC.busco.fabales_odb10.full_table.tsv.gz
+44ffc1025ffc26f382ff682bba880311  ./README.Gyeongwon.gnm3.JyYC.yml
 87b21947adcf7f7a75b8fe1e3bcd9c00  ./vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz.fai
 52ea701d0ebccc4bf871c63ac702266f  ./vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz.gzi
 e5fbd31116276d27de1642110a8f735e  ./busco/vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.vigan.Gyeongwon.gnm3.JyYC.genome_main.fna.gz_busco.txt

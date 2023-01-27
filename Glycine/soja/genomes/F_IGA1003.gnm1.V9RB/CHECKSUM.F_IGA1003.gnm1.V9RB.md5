@@ -1,9 +1,12 @@
 94a5e63cbea12f26358c1d73a4e73d48  ./glyso.F_IGA1003.gnm1.V9RB.genome_main.fna.gz.gzi
 4e532ac3d98fb55687e1ec14b5233fe8  ./CHANGES.F_IGA1003.gnm1.V9RB.txt
 27f30b9b7b53d4e715dd77b6d3688915  ./glyso.F_IGA1003.gnm1.genome_main.fna.gz.fai
-a25e495c9ebcce292db8838532788b83  ./README.F_IGA1003.gnm1.V9RB.yml
+c06da12d36f76a69e21ac9e1c031c3f6  ./README.F_IGA1003.gnm1.V9RB.yml
 94a5e63cbea12f26358c1d73a4e73d48  ./glyso.F_IGA1003.gnm1.genome_main.fna.gz.gzi
 7e93e8e67ee06f4b2163838c5d5aa8bf  ./MANIFEST.F_IGA1003.gnm1.V9RB.descriptions.yml
 27f30b9b7b53d4e715dd77b6d3688915  ./glyso.F_IGA1003.gnm1.V9RB.genome_main.fna.gz.fai
+a742883e4c78b6a879634a2ed53bc0e4  ./BUSCO/glyso.F_IGA1003.gnm1.V9RB.busco.fabales_odb10.short_summary.json
+254726019a9d023293697b044d4b4e72  ./BUSCO/glyso.F_IGA1003.gnm1.V9RB.busco.fabales_odb10.short_summary.txt
+6cd24aa9334ae131ac682b47e8884c79  ./BUSCO/glyso.F_IGA1003.gnm1.V9RB.busco.fabales_odb10.full_table.tsv.gz
 f78277a055655db7991fe63b5ae58e7a  ./MANIFEST.F_IGA1003.gnm1.V9RB.correspondences.yml
 4bd11ef2a17df549fc4a614e4e383322  ./glyso.F_IGA1003.gnm1.V9RB.genome_main.fna.gz

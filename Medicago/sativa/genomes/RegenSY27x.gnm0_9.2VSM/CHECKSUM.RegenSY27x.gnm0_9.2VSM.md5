@@ -1,8 +1,12 @@
 ee27d969002f46f1d5889c882e95e5ed  ./medsa.RegenSY27x.gnm0_9.2VSM.genome_main.fna.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.RegenSY27x.gnm0_9.2VSM.correspondence.yml
-a936dbbdeb77def723c1407cb0ab6db5  ./README.RegenSY27x.gnm0_9.2VSM.yml
+ee4efbd17382f04b6c3bee5acd330879  ./README.RegenSY27x.gnm0_9.2VSM.yml
 c31a0435cd9b1b570a0fae2e46682481  ./medsa.RegenSY27x.gnm0_9.2VSM.genome_main.fna.gz.fai
 7254501d6bb807a47dd76cf7ab7aee24  ./CHANGES.RegenSY27x.gnm0_9.2VSM.txt
+58e4bfd59ee3093017a100aa932ed62d  ./BUSCO/medsa.RegenSY27x.gnm0_9.2VSM.busco.fabales_odb10.short_summary.json
+c44c5a4e50d8d87aa7ad8877dd9681e3  ./BUSCO/medsa.RegenSY27x.gnm0_9.2VSM.busco.fabales_odb10.short_summary.txt
+696380f74f03f09eeabe0acaf97c6e92  ./BUSCO/medsa.RegenSY27x.gnm0_9.2VSM.busco.fabales_odb10.full_table.tsv.gz
 6c2827392c735bd6147d3ba0789e2d6d  ./medsa.RegenSY27x.gnm0_9.2VSM.genome_main.fna.gz.gzi
 4fe5b18f920720a2047729d62b60bc03  ./usage_policy.txt
+9bc2b0403b3c4a6df2ac34c47d84ba7d  ./_h5ai.footers.html
 7277d1f8c0b14cee36dfdebe90389648  ./MANIFEST.RegenSY27x.gnm0_9.2VSM.descriptions.yml

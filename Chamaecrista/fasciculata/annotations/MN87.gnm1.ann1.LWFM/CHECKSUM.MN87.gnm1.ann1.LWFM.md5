@@ -2,6 +2,9 @@
 28b59b375e6f3c19c8d14dccec706c85  ./CHANGES.MN87.gnm1.ann1.LWFM.txt
 45c7729a988effcab4197f4e5c777d64  ./chafa.MN87.gnm1.ann1.LWFM.repeats.gff3.gz
 744bf9ea4a0c8eaddb2eadaa7940e82b  ./chafa.MN87.gnm1.ann1.LWFM.protein.faa.gz
+975f68f74f4c63eda2f4cb231f0d5759  ./BUSCO/chafa.MN87.gnm1.ann1.LWFM.busco.fabales_odb10.short_summary.json
+540eb632aa2a8d5327bfc324af3a4652  ./BUSCO/chafa.MN87.gnm1.ann1.LWFM.busco.fabales_odb10.full_table.tsv.gz
+74a4d29ecd1cea5c5aa7bcb31e4af9ea  ./BUSCO/chafa.MN87.gnm1.ann1.LWFM.busco.fabales_odb10.short_summary.txt
 3fcea5c2d8848e86766d9201a6902d82  ./chafa.MN87.gnm1.ann1.LWFM.info_function.txt.gz
 3e33fc7b05ce49a157a24e1a4b619c71  ./chafa.MN87.gnm1.ann1.LWFM.gene_models_main.gff3.gz
 0f0e01ba420c0fb3d901ba082849f8e6  ./chafa.MN87.gnm1.ann1.LWFM.fragments.tar.gz

@@ -3,6 +3,9 @@ f5271471e7ffe8b8869aaf82a6e74161  ./vigra.VC1973A.gnm7.ann1.RWBG.iprscan.gff3.gz
 c91557e0af630d78a42dce304fa70550  ./README.VC1973A.gnm7.ann1.RWBG.yml
 906b717ddaa12b7e0ebb7c8b34bca9a8  ./vigra.VC1973A.gnm7.ann1.RWBG.gene_models_original.gff3.gz
 bcaf19c6b6d889aa6fa9299480bf571c  ./vigra.VC1973A.gnm7.ann1.RWBG.gene_models_main.gff3.gz
+d2ff4ac7f1c52ed362d1252a527fb0da  ./BUSCO/vigra.VC1973A.gnm7.ann1.RWBG.busco.fabales_odb10.short_summary.json
+005c0810ae92759e9f0a8e9635299dcb  ./BUSCO/vigra.VC1973A.gnm7.ann1.RWBG.busco.fabales_odb10.full_table.tsv.gz
+0f19cf2269efeb4dd923801a36d4c54a  ./BUSCO/vigra.VC1973A.gnm7.ann1.RWBG.busco.fabales_odb10.short_summary.txt
 eddb6240c883006b55abae8ef4551b3c  ./vigra.VC1973A.gnm7.ann1.RWBG.mrna.fna.gz.gzi
 e26560b02536ec878b825304522653d8  ./MANIFEST.VC1973A.gnm7.ann1.RWBG.descriptions.yml
 bc87880fc4aaa2b6a63dc66793b65707  ./vigra.VC1973A.gnm7.ann1.RWBG.gene_models_main.gff3.gz.tbi

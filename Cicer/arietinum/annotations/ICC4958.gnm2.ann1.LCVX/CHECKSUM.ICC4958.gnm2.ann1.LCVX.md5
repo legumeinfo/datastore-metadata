@@ -11,6 +11,9 @@ e7635ea840d73f7032adc81e340222eb  ./cicar.ICC4958.gnm2.ann1.LCVX.mrna.fna.gz.fai
 02b13c709228b2dab49a93fb4740cae3  ./cicar.ICC4958.gnm2.ann1.LCVX.protein_primary.faa.gz.gzi
 06f25fbb4b1058b356e8523216c827a9  ./cicar.ICC4958.gnm2.ann1.LCVX.legfed_v1_0.M65K.gfa.tsv.gz
 003b27ceb1d757085631b9e4fca02043  ./cicar.ICC4958.gnm2.ann1.LCVX.cds_primary.fna.gz
+b457c6589ea80e419f81dd0f7c02fa99  ./BUSCO/cicar.ICC4958.gnm2.ann1.LCVX.busco.fabales_odb10.short_summary.json
+e37ba66d8885af558ea3936dc7a2c7b7  ./BUSCO/cicar.ICC4958.gnm2.ann1.LCVX.busco.fabales_odb10.full_table.tsv.gz
+98ccdb5db3895e46de718d15903ecb47  ./BUSCO/cicar.ICC4958.gnm2.ann1.LCVX.busco.fabales_odb10.short_summary.txt
 853fa4d63f81152f9c2dd1a4dfc0b150  ./cicar.ICC4958.gnm2.ann1.LCVX.mrna.fna.gz
 f7d0ebfd650e1a4b590874c83bc211a0  ./CHANGES.ICC4958.gnm2.ann1.LCVX.txt
 2299feec3a606e4c134d3d179f044c96  ./cicar.ICC4958.gnm2.ann1.LCVX.cds.bed.gz.tbi

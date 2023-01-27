@@ -20,6 +20,9 @@ bbf414d3545a2bcb6fe3a93b57ed45c4  ./cajca.ICPL87119.gnm2.ann1.L3ZH.mrna.fna.gz.g
 9c30e4f21242526a858966902f97029c  ./cajca.ICPL87119.gnm2.ann1.L3ZH.protein_primary.faa.gz.gzi
 d1ffc089b7b8d7f42b8e2d65d6a6c77e  ./cajca.ICPL87119.gnm2.ann1.L3ZH.mrna_primary.fna.gz
 848cf26b39da1c81e6168118f0fcb5f6  ./MANIFEST.ICPL87119.gnm2.ann1.L3ZH.descriptions.yml
+caacd9ccb3517482b66eb0ec155e7353  ./BUSCO/cajca.ICPL87119.gnm2.ann1.L3ZH.busco.fabales_odb10.short_summary.txt
+d9b7f9a365ae6579106a0b11bb7aecc0  ./BUSCO/cajca.ICPL87119.gnm2.ann1.L3ZH.busco.fabales_odb10.full_table.tsv.gz
+c7e892f2c2ad01d6fb7f79f5fad524d1  ./BUSCO/cajca.ICPL87119.gnm2.ann1.L3ZH.busco.fabales_odb10.short_summary.json
 320d71d2e173c804b8dc3a312d0bbccd  ./cajca.ICPL87119.gnm2.ann1.L3ZH.mrna_primary.fna.gz.gzi
 506f80f0789703001d34a04cec318531  ./cajca.ICPL87119.gnm2.ann1.L3ZH.gene_models_main.gff3.gz.tbi
 ba929e90f14cab3939e6e7521749f811  ./cajca.ICPL87119.gnm2.ann1.L3ZH.protein.faa.gz.gzi

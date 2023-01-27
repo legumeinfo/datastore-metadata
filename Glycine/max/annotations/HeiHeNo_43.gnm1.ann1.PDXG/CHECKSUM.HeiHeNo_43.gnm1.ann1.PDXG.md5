@@ -6,6 +6,9 @@
 4724398334d4a0832e41fd0f8a8bfdbc  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.gene_models_main.gff3.gz
 c612d2f7b60c4d0328ac580c7966d651  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.protein.faa.gz.gzi
 ad19cf29f7ab2393b3c308010f2980ec  ./README.HeiHeNo_43.gnm1.ann1.PDXG.yml
+1a0a393448efc6003312599157351e98  ./BUSCO/glyma.HeiHeNo_43.gnm1.ann1.PDXG.busco.fabales_odb10.short_summary.json
+e55a7e420a4c7c26d72a666af2cbe552  ./BUSCO/glyma.HeiHeNo_43.gnm1.ann1.PDXG.busco.fabales_odb10.full_table.tsv.gz
+6f51fe023b2c335f2dd9dcaabf50f22b  ./BUSCO/glyma.HeiHeNo_43.gnm1.ann1.PDXG.busco.fabales_odb10.short_summary.txt
 2efc4cb98f006ab358e577ee3db59b05  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.iprscan.gff3.gz
 08446c5719a07ec22454f84c70725815  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.cds_primary.fna.gz.fai
 ea9f84bf9e60704afe44ba5975298be1  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.cds.fna.gz

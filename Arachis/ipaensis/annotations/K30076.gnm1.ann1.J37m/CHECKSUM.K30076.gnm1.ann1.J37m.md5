@@ -16,6 +16,9 @@ cf04c409255b943367523ae470ebbe8d  ./araip.K30076.gnm1.ann1.J37m.protein_lowqual_
 bde144e5b4f461c53fdbecaad5b60454  ./CHANGES.K30076.gnm1.ann1.J37m.txt
 9d148a6f3875c3023eb16c50b16b665d  ./araip.K30076.gnm1.ann1.J37m.cds.fna.gz.gzi
 6de299bcafa58fa1081bd78ab8465c74  ./araip.K30076.gnm1.ann1.J37m.gene_models_main.gff3.gz
+49c3b2c46ba7f4ab4f0b232e4116ab8b  ./BUSCO/araip.K30076.gnm1.ann1.J37m.busco.fabales_odb10.full_table.tsv.gz
+eac82e746cc79dc430fd4b2def2ab026  ./BUSCO/araip.K30076.gnm1.ann1.J37m.busco.fabales_odb10.short_summary.txt
+363db34519e42d3ee0e2369aa9c102f9  ./BUSCO/araip.K30076.gnm1.ann1.J37m.busco.fabales_odb10.short_summary.json
 d20397e9a1e84515e354cf6c6c12c735  ./README.K30076.gnm1.ann1.J37m.yml
 f5a5e916765bee840ca8ac389905e54f  ./araip.K30076.gnm1.ann1.J37m.protein.faa.gz.fai
 1e7d9199736100243a64920e7e73b208  ./original_usage_agreement.txt

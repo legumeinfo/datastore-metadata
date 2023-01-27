@@ -1,7 +1,10 @@
 f253220b6c1f39bb49203341441cafad  ./araca.K10017.gnm1.DQ4M.pchr.agp.txt.gz
 3a3de3d86bfebe9bf7cbd189e67b1cf2  ./usage_policy.txt
 4b3f63004f99ed8435a9b069a0fb3ca4  ./araca.K10017.gnm1.DQ4M.genome_main.fna.gz.fai
-4c7a7a6671d3545333818a8a0f11cba9  ./README.K10017.gnm1.DQ4M.yml
+cd45ca0086e6c8f9e40654cb8df4b8ce  ./README.K10017.gnm1.DQ4M.yml
+6490c5e9478ba4052bd68a53a9b10c49  ./BUSCO/araca.K10017.gnm1.DQ4M.busco.fabales_odb10.full_table.tsv.gz
+691b1a6e9af8dc6ba581e8dd0607afd5  ./BUSCO/araca.K10017.gnm1.DQ4M.busco.fabales_odb10.short_summary.txt
+8b91af3d79789f1e0930960e7b7f90b5  ./BUSCO/araca.K10017.gnm1.DQ4M.busco.fabales_odb10.short_summary.json
 d3267d4972f0d36a1e28ad251027757d  ./araca.K10017.gnm1.DQ4M.pchr_by_scaff.tar.gz
 8cd76707cdf855a9a5e0daa4c19905f7  ./araca.K10017.gnm1.DQ4M.scaffolds.fna.gz
 cc00b4e17f8fc85705219ca5317ac25f  ./MANIFEST.K10017.gnm1.DQ4M.descriptions.yml

@@ -1,6 +1,9 @@
 528717667a928428bd6b8dc07b42eb3a  ./glyma.Hefeng25_IGA1002.gnm1.L69T.genome_main.fna.gz.gzi
 31d2ea6398cde6cedbb524621d238c26  ./CHANGES.Hefeng25_IGA1002.gnm1.L69T.txt
-54471f052549a9cbb431d1e81345b3ce  ./README.Hefeng25_IGA1002.gnm1.L69T.yml
+f3a509e8819e20a636c2fa64d1ecce7e  ./BUSCO/glyma.Hefeng25_IGA1002.gnm1.L69T.busco.fabales_odb10.short_summary.json
+a684f50535fe9341fe1c7c01db43d348  ./BUSCO/glyma.Hefeng25_IGA1002.gnm1.L69T.busco.fabales_odb10.full_table.tsv.gz
+b0f01d8f4d6fb0fc4ed85a6f8af2e5cb  ./BUSCO/glyma.Hefeng25_IGA1002.gnm1.L69T.busco.fabales_odb10.short_summary.txt
+a4ac7323c60005f43d0f02539554514d  ./README.Hefeng25_IGA1002.gnm1.L69T.yml
 9afdd1f63b37cf4af65c857ba8b58f7c  ./glyma.Hefeng25_IGA1002.gnm1.L69T.genome_main.fna.gz
 6a5e18886d1ccb9708e9793e673cfc48  ./MANIFEST.Hefeng25_IGA1002.gnm1.L69T.descriptions.yml
 0e579fe9a86a07990f0139ddd4ecdfd1  ./glyma.Hefeng25_IGA1002.gnm1.L69T.genome_main.fna.gz.fai

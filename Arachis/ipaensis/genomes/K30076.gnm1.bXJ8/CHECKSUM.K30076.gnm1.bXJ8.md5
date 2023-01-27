@@ -1,6 +1,10 @@
 c36cf1c33e5b584b0920673262ac32ee  ./araip.K30076.gnm1.bXJ8.genome_main.fna.gz.fai
+ed56a0dfb7c7455bb2c71e9f55faec41  ./BUSCO/araip.K30076.gnm1.bXJ8.busco.fabales_odb10.short_summary.json
+e29f5553e246545c4b6568bcae3c0bde  ./BUSCO/araip.K30076.gnm1.bXJ8.busco.fabales_odb10.short_summary.txt
+f9bf7ff759cf809e728adcfd8d63619d  ./BUSCO/araip.K30076.gnm1.bXJ8.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
 9b78cc752743a75ca7807fb97202f9f8  ./araip.K30076.gnm1.bXJ8.pchr_by_scaff.tar.gz
-7ca7a3580ae7d9b32d0a8c9656a3dd4d  ./README.K30076.gnm1.bXJ8.yml
+75990d879a7b74a30163a6272d2b2d8c  ./README.K30076.gnm1.bXJ8.yml
 68a3301d75fe27a2e8c5f0d625b03255  ./busco/araip.K30076.gnm1.bXJ8.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.araip.K30076.gnm1.bXJ8.genome_main.fna.gz_busco.txt
 517cd0f279fe2386bbda2d22b9bbaf06  ./araip.K30076.gnm1.bXJ8.pchr_by_scaff_RM.tar.gz
 acacf216a5cdf9efde2768ba894f5bf6  ./araip.K30076.gnm1.bXJ8.genome_main.fna.gz

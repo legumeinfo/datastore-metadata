@@ -3,6 +3,9 @@
 b4e4177440fdda92fd5d034511de10ae  ./glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt.gz
 0ad92f60fbecbfae5bdf8d49c595dc15  ./glyma.Wm82.gnm4.ann1.T8TQ.legfed_v1_0.M65K.gfa.tsv.gz
 52f93081d943a2be83868723aade66ff  ./glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.bed.gz.tbi
+c2335b966b3b26df8e6c310cef218552  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.short_summary.txt
+7bb937fdd776eb595c74ae84b341d03c  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.short_summary.json
+b83370f15ba5a288140ff02198ea6edb  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.full_table.tsv.gz
 91614b64a3c0b64122c291495d90f2b4  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz.gzi
 89b7b5c8843f50fb557ba0df525fc773  ./glyma.Wm82.gnm4.ann1.T8TQ.protein_primary.faa.gz.fai
 abb261056a229d02d34a8665be96c4df  ./glyma.Wm82.gnm4.ann1.T8TQ.cds_primary.fna.gz.fai

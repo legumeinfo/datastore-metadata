@@ -13,6 +13,9 @@ b59db91b4c44904d188631448670dbb4  ./glyma.58-161.gnm1.ann1.HJ1K.protein.faa.gz.g
 f69a92735935466679d1c39c0caa30ee  ./MANIFEST.58-161.gnm1.ann1.HJ1K.correspondence.yml
 d57bb33de831feceb426cb913bbe2abf  ./glyma.58-161.gnm1.ann1.HJ1K.iprscan.gff3.gz.tbi
 c7f7d5c0c91651e4be9830ebb9c64a89  ./glyma.58-161.gnm1.ann1.HJ1K.protein.faa.gz.fai
+865760d16dd68d948008903204bebe47  ./BUSCO/glyma.58-161.gnm1.ann1.HJ1K.busco.fabales_odb10.short_summary.txt
+133b71101200c3ad72b73d618e1437e1  ./BUSCO/glyma.58-161.gnm1.ann1.HJ1K.busco.fabales_odb10.full_table.tsv.gz
+c6b9b89f8d9d5f7858ca7d79b883295d  ./BUSCO/glyma.58-161.gnm1.ann1.HJ1K.busco.fabales_odb10.short_summary.json
 3d3b70844238e3f2f71ef51e9a1e3bb4  ./glyma.58-161.gnm1.ann1.HJ1K.gene_models_main.gff3.gz
 b3f9a8958f08e83303cfd952070c8abd  ./glyma.58-161.gnm1.ann1.HJ1K.protein_primary.faa.gz
 5432227c8d9bd4c56062a99de89d51a3  ./glyma.58-161.gnm1.ann1.HJ1K.protein_primary.faa.gz.gzi

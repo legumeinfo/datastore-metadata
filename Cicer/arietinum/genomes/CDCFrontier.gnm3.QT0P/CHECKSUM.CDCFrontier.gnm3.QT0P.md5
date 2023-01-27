@@ -1,6 +1,9 @@
 5072147fb49231b3b377350fb9e94367  ./cicar.CDCFrontier.gnm3.QT0P.genome_main.fna.gz.gzi
 923689645bb9fcfe6b0741d2a8c67db2  ./cicar.CDCFrontier.gnm3.QT0P.gcv_genome.gff3.gz
 18ab13761849debab37e430984cede25  ./cicar.CDCFrontier.gnm3.QT0P.genome_main.fna.gz
+76b3a22d10d5bae2cc8f76b4b751d616  ./BUSCO/cicar.CDCFrontier.gnm3.QT0P.busco.fabales_odb10.short_summary.json
+907dd8a17d9dde8dd7faf2f330ee6e82  ./BUSCO/cicar.CDCFrontier.gnm3.QT0P.busco.fabales_odb10.full_table.tsv.gz
+bd0a3694173b4629e5e4090bbe75e603  ./BUSCO/cicar.CDCFrontier.gnm3.QT0P.busco.fabales_odb10.short_summary.txt
 a8c83ab3f94fe451587664a0cfc6f80d  ./cicar.CDCFrontier.gnm3.QT0P.genome_main.fna.fai
 a8c83ab3f94fe451587664a0cfc6f80d  ./cicar.CDCFrontier.gnm3.QT0P.genome_main.fna.gz.fai
-db1865c2e010470b5ce2c89d4350ca8f  ./README.CDCFrontier.gnm3.QT0P.yml
+127b936f3beaf1e0b7100ad6d8e03c7e  ./README.CDCFrontier.gnm3.QT0P.yml

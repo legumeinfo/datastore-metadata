@@ -1,5 +1,8 @@
 330c9605889f394e9e9310c30ba153c1  ./cicar.CDCFrontier.gnm1.GkHc.genome_main.fna.gz.fai
-fbc867a856c4f79b63d5dbc72e31be06  ./README.CDCFrontier.gnm1.GkHc.yml
+4c6ab5e282cdf1eefd6fe589b00b0894  ./BUSCO/cicar.CDCFrontier.gnm1.GkHc.busco.fabales_odb10.short_summary.json
+678ab4adbf87ffc016200f28d45e87a5  ./BUSCO/cicar.CDCFrontier.gnm1.GkHc.busco.fabales_odb10.full_table.tsv.gz
+7089a68d990aec850e6a43210b960430  ./BUSCO/cicar.CDCFrontier.gnm1.GkHc.busco.fabales_odb10.short_summary.txt
+d62cffaa1e9aec800cf666f28d9ad8fb  ./README.CDCFrontier.gnm1.GkHc.yml
 4fa126a961f44067467ab61ac1124988  ./CHANGES.CDCFrontier.gnm1.GkHc.txt
 a2fdeba874298c40a760bcf86ede824c  ./busco/cicar.CDCFrontier.gnm1.GkHc.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.cicar.CDCFrontier.gnm1.GkHc.genome_main.fna.gz_busco.txt
 a58f6e9be226f7ef6ee9fc3c435ca68c  ./cicar.CDCFrontier.gnm1.GkHc.genome_main.fna.gz

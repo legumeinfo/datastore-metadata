@@ -3,6 +3,9 @@ af19058a252b907c86e6f9dc779618f4  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.gene_models_m
 4e9a61731f604436e877317f1ec328e0  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.gene_models_main.gff3.gz
 f1b3d4a2d8067835646d19ccad40a3be  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.mrna.fna.gz.gzi
 10e3224321c509725c578b1536184e43  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.protein_primary.faa.gz.gzi
+b9280a6f829f34a69638c0d057667732  ./BUSCO/glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.busco.fabales_odb10.short_summary.txt
+4ba081745f47928fd2af4ce058a160fb  ./BUSCO/glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.busco.fabales_odb10.short_summary.json
+8b726762fad50b977f85d1a536d144a4  ./BUSCO/glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.busco.fabales_odb10.full_table.tsv.gz
 c432c7354f2454fbd145a323f0fe228c  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.protein.faa.gz.fai
 9e72d1d739c0b9232ae803c2ea87ed92  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.feature.tsv.gz
 5a83ed41085a279a86606140c8ee11f7  ./glyma.ZiHuaNo_4.gnm1.ann1.FCFQ.cds.fna.gz.fai

@@ -5,6 +5,9 @@ ab4bd780dd69d8371babf5f6f86af918  ./MANIFEST.ShiShengChangYe.gnm1.ann1.VLGS.desc
 8a424e328fc341ec15f9916c3eff0475  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.protein_primary.faa.gz.gzi
 b902593852ae14e0ee662ea8f41f19b9  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.iprscan.gff3.gz
 10faddd0732f6455c4749133fc8f78c0  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.mrna.fna.gz
+c18aa7aec21c4d3a709d6a9f0ac37efb  ./BUSCO/glyma.ShiShengChangYe.gnm1.ann1.VLGS.busco.fabales_odb10.short_summary.json
+219b9516807848aff0540d851385bb4d  ./BUSCO/glyma.ShiShengChangYe.gnm1.ann1.VLGS.busco.fabales_odb10.short_summary.txt
+c081f6b5ca9602fcff3c36c5bd6bcc4e  ./BUSCO/glyma.ShiShengChangYe.gnm1.ann1.VLGS.busco.fabales_odb10.full_table.tsv.gz
 12211326d47f8d54b1280f4af6be5dba  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.protein.faa.gz.fai
 0b510b25e2a8a76bed1c78658a271c0b  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.protein.faa.gz
 56de83bc4c2a917d34b0ddc57073891d  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.mrna.fna.gz.fai

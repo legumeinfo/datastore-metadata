@@ -4,5 +4,9 @@
 7582f1495f4e3f3745f867b4d714f5da  ./medtr.HM056.gnm1.JBKN.genome_main.fna.gz.fai
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM056.gnm1.JBKN.descriptions.yml
 217ccae9a25e8108399da797f898a4bc  ./medtr.HM056.gnm1.JBKN.genome_main.fna.gz.gzi
+79876841be3e70cfd596f5323d058170  ./BUSCO/medtr.HM056.gnm1.JBKN.busco.fabales_odb10.short_summary.json
+3a72aca454ba41bc9ae7fa071e6c352e  ./BUSCO/medtr.HM056.gnm1.JBKN.busco.fabales_odb10.short_summary.txt
+9f5a4b5237984938a3c41ce01ba11788  ./BUSCO/medtr.HM056.gnm1.JBKN.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM056.gnm1.JBKN.correspondence.yml
-0fe44601a72955d43533f0440d2509be  ./README.HM056.gnm1.JBKN.yml
+71579a3f4cb25c5cba00e058657d1b27  ./README.HM056.gnm1.JBKN.yml

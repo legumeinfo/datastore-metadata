@@ -1,7 +1,7 @@
 34c499a43ddc1c2df3c942f77da05add  ./arahy.Tifrunner.gnm1.KYV3.genome_softmasked.fna.gz
 e407d054a4c7cc39a03b250586e1734f  ./_h5ai.footers.html
 82dfcc65977c33979bf9c71538f31f74  ./arahy.Tifrunner.gnm1.KYV3.genome_repeatmask_coords.gff.gz
-aabccb08edfcff20ef2fee70a72d1f0f  ./README.Tifrunner.gnm1.KYV3.yml
+642cbad64e495a93132aeebb94135d78  ./README.Tifrunner.gnm1.KYV3.yml
 3a7fcc2307978471f7350fc94a08a951  ./arahy.Tifrunner.gnm1.KYV3.rDNA.fna.gz
 d6b5fd25b9043c28266c6177f1359feb  ./arahy.Tifrunner.gnm1.KYV3.altHap.fna.gz
 ff73ab3e7cd1e6b835b1d0e55ba9e872  ./CHANGES.Tifrunner.gnm1.KYV3.txt
@@ -9,6 +9,9 @@ ff73ab3e7cd1e6b835b1d0e55ba9e872  ./CHANGES.Tifrunner.gnm1.KYV3.txt
 51fc530ad754073424106c9ab042c084  ./busco/arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz_busco.txt
 371b82d7f4bca52b54fb06333f185a2d  ./arahy.Tifrunner.gnm1.KYV3.repeat.fna.gz
 3881f7adc816214ec5c82fba08609a76  ./MANIFEST.Tifrunner.gnm1.KYV3.correspondence.yml
+4a3415f628e4d55f7c8d3c1b3e898027  ./BUSCO/arahy.Tifrunner.gnm1.KYV3.busco.fabales_odb10.short_summary.json
+20b33e61c18c12043884b3ff1ac2ce79  ./BUSCO/arahy.Tifrunner.gnm1.KYV3.busco.fabales_odb10.full_table.tsv.gz
+191b714871d8df7b2368ef6dfa2d2dd4  ./BUSCO/arahy.Tifrunner.gnm1.KYV3.busco.fabales_odb10.short_summary.txt
 590c9e24ab1038ab74a0004df5065a17  ./arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz
 b4c383fdef2e947a11f213c84bf3d079  ./arahy.Tifrunner.gnm1.KYV3.genome_assignment.txt.gz
 762e1f2fb262b0d7c34833998315292e  ./arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz.gzi

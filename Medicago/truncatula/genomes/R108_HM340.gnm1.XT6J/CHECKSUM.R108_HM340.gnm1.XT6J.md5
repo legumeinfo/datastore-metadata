@@ -1,8 +1,11 @@
+94bfba58650a63b9410e1aa45e23e6a9  ./BUSCO/medtr.R108_HM340.gnm1.XT6J.busco.fabales_odb10.short_summary.json
+7618e645935a8bc4872bbc69dabf2007  ./BUSCO/medtr.R108_HM340.gnm1.XT6J.busco.fabales_odb10.full_table.tsv.gz
+13ee19b7286f379dce6a5685c9bf89da  ./BUSCO/medtr.R108_HM340.gnm1.XT6J.busco.fabales_odb10.short_summary.txt
 08ea314c585b7fafcf618ca9df814c0f  ./CHANGES.R108_HM340.gnm1.XT6J.txt
 254d764cef09175d9c4b8f373655ef15  ./medtr.R108_HM340.gnm1.XT6J.genome_main.fna.gz
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.R108_HM340.gnm1.XT6J.descriptions.yml
 8bf65ee9a850d46d0cdfaf655fb22d4c  ./medtr.R108_HM340.gnm1.XT6J.gcv_genome.gff3.gz
-c0ed6fb1cbb3163ecbb72a672f62da9e  ./README.R108_HM340.gnm1.XT6J.yml
+8e0d0d0dd53c6f2cf17aee43b89c0f88  ./README.R108_HM340.gnm1.XT6J.yml
 601374d1a7f497978dd5b9612e767ca5  ./medtr.R108_HM340.gnm1.XT6J.genome_main.fna.gz.gzi
 73a8c916798172f49a8d9fe52b7c2a60  ./medtr.R108_HM340.gnm1.XT6J.genome_main.fna.gz.fai
 cd54040f952b0c758b44224df34c5f2f  ./busco/medtr.R108_HM340.gnm1.XT6J.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.medtr.R108_HM340.gnm1.XT6J.genome_main.fna.gz_busco.txt

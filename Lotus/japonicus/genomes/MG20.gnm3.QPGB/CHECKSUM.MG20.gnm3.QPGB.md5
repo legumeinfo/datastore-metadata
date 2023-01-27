@@ -1,5 +1,8 @@
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.MG20.gnm3.QPGB.descriptions.yml
-f26814fa28793ba8fe5247d072a7b077  ./README.MG20.gnm3.QPGB.yml
+090bbeb19c9625bf7cc1d7acac4ee08c  ./README.MG20.gnm3.QPGB.yml
+371904e4fbb6c2ccbb0adfa1e1c0afc6  ./BUSCO/lotja.MG20.gnm3.QPGB.busco.fabales_odb10.short_summary.json
+4639851c8ae49a7d60ec90892c53ee22  ./BUSCO/lotja.MG20.gnm3.QPGB.busco.fabales_odb10.full_table.tsv.gz
+0568b949c8e853d5eb32951fa3e43d49  ./BUSCO/lotja.MG20.gnm3.QPGB.busco.fabales_odb10.short_summary.txt
 4bbbeb57298e1c8c7fca4ece5c3514f4  ./lotja.MG20.gnm3.QPGB.genome_main.fna.gz.fai
 2ea541e36109fa9faec64ac798e31214  ./CHANGES.MG20.gnm3.QPGB.txt
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.MG20.gnm3.QPGB.correspondence.yml

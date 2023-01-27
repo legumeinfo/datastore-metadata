@@ -1,4 +1,7 @@
 eea609c3c16da778da99c6faeaf962ea  ./glyso.F_IGA1003.gnm1.ann1.G61B.gene_models_main.gff3.gz.tbi
+55ee6bf382d800c3a57e5b2d0d341b94  ./BUSCO/glyso.F_IGA1003.gnm1.ann1.G61B.busco.fabales_odb10.short_summary.txt
+61ca18b36ae002bf7e830582afa58ceb  ./BUSCO/glyso.F_IGA1003.gnm1.ann1.G61B.busco.fabales_odb10.full_table.tsv.gz
+d53243833286460c047d06244a1f5475  ./BUSCO/glyso.F_IGA1003.gnm1.ann1.G61B.busco.fabales_odb10.short_summary.json
 563caa0b940dc549a3b15d908283263d  ./glyso.F_IGA1003.gnm1.ann1.G61B.protein.faa.gz.gzi
 186c0a937c347da1ee416056ddc38e14  ./MANIFEST.glyso.F_IGA1003.gnm1.ann1.G61B.correspondence.yml
 9b44af79a0c765af93f7ca90388a7769  ./MANIFEST.glyso.F_IGA1003.gnm1.ann1.G61B.descriptions.yml

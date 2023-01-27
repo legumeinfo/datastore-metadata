@@ -6,6 +6,9 @@ a41e6c98a46bd56a9d4159d080de4f1d  ./glycy.G1267.gnm1.ann1.HRFD.gene_models_orig.
 72dc44c6b37fb4a05ef4e377b754b3e5  ./glycy.G1267.gnm1.ann1.HRFD.protein.faa.gz.fai
 a78fadfb4b4457336181ae9e6e199606  ./glycy.G1267.gnm1.ann1.HRFD.gene_models_main.bed.gz
 16bc189bb6f721828ce4ad37170efef1  ./glycy.G1267.gnm1.ann1.HRFD.protein.faa.gz
+b2f63c016a701f1e25878d6675140cff  ./BUSCO/glycy.G1267.gnm1.ann1.HRFD.busco.fabales_odb10.full_table.tsv.gz
+abdaa8b0f0a953e6832abe94ef1d1fe0  ./BUSCO/glycy.G1267.gnm1.ann1.HRFD.busco.fabales_odb10.short_summary.txt
+0fcfa0667e2822f96f9ecff0eda229ae  ./BUSCO/glycy.G1267.gnm1.ann1.HRFD.busco.fabales_odb10.short_summary.json
 478bb8dfa03caac625470f1a166f72c5  ./MANIFEST.G1267.gnm1.ann1.HRFD.correspondence.yml
 c6d108394e370d89774a87242598f4aa  ./glycy.G1267.gnm1.ann1.HRFD.mrna.fna.gz.gzi
 59d6764fd6d3e5c778de8f677a2d9eb9  ./README.G1267.gnm1.ann1.HRFD.yml

@@ -1,7 +1,10 @@
-e407ea3842eda22cc450938875eb26c8 CHANGE.Daliak.gnm2.VJZB.txt
-0db209308ab989008ff62cce49f5db51 MANIFEST.Daliak.gnm2.VJZB.corresponding.yml
-6620ede36c4f9aca5c8238632d92910a MANIFEST.Daliak.gnm2.VJZB.descriptions.yml
-414435eb7ca27dadecc4d410645598c4 README.Daliak.gnm2.VJZB.yml
-66d79e4309501c3c9de395a9d93e3fce trisu.Daliak.gnm2.VJZB.genome_main.fna.gz
-e8f4b966bfc2c3b90f598d07fa65d538 trisu.Daliak.gnm2.VJZB.genome_main.fna.gz.fai
-75c1b4494434fde91cbc13d1db48fef7 trisu.Daliak.gnm2.VJZB.genome_main.fna.gz.gzi
+e407ea3842eda22cc450938875eb26c8  ./CHANGES.Daliak.gnm2.VJZB.txt
+b91feafec7ddb2968cb5e390a5afd832  ./README.Daliak.gnm2.VJZB.yml
+6620ede36c4f9aca5c8238632d92910a  ./MANIFEST.Daliak.gnm2.VJZB.descriptions.yml
+0db209308ab989008ff62cce49f5db51  ./MANIFEST.Daliak.gnm2.VJZB.corresponding.yml
+75c1b4494434fde91cbc13d1db48fef7  ./trisu.Daliak.gnm2.VJZB.genome_main.fna.gz.gzi
+e8f4b966bfc2c3b90f598d07fa65d538  ./trisu.Daliak.gnm2.VJZB.genome_main.fna.gz.fai
+66d79e4309501c3c9de395a9d93e3fce  ./trisu.Daliak.gnm2.VJZB.genome_main.fna.gz
+92bdecb2de7b6b1dc2d31efbeb7dd181  ./BUSCO/trisu.Daliak.gnm2.VJZB.busco.fabales_odb10.full_table.tsv.gz
+397a270c11b33ee73c78e7172fadc7d5  ./BUSCO/trisu.Daliak.gnm2.VJZB.busco.fabales_odb10.short_summary.txt
+1e9ffc1c97a40f4f3289bbcc46e792aa  ./BUSCO/trisu.Daliak.gnm2.VJZB.busco.fabales_odb10.short_summary.json

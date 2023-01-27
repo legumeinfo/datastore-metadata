@@ -1,5 +1,8 @@
 49eeaf6c58777d736d41f8d2278d553a  ./cicec.S2Drd065.gnm1.ann1.YZ9H.protein.faa.gz
 cfa664937021b5010bdaec1bb3fe3ea5  ./cicec.S2Drd065.gnm1.ann1.YZ9H.gene_models_main.gff3.gz
+c40adec554e8971d222a6006fa8a9c9e  ./BUSCO/cicec.S2Drd065.gnm1.ann1.YZ9H.busco.fabales_odb10.short_summary.json
+3c01c3158bf800dd22a82b3ebc35f0ff  ./BUSCO/cicec.S2Drd065.gnm1.ann1.YZ9H.busco.fabales_odb10.short_summary.txt
+cd0640064e63039130ce5c4068d6f0ee  ./BUSCO/cicec.S2Drd065.gnm1.ann1.YZ9H.busco.fabales_odb10.full_table.tsv.gz
 b1dcd8505f6e5d5e9c491d0e36845fc5  ./cicec.S2Drd065.gnm1.ann1.YZ9H.cds.bed.gz
 5fd50403e8916847b1e894a1fadb0612  ./cicec.S2Drd065.gnm1.ann1.YZ9H.cds.bed.gz.tbi
 a07c494f81368f183c65cb3f9db7eb34  ./cicec.S2Drd065.gnm1.ann1.YZ9H.gcv_genes.gff3.gz

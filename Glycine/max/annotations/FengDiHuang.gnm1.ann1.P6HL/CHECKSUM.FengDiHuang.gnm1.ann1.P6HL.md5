@@ -16,6 +16,9 @@ cd44a729796dd2d53f89d338de22684f  ./glyma.FengDiHuang.gnm1.ann1.P6HL.cds_primary
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.FengDiHuang.gnm1.ann1.P6HL.txt
 728dcb287f9bd91260c138923c0e06b4  ./glyma.FengDiHuang.gnm1.ann1.P6HL.protein_primary.faa.gz
 15aa51c44cca1150fa65df5b20a2a80e  ./glyma.FengDiHuang.gnm1.ann1.P6HL.mrna.fna.gz.fai
+39082f2c780e87d665b09b8a00261a7f  ./BUSCO/glyma.FengDiHuang.gnm1.ann1.P6HL.busco.fabales_odb10.short_summary.json
+629f41a241045f65811d31f11ee31234  ./BUSCO/glyma.FengDiHuang.gnm1.ann1.P6HL.busco.fabales_odb10.full_table.tsv.gz
+9b447ba7a533ce31eb393852d37415b4  ./BUSCO/glyma.FengDiHuang.gnm1.ann1.P6HL.busco.fabales_odb10.short_summary.txt
 212c2a712d8785a756a364cc90818065  ./glyma.FengDiHuang.gnm1.ann1.P6HL.cds.fna.gz.gzi
 9f9e9c961ef7a41f3dcc5ef0335d77d1  ./glyma.FengDiHuang.gnm1.ann1.P6HL.protein_primary.faa.gz.gzi
 907ad41eb9caee1e1187563ce70abbf0  ./glyma.FengDiHuang.gnm1.ann1.P6HL.protein.faa.gz.fai

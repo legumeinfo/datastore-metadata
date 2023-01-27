@@ -1,7 +1,10 @@
 6d97d03ddba8ff87d020684562b116ab  ./lupal.Amiga.gnm1.F4NR.genome_main.fna.gz
 85152d6d5542176537be6d4607a75cc4  ./lupal.Amiga.gnm1.F4NR.genome_main.fna.gz.fai
 a8d04c746a6b65e22f0c4af14778eb19  ./lupal.Amiga.gnm1.F4NR.genome_main.fna.gz.gzi
-99bf56eb7eabb6e3ec356d78ae962eb1  ./README.Amiga.gnm1.F4NR.yml
+641fb99d17713ad85b679fe5cde9c5f3  ./README.Amiga.gnm1.F4NR.yml
+3f69c3a872f58d16f3dbcb9ca76da8e6  ./BUSCO/lupal.Amiga.gnm1.F4NR.busco.fabales_odb10.short_summary.txt
+b0b02cd61fd058a4aab0ea9022dfa930  ./BUSCO/lupal.Amiga.gnm1.F4NR.busco.fabales_odb10.full_table.tsv.gz
+019542db938b2715f8f812ace68ab0e9  ./BUSCO/lupal.Amiga.gnm1.F4NR.busco.fabales_odb10.short_summary.json
 5937fb79e97a2344ac551a54b956f8b5  ./MANIFEST.Amiga.gnm1.F4NR.descriptions.yml
 aa1c3ce632e7264f1c96867e24dd0fad  ./CHANGES.Amiga.gnm1.F4NR.txt
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.Amiga.gnm1.F4NR.correspondence.yml

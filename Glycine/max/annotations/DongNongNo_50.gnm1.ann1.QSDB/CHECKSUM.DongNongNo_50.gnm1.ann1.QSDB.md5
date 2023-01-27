@@ -10,6 +10,9 @@ bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.DongNongNo_50.gnm1.ann1.QSDB.txt
 9fb21abcc15fa1e6fb6ee891990cc4cb  ./README.DongNongNo_50.gnm1.ann1.QSDB.yml
 8a7f413a12eb780f390eccb96626739c  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.protein_primary.faa.gz.gzi
 646f98a50dc6c56b31506bdf27bf7d7d  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.cds.fna.gz
+d40b895c79f06b7cb991c85bf16023a4  ./BUSCO/glyma.DongNongNo_50.gnm1.ann1.QSDB.busco.fabales_odb10.full_table.tsv.gz
+2cc5a4ccddf96fec0f6aaf6d2201e10b  ./BUSCO/glyma.DongNongNo_50.gnm1.ann1.QSDB.busco.fabales_odb10.short_summary.txt
+e29b474c25eadaef20b3432f942c8f6d  ./BUSCO/glyma.DongNongNo_50.gnm1.ann1.QSDB.busco.fabales_odb10.short_summary.json
 66fca9590377ce4ef817d978f473a4d0  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.mrna.fna.gz.fai
 0af4b423cca075746fa85459af3d739b  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.protein.faa.gz.gzi
 194122845b2c713f8a2e7760e4a46739  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.iprscan.gff3.gz.tbi

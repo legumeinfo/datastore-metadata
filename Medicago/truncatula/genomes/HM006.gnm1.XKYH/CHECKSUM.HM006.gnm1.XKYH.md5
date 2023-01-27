@@ -4,5 +4,9 @@ f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM006.gnm1.XKYH.correspondence.yml
 2a913788912ece760073bb97a5348a6a  ./medtr.HM006.gnm1.XKYH.genome_main.fna.gz
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM006.gnm1.XKYH.descriptions.yml
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM006.gnm1.XKYH.txt
+80120893e7bcb994c25d71902b0b7f8b  ./BUSCO/medtr.HM006.gnm1.XKYH.busco.fabales_odb10.full_table.tsv.gz
+7b48e2a5326164cbd670474fba0053f1  ./BUSCO/medtr.HM006.gnm1.XKYH.busco.fabales_odb10.short_summary.json
+2831eae08535bdd2b3a20ddb0e77a25e  ./BUSCO/medtr.HM006.gnm1.XKYH.busco.fabales_odb10.short_summary.txt
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
 9ae93a82994f616a2e85914e786a086b  ./medtr.HM006.gnm1.XKYH.genome_main.fna.gz.gzi
-1d9272a337de77706cb93a97611070f9  ./README.HM006.gnm1.XKYH.yml
+51f44d43c51bc17a4187f50cd72fa189  ./README.HM006.gnm1.XKYH.yml

@@ -22,6 +22,9 @@ e0927ed33fc7cb126eb8770b8e9ae669  ./glyso.W05.gnm1.ann1.T47J.cds_primary.fna.gz.
 1d4e760c78a4e3033a4d2c6aeb3c37b3  ./glyso.W05.gnm1.ann1.T47J.info_annot_InterProScan.txt.gz
 e9a7d4e3bcbbdda18b8fdd0544156456  ./glyso.W05.gnm1.ann1.T47J.mrna.fna.gz
 779ee1e5f13bfbe721e229c4c34a9a06  ./glyso.W05.gnm1.ann1.T47J.protein_primary.faa.gz
+ae4f73a16886d4887c9aae08bc309ee6  ./BUSCO/glyso.W05.gnm1.ann1.T47J.busco.fabales_odb10.full_table.tsv.gz
+8ce67614148a0456b2490ceb49b125a2  ./BUSCO/glyso.W05.gnm1.ann1.T47J.busco.fabales_odb10.short_summary.json
+7cdb4407babcda69b4925d03a1195278  ./BUSCO/glyso.W05.gnm1.ann1.T47J.busco.fabales_odb10.short_summary.txt
 f6f0815fadb52629504f5a3082d72ec6  ./MANIFEST.W05.gnm1.ann1.T47J.correspondence.yml
 caed52b542ec2d93caba3dec7a693957  ./MANIFEST.W05.gnm1.ann1.T47J.descriptions.yml
 4077d29dda8a99bb1a193d71b4ad8500  ./glyso.W05.gnm1.ann1.T47J.info_gene_annot.txt.gz

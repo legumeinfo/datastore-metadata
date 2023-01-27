@@ -18,6 +18,9 @@ d62047a0982face2d316961ea9b311d3  ./busco/glyma.Wm82.gnm1.ann1.DvBy.protein_prim
 3473abe0265bb727c50e3c6ef6593598  ./glyma.Wm82.gnm1.ann1.DvBy.protein_primary.faa.gz
 7020e6fce81fbca6a1d9773c4bf51798  ./glyma.Wm82.gnm1.ann1.DvBy.cds_primary.fna.gz.gzi
 22e01a9de354c014d1bfd2bb0aba397c  ./glyma.Wm82.gnm1.ann1.DvBy.protein.faa.gz.fai
+341e14a53e8bbd9c21c702f5a7fb10b1  ./BUSCO/glyma.Wm82.gnm1.ann1.DvBy.busco.fabales_odb10.short_summary.json
+5bfc13ef137d301ac3f23acf23f60ae7  ./BUSCO/glyma.Wm82.gnm1.ann1.DvBy.busco.fabales_odb10.full_table.tsv.gz
+1046c374b82cc648d8d1920693a5a40c  ./BUSCO/glyma.Wm82.gnm1.ann1.DvBy.busco.fabales_odb10.short_summary.txt
 ab9c248ee31f590f2cb885c037e151e2  ./glyma.Wm82.gnm1.ann1.DvBy.protein.faa.gz.gzi
 94590666f02110110996af46114aa016  ./glyma.Wm82.gnm1.ann1.DvBy.info_annot.txt.gz
 83192c37dd47b1b5de065262bff58cd5  ./glyma.Wm82.gnm1.ann1.DvBy.cds_primary.fna.gz.fai

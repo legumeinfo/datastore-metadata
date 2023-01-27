@@ -11,6 +11,9 @@ e664aa1cfb7210558d219ef790217524  ./glyma.Zh35_IGA1004.gnm1.ann1.RGN6.mrna.fna.g
 51e7e8fed037c796bca956b2e3b02a9d  ./glyma.Zh35_IGA1004.gnm1.ann1.RGN6.protein.faa.gz.gzi
 ba80e229133e537208ba04c04b1e7426  ./glyma.Zh35_IGA1004.gnm1.ann1.RGN6.gene_models_main.gff3.gz
 f128fb43aa98462595ed91b96c99dd73  ./CHANGES.Zh35_IGA1004.gnm1.ann1.RGN6.txt
+12fceb5f106c16821a4a2aec6505be20  ./BUSCO/glyma.Zh35_IGA1004.gnm1.ann1.RGN6.busco.fabales_odb10.short_summary.txt
+987d52c4e2ba0a6ff8c42da6da41859a  ./BUSCO/glyma.Zh35_IGA1004.gnm1.ann1.RGN6.busco.fabales_odb10.full_table.tsv.gz
+a01cbab79c9c4761d3e6a56e1c5adeaa  ./BUSCO/glyma.Zh35_IGA1004.gnm1.ann1.RGN6.busco.fabales_odb10.short_summary.json
 22c711c9fbce0304a7abdf9079adb76d  ./glyma.Zh35_IGA1004.gnm1.ann1.RGN6.cds.fna.gz
 7298c3916d3ae3aa2571aa0fc363fb1d  ./glyma.Zh35_IGA1004.gnm1.ann1.RGN6.protein.faa.gz.fai
 530ad80a9f61192038b1d93e8cd5142a  ./glyma.Zh35_IGA1004.gnm1.ann1.RGN6.mrna.fna.gz.fai

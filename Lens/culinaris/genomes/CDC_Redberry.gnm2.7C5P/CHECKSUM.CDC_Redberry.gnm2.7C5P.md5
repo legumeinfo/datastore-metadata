@@ -1,5 +1,9 @@
+63ea30ec0c31d043f418e13e98acbd40  ./BUSCO/lencu.CDC_Redberry.gnm2.7C5P.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+9607790b51f0f39626b7c686f1fbd3fb  ./BUSCO/lencu.CDC_Redberry.gnm2.7C5P.busco.fabales_odb10.short_summary.txt
+a044e76753fd02b7d98eba0e36390fa4  ./BUSCO/lencu.CDC_Redberry.gnm2.7C5P.busco.fabales_odb10.short_summary.json
 3fbe1400449565a120bc71bb39b8cb96  ./lencu.CDC_Redberry.gnm2.7C5P.id_map
 20faf76c6398dfe94a14bd24bb4b8203  ./lencu.CDC_Redberry.gnm2.7C5P.genome_main.fna.gz.fai
-46c7f40803dcc653823fc19bf8dabe2c  ./README.CDC_Redberry.gnm2.7C5P.yml
+68b6e95d902931787cb78b3543e84309  ./README.CDC_Redberry.gnm2.7C5P.yml
 e35e9318afe620569ee3d1eb910b2464  ./lencu.CDC_Redberry.gnm2.7C5P.genome_main.fna.gz.gzi
 94be134a9623f32d2abfbaad8c66ac5e  ./lencu.CDC_Redberry.gnm2.7C5P.genome_main.fna.gz

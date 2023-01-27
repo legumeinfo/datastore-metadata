@@ -7,6 +7,9 @@ e3134886c60a91d67bdcb4e0fee465b5  ./medtr.R108_HM340.gnm1.ann1.85YW.cds.fna.gz.f
 ad009498e78e9b6f6ddc3576568af2ba  ./MANIFEST.R108_HM340.gnm1.ann1.85YW.descriptions.yml
 76461836d8f9708114d640bfe0d2fad1  ./medtr.R108_HM340.gnm1.ann1.85YW.gene_models_main.gff3.gz
 d2123f9778e2b517709ca5d33a0b40d2  ./medtr.R108_HM340.gnm1.ann1.85YW.cds_primary.fna.gz
+986cf311f365f17240c2e777a53c67e0  ./BUSCO/medtr.R108_HM340.gnm1.ann1.85YW.busco.fabales_odb10.short_summary.json
+eec6b45ac3d6e81e47908eedb3b838f9  ./BUSCO/medtr.R108_HM340.gnm1.ann1.85YW.busco.fabales_odb10.short_summary.txt
+551047bca62cfabad7c6e5636695347e  ./BUSCO/medtr.R108_HM340.gnm1.ann1.85YW.busco.fabales_odb10.full_table.tsv.gz
 7eebc2ba0784056562d9084ab104d5a0  ./medtr.R108_HM340.gnm1.ann1.85YW.gcv_genes.gff3.gz
 92422c8fdc0bb6851206dd04801d3212  ./MANIFEST.R108_HM340.gnm1.ann1.85YW.correspondence.yml
 59ef0361274dad4b50a3d0fbdf344a38  ./medtr.R108_HM340.gnm1.ann1.85YW.cds.bed.gz

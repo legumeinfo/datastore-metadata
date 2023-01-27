@@ -1,5 +1,8 @@
 4e077d5eb5503a3d0ace058a46174efb  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.cds_primary.fna.gz
 41d3253a62bb8a4e4d1e0d39570ecf81  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.protein_primary.faa.gz
+38f54f63f2f4af821f7fd5cece2f99dc  ./BUSCO/glyma.YuDouNo_22.gnm1.ann1.HCQ1.busco.fabales_odb10.full_table.tsv.gz
+c2bd9b6ee6dd34ba51432509de42a492  ./BUSCO/glyma.YuDouNo_22.gnm1.ann1.HCQ1.busco.fabales_odb10.short_summary.txt
+7e97bb70f86593741582fa1e988608b6  ./BUSCO/glyma.YuDouNo_22.gnm1.ann1.HCQ1.busco.fabales_odb10.short_summary.json
 dffb3f2e9597d33d83f5b8496f7a0cc5  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.cds_primary.fna.gz.gzi
 6320fe7643eebe35f8e50cc3d3fed508  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.gene_models_main.bed.gz.tbi
 8f0ac3e5be64e07a3cd9129d7ad6d392  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.mrna.fna.gz.gzi

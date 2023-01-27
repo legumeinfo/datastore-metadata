@@ -1,7 +1,10 @@
-7542aea5255589876c3b63895b2a57c5 CHANGE.CDCFrontier.gnm2.S2FF.txt
-d6c18c3cc1a5b9f093dc569b716ad3c1 cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz
-a5b21066059972edc4fee16d0894bc67 cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz.fai
-3c85e6407525991607e98eaa0bfef2a4 cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz.gzi
-2acd1d38b97b5de7f23655a22cb8db99 MANIFEST.CDCFrontier.gnm2.S2FF.corresponding.yml
-4caa20d6783792bdc839a03db795cd5a MANIFEST.CDCFrontier.gnm2.S2FF.descriptions.yml
-6e977e7db7d5e2b8c79683da54a9a5d1 README.CDCFrontier.gnm2.S2FF.yml
+a5b21066059972edc4fee16d0894bc67  ./cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz.fai
+3259f502b4461babb10e0a6095fbe86a  ./BUSCO/cicar.CDCFrontier.gnm2.S2FF.busco.fabales_odb10.full_table.tsv.gz
+d7aa97e68fb0f5812804a3ffedfd9a6d  ./BUSCO/cicar.CDCFrontier.gnm2.S2FF.busco.fabales_odb10.short_summary.txt
+224b047b9aed358d7f2937c7947ca16e  ./BUSCO/cicar.CDCFrontier.gnm2.S2FF.busco.fabales_odb10.short_summary.json
+2acd1d38b97b5de7f23655a22cb8db99  ./MANIFEST.CDCFrontier.gnm2.S2FF.corresponding.yml
+7542aea5255589876c3b63895b2a57c5  ./CHANGES.CDCFrontier.gnm2.S2FF.txt
+d6c18c3cc1a5b9f093dc569b716ad3c1  ./cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz
+be540299a00f24f5b729044a1c781b9a  ./README.CDCFrontier.gnm2.S2FF.yml
+4caa20d6783792bdc839a03db795cd5a  ./MANIFEST.CDCFrontier.gnm2.S2FF.descriptions.yml
+3c85e6407525991607e98eaa0bfef2a4  ./cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz.gzi

@@ -25,3 +25,6 @@ dc694fbef5d75050a9e7ac58966ca1fe  ./lupan.Tanjil.gnm1.ann1.nnV9.pathway.tsv.gz
 b2345a2c4470c14b36708f001d8c6490  ./lupan.Tanjil.gnm1.ann1.nnV9.mrna.fna.gz.fai
 e204f8d45fa91ac426444a0c641cca97  ./MANIFEST.Tanjil.gnm1.ann1.nnV9.descriptions.yml
 40c64633487f0ea6ae5d8589a40fb0ae  ./lupan.Tanjil.gnm1.ann1.nnV9.gene_models_tRNA.gff3.gz
+459be85886ca80890d0544145701d09d  ./BUSCO/lupan.Tanjil.gnm1.ann1.nnV9.busco.fabales_odb10.short_summary.json
+41c1ad8b03d5b15acbb748763da6aee9  ./BUSCO/lupan.Tanjil.gnm1.ann1.nnV9.busco.fabales_odb10.full_table.tsv.gz
+02c38a4c9059e59cc9fed778e2df8d40  ./BUSCO/lupan.Tanjil.gnm1.ann1.nnV9.busco.fabales_odb10.short_summary.txt

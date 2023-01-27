@@ -24,5 +24,8 @@ ecc68707302f2d82dfd554e814e6bf06  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.mrna.fna.gz
 1b2e83bf39300778e5b1e27da28c9670  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.cds.fna.gz.fai
 1aa2a6a639b5149eaf908c809a9b769b  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.feature.tsv.gz
 39415dcc698b541891e6abcd6ba56516  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.iprscan.gff3.gz
+e01eb628e5b2b53a38db13d00e250172  ./BUSCO/glyma.JuXuanNo_23.gnm1.ann1.H8PW.busco.fabales_odb10.short_summary.json
+8709c9e9de62157275d4873896edfd0c  ./BUSCO/glyma.JuXuanNo_23.gnm1.ann1.H8PW.busco.fabales_odb10.full_table.tsv.gz
+62457d351adffd5752939555355f6e0f  ./BUSCO/glyma.JuXuanNo_23.gnm1.ann1.H8PW.busco.fabales_odb10.short_summary.txt
 cbd7aa6ff04ad995f0853fdf3224ab08  ./MANIFEST.JuXuanNo_23.gnm1.ann1.H8PW.correspondence.yml
 9a3862b751c289e369f5e0b1618c2c7f  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.cds.fna.gz

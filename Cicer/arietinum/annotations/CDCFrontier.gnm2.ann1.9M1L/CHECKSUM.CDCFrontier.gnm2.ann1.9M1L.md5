@@ -1,5 +1,8 @@
 72da125c28d7f24a3b4ed255b0cb1a3f  ./cicar.CDCFrontier.gnm2.ann1.9M1L.cds.bed.gz
 d902c47684926bfc6833ba10a956bff7  ./cicar.CDCFrontier.gnm2.ann1.9M1L.mrna_primary.fna.gz.fai
+06c8601cdd22b3a8a2182371ba892f4b  ./BUSCO/cicar.CDCFrontier.gnm2.ann1.9M1L.busco.fabales_odb10.full_table.tsv.gz
+9023067d676c00296fb195b0246e970c  ./BUSCO/cicar.CDCFrontier.gnm2.ann1.9M1L.busco.fabales_odb10.short_summary.json
+41513867d845e799b588e419cccd1e84  ./BUSCO/cicar.CDCFrontier.gnm2.ann1.9M1L.busco.fabales_odb10.short_summary.txt
 dc628cc8fffef1a1f9079104a0bd9722  ./cicar.CDCFrontier.gnm2.ann1.9M1L.protein_primary.faa.gz.fai
 dde601defe9d7b8be99a7a69f974aa62  ./README.CDCFrontier.gnm2.ann1.9M1L.yml
 9734814bdd0694d67bccf78c8653799b  ./cicar.CDCFrontier.gnm2.ann1.9M1L.protein.faa.gz.gzi

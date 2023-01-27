@@ -1,6 +1,10 @@
 38927cbb6bfc85a550e79cf20f4ef7d8  ./phaac.Frijol_Bayo.gnm1.QH8L.genome_main.fna.gz.fai
 40d683978a9e6199e5f495b71264898c  ./CHANGES.Frijol_Bayo.gnm1.QH8L.txt
-3a49ef47973d7c084bd697c29cbc8b7e  ./README.Frijol_Bayo.gnm1.QH8L.yml
+8c0beb5749149d96d9e00214839c2555  ./BUSCO/phaac.Frijol_Bayo.gnm1.QH8L.busco.fabales_odb10.short_summary.txt
+8e71ba8aadfaa3b024b1c37e5c590d85  ./BUSCO/phaac.Frijol_Bayo.gnm1.QH8L.busco.fabales_odb10.full_table.tsv.gz
+6d9224b62e5082efe23783ad12a67914  ./BUSCO/phaac.Frijol_Bayo.gnm1.QH8L.busco.fabales_odb10.short_summary.json
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+32d0ee607e8610561ffa72af842ab0cd  ./README.Frijol_Bayo.gnm1.QH8L.yml
 c94619e74d47c72edf86bbfb4be6cc6b  ./MANIFEST.Frijol_Bayo.gnm1.QH8L.correspondence.yml
 7bf20c71a9e97bf0410ffc007ea54743  ./phaac.Frijol_Bayo.gnm1.QH8L.genome_main.fna.gz
 5c7e1b61e37610d5b8745e7044e120fc  ./phaac.Frijol_Bayo.gnm1.QH8L.genome_main.fna.gz.gzi

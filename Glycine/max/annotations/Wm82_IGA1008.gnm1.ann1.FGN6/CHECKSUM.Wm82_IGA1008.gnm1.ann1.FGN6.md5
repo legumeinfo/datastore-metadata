@@ -1,4 +1,7 @@
 6e99d5505dc2bbfaf44370cc8a128539  ./glyma.Wm82_IGA1008.gnm1.ann1.FGN6.mrna.fna.gz.gzi
+1ccb9151b9472a386f491e661ba568ce  ./BUSCO/glyma.Wm82_IGA1008.gnm1.ann1.FGN6.busco.fabales_odb10.short_summary.json
+89482c33866742c710c2cdfcadce8157  ./BUSCO/glyma.Wm82_IGA1008.gnm1.ann1.FGN6.busco.fabales_odb10.full_table.tsv.gz
+b3f983becee8c9d0e57684839a29a32c  ./BUSCO/glyma.Wm82_IGA1008.gnm1.ann1.FGN6.busco.fabales_odb10.short_summary.txt
 eed22de1bb696ef15b89368666051e58  ./glyma.Wm82_IGA1008.gnm1.ann1.FGN6.protein.faa.gz.fai
 89f64d8d389586ad4778ba0d6e4d4a72  ./glyma.Wm82_IGA1008.gnm1.ann1.FGN6.gene_models_main.bed.gz
 d46b4dfe339f960073398bade1abf656  ./README.Wm82_IGA1008.gnm1.ann1.FGN6.yml

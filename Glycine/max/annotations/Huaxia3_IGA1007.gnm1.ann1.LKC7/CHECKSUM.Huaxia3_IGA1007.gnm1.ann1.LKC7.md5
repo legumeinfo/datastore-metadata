@@ -17,4 +17,7 @@ cc6e67c471c5a887dae9c6558cae9117  ./glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.mrna.fn
 41694f591395b6c7a68f012370f53542  ./MANIFEST.glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.correspondence.yml
 f05613d53e929dafcf8d2c22df75fdfb  ./glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.gene_models_main.gff3.gz
 c83adff95a60472910a7d322a4cfac55  ./README.Huaxia3_IGA1007.gnm1.ann1.LKC7.yml
+e2447e6584e01c987cf1ccb0b81c8520  ./BUSCO/glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.busco.fabales_odb10.short_summary.txt
+6bb696c7816ba2180192d30cd121429d  ./BUSCO/glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.busco.fabales_odb10.full_table.tsv.gz
+803ec14b382948ddb6ec118a77b28a26  ./BUSCO/glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.busco.fabales_odb10.short_summary.json
 869091492e46216a5097ac495ebcda91  ./glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.protein.faa.gz.gzi

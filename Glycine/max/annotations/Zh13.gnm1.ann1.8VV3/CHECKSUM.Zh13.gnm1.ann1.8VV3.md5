@@ -17,6 +17,9 @@ a14d28f53fdace8ed7518c4acfb038c3  ./glyma.Zh13.gnm1.ann1.8VV3.cds.fna.gz.fai
 79d96d2cb6325bc4e952466ff24cdb4d  ./glyma.Zh13.gnm1.ann1.8VV3.mrna.fna.gz.fai
 aca5c9b0a61e9770d3d2e6740dfb05e0  ./glyma.Zh13.gnm1.ann1.8VV3.protein_primary.faa.gz
 21c5dfc03ed7916b12357a63a489f12b  ./MANIFEST.Zh13.gnm1.ann1.8VV3.correspondence.yml
+e1cda235f2383ea14a55c13bd3032bb5  ./BUSCO/glyma.Zh13.gnm1.ann1.8VV3.busco.fabales_odb10.short_summary.json
+9260323833b220afb58ae903ceb41402  ./BUSCO/glyma.Zh13.gnm1.ann1.8VV3.busco.fabales_odb10.full_table.tsv.gz
+2831813c62bbb8c17dbc3d229d4ca7fc  ./BUSCO/glyma.Zh13.gnm1.ann1.8VV3.busco.fabales_odb10.short_summary.txt
 4d850ea11a091a38f0c216f27eb12ddc  ./glyma.Zh13.gnm1.ann1.8VV3.cds_primary.fna.gz.gzi
 5ccee5e5c4879d4a41418d7e08c749e1  ./glyma.Zh13.gnm1.ann1.8VV3.protein.faa.gz.fai
 ae0b2e72889d15250b2c98ce636bef9b  ./glyma.Zh13.gnm1.ann1.8VV3.gene_models_main.gff3.gz

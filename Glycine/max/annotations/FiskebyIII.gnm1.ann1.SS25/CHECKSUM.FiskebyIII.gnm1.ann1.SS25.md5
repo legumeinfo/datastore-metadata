@@ -14,6 +14,9 @@ fbaeb5104ec2441d666aa24182b7c6f2  ./glyma.FiskebyIII.gnm1.ann1.SS25.cds_primary.
 bf332e39a8d0ff5d78ca460f721187aa  ./glyma.FiskebyIII.gnm1.ann1.SS25.cds.fna.gz
 0bb6e2595d7269af571027b5020a46c0  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_exons.gff3.gz
 fde8c0b203593c9b56cf07861023d8de  ./glyma.FiskebyIII.gnm1.ann1.SS25.info_annot.txt
+49b455323f1715b2881439da1d5e8df3  ./BUSCO/glyma.FiskebyIII.gnm1.ann1.SS25.busco.fabales_odb10.short_summary.json
+5b699f6e5b756a9e0c9b59d62c3d1ab0  ./BUSCO/glyma.FiskebyIII.gnm1.ann1.SS25.busco.fabales_odb10.short_summary.txt
+c48095d548cb97b5b864ac3438f63288  ./BUSCO/glyma.FiskebyIII.gnm1.ann1.SS25.busco.fabales_odb10.full_table.tsv.gz
 29d4cb32d35305454189dae6bfd03cc9  ./CHANGES.FiskebyIII.gnm1.ann1.SS25.txt
 753487c9580c3e5e90c7dce369c98f0f  ./glyma.FiskebyIII.gnm1.ann1.SS25.reference_locus.txt
 0463ca9ea61b5b439a0efa5519a7203c  ./glyma.FiskebyIII.gnm1.ann1.SS25.defline.txt

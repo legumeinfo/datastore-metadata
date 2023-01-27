@@ -2,7 +2,11 @@
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.HM004.gnm1.L7PM.descriptions.yml
 3802e6c97b714e0460f778845ea10be2  ./busco/medtr.HM004.gnm1.L7PM.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.medtr.HM004.gnm1.L7PM.genome_main.fna.gz_busco.txt
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.HM004.gnm1.L7PM.correspondence.yml
-eaf0f96f1acabf322813686b1f13d9c8  ./README.HM004.gnm1.L7PM.yml
+1400f7c937cd143f0773cad21c08f1f2  ./BUSCO/medtr.HM004.gnm1.L7PM.busco.fabales_odb10.short_summary.json
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
+6824a954c47de85fdebc42b244ba3070  ./BUSCO/medtr.HM004.gnm1.L7PM.busco.fabales_odb10.full_table.tsv.gz
+62dfeea391c371c1762f0dd6f0b2d119  ./BUSCO/medtr.HM004.gnm1.L7PM.busco.fabales_odb10.short_summary.txt
+972d3cff9ea48c30a4fa44f42bf10d8d  ./README.HM004.gnm1.L7PM.yml
 1d32ed9a904211f15fde3a5a580aa3e7  ./medtr.HM004.gnm1.L7PM.genome_main.fna.gz.fai
 13a0db266ad7d7ed1c8b85239b5dd066  ./CHANGES.HM004.gnm1.L7PM.txt
 6f6e87f7512bd2449c54b67ffdb63670  ./medtr.HM004.gnm1.L7PM.genome_main.fna.gz

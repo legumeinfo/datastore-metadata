@@ -4,6 +4,9 @@ f8e22a9c22af5737c23c14ce90538b87  ./cajca.ICPL87119.gnm1.SBGP.agp.txt.gz
 f7160195628c7bbca91be75cba16ca7b  ./cajca.ICPL87119.gnm1.SBGP.genome_main.fna.gz.fai
 cef55a92c8d08df95b493e29ac7c5472  ./busco/cajca.ICPL87119.gnm1.SBGP.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.cajca.ICPL87119.gnm1.SBGP.genome_main.fna.gz_busco.txt
 503ff0d8cb59ae86ef7f4e50e5f70549  ./cajca.ICPL87119.gnm1.SBGP.genome_main.fna.gz.gzi
-168df2c720d9787df8123326a825ec6b  ./README.ICPL87119.gnm1.SBGP.yml
+2e72ad2c021044d02dc0485f63a398dc  ./BUSCO/cajca.ICPL87119.gnm1.SBGP.busco.fabales_odb10.short_summary.txt
+15d5bb48e5a936c21f329b905506f695  ./BUSCO/cajca.ICPL87119.gnm1.SBGP.busco.fabales_odb10.full_table.tsv.gz
+bd021b21ac00805487925f7dc72fd112  ./BUSCO/cajca.ICPL87119.gnm1.SBGP.busco.fabales_odb10.short_summary.json
+3a0393fa09bf4dcb6b08dc05718b99da  ./README.ICPL87119.gnm1.SBGP.yml
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.ICPL87119.gnm1.SBGP.descriptions.yml
 fd46fb7a7e574b9901827c81fd85bf94  ./CHANGES.ICPL87119.gnm1.SBGP.txt

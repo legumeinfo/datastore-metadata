@@ -2,6 +2,9 @@ c46e4ec3d1776d1d683ad4ba048d8dbb  ./cerca.ISC453364.gnm1.ann1.HZJM.fragments.tar
 61a45e25d3143fae6962f2d6f9d90c50  ./cerca.ISC453364.gnm1.ann1.HZJM.repeats.gff3.gz
 099f4c5e05b56891e926d475dc22cfa9  ./cerca.ISC453364.gnm1.ann1.HZJM.cds.fna.gz.fai
 3984cf4581ce2d6e8114e66da3e673c6  ./cerca.ISC453364.gnm1.ann1.HZJM.legfed_v1_0.M65K.gfa.tsv.gz
+c54fd85d1772e0b6e4ba4f4a8621a337  ./BUSCO/cerca.ISC453364.gnm1.B05Z.busco.fabales_odb10.full_table.tsv.gz
+a096c5f1c33e0bfead1777ee81cd967e  ./BUSCO/cerca.ISC453364.gnm1.B05Z.busco.fabales_odb10.short_summary.txt
+5c288cd2733479aa208f3867421f098d  ./BUSCO/cerca.ISC453364.gnm1.B05Z.busco.fabales_odb10.short_summary.json
 1b378d41f8f23da50417d47d00265a05  ./cerca.ISC453364.gnm1.ann1.HZJM.protein.faa.gz.fai
 29cf516792f5ef0181e30d5df43f4247  ./cerca.ISC453364.gnm1.ann1.HZJM.cds.fna.gz
 099f4c5e05b56891e926d475dc22cfa9  ./cerca.ISC453364.gnm1.ann1.HZJM.mrna.fna.gz.fai

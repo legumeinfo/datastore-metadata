@@ -5,6 +5,10 @@ b82396d1afa480f5014ac27765cfca56  ./phavu.G19833.gnm1.zBnF.genome_main.fna.gz
 030e21d59b09b5f8ae79181233adc663  ./phavu.G19833.gnm1.zBnF.genome_main.fna.gz.fai
 306d34c478bc85a949ec38ce396ff977  ./phavu.G19833.gnm1.zBnF.genome_hardmasked.fna.gz
 afe5b6d4ca2a5fc67beb17261813d043  ./CHANGES.G19833.gnm1.zBnF.txt
-4176dc42584880a6cfe165b115ce3421  ./README.G19833.gnm1.zBnF.yml
+7237258c493b756e4413d540ac4e9751  ./README.G19833.gnm1.zBnF.yml
 5f2e1f36980c2b8148a2c6a15592cbe5  ./MANIFEST.G19833.gnm1.zBnF.correspondence.yml
 f3c1fde9e742eb855bc2f712d2aa1a07  ./phavu.G19833.gnm1.zBnF.genome_main.fna.gz.gzi
+a40879b8bc833c859fd955e0c8ce2ed9  ./BUSCO/phavu.G19833.gnm1.zBnF.busco.fabales_odb10.full_table.tsv.gz
+c37ca24adb15a7cebf50da22c2b626c3  ./BUSCO/phavu.G19833.gnm1.zBnF.busco.fabales_odb10.short_summary.txt
+a066a8ebe72a9ab08190b46ca3d7d612  ./BUSCO/phavu.G19833.gnm1.zBnF.busco.fabales_odb10.short_summary.json
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
