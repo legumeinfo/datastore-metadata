@@ -20,7 +20,7 @@ genotype:
 
 chromosome_prefix: Ca
 
-supercontig_prefix: scaffold
+supercontig_prefix: C1,scaffold
 
 description: "Genome assembly (pseudomolecules) v1 of Cicer arietinum CDCFrontier (kabuli variety)."
 

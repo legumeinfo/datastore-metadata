@@ -18,6 +18,10 @@ supercontig_prefix: tig
 
 description: "Genome assembly v3 for genotype CDCFrontier from the Cook Lab, UC-Davis."
 
+publication_doi: 10.1093/nar/gkv1159
+
+publication_title: "Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family"
+
 original_file_creation_date: "2022-03-01"
 
 data_curators: Andrew Farmer

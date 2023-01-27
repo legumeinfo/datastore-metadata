@@ -17,3 +17,7 @@ genotype:
 description: "Synteny calculations involves identification of orthologous genes by selecting reciprocal top hits between chromosome pairs from an all-against-all blastp search of genes between two species (evalue threshold of 1e-10), followed by DAGchainer to predict chains of syntenic genes in complete genomes. Proportions of synonymous-site changes (Ks) between orthologs are calculated, and synteny blocks are filtered for block-wise median Ks values. Synteny blocks have also been calculated to show these paralogous WGD-derived duplications."
 
 public_access_level: public
+
+publication_doi: 10.1093/nar/gkv1159
+
+publication_title: "Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family"
