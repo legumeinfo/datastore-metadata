@@ -18,6 +18,8 @@ genotype:
 
 chromosome_prefix: Gs
 
+supercontig_prefix: sc
+
 description: "The aims of this project were to generate a high-quality reference genome assembly for Glycine soja accession PI 483463, which shows high genotypic diversity with respect to elite cultivars from Glycine max (soybean). The assembly incorporates Illumina sequence and optical mapping from NRGene. Pseudomolecule anchoring of scaffolds was accomplished using two dense genetic maps as well as synteny comparisons with the Glycine max reference assembly for cultivar Williams 82 (JGI Glyma.Wm82.a2) and Glycine max cultivar Lee. This assembly corresponds to quality control round 13 (QC13), Nov 7, 2017"
 
 original_file_creation_date: "2017-11-08"
@@ -25,6 +27,8 @@ original_file_creation_date: "2017-11-08"
 local_file_creation_date: "2017-11-08"
 
 dataset_release_date: "2017-11-08"
+
+publication_doi: 10.1093/nar/gkv1159
 
 contributors: "Henry T. Nguyen, Babu Valliyodan, Steven Cannon, Hon Ming Lam, Dave Edwards, Philipp Bayer, Jacqueline Campbell, Ting-Fung Chan, Jeremy Schmutz, Qijian Song"
 

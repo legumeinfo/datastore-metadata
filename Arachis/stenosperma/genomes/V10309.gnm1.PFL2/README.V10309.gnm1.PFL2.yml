@@ -24,19 +24,15 @@ supercontig_prefix: Scaffold
 
 description: "Genome assembly 1 for Arachis stenosperma, accession V10309, with sequenced generated using PacBio Sequel; Illumina HiSeq. Arachis stenosperma Krapov. & W.C. Greg. is a wild peanut relative native to central Brazil, in the past it was cultivated by native peoples of South America, and was carried to the Atlantic coast, where populations persist to the present day. It is a source of strong pest and disease resistance and has been used by peanut breeders and geneticists in interspecific hybrids. A. stenosperma is diploid species in the A-genome group of Arachis, which has similarity to the A genome of tetraploid cultivated peanut (A. hypogaea). This accession was sequenced with PacBio long reads, with contributions by USDA-ARS and researchers at Mars Inc. and the University of Georgia"
 
-dataset_doi: none
-
 genbank_accession: GCA_014773155.1
 
 original_file_creation_date: "2020-10-02"
 
 local_file_creation_date: "2020-05-20"
 
-publication_doi: none
+publication_doi: 10.1016/B978-1-63067-038-2.00008-3
 
 dataset_release_date: "2022-12-01"
-
-publication_title: 
 
 contributors: Clevenger,J., Cannon,S.B., Youngblood, C., Vaughn,J.N., Abernathy, B, Bertioli,D.J., Scheffler, B.
 
@@ -47,6 +43,3 @@ public_access_level: public, with usage restriction
 license: open
 
 keywords: Arachis stenosperma
-
-citation: 
-

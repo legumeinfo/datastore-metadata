@@ -30,9 +30,11 @@ local_file_creation_date: "2020-12-01"
 
 dataset_release_date: "2021-01-30"
 
-publication_title: "The genome sequence of Arachis cardenasii, pre-publication"
+publication_doi: 10.1073/pnas.2104899118
 
-contributors: "Bertioli,D.J., Clevenger,J., Cannon,S.B., Youngblood, C., Vaughn,J.N., Abernathy, B, Scheffler, B."
+publication_title: "Legacy genetics of Arachis cardenasii in the peanut crop shows the profound benefits of international seed exchange"
+
+contributors: "David J. Bertioli, Josh Clevenger, Ignacio J. Godoy, H. T. Stalker, Shona Wood, Joáo F. Santos, Carolina Ballén-Taborda, Brian Abernathy, Vania Azevedo, Jacqueline Campbell, Carolina Chavarro, Ye Chu, Andrew D. Farmer, Daniel Fonceka, Dongying Gao, Jane Grimwood, Neil Halpin, Walid Korani, Marcos D. Michelotto, Peggy Ozias-Akins, Justin Vaughn, Ramey Youngblood, Marcio C. Moretzsohn, Graeme C. Wright, Scott A. Jackson, Steven B. Cannon, Brian E. Scheffler, Soraya C. M. Leal-Bertioli"
 
 data_curators: Steven Cannon
 

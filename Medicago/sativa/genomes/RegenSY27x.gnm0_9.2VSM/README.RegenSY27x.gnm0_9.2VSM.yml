@@ -18,6 +18,8 @@ supercontig_prefix: "ptg,atg"
 
 description: "Draft genome assembly for RegenSY27x; Pacbio HiFi hifiasm assembly"
 
+publication_doi: 10.1093/nar/gkv1159
+
 local_file_creation_date: "2022-04-01"
 
 dataset_release_date: "2022-04-01"

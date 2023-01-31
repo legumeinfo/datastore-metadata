@@ -24,6 +24,8 @@ supercontig_prefix: tig
 
 description: "Files in this directory include the genome assembly for Phaseolus lunatus accession G27455"
 
+publication_doi: 10.1093/nar/gkr944
+
 genbank_accession: GCA_013389735.1
 
 original_file_creation_date: "2020-07-01"

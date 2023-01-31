@@ -19,7 +19,7 @@ scientific_name_abbrev: lupal
 genotype: 
   - Amiga
 
-chromosome_prefix: "Lalb_Chr01,Lalb_Chr02,Lalb_Chr03,Lalb_Chr04,Lalb_Chr05,Lalb_Chr06,Lalb_Chr07,Lalb_Chr08,Lalb_Chr09,Lalb_Chr1,Lalb_Chr2"
+chromosome_prefix: "Lalb_Chr01,Lalb_Chr02,Lalb_Chr03,Lalb_Chr04,Lalb_Chr05,Lalb_Chr06,Lalb_Chr07,Lalb_Chr08,Lalb_Chr09,Lalb_Chr1,Lalb_Chr2,Lalb_mitochondrion,Lalb_chloroplast"
 
 supercontig_prefix: Lalb_Chr00c
 
