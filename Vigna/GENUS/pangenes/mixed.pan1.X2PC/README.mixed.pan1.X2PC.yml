@@ -1,0 +1,59 @@
+---
+identifier: mixed.pan1.X2PC
+
+provenance: "The files in this directory are a product of the staff of the SoyBase and LegumeInfo project teams. The method is described here: https://github.com/legumeinfo/pandagma"
+
+source: "https://data.legumeinfo.org"
+
+synopsis: "Pangene set for Vigna species, based primarily on V. unguiculata but also including V. angularis and V. radiata. This pangene set includes 12 annotation sets."
+
+scientific_name: Vigna 
+
+taxid: 3913
+
+scientific_name_abbrev: vigna
+
+genotype:
+  - CB5-2
+  - Gyeongwon
+  - IT97K-499-35
+  - Sanzi
+  - Shumari
+  - Suvita2
+  - TZ30
+  - UCR779
+  - VC1973A
+  - ZN016
+
+description: "Pan-gene set for Vigna species, spanning 3 species and 12 annotation sets, calculated using the pandagma pipeline, version 2023-02-01"
+
+bioproject: ""
+
+sraproject: ""
+
+dataset_doi: ""
+
+genbank_accession: ""
+
+original_file_creation_date: "2023-02-01"
+
+local_file_creation_date: "2023-02-01"
+
+dataset_release_date: "2023-02-09"
+
+publication_doi: ""
+
+publication_title: ""
+
+contributors: Steven Cannon, Hyunoh Lee
+
+citation: ""
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Vigna, cowpea, mung bean, pan-gene, pangene, orthogroup
+
