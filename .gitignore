@@ -24,3 +24,6 @@ MANIFEST.*
 ## ignore stuff that probably shouldn't be here
 BUSCO_genome_fabales_odb10
 BUSCO_proteins_fabales_odb10
+# but allow busco summary files:
+!BUSCO/*short_summary*
+
