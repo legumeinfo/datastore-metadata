@@ -1,10 +1,10 @@
 a980cc5c9e242fb72dd56bfb7e91f8c6  ./MANIFEST.Lee.gnm2.K7BV.descriptions.yml
-b337fb9ad652e33f2246e84d6c6e5633  ./BUSCO/glyma.Lee.gnm2.K7BV.busco.fabales_odb10.full_table.tsv.gz
-9df3cdc3dc8081aa9be6cc9e353818a3  ./BUSCO/glyma.Lee.gnm2.K7BV.busco.fabales_odb10.short_summary.json
-11269a801da4090b737d8cde0aa91193  ./BUSCO/glyma.Lee.gnm2.K7BV.busco.fabales_odb10.short_summary.txt
+6b077634e4303c8e71ce3d63f10b7ed6  ./BUSCO/glyma.Lee.gnm2.K7BV.busco.fabales_odb10.full_table.tsv.gz
+fe0d5892a2d96611b62d94392380e085  ./BUSCO/glyma.Lee.gnm2.K7BV.busco.fabales_odb10.short_summary.json
+c86e99b4d6697d304d6dc8496f072a70  ./BUSCO/glyma.Lee.gnm2.K7BV.busco.fabales_odb10.short_summary.txt
 3dd7d07329bcd8874eeba38326cc79a6  ./README.Lee.gnm2.K7BV.yml
-ab7664c1917b33621fe55253970245bb  ./glyma.Lee.gnm2.K7BV.genome_main.fna.gz.gzi
+e5cdf331e6b18419b96048353409e7bd  ./glyma.Lee.gnm2.K7BV.genome_main.fna.gz.gzi
 9e6ea8a9934da4ccec3afe5cb7a56a6c  ./CHANGES.Lee.gnm2.K7BV.txt
 64508a4d1b12c558d24adcd50ae2863c  ./MANIFEST.Lee.gnm2.K7BV.correspondence.yml
-c636b6f70a82d37ec35239ea9af343b7  ./glyma.Lee.gnm2.K7BV.genome_main.fna.gz.fai
-d9ba25b95e6216e34323f667c37aaa6d  ./glyma.Lee.gnm2.K7BV.genome_main.fna.gz
+7876968dfce41ada07e17a31e3c19ff9  ./glyma.Lee.gnm2.K7BV.genome_main.fna.gz.fai
+52c78c7ae4ad6cfe42c49622e56e01d9  ./glyma.Lee.gnm2.K7BV.genome_main.fna.gz

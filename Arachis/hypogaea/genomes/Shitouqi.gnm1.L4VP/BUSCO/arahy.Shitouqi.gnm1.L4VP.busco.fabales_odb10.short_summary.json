@@ -16,7 +16,7 @@
         "use_augustus": "False",
         "batch_mode": "False",
         "tar": "False",
-        "in": "/busco_wd/run_busco.bash.OnnOyO/arahy.Shitouqi.gnm1.L4VP.genome_main.fna",
+        "in": "/busco_wd/run_busco.bash.jRFEG9/arahy.Shitouqi.gnm1.L4VP.genome_main.fna",
         "out": "BUSCO_genome_fabales_odb10",
         "mode": "euk_genome_met",
         "lineage_dataset": "/erdos/adf/busco_downloads/lineages/fabales_odb10",
@@ -51,6 +51,12 @@
         "Fragmented": 0.3,
         "Missing": 2.1,
         "n_markers": 5366,
-        "domain": "eukaryota"
+        "domain": "eukaryota",
+        "Number of scaffolds": "21",
+        "Number of contigs": "7566",
+        "Total length": "2539163406",
+        "Percent gaps": "0.030%",
+        "Scaffold N50": "135085854",
+        "Contigs N50": "1293691"
     }
 }
