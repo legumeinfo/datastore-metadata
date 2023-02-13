@@ -10,13 +10,13 @@ c15f3392a746eedfb3c49e28fe3d93d5  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds.fna.gz.fa
 7f7d4487804a99454aadc3e2387d6ce6  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds.fna.gz
 1d9335bca27350b2d924434de8b39b4a  ./arahy.Tifrunner.gnm2.ann1.4K0L.mrna_primary.fna.gz
 cd5e216ee7ddb0ff9d8ba01c176f8094  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz.gzi
-a19c4f2ede6c5f12453802d1341372a3  ./CHANGES.Tifrunner.gnm2.ann1.4K0L.txt
+8e8dc3c7150a5b5493a07ef41e73b490  ./CHANGES.Tifrunner.gnm2.ann1.4K0L.txt
 85210141240616d89320e8e39f731304  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds_primary.fna.gz.gzi
 807f4cbb18ed5ec8c5e7051d6ecfd750  ./arahy.Tifrunner.gnm2.ann1.4K0L.snpEffectPredictor.bin.gz
 9a2e1f938d5321dd4726d8534dc96b9c  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein_primary.faa.gz.gzi
 cacd9afb0c5d04354ca391f991834a48  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein_primary.faa.gz
 394e12a540458fd4d8bb2ab916d17c98  ./arahy.Tifrunner.gnm2.ann1.4K0L.mrna_primary.fna.gz.gzi
-0d0f3a0a91ef0a392fad2c64ae59a3db  ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz
+f7a27e3c6894c74f17978d0196a699b3  ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz
 4732825a22bf8be935f0468d469c2637  ./arahy.Tifrunner.gnm2.ann1.4K0L.mrna.fna.gz
 cb4249d1fbb7a6c755078198bb9bbd79  ./arahy.Tifrunner.gnm2.ann1.4K0L.info_rev_chain.txt.gz
 b0199fff213e1aa037613c4fc628b076  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds_primary.fna.gz
@@ -25,8 +25,8 @@ b0199fff213e1aa037613c4fc628b076  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds_primary.f
 e1b2103fe872d014929f0cce07952e41  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein_primary.faa.gz.fai
 ad269bb48045204a38433f769ed23ccd  ./README.Tifrunner.gnm2.ann1.4K0L.yml
 b93e760b45f38cf31c561bac64b3d808  ./arahy.Tifrunner.gnm2.ann1.4K0L.mrna_primary.fna.gz.fai
-4338f04e206a712bf6b75963d712d3f5  ./arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M65K.gfa.tsv.gz
-da22ca798ef7d8c2ac0f450ca5bb1df1  ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz.tbi
+fb34c554edf484e0317def28366dbd67  ./arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M65K.gfa.tsv.gz
+5c5403ee0c7817e56feb7c89c08b5fef  ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz.tbi
 164822fc5d3924941254504bd52b5c22  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.full_table.tsv.gz
 4441ab10d195c9e57ee7cac9acec4a07  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.short_summary.json
 c183edfcfb2f8f747b3a1afa257f26c8  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.short_summary.txt

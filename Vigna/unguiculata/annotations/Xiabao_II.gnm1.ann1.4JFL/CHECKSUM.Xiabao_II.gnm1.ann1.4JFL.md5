@@ -1,4 +1,4 @@
-6b26393bc9f32fdd9728e0da1598bf53  ./vigun.Xiabao_II.gnm1.ann1.4JFL.gene_models_main.gff3.gz.tbi
+8251a76cc6cec170df6da2b51d5b94c4  ./vigun.Xiabao_II.gnm1.ann1.4JFL.gene_models_main.gff3.gz.tbi
 62acd8088264adb6216ed874b0d3dfa9  ./vigun.Xiabao_II.gnm1.ann1.4JFL.protein.faa.gz.fai
 b7f5b05c6edba7778b56756fef89f75c  ./vigun.Xiabao_II.gnm1.ann1.4JFL.cds.bed.gz.tbi
 effe85ffed90dda6765f3589f82001a5  ./vigun.Xiabao_II.gnm1.ann1.4JFL.cds.fna.gz
@@ -10,7 +10,8 @@ effe85ffed90dda6765f3589f82001a5  ./vigun.Xiabao_II.gnm1.ann1.4JFL.cds.fna.gz
 d9e26cdb15e10edb40d740657818b6ac  ./vigun.Xiabao_II.gnm1.ann1.4JFL.mrna.fna.gz.fai
 8aeba40bd19e6bd4d8591e2642865d32  ./vigun.Xiabao_II.gnm1.ann1.4JFL.cds.fna.gz.fai
 2a2392620c81ac0d2fa447da8ff21d87  ./vigun.Xiabao_II.gnm1.ann1.4JFL.mrna.fna.gz
-445163afc0a7b25e03be0810d0c349e4  ./README.Xiabao_II.gnm1.ann1.4JFL.yml
+3130b8db661a73e28bad93b91ec516b1  ./README.Xiabao_II.gnm1.ann1.4JFL.yml
+ee4d6f55718fb0dfde36838bec89248d  ./CHANGES.Xiabao_II.gnm1.ann1.4JFL.txt
 df530d4cbdfa8eb16d9d610f65fd9e06  ./vigun.Xiabao_II.gnm1.ann1.4JFL.legfed_v1_0.M65K.gfa.tsv.gz
 2634273336e9230e038cdd14e8a9a2bc  ./vigun.Xiabao_II.gnm1.ann1.4JFL.protein.faa.gz.gzi
-eb6490b8237f71939d7b6d03a75dbe90  ./vigun.Xiabao_II.gnm1.ann1.4JFL.gene_models_main.gff3.gz
+574aeee79605e903e0c4a448e138afa9  ./vigun.Xiabao_II.gnm1.ann1.4JFL.gene_models_main.gff3.gz
