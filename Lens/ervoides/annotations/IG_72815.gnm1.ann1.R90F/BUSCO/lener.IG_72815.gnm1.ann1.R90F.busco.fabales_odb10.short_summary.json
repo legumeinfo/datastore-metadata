@@ -1,0 +1,47 @@
+{
+    "parameters": {
+        "out_path": "/busco_wd",
+        "cpu": "16",
+        "force": "False",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/erdos/adf/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "update-data": "False",
+        "use_augustus": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "in": "/busco_wd/run_busco.bash.XdOB0o/lener.IG_72815.gnm1.ann1.R90F.protein.faa",
+        "out": "BUSCO_proteins_fabales_odb10",
+        "mode": "proteins",
+        "lineage_dataset": "/erdos/adf/busco_downloads/lineages/fabales_odb10",
+        "main_out": "/busco_wd/BUSCO_proteins_fabales_odb10",
+        "lineage_results_dir": "run_fabales_odb10",
+        "domain": "eukaryota"
+    },
+    "lineage_dataset": {
+        "name": "fabales_odb10",
+        "creation_date": "2020-08-05",
+        "number_of_buscos": "5366",
+        "number_of_species": "10"
+    },
+    "versions": {
+        "hmmsearch": 3.1,
+        "busco": "5.4.3"
+    },
+    "results": {
+        "one_line_summary": "C:95.0%[S:91.2%,D:3.8%],F:0.7%,M:4.3%,n:5366",
+        "Complete": 95.0,
+        "Single copy": 91.2,
+        "Multi copy": 3.8,
+        "Fragmented": 0.7,
+        "Missing": 4.3,
+        "n_markers": 5366,
+        "domain": "eukaryota"
+    }
+}
