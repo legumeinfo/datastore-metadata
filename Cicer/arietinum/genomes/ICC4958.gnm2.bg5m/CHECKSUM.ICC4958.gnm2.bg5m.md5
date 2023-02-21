@@ -4,8 +4,9 @@ d7c98940ed75414b546e0ed967e611c8  ./CHANGES.ICC4958.gnm2.bg5m.txt
 c0719eb6ad42b7cbed767c1384c523b7  ./cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz.fai
 82ed722e0efbd8b5308886371f666ea0  ./cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz.gzi
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.ICC4958.gnm2.bg5m.descriptions.yml
-f00b846f13629725e87e2f3716b4fe96  ./cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz
-d64a85967f415452385b0540087f3072  ./BUSCO/cicar.ICC4958.gnm2.bg5m.busco.fabales_odb10.short_summary.json
-4fc2095fe7f0ce0b3c69892aefeb6fea  ./BUSCO/cicar.ICC4958.gnm2.bg5m.busco.fabales_odb10.full_table.tsv.gz
-b0f88135553cd4d318c5e457f7864857  ./BUSCO/cicar.ICC4958.gnm2.bg5m.busco.fabales_odb10.short_summary.txt
+ea0d51fd5131ee34b3503efbd51e6ede  ./cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz
+f42634bf901575b441d3b84075e337fa  ./BUSCO/cicar.ICC4958.gnm2.bg5m.busco.fabales_odb10.short_summary.json
+d9807fcc41eb2f7525c502c7c1c4c05c  ./BUSCO/cicar.ICC4958.gnm2.bg5m.busco.fabales_odb10.full_table.tsv.gz
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/.busco.fabales_odb10.full_table.tsv.gz
+c43e7a623e26627bf051186b35ba0e31  ./BUSCO/cicar.ICC4958.gnm2.bg5m.busco.fabales_odb10.short_summary.txt
 d999a46a3d9d51f623834f0f13ce0225  ./MANIFEST.ICC4958.gnm2.bg5m.correspondence.yml

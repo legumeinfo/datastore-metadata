@@ -1,6 +1,6 @@
 748610f85bd8abe1838c1d33925a0ffe  ./phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz.gzi
 7f461cccca0d7753ca9601da60997654  ./phalu.G27455.gnm1.ann1.JD7C.mrna_primary.fna.gz
-3c769174078b01803265cf20a83e3bad  ./CHANGES.G27455.gnm1.ann1.JD7C.txt
+7c044d2acf6efd69221854c3ffaddf18  ./CHANGES.G27455.gnm1.ann1.JD7C.txt
 8483abb1638c4c933ad855e000be660c  ./phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz.fai
 ea84e4dee31e8e24d1cf1e81d9977921  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_low_confidence.gff3.gz
 6b6c1e3503b87383711856aa401dbe7b  ./Plunatus_563_V1.annotation_info.txt
@@ -31,11 +31,11 @@ dab6d5bc0c5022448403ac1353bd0fa0  ./phalu.G27455.gnm1.ann1.JD7C.cds_low_confiden
 ac51039422c5cc17ebe6a36d4f16f3e0  ./Plunatus_563_V1.lowConfidenceTranscripts.txt
 f5782dfda9bef8e610f79b74c806ae87  ./phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz.gzi
 d681998d8a0ede607ba35eff5cd506db  ./phalu.G27455.gnm1.ann1.JD7C.iprscan.gff3.gz
-8a772cb7208f0a9fd6b6069fc97c3066  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz.tbi
+12886ebf2f6db7ac76b06d71c37bec58  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz.tbi
 aef393babcfe052d8b36deba85c9a3f8  ./phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz
 b52b9f2b37f93353b5e9c63ad0214a46  ./phalu.G27455.gnm1.ann1.JD7C.cds.bed.gz.tbi
 530856f43da4894decb98601159607e1  ./phalu.G27455.gnm1.ann1.JD7C.mrna_primary.fna.gz.fai
-96cdbae96c19fa296bcd4a9ff35f4f5e  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz
+d133bacd9fc495eef7266bf501a29b7a  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz
 35f3912de5116ab41bbb6ac4f5eb5d00  ./phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz
 378540fbba86d36c3040203da182b8bd  ./phalu.G27455.gnm1.ann1.JD7C.protein_primary.faa.gz.gzi
 8c3563080f44406914ab2dc4cfc0c17c  ./phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz.fai

@@ -1,7 +1,7 @@
 6cb92a291a53f26ebdca32c89068fcd8  ./glyso.W05.gnm1.ann1.T47J.gene_models_main.gff3.gz
 ddc57f42f3cb6ef0efe5ae9d7f1beffd  ./README.W05.gnm1.ann1.T47J.yml
 b5b0f65239b048d84b9baac98bfbf4a2  ./glyso.W05.gnm1.ann1.T47J.cds.fna.gz
-70fb6b2c519239c23c7eef5193aa2ee5  ./CHANGES.W05.gnm1.ann1.T47J.txt
+dac231d4559890235f89296f81209eea  ./CHANGES.W05.gnm1.ann1.T47J.txt
 3a77d74c64ecab8bb392e82dbbea3224  ./busco/glyso.W05.gnm1.ann1.T47J.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.glyso.W05.gnm1.ann1.T47J.protein.faa.gz_busco.txt
 6b7f1d1b6a352627282cd670e830b6ee  ./busco/glyso.W05.gnm1.ann1.T47J.protein_primaryTranscript.faa.gz_busco/short_summary.specific.embryophyta_odb10.glyso.W05.gnm1.ann1.T47J.protein_primaryTranscript.faa.gz_busco.txt
 9e5ac34bdcd4bd679c26bc68857829ac  ./glyso.W05.gnm1.ann1.T47J.bad_gene_10G027808.gff3.gz
@@ -15,7 +15,7 @@ efda2415e41f5d48cc317224f5f6a13d  ./glyso.W05.gnm1.ann1.T47J.cds.fna.gz.fai
 6cc1b9cf215dfe0dd5845e184228b003  ./glyso.W05.gnm1.ann1.T47J.protein.faa.gz.fai
 5f36b0096a603a77ec676c762ec600af  ./glyso.W05.gnm1.ann1.T47J.protein.faa.gz
 9b84458c05d5267584b1a07ef03eac99  ./glyso.W05.gnm1.ann1.T47J.protein_primary.faa.gz.gzi
-c9fe4b36a42527513a1411be87bd6752  ./glyso.W05.gnm1.ann1.T47J.legfed_v1_0.M65K.gfa.tsv.gz
+10568f4fe54ae55dadb933d953d6a05a  ./glyso.W05.gnm1.ann1.T47J.legfed_v1_0.M65K.gfa.tsv.gz
 53596272d9a75b24e05441037031e684  ./glyso.W05.gnm1.ann1.T47J.mrna.fna.gz.fai
 fcaacde93981da336f460574bb4af760  ./glyso.W05.gnm1.ann1.T47J.gene_models_main.bed.gz.tbi
 e0927ed33fc7cb126eb8770b8e9ae669  ./glyso.W05.gnm1.ann1.T47J.cds_primary.fna.gz.gzi
@@ -31,4 +31,5 @@ caed52b542ec2d93caba3dec7a693957  ./MANIFEST.W05.gnm1.ann1.T47J.descriptions.yml
 b6a9617b817183a662bc925b5368fa34  ./glyso.W05.gnm1.ann1.T47J.gene_models_main.gff3.gz.tbi
 de0f70d7938fec6b98f00a8567e83bf6  ./glyso.W05.gnm1.ann1.T47J.info.NCBIvsLocal.gene.ID.map.txt.gz
 7f39742aa21d3377c2d871a23f4f49af  ./glyso.W05.gnm1.ann1.T47J.cds_primary.fna.gz
+94b55e6f81c700b04184ea7b276a7dcd  ./glyso.W05.gnm1.ann1.T47J.bad_gene_10G027808.legfed_v1_0.M65K.gfa.tsv.gz
 35e0522649f7a89381ce9d8bd21e3c6e  ./glyso.W05.gnm1.ann1.T47J.gene_models_main.bed.gz
