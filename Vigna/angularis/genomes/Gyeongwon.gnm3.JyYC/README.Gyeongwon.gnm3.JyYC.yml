@@ -19,7 +19,7 @@ genotype:
 
 chromosome_prefix: Va
 
-supercontig_prefix: scaffold
+supercontig_prefix: "scaffold,SuperScaf"
 
 description: Genome assembly (scaffolds, pseudomolecules, and information about scaffold placement in pseudomolecules)
 

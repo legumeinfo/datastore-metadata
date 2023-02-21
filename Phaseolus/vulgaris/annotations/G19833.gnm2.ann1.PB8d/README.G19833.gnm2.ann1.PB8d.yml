@@ -18,6 +18,8 @@ genotype:
 
 description: "Genome annotations for the Phaseolus vulgaris G19833 v2 genome assembly."
 
+publication_doi: 10.1093/nar/gkr944
+
 contributors: "Scott Jackson, Phil McClean, Jeremy Schmutz"
 
 data_curators: Jacqueline D. Campbell

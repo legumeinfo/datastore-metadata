@@ -18,21 +18,13 @@ genotype:
 
 description: "Gene annotation resources. See full description at Phytozome/JGI repository (address above)."
 
-bioproject: 
-
-sraproject: 
-
-dataset_doi: 
-
-genbank_accession: 
-
 original_file_creation_date: "2022-07-28"
 
 local_file_creation_date: "2022-10-14"
 
 dataset_release_date: "2022-10-14"
 
-publication_doi: 
+publication_doi: 10.1104/pp.110.166736 
 
 publication_title: "The composition and origins of genomic variation among individuals of the soybean reference cultivar Williams 82"
 
@@ -47,4 +39,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: soybean, Wm82, Williams 82, Wm82_ISU01, Wm82-ISU-01
-

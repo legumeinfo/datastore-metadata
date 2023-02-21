@@ -20,7 +20,7 @@ genotype:
 
 chromosome_prefix: Chr,Chloroplast,Mitochondrion
 
-supercontig_prefix: scaffold
+supercontig_prefix: scaffold,Scaffold
 
 description: "Genome assembly files for the Glycine max Zhonghuang 13 v02 genome assembly"
 

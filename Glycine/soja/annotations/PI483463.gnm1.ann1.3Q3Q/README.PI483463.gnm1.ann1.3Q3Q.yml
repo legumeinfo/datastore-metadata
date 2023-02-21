@@ -24,6 +24,8 @@ local_file_creation_date: "2018-10-01"
 
 dataset_release_date: "2018-12-01"
 
+publication_doi: 10.1093/nar/gkv1159
+
 contributors: "Philipp Bayer, Jacqueline Campbell, Steven Cannon, Ting-Fung Chan, Dave Edwards, David Goodstein, Jane Grimwood, Jerry Jenkins, Hon Ming Lam, Henry Nguyen, Jeremy Schmutz, Shengqiang Shu, Qijian Song, Gary Stacey, Robert Stupar, Babu Valliyodan"
 
 data_curators: Steven Cannon
