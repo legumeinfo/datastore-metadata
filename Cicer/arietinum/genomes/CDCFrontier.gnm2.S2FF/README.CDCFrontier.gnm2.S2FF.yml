@@ -24,8 +24,6 @@ supercontig_prefix: scaffold
 
 description: "Files in this directory are genome assembly files for genotype CDCFrontier, Garg (2021)"
 
-genbank_accession: none 
-
 original_file_creation_date: "2021-05-10"
 
 local_file_creation_date: "2022-02-17"

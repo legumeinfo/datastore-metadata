@@ -25,6 +25,8 @@ local_file_creation_date: "2020-05-01"
 
 dataset_release_date: "2020-05-01"
 
+publication_doi: 10.1093/nar/gkv1159
+
 contributors: "Steven Cannon, Wei Huang"
 
 data_curators: Steven Cannon
