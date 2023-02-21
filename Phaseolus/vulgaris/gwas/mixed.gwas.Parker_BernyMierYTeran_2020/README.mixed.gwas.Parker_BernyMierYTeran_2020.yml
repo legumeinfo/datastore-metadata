@@ -7,8 +7,6 @@ scientific_name: Phaseolus vulgaris
 
 taxid: 3885
 
-bioproject: none
-
 scientific_name_abbrev: phavu
 
 genotype: 
@@ -19,8 +17,6 @@ description: "GWAS study of pod dehiscence in Phaseolus vulgaris dry beans, usin
 publication_doi: 10.1111/nph.16164
 
 publication_title: "Pod indehiscence is a domestication and aridity resilience trait in common bean"
-
-publication_doi: 10.1111/nph.16164
 
 contributors: "Parker, Travis A; Berny Mier Y Teran, Jorge C; Palkovic, Antonia; Jernstedt, Judy; Gepts, Paul"
 
