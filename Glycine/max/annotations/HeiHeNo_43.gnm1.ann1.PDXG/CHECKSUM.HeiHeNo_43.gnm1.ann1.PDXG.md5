@@ -3,7 +3,7 @@
 56a107b7f0c83a7b5d07c36f05cf7021  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.cds.fna.gz.fai
 2597c81749f2dfc9006456d377018fa6  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.feature.tsv.gz
 31512fd8e76584ab6f06b9584ac19dcd  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.mrna.fna.gz.fai
-4724398334d4a0832e41fd0f8a8bfdbc  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.gene_models_main.gff3.gz
+30e487315a28e0170112494801ea150b  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.gene_models_main.gff3.gz
 c612d2f7b60c4d0328ac580c7966d651  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.protein.faa.gz.gzi
 ad19cf29f7ab2393b3c308010f2980ec  ./README.HeiHeNo_43.gnm1.ann1.PDXG.yml
 1a0a393448efc6003312599157351e98  ./BUSCO/glyma.HeiHeNo_43.gnm1.ann1.PDXG.busco.fabales_odb10.short_summary.json
@@ -17,7 +17,7 @@ bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.HeiHeNo_43.gnm1.ann1.PDXG.txt
 94d6840807e6dc60773f3cb679792757  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.protein_primary.faa.gz
 fbaa2c4b35e9a27bd2ddbff0b4a5e9b5  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.cds_primary.fna.gz
 efdfb6c29547281ce40228f035920d1a  ./MANIFEST.HeiHeNo_43.gnm1.ann1.PDXG.correspondence.yml
-11261c22b4ce205d3d33fca7a0eb6548  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.gene_models_main.gff3.gz.tbi
+0059fdc5f08c646265c3100fa629cd16  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.gene_models_main.gff3.gz.tbi
 88ee03ae935380e209d9838f981a4f46  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.gene_models_main.bed.gz
 d4828771aa05ebc4d0c0f1c20747548f  ./glyma.HeiHeNo_43.gnm1.ann1.PDXG.protein.faa.gz.fai
 861d68d11e75dd3d709914f650a92fb0  ./MANIFEST.HeiHeNo_43.gnm1.ann1.PDXG.descriptions.yml

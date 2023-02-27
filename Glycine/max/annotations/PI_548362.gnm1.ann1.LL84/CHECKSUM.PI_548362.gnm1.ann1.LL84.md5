@@ -5,7 +5,7 @@ a4dbd9c63424de9d8bf4cda09c63a470  ./glyma.PI_548362.gnm1.ann1.LL84.protein_prima
 058ae2848c914fb2392b2848c8a5f28b  ./glyma.PI_548362.gnm1.ann1.LL84.protein_primary.faa.gz
 4ac52fc830627e53067003dcc8158ff3  ./glyma.PI_548362.gnm1.ann1.LL84.cds.fna.gz.fai
 d20bfec0ff13407ce3ae5bbecd675cf6  ./glyma.PI_548362.gnm1.ann1.LL84.feature.tsv.gz
-10f5691507242e01b8ca75656c5f7559  ./glyma.PI_548362.gnm1.ann1.LL84.gene_models_main.gff3.gz
+cae8e670c89af637b423ec657381336e  ./glyma.PI_548362.gnm1.ann1.LL84.gene_models_main.gff3.gz
 0bfa8e4a83f88de2b43a1e60387a7ea2  ./glyma.PI_548362.gnm1.ann1.LL84.gene_models_main.bed.gz
 f428736d646c9db2604dd1b1887211de  ./glyma.PI_548362.gnm1.ann1.LL84.mrna.fna.gz.gzi
 470f516f031239107ea21ed66609c40a  ./glyma.PI_548362.gnm1.ann1.LL84.protein.faa.gz.fai
@@ -20,7 +20,7 @@ d5e6b28c9091b1143c77ab404df419ba  ./BUSCO/glyma.PI_548362.gnm1.ann1.LL84.busco.f
 be41b157873ca48dc7a6551b9c8c0ec1  ./glyma.PI_548362.gnm1.ann1.LL84.mrna.fna.gz
 cb37e7b15e6d80d191af71414a33ce7f  ./glyma.PI_548362.gnm1.ann1.LL84.protein.faa.gz.gzi
 650dac9369a0483f3a86a81078f44409  ./MANIFEST.PI_548362.gnm1.ann1.LL84.correspondence.yml
-6a49a21f6d7817fba822bf1db91f8eb0  ./glyma.PI_548362.gnm1.ann1.LL84.gene_models_main.gff3.gz.tbi
+5c0aacacb232c6ab4ef98a41bb1e6601  ./glyma.PI_548362.gnm1.ann1.LL84.gene_models_main.gff3.gz.tbi
 da90b39ec3963212a17675262831f1cf  ./MANIFEST.PI_548362.gnm1.ann1.LL84.descriptions.yml
 e95fb65fc3e31c3ac60ce7ac2fdd32bf  ./glyma.PI_548362.gnm1.ann1.LL84.cds.fna.gz.gzi
 c6ac3f7d3b134ab9c71cf301a3e54efa  ./glyma.PI_548362.gnm1.ann1.LL84.iprscan.gff3.gz

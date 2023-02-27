@@ -1,4 +1,4 @@
-0e89d9fee9c12cac4243ef73d6129ab3  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.gene_models_main.gff3.gz
+3b571dfacf2c85bd009bf69aa00671d0  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.gene_models_main.gff3.gz
 807a53a93539d3caafac16428bf86f31  ./MANIFEST.JuXuanNo_23.gnm1.ann1.H8PW.descriptions.yml
 7918b8117b2d94dcae97fb19cd2fca70  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.cds.fna.gz.gzi
 b4a5e9308951dda25659f3db23c9082e  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.protein.faa.gz.fai
@@ -14,7 +14,7 @@ bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.JuXuanNo_23.gnm1.ann1.H8PW.txt
 203fc22a1292dcb7683ae2abab76d4ec  ./README.JuXuanNo_23.gnm1.ann1.H8PW.yml
 ce01204908fb7434e3fcfa40d5b86604  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.gene_models_main.bed.gz
 2162735f8486d0d3892dc685835408b7  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.protein_primary.faa.gz.fai
-aff01299f6d1cb94591bf551072f6ff9  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.gene_models_main.gff3.gz.tbi
+5036e4470fbce43e6271ba13eb018043  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.gene_models_main.gff3.gz.tbi
 3a428d26b6078343c10bf08b7d76159d  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.featid_map.tsv.gz
 dc2c1ebc6f3b497b0f0dfb82771b230e  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.cds_primary.fna.gz.fai
 ecc68707302f2d82dfd554e814e6bf06  ./glyma.JuXuanNo_23.gnm1.ann1.H8PW.mrna.fna.gz.fai

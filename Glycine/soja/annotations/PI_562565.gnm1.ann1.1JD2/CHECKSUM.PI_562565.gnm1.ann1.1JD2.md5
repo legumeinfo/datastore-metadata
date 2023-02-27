@@ -12,12 +12,12 @@ c462362b7a907e310bcb42e39e384cc2  ./glyso.PI_562565.gnm1.ann1.1JD2.cds_primary.f
 0963e7e21873fbdd3c9171fe6a96c70b  ./glyso.PI_562565.gnm1.ann1.1JD2.protein_primary.faa.gz
 b48785654b6d2f3d9b3f63b9e69fcd53  ./glyso.PI_562565.gnm1.ann1.1JD2.gene_models_main.bed.gz
 76128e7d4c3f634061a281a2eb8f02d0  ./glyso.PI_562565.gnm1.ann1.1JD2.iprscan.gff3.gz.tbi
-4eb52665ab1bbbd421cc7f78d065e29e  ./glyso.PI_562565.gnm1.ann1.1JD2.gene_models_main.gff3.gz.tbi
+0d381af03fd2b8222948f6edb2bc2500  ./glyso.PI_562565.gnm1.ann1.1JD2.gene_models_main.gff3.gz.tbi
 f5d1e204583d18041a57fb22357c5a4f  ./BUSCO/glyso.PI_562565.gnm1.ann1.1JD2.busco.fabales_odb10.short_summary.json
 09716a3c4cb842f02007ae89ba309cef  ./BUSCO/glyso.PI_562565.gnm1.ann1.1JD2.busco.fabales_odb10.short_summary.txt
 adaa7197b2feaf4788b8df1eede3f711  ./BUSCO/glyso.PI_562565.gnm1.ann1.1JD2.busco.fabales_odb10.full_table.tsv.gz
 af41239baadf9a9cc09012d4755ca583  ./glyso.PI_562565.gnm1.ann1.1JD2.cds_primary.fna.gz.fai
-d75fd99aea5fac6f48195abeab0afc6c  ./glyso.PI_562565.gnm1.ann1.1JD2.gene_models_main.gff3.gz
+b7abf9ae557810ff8afd79059608086b  ./glyso.PI_562565.gnm1.ann1.1JD2.gene_models_main.gff3.gz
 ebfa6029e89797241d3bdada757e4b7f  ./glyso.PI_562565.gnm1.ann1.1JD2.mrna.fna.gz.gzi
 3a27e639fd057267d7a112d60ca700ec  ./README.PI_562565.gnm1.ann1.1JD2.yml
 0bb6436b78054c53fb6e63cd38818a0a  ./glyso.PI_562565.gnm1.ann1.1JD2.gene_models_main.bed.gz.tbi

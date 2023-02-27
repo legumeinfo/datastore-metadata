@@ -6,7 +6,7 @@ bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.JiDouNo_17.gnm1.ann1.X5PX.txt
 1ba1f1059b7a293bd48ac6f64830bbfa  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.iprscan.gff3.gz.tbi
 09b03db95258ab8edeac8bd255f65947  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.protein.faa.gz.gzi
 9872c7f97145eba6a407df0aecc12c87  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.iprscan.gff3.gz
-bcd955d8c0814f6ead7c5401793767f6  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.gene_models_main.gff3.gz
+2d3c6b898b4ce6ee861a1f3d5e4d6b02  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.gene_models_main.gff3.gz
 276aee6a85f6c64c2df4b2bfe1445569  ./MANIFEST.JiDouNo_17.gnm1.ann1.X5PX.correspondence.yml
 f986a24d29f2523b8d9e2158fd03e2e9  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.featid_map.tsv.gz
 c61e8e350e9575e0abde5ebdb354a2b8  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.cds_primary.fna.gz.fai
@@ -28,4 +28,4 @@ af1620761a86c2b5a9f513879213cc5e  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.gene_models_
 0e13558261d9162117a1d351541c8544  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.legfed_v1_0.M65K.gfa.tsv.gz
 cb9ca95b716dbdd5fe610e5c8d193b6a  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.gene_models_main.bed.gz
 4ab0335e11a4b4ffd44146f649e96ff2  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.protein_primary.faa.gz.fai
-c3ea1d646e9155a244bd06d598fef5aa  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.gene_models_main.gff3.gz.tbi
+c7989dafb3bca57f51afdc49c89f46e8  ./glyma.JiDouNo_17.gnm1.ann1.X5PX.gene_models_main.gff3.gz.tbi

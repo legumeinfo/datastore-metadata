@@ -1,5 +1,5 @@
 b60425a049c1559d3f09c94d4492975d  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.protein.faa.gz.gzi
-e915b06d310be6ad860dd3383024330b  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.gene_models_main.gff3.gz.tbi
+6ef3d16e2f67c686a4de8bf4c246d5f7  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.gene_models_main.gff3.gz.tbi
 bf1b65d8ed9dcc04ba071afb58a27314  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.cds.fna.gz.fai
 9c6dda61ce7ccadc1cc5e75802139a8f  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.feature.tsv.gz
 b87ca52f0ee11790c8717f01d5904ba8  ./BUSCO/glyma.JinDouNo_23.gnm1.ann1.SGJW.busco.fabales_odb10.full_table.tsv.gz
@@ -21,7 +21,7 @@ bdff1681e79aec96cd639ceb4c6e2f6b  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.iprscan.gff
 00906123c7d6c12dec67d430352a7554  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.cds_primary.fna.gz
 d707b5937fc416f9a2b6eb06f1878757  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.protein_primary.faa.gz
 4430bdbbd60971d95fd7754d847e9997  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.cds_primary.fna.gz.gzi
-c397843b255bc3a84112a0249c47a42b  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.gene_models_main.gff3.gz
+7b84e6ab100481f13245bcae963374f8  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.gene_models_main.gff3.gz
 b24f4bb429a298e5a29287bef4d81d40  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.protein_primary.faa.gz.gzi
 37a248f3abc85d07a177df31081c7b38  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.mrna.fna.gz.fai
 0d9338340bd34c825d7440e0ff513087  ./glyma.JinDouNo_23.gnm1.ann1.SGJW.protein.faa.gz.fai

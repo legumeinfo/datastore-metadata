@@ -13,7 +13,7 @@ c081f6b5ca9602fcff3c36c5bd6bcc4e  ./BUSCO/glyma.ShiShengChangYe.gnm1.ann1.VLGS.b
 56de83bc4c2a917d34b0ddc57073891d  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.mrna.fna.gz.fai
 e8f3825e2ebee422c17690d396cb6cbf  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.cds.fna.gz.gzi
 4329db43504a247a15384a9efe3b3d75  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.mrna.fna.gz.gzi
-8a7787b3df73194c48e27ad76590a06d  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.gene_models_main.gff3.gz
+41e81c3b3d20466cf9646cb747894a39  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.gene_models_main.gff3.gz
 67cac6ce2e1d6099e7d4749bcc3a9cf4  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.feature.tsv.gz
 88319e460b601ad575391d634aecee01  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.cds.fna.gz.fai
 7949ee68e7395ba7af2726dfea6e8634  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.legfed_v1_0.M65K.gfa.tsv.gz
@@ -24,7 +24,7 @@ e8f3825e2ebee422c17690d396cb6cbf  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.cds.fna
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.ShiShengChangYe.gnm1.ann1.VLGS.txt
 ed9234d4d63dba318400f2e24334d5e2  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.protein_primary.faa.gz.fai
 24b6ebdc62f861d2050aa70b16b70810  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.featid_map.tsv.gz
-b53a11e7d5c73fa2330d7ff414f83dc1  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.gene_models_main.gff3.gz.tbi
+b631baa1dff7794cf779a93a99545301  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.gene_models_main.gff3.gz.tbi
 6c158097725b285977e8bbb9a0381aab  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.cds_primary.fna.gz.fai
 0ab18d69e2157168076e72ff3c0cbb18  ./glyma.ShiShengChangYe.gnm1.ann1.VLGS.cds.fna.gz
 d8ce9a79636fb2040cddac2619c88e6d  ./MANIFEST.ShiShengChangYe.gnm1.ann1.VLGS.correspondence.yml

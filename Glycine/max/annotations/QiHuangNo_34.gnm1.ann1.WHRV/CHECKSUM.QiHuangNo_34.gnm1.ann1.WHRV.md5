@@ -19,9 +19,9 @@ b1db9c140e79c3a684688438d00a2449  ./BUSCO/glyma.QiHuangNo_34.gnm1.ann1.WHRV.busc
 abc3786d7035cdb67f9ac818f003f194  ./BUSCO/glyma.QiHuangNo_34.gnm1.ann1.WHRV.busco.fabales_odb10.short_summary.txt
 4f373a3ba6b973b59664716024469f98  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.protein.faa.gz.gzi
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.QiHuangNo_34.gnm1.ann1.WHRV.txt
-71ae6270ce9949d336bab5c6fe079393  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.gff3.gz.tbi
+ed1bbd938e29ab5f896bae3d822615ca  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.gff3.gz.tbi
 80f658f7cf9cc01b8f4670b9ad070e56  ./MANIFEST.QiHuangNo_34.gnm1.ann1.WHRV.correspondence.yml
-d406f6c469dd277d83f9df9572bf1ce5  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.gff3.gz
+c7d823b4120b6a1d73f04b5795a88c47  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.gff3.gz
 a50cbb5448a6b8d019609f71971684ce  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.bed.gz
 df1ab98233337eddf5d6c8e0ec340f64  ./glyma.QiHuangNo_34.gnm1.ann1.WHRV.iprscan.gff3.gz.tbi
 47e6119aa7b07dbf7bd33f1ecb7ec56c  ./README.QiHuangNo_34.gnm1.ann1.WHRV.yml

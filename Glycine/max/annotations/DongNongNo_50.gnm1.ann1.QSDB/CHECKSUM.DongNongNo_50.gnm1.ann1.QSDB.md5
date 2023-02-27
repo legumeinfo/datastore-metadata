@@ -3,7 +3,7 @@
 68b0581e12d21ad694b8ad3a60f45e66  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.cds.fna.gz.fai
 06c452c42fc5105b43890b220ea7d284  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.feature.tsv.gz
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.DongNongNo_50.gnm1.ann1.QSDB.txt
-1282b1365b77cc7a05f5ebaaf4ed4c23  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.gene_models_main.gff3.gz.tbi
+a315f5bd9f408aec05aefab8a1e8587c  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.gene_models_main.gff3.gz.tbi
 6a89b2737713ab3b43e924f4e4a7d5af  ./MANIFEST.DongNongNo_50.gnm1.ann1.QSDB.correspondence.yml
 3f5f460248fa7f6c427bf74914ce691c  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.iprscan.gff3.gz
 0829b9333694ee2402f85e46e4b477de  ./MANIFEST.DongNongNo_50.gnm1.ann1.QSDB.descriptions.yml
@@ -22,7 +22,7 @@ b7213dd052d9aed6600cda55989ec70c  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.mrna.fna.
 6abd411d4051acc5dda172d03b7dae81  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.gene_models_main.bed.gz.tbi
 b7e2b11f3bc8e9fbc10307eb07a9f852  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.protein_primary.faa.gz.fai
 f59b4756bd306bfa2b4d48d613a704ab  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.cds_primary.fna.gz
-60645d89c379bd553483e83780ed95f9  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.gene_models_main.gff3.gz
+dd92bf4c6f23f69952fa513fe387e0d2  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.gene_models_main.gff3.gz
 cecab7682cb2cbcf47e870ad74c90b1a  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.cds.fna.gz.gzi
 48dbb42620df53b52ba1ba9c23542402  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.mrna.fna.gz
 d516d12e2efeacd8b2e972ac152ef653  ./glyma.DongNongNo_50.gnm1.ann1.QSDB.gene_models_main.bed.gz

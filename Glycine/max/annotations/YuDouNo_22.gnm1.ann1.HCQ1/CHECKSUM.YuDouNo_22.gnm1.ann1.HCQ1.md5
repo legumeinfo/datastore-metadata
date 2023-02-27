@@ -8,7 +8,7 @@ dffb3f2e9597d33d83f5b8496f7a0cc5  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.cds_primary.
 8f0ac3e5be64e07a3cd9129d7ad6d392  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.mrna.fna.gz.gzi
 f581429780ea0d6fa683c699ca05356c  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.legfed_v1_0.M65K.gfa.tsv.gz
 80dbd91ac8b64e8287261758d4afed4e  ./MANIFEST.YuDouNo_22.gnm1.ann1.HCQ1.correspondence.yml
-9b4ececa15853b5265021e5a90e4ce06  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.gene_models_main.gff3.gz
+2880e2411b066360772f7294e5cdf785  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.gene_models_main.gff3.gz
 da15e470ccf17aeeb8e4479ac7f35c91  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.mrna.fna.gz
 599efe84b475fa1d56de7ef9b95b9ff0  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.protein_primary.faa.gz.fai
 ee9de0e972ec3ac06f989988b6c5c0f6  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.protein.faa.gz.fai
@@ -22,7 +22,7 @@ e28a1b1b2d7620d51b6808a7f475071d  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.iprscan.gff3
 16dc226d79ff8ca754a0dc91fbefc6d4  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.protein_primary.faa.gz.gzi
 ec5e8f1e8fc593951787186245a9262b  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.protein.faa.gz.gzi
 3cf865da701113b4c77f2d0595cd03bb  ./MANIFEST.YuDouNo_22.gnm1.ann1.HCQ1.descriptions.yml
-13ca479750bc19a235728ab661f7c606  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.gene_models_main.gff3.gz.tbi
+cf20b321f278aec7b58ae11098a78fb0  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.gene_models_main.gff3.gz.tbi
 decddeff230048d449a2674699a1b374  ./glyma.YuDouNo_22.gnm1.ann1.HCQ1.mrna.fna.gz.fai
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.YuDouNo_22.gnm1.ann1.HCQ1.txt
 953756e887ecc4e501d87b99ea290cc4  ./README.YuDouNo_22.gnm1.ann1.HCQ1.yml

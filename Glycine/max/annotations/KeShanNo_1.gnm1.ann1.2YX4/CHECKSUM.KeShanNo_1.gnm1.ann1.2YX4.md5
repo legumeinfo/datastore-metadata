@@ -1,6 +1,6 @@
 b3b0464ed6cc81056306edcd70760ee6  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.iprscan.gff3.gz
 52fccb465a83b5dd854fa8d992b056a2  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.protein_primary.faa.gz.gzi
-b04a2288e800959688bf616591dc5182  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.gene_models_main.gff3.gz
+1f260859957effc720d1a16fb0e5ad84  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.gene_models_main.gff3.gz
 694dcecc106e6a2ce6ec18401321dcb5  ./MANIFEST.KeShanNo_1.gnm1.ann1.2YX4.correspondence.yml
 d9b514301d2803d0059b07edf9e87aa8  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.gene_models_main.bed.gz.tbi
 be079ecc2fc9bd43d19f0b943f754c8d  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.legfed_v1_0.M65K.gfa.tsv.gz
@@ -23,7 +23,7 @@ a83ed0735092851260e7fd9e4c73f45e  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.featid_map.t
 2df1e41faea665b15d29d3bc26efa2d0  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.feature.tsv.gz
 c13faff239c9f6c8fd40e87febeaf35f  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.cds.fna.gz
 bfa65f3954c688afb2ea4e22a194713b  ./CHANGES.KeShanNo_1.gnm1.ann1.2YX4.txt
-a7e7492b3b4380eb5904499dfe0560b3  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.gene_models_main.gff3.gz.tbi
+5ca25ad732f070b0af5ddef7e0d4fde0  ./glyma.KeShanNo_1.gnm1.ann1.2YX4.gene_models_main.gff3.gz.tbi
 a102f1ba074ae9698e560ca2b5e6e896  ./BUSCO/glyma.KeShanNo_1.gnm1.ann1.2YX4.busco.fabales_odb10.short_summary.json
 1620852461736d212e1a67e6f68c1a61  ./BUSCO/glyma.KeShanNo_1.gnm1.ann1.2YX4.busco.fabales_odb10.short_summary.txt
 9de032772c5a9561bbf10ea0600c310f  ./BUSCO/glyma.KeShanNo_1.gnm1.ann1.2YX4.busco.fabales_odb10.full_table.tsv.gz
