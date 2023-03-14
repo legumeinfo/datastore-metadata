@@ -1,0 +1,20 @@
+---
+identifier: K30076.gnm1.mrk.Li_Cui_2022
+synopsis: "Markers from the Affymetrix version 2.0 SNP array mapped to the Arachis ipaensis K30076 v1.0 assembly."
+scientific_name: Arachis ipaensis
+scientific_name_abbrev: araip
+taxid: 130454
+genotype: 
+  - K30076
+description: "Genetic loci associated with peanut (Arachis hypogaea) growth habit-related traits were mapped using genome-wide association analysis (GWAS). GWAS was performed with 17,223 single nucleotide polymorphisms (SNPs) in 103 accessions of the U.S. mini core collection genotyped using an Affymetrix version 2.0 SNP array. With a total of 12,342 high-quality polymorphic SNPs, the 90 significant SNPs associated with lateral branch angle (LBA), main stem height (MSH), lateral branch length (LBL), extent radius (ER), and the index of plant type (IOPT) were identified. These SNPs were distributed among 15 of the 20 chromosomes."
+genotyping_platform: Affymetrix_SNP_Li_Cui_2022
+genotyping_method: "The 103 accessions of the U.S. mini-core germplasm collection used for GWAS included representatives of Arachis hypogaea ssp. hypogaea (var. hypogaea) and A. hypogaea ssp. fastigiata (var. fastigiata, peruviana, and vulgaris). Phenotypes of growth habit-related traits were measured on plants harvested in two environments (Qingyuan, Baoding, China; Dawson, Georgia, USA). Genomic DNA was extracted from young leaves using the CTAB method and then genotyped with an Affymetrix version 2.0 SNP array. There were 12,342 high-quality SNPs spread at a density of 5.19 SNP/Mb, out of an original 17,223 filtered for call-rate (<0.95) and minor-allele frequency (<0.05), which were used to screen the collection."
+publication_doi: 10.1186/s12864-022-08640-3
+publication_title: "GWAS and Bulked Segregant Analysis Reveal the Loci Controlling Growth Habit-Related Traits in Cultivated Peanut (Arachis hypogaea L.)"
+contributors: Li L, Cui S, Dang P, Yang X, Wei X, Chen K, Liu L, Chen CY
+citation: "Li L, Cui S, Dang P, Yang X, Wei X, Chen K, Liu L, Chen CY. GWAS and Bulked Segregant Analysis Reveal the Loci Controlling Growth Habit-Related Traits in Cultivated Peanut (Arachis hypogaea L.). BMC Genomics. 2022 May 27;23(1):403. doi: 10.1186/s12864-022-08640-3. PMID: 35624420; PMCID: PMC9145184."
+data_curators: Scott Kalberer
+public_access_level: Public
+license: Open
+keywords: BSA-seq, GWAS, Peanut (Arachis hypogaea L.), Plant growth habit
+
