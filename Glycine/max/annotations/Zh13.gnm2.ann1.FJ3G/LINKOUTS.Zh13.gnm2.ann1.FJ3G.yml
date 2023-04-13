@@ -1,0 +1,16 @@
+---
+prefix: glyma.Zh13.gnm2.ann1
+
+gene_linkouts:
+  -
+    method: GET
+    href: https://gcv.legumeinfo.org/gene;lis={GENE_ID}
+    text: "View {GENE_ID} in Genome Context Viewer"
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/legumemine/gene:{GENE_ID}
+    text: "View {GENE_ID} in LegumeMine"
+  -
+    method: GET
+    href: https://funnotate.legumeinfo.org/?gene_name={GENE_ID}
+    text: "View {GENE_ID} in Funnotate phylogram"
