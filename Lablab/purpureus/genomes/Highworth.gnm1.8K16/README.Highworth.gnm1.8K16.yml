@@ -1,0 +1,50 @@
+---
+identifier: Highworth.gnm1.8K16
+
+provenance: "The files in this directory originated from the ILRI (International Livestock Research Institute), https://hpc.ilri.cgiar.org/~bngina/lablab_longread_sequencing_March_2022/. The ILRI repository is considered primary and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://hpc.ilri.cgiar.org/~bngina/lablab_longread_sequencing_March_2022"
+
+synopsis: "Lablab purpureus accession Highworth, genome assembly 1"
+
+scientific_name: Lablab purpureus
+
+taxid: 35936
+
+scientific_name_abbrev: labpu
+
+genotype:
+  - Highworth
+
+description: "The cultivar Highworth was sequenced using the Oxford Nanopore Technology MinION platform, for 28.4 Gbp and 67x estimated coverage. The reads were initially assembled into 2260 contigs with an N50 of 11.0Mbp and total assembly length of 426.2 Mbp. The assembly was polished for error correction using ~380x of publicly available Illumina short reads previously generated from the same cultivar. Scaffolding was conducted using Hi-C into 11 chromosomes."
+
+bioproject: PRJNA474418
+
+sraproject: 
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: "2022-10-10"
+
+local_file_creation_date: "2023-04-24"
+
+dataset_release_date: "2023-05-01"
+
+publication_doi: 10.1038/s41467-023-37489-7
+
+publication_title: "Chromosome-level genome assembly and population genomic resource to accelerate orphan crop lablab breeding."
+
+contributors: Njaci I, Waweru B, Kamal N, Muktar MS, Fisher D, Gundlach H, Muli C, Muthui L, Maranga M, Kiambi D, Maass BL, Emmrich PMF, Domelevo Entfellner JB, Spannagl M, Chapman MA, Shorinola O, Jones CS.
+
+citation: "Njaci I, Waweru B, Kamal N, Muktar MS, Fisher D, Gundlach H, Muli C, Muthui L, Maranga M, Kiambi D, Maass BL, Emmrich PMF, Domelevo Entfellner JB, Spannagl M, Chapman MA, Shorinola O, Jones CS. Chromosome-level genome assembly and population genomic resource to accelerate orphan crop lablab breeding. Nat Commun. 2023 Apr 17;14(1):1915. doi: 10.1038/s41467-023-37489-7. PMID: 37069152; PMCID: PMC10110558."
+
+data_curators: Steven Cannon, Hyunoh Lee, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: Lablab, Highworth
+

@@ -1,0 +1,50 @@
+---
+identifier: Hedin2.gnm1.06GS
+
+provenance: "The files in this directory originated from www.fabagenome.dk. The FabaGenome repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://projects.au.dk/fabagenome/genomics-data"
+
+synopsis: "Vicia faba accession Hedin2, genome assembly 1"
+
+scientific_name: Vicia faba
+
+taxid: 3906
+
+scientific_name_abbrev: vicfa
+
+genotype:
+  - Hedin2
+
+description: "The inbred line Hedin/2 (Hedin2) was selected as a reference genotype owing to its high autofertility and productivity, combined with an early maturing spring habit and high homozygosity. The genome sequence was generated with PacBio HiFi long reads to 20-fold coverage and assembled 11.9 Gb of sequence, more than half of which was represented by contigs longer than 2.7 Mb. For full description of assembly methods and characteristics, see the description at the associated primary reference."
+
+bioproject: PRJEB52541
+
+sraproject: 
+
+dataset_doi: 
+
+genbank_accession: 
+
+original_file_creation_date: "2023-03-09"
+
+local_file_creation_date: "2023-04-24"
+
+dataset_release_date: "2023-05-01"
+
+publication_doi: 10.1038/s41586-023-05791-5
+
+publication_title: "The giant diploid faba genome unlocks variation in a global protein crop"
+
+contributors: Jayakodi M, Golicz AA, Kreplak J, Fechete LI, Angra D, Bednář P, Bornhofen E, Zhang H, Boussageon R, Kaur S, Cheung K, Čížková J, Gundlach H, Hallab A, Imbert B, Keeble-Gagnère G, Koblížková A, Kobrlová L, Krejčí P, Mouritzen TW, Neumann P, Nadzieja M, Nielsen LK, Novák P, Orabi J, Padmarasu S, Robertson-Shersby-Harvie T, Robledillo LÁ, Schiemann A, Tanskanen J, Törönen P, Warsame AO, Wittenberg AHJ, Himmelbach A, Aubert G, Courty PE, Doležel J, Holm LU, Janss LL, Khazaei H, Macas J, Mascher M, Smýkal P, Snowdon RJ, Stein N, Stoddard FL, Stougaard J, Tayeh N, Torres AM, Usadel B, Schubert I, O'Sullivan DM, Schulman AH, Andersen SU.
+
+citation: "Jayakodi M, Golicz AA, Kreplak J, Fechete LI, Angra D, Bednář P, Bornhofen E, Zhang H, Boussageon R, Kaur S, Cheung K, Čížková J, Gundlach H, Hallab A, Imbert B, Keeble-Gagnère G, Koblížková A, Kobrlová L, Krejčí P, Mouritzen TW, Neumann P, Nadzieja M, Nielsen LK, Novák P, Orabi J, Padmarasu S, Robertson-Shersby-Harvie T, Robledillo LÁ, Schiemann A, Tanskanen J, Törönen P, Warsame AO, Wittenberg AHJ, Himmelbach A, Aubert G, Courty PE, Doležel J, Holm LU, Janss LL, Khazaei H, Macas J, Mascher M, Smýkal P, Snowdon RJ, Stein N, Stoddard FL, Stougaard J, Tayeh N, Torres AM, Usadel B, Schubert I, O'Sullivan DM, Schulman AH, Andersen SU. The giant diploid faba genome unlocks variation in a global protein crop. Nature. 2023 Mar;615(7953):652-659. doi: 10.1038/s41586-023-05791-5. Epub 2023 Mar 8. PMID: 36890232; PMCID: PMC10033403."
+
+data_curators: Steven Cannon, Hyunoh Lee, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: faba bean, Vicia faba, Hedin2
+
