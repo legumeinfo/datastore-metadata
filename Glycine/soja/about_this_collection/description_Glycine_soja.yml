@@ -6,8 +6,8 @@ abbrev: glyso
 commonName: wild soybean
 description: "Glycine soja is the closest wild relative of soybean, Glycine max. Populations of G. soja exist in the wild in China, Japan, Korea, and Russia. Analysis of genetic differences between the two species suggests that the two separated approximately 200 thousand years ago. The species remain interfertile, and G. soja accessions are used in breeding projects in order to introgress traits such as tolerance to particular diseases or environmental stresses."
 resources:
-  - name: SoyMine
-    URL: "https://mines.legumeinfo.org/soymine/begin.do"
+  - name: GlycineMine
+    URL: "https://mines.legumeinfo.org/glycinemine/begin.do"
     description: "InterMine interface for accessing genetic and genomic data for several species in Glycine."
   - name: ZZBrowse
     URL: "https://zzbrowse.legumeinfo.org/?tab=WhGen&datasets=Peanut%20GWAS&chr=Arahy.01&selected=100000&window=250000&datasets2=Soybean%20GWAS&chr2=Gm01&selected2=100000&window2=250000"
