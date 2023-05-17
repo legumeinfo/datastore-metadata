@@ -4,9 +4,5 @@ prefix: vigra.VC1973A.gnm6
 genomic_region_linkouts:
   -
     method: GET
-    href: https://gcv.legumeinfo.org/tools/gcv/search?q={GENOMIC_REGION}&sources=lis
-    text: "View {GENOMIC_REGION} in Genome Context Viewer"
-  -
-    method: GET
-    href: https://vigna.legumeinfo.org/tools/jbrowse2?session=spec-%7B%22views%22%3A%5B%7B%22assembly%22%3A%22vigra.VC1973A.gnm6%22%2C%22loc%22%3A%22{GENOMIC_REGION_CHR_ID}%3A{GENOMIC_REGION_START}-{GENOMIC_REGION_END}%22%2C%22type%22%3A%20%22LGV%22%2C%22tracks%22%3A%5B%22vigra.VC1973A.gnm6.ann1%22%5D%7D%5D%7D
+    href: https://vigna.legumeinfo.org/tools/jbrowse2/?session=spec-%7B%22views%22%3A%5B%7B%22assembly%22%3A%22vigra.VC1973A.gnm6%22%2C%22loc%22%3A%22{GENOMIC_REGION_CHR_ID}%3A{GENOMIC_REGION_START}-{GENOMIC_REGION_END}%22%2C%22type%22%3A%20%22LinearGenomeView%22%2C%22tracks%22%3A%5B%22vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3%22%5D%7D%5D%7D
     text: "View {GENOMIC_REGION} in JBrowse2"

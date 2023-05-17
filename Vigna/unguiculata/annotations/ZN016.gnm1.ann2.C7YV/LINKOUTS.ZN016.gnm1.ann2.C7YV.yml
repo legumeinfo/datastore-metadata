@@ -4,13 +4,13 @@ prefix: vigun.ZN016.gnm1.ann2
 gene_linkouts:
   -
     method: GET
-    href: https://gcv.legumeinfo.org/gene;lis={GENE_ID}
-    text: "View {GENE_ID} in Genome Context Viewer"
-  -
-    method: GET
     href: https://mines.legumeinfo.org/legumemine/gene:{GENE_ID}
     text: "View {GENE_ID} in LegumeMine"
   -
     method: GET
     href: https://funnotate.legumeinfo.org/?gene_name={GENE_ID}
-    text: "View {GENE_ID} in Funnotate phylogram"
+    text: "View Funnotate phylogram for family of {GENE_ID}"
+  -
+    method: GET
+    href: https://vigna.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    text: "View {GENE_ID} in vigna Genome Context Viewer"
