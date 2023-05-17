@@ -16,5 +16,5 @@ gene_linkouts:
     text: "View {GENE_ID} in Genome Context Viewer"
   -
     method: GET
-    href: https://cicer.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    href: https://cicer.legumeinfo.org/tools/gcv//gene;cicer={GENE_ID}
     text: "View {GENE_ID} in cicer Genome Context Viewer"

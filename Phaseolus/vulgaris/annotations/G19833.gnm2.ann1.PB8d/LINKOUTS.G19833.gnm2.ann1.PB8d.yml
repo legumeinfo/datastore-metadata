@@ -16,5 +16,5 @@ gene_linkouts:
     text: "View {GENE_ID} in Genome Context Viewer"
   -
     method: GET
-    href: https://phaseolus.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    href: https://phaseolus.legumeinfo.org/tools/gcv//gene;phaseolus={GENE_ID}
     text: "View {GENE_ID} in phaseolus Genome Context Viewer"

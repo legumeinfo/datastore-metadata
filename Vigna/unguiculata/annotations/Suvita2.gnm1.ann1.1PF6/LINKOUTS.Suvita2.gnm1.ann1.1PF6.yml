@@ -12,5 +12,5 @@ gene_linkouts:
     text: "View Funnotate phylogram for family of {GENE_ID}"
   -
     method: GET
-    href: https://vigna.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    href: https://vigna.legumeinfo.org/tools/gcv//gene;vigna={GENE_ID}
     text: "View {GENE_ID} in vigna Genome Context Viewer"

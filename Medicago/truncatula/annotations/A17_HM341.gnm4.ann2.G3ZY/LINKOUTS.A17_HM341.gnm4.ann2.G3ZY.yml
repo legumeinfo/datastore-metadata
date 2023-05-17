@@ -16,5 +16,5 @@ gene_linkouts:
     text: "View {GENE_ID} in Genome Context Viewer"
   -
     method: GET
-    href: https://medicago.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    href: https://medicago.legumeinfo.org/tools/gcv//gene;medicago={GENE_ID}
     text: "View {GENE_ID} in medicago Genome Context Viewer"

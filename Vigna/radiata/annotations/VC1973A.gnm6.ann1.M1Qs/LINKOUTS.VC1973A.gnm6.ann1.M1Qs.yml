@@ -16,5 +16,5 @@ gene_linkouts:
     text: "View {GENE_ID} in Genome Context Viewer"
   -
     method: GET
-    href: https://vigna.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    href: https://vigna.legumeinfo.org/tools/gcv//gene;vigna={GENE_ID}
     text: "View {GENE_ID} in vigna Genome Context Viewer"

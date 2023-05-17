@@ -12,5 +12,5 @@ gene_linkouts:
     text: "View Funnotate phylogram for family of {GENE_ID}"
   -
     method: GET
-    href: https://cicer.legumeinfo.org/tools/gcv//gene;lis={GENE_ID}
+    href: https://cicer.legumeinfo.org/tools/gcv//gene;cicer={GENE_ID}
     text: "View {GENE_ID} in cicer Genome Context Viewer"
