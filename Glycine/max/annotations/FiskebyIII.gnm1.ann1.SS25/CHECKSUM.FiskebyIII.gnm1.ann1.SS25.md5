@@ -1,7 +1,8 @@
 cd4b54e7b40fceac8313321599f99438  ./glyma.FiskebyIII.gnm1.ann1.SS25.protein.faa.gz.fai
-5cee902191b8107fd3060cdea02f0473  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.gff3.gz
+f57fa0b87fc94c0a1ae47267f1e1b96c  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.gff3.gz
 37c018ad848f1ff36f4000c789a2ee4e  ./MANIFEST.FiskebyIII.gnm1.ann1.SS25.correspondence.yml
 28b991485ca7440fdac10ce59704965a  ./glyma.FiskebyIII.gnm1.ann1.SS25.mrna_primary.fna.gz
+c66d152c6eea63352e828037abd5957a  ./glyma.FiskebyIII.gnm1.ann1.SS25.iprscan.gff3.gz
 10398198cc91112198ead5d547172e31  ./glyma.FiskebyIII.gnm1.ann1.SS25.cds_primary.fna.gz.gzi
 28b991485ca7440fdac10ce59704965a  ./glyma.FiskebyIII.gnm1.ann1.SS25.protein_primary.faa.gz
 6c7b9c7a0fb57f4cf394852c8281e838  ./glyma.FiskebyIII.gnm1.ann1.SS25.mrna_primary.fna.gz.fai
@@ -10,17 +11,18 @@ ccdf685f5578cbe6f39ba07ed5fdae54  ./glyma.FiskebyIII.gnm1.ann1.SS25.protein_prim
 fbaeb5104ec2441d666aa24182b7c6f2  ./glyma.FiskebyIII.gnm1.ann1.SS25.cds_primary.fna.gz
 2774d30d11715b8cb5130075f6641c77  ./glyma.FiskebyIII.gnm1.ann1.SS25.protein.faa.gz
 6c4df50e4bc0a548b95ace83dd7d345c  ./glyma.FiskebyIII.gnm1.ann1.SS25.mrna.fna.gz.fai
-0da6e07eb16cfa35d338df83fdb195a7  ./README.FiskebyIII.gnm1.ann1.SS25.yml
+c77abf2ee4d26299c768d0b9013e969f  ./README.FiskebyIII.gnm1.ann1.SS25.yml
 bf332e39a8d0ff5d78ca460f721187aa  ./glyma.FiskebyIII.gnm1.ann1.SS25.cds.fna.gz
 0bb6e2595d7269af571027b5020a46c0  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_exons.gff3.gz
 fde8c0b203593c9b56cf07861023d8de  ./glyma.FiskebyIII.gnm1.ann1.SS25.info_annot.txt
 49b455323f1715b2881439da1d5e8df3  ./BUSCO/glyma.FiskebyIII.gnm1.ann1.SS25.busco.fabales_odb10.short_summary.json
 5b699f6e5b756a9e0c9b59d62c3d1ab0  ./BUSCO/glyma.FiskebyIII.gnm1.ann1.SS25.busco.fabales_odb10.short_summary.txt
 c48095d548cb97b5b864ac3438f63288  ./BUSCO/glyma.FiskebyIII.gnm1.ann1.SS25.busco.fabales_odb10.full_table.tsv.gz
-29d4cb32d35305454189dae6bfd03cc9  ./CHANGES.FiskebyIII.gnm1.ann1.SS25.txt
+66d1320d36f563966531177f258ac0f2  ./CHANGES.FiskebyIII.gnm1.ann1.SS25.txt
 753487c9580c3e5e90c7dce369c98f0f  ./glyma.FiskebyIII.gnm1.ann1.SS25.reference_locus.txt
 0463ca9ea61b5b439a0efa5519a7203c  ./glyma.FiskebyIII.gnm1.ann1.SS25.defline.txt
 3dfdb64fe41e3a63a0d3282c41c5332d  ./glyma.FiskebyIII.gnm1.ann1.SS25.mrna.fna.gz.gzi
+6580f7c6dbe12993930b2e5727653060  ./glyma.FiskebyIII.gnm1.ann1.SS25.iprscan.gff3.gz.tbi
 f37f6c5622cdff310e4b27bd9a338018  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.bed.gz.tbi
 c036e47a301fdc90c484256ce405e0cb  ./glyma.FiskebyIII.gnm1.ann1.SS25.legfed_v1_0.M65K.gfa.tsv.gz
 1e845a5f1b429018a7dc238809ae4847  ./glyma.FiskebyIII.gnm1.ann1.SS25.cds.fna.gz.fai
@@ -32,5 +34,5 @@ ccdf685f5578cbe6f39ba07ed5fdae54  ./glyma.FiskebyIII.gnm1.ann1.SS25.mrna_primary
 6c7b9c7a0fb57f4cf394852c8281e838  ./glyma.FiskebyIII.gnm1.ann1.SS25.protein_primary.faa.gz.fai
 9554fc68aedd27edacdfc40e053cbd39  ./MANIFEST.FiskebyIII.gnm1.ann1.SS25.descriptions.yml
 e82d677237d11699bb6b29458bf164dc  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.bed.gz
-554d32e05935a6bd8da62de881b907d2  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.gff3.gz.tbi
+cb18afc3438f8f9783e5e013ad76be88  ./glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.gff3.gz.tbi
 d704c25d2144d3085358ea41514e20e4  ./glyma.FiskebyIII.gnm1.ann1.SS25.protein.faa.gz.gzi
