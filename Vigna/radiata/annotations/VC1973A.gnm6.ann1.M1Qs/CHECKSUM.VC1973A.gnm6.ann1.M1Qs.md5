@@ -1,10 +1,13 @@
-7e8fe7ffa48aea3e1c28799d23842fe3  ./CHANGES.VC1973A.gnm6.ann1.M1Qs.txt
+3981b8e9757ab5fe74e06905b1da156a  ./CHANGES.VC1973A.gnm6.ann1.M1Qs.txt
 4f99c01eb65d67c16bc96b8cba674f5a  ./vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mrna.gff3.gz
-f6b4f77e30055c3d91a09228bd87808e  ./vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz
+b49115c3b9bb1988b3fd8a7a61730e9f  ./vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz
 54f6fca2ee765ad281c5e4f39b298cee  ./vigra.VC1973A.gnm6.ann1.M1Qs.scaffolds_in_pchr.gff3.gz
 3138f8a52bcb6f3d944daee2ff7d0cdc  ./README.VC1973A.gnm6.ann1.M1Qs.yml
-56f33388497bfebd609f1eec704c6dcd  ./vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz.tbi
+8430025afcfffc9bb34865328aef9b21  ./vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz.tbi
 2b7d46eacecbcaa123e04cd03fd9ec80  ./vigra.VC1973A.gnm6.ann1.M1Qs.cds.fna.gz.fai
+5067d3c7592c61fbe72be8af394e5102  ./BUSCO/vigra.VC1973A.gnm6.ann1.M1Qs.busco.fabales_odb10.short_summary.txt
+4984b65db6752e2558d65dad5417603f  ./BUSCO/vigra.VC1973A.gnm6.ann1.M1Qs.busco.fabales_odb10.full_table.tsv.gz
+2d8cc53743c2c07f405da8204dd6b11e  ./BUSCO/vigra.VC1973A.gnm6.ann1.M1Qs.busco.fabales_odb10.short_summary.json
 6945b91e8e9227bf31532d51b4328ee7  ./vigra.VC1973A.gnm6.ann1.M1Qs.cds.bed.gz
 008de9f3de3cde30ec46316f174875a3  ./MANIFEST.VC1973A.gnm6.ann1.M1Qs.descriptions.yml
 53f1133c9e2b92c0629ff727895a4463  ./vigra.VC1973A.gnm6.ann1.M1Qs.protein.faa.gz.gzi
