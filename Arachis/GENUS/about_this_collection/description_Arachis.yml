@@ -25,7 +25,7 @@ resources:
     URL: "https://peanutbase.org/tools/gcvit"
     description: "Genetic variation viewer "
   - name: Genome Context Viewer
-    URL:  "https://peanutbase.org/tools/gcv"
+    URL: "https://peanutbase.org/tools/gcv"
     description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
   - name: Germplasm GIS
     URL: "https://germplasm-map.legumeinfo.org/#?zoom=5&maxRecs=200&taxonQuery=&traitOverlay=&traitScale=global&country=&geocodedOnly=false&traitExcludeUnchar=false&limitToMapExtent&lat=-11.70&lng=-59.08&mapHeight=350&baseMap=ESRI%20-%20NatGeo%20(default,%20reference%20map)&ne_lat=-4.083452772038619&ne_lng=-41.52832031250001&sw_lat=-19.103648251663632&sw_lng=-76.640625" 
