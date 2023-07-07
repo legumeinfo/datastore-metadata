@@ -52,3 +52,8 @@ strains:
     name: Shitouqi
     origin: China
     description: "A. hypogaea var. Shitouqi (zh.h0235), the most widely cultivated peanut ecotype in the world, is a Chinese cultivar and breeding parent belonging to subspecies fastigiata, botanical type vulgaris and agronomic type Spanish with heterozygosity only 1/6,537 nucleotides on average."
+  - identifier: Bailey_II
+    accession: 
+    name: Bailey II
+    origin: Southeast US
+    description: "Virginia-type peanut cultivar developed by NCSU breeding program. Bailey II is a near-isogenic line to Bailey, possessing high-oleic trait and resistance to several important pathogens, derived from A. cardenasii introgressions."
