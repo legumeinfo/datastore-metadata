@@ -1,10 +1,15 @@
 24a6027a796dfabed841c0ebd75f59a3  ./medtr.HM060.gnm1.ann1.H41P.cds.fna.gz
 56286b1aed2e49c86b5fbbc98bc56c57  ./medtr.HM060.gnm1.ann1.H41P.mrna.fna.gz.gzi
+4a0cd6b1ea2b516f65f93a76d856c944  ./medtr.HM060.gnm1.ann1.H41P.iprscan.gff3.gz.tbi
 91dd7dd0c7318aed81a5ff17f333a3e3  ./medtr.HM060.gnm1.ann1.H41P.cds.fna.gz.fai
 91079eaf0c598be9da776451ad0b99fa  ./medtr.HM060.gnm1.ann1.H41P.legfed_v1_0.M65K.gfa.tsv.gz
-86a76b5d641c69cab1611206f5aae9c8  ./CHANGES.HM060.gnm1.ann1.H41P.txt
+5b597b4188725e6b5f5f14e4b3b8df27  ./BUSCO/medtr.HM060.gnm1.ann1.H41P.busco.fabales_odb10.short_summary.json
+a574004b6a36077f278703b0df729179  ./BUSCO/medtr.HM060.gnm1.ann1.H41P.busco.fabales_odb10.short_summary.txt
+b1807e4deb3c58df27ae2a3838f76ec5  ./BUSCO/medtr.HM060.gnm1.ann1.H41P.busco.fabales_odb10.full_table.tsv.gz
+1e54f2cfd59f10fbae6f2fd308c78c4e  ./CHANGES.HM060.gnm1.ann1.H41P.txt
 f9d4bb0aa6801c55202b71e403a7d7ee  ./medtr.HM060.gnm1.ann1.H41P.protein.faa.gz.gzi
 9226dddf6a3e522436eb34f1fcbb3bb9  ./medtr.HM060.gnm1.ann1.H41P.protein.faa.gz.fai
+f4e58089413fff0a1e36148fe2bbe26b  ./medtr.HM060.gnm1.ann1.H41P.iprscan.gff3.gz
 2589354baccae1aab4c21713491315e2  ./MANIFEST.HM060.gnm1.ann1.H41P.descriptions.yml
 44cc0e8b25703ef139a9d8714f9827e8  ./busco/medtr.HM060.gnm1.ann1.H41P.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.medtr.HM060.gnm1.ann1.H41P.protein.faa.gz_busco.txt
 4d10eabe5f81dbdce7aa17f4770a1e93  ./medtr.HM060.gnm1.ann1.H41P.cds.fna.gz.gzi
@@ -14,7 +19,7 @@ f9d4bb0aa6801c55202b71e403a7d7ee  ./medtr.HM060.gnm1.ann1.H41P.protein.faa.gz.gz
 24384d687781a65833742936f278303c  ./MANIFEST.HM060.gnm1.ann1.H41P.correspondence.yml
 6863c1f30e0deeb0cd623de16a515d7b  ./medtr.HM060.gnm1.ann1.H41P.mrna.fna.gz.fai
 aac0a568f86cac9877549f9e302cd489  ./medtr.HM060.gnm1.ann1.H41P.cds.bed.gz
-1c970c5e55170746472ebd4a2c4978df  ./medtr.HM060.gnm1.ann1.H41P.gene_models_main.gff3.gz
+de8c9d052487da5cd920c50529a72d97  ./medtr.HM060.gnm1.ann1.H41P.gene_models_main.gff3.gz
 4cadb9a0c237882ccdc8533eff77b975  ./medtr.HM060.gnm1.ann1.H41P.cds.bed.gz.tbi
-904ed2592847c21306e121327c8e174c  ./medtr.HM060.gnm1.ann1.H41P.gene_models_main.gff3.gz.tbi
+299554cea969a94df648250b41eec66e  ./medtr.HM060.gnm1.ann1.H41P.gene_models_main.gff3.gz.tbi
 9158e6598949181d0f5fce0ad48a5d15  ./medtr.HM060.gnm1.ann1.H41P.phytozome_10_2.HFNR.gfa.tsv.gz
