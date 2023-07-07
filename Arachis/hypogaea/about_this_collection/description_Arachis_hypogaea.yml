@@ -52,13 +52,9 @@ strains:
     description: Arachis hypogaea var. Shitouqi (zh.h0235), the most widely cultivated peanut ecotype in the world, 
       is a Chinese cultivar and breeding parent belonging to subspecies fastigiata, botanical type 
       vulgaris and agronomic type Spanish with heterozygosity only 1/6,537 nucleotides on average.
-  - identifier: Bailey_II
+  - identifier: BaileyII
     accession: BaileyII
     name: Bailey II
     origin: Southeast US
     description: Virginia-type peanut cultivar developed by NCSU breeding program. Bailey II is a near-isogenic line to Bailey, 
       possessing high-oleic trait and resistance to several important pathogens, derived from A. cardenasii introgressions.
-    resources:
-      - name: Peanutbase Genome Browser (JBrowse)
-        URL: "https://www.peanutbase.org/tools/jbrowse2/?session=share-h9filRRpe1&password=JvI9y"
-        description: "JBrowse for Bailey II assembly 1"
