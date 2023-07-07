@@ -46,14 +46,21 @@ strains:
     accession: GH00910
     name: Fuhuasheng
     origin: North China
-    description: "The mid-twentieth century landrace Fuhuasheng, from North China, is a widely used parent from which ∼70% of Chinese peanut cultivars released during the past half century have been derived."
+    description: >-
+      The mid-twentieth century landrace Fuhuasheng, from North China, is a widely used parent from 
+      which ∼70% of Chinese peanut cultivars released during the past half century have been derived.
   - identifier: Shitouqi
     accession: zh.h0235
     name: Shitouqi
     origin: China
-    description: "A. hypogaea var. Shitouqi (zh.h0235), the most widely cultivated peanut ecotype in the world, is a Chinese cultivar and breeding parent belonging to subspecies fastigiata, botanical type vulgaris and agronomic type Spanish with heterozygosity only 1/6,537 nucleotides on average."
+    description: >-
+      Arachis hypogaea var. Shitouqi (zh.h0235), the most widely cultivated peanut ecotype in the world, 
+      is a Chinese cultivar and breeding parent belonging to subspecies fastigiata, botanical type 
+      vulgaris and agronomic type Spanish with heterozygosity only 1/6,537 nucleotides on average.
   - identifier: Bailey_II
-    accession: 
+    accession: BaileyII
     name: Bailey II
     origin: Southeast US
-    description: "Virginia-type peanut cultivar developed by NCSU breeding program. Bailey II is a near-isogenic line to Bailey, possessing high-oleic trait and resistance to several important pathogens, derived from A. cardenasii introgressions."
+    description: >-
+      Virginia-type peanut cultivar developed by NCSU breeding program. Bailey II is a near-isogenic line to Bailey, 
+      possessing high-oleic trait and resistance to several important pathogens, derived from A. cardenasii introgressions.
