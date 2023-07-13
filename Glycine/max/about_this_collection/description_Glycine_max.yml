@@ -33,7 +33,7 @@ strains:
     accession: PI 518671
     name: Williams 82
     accession_group: Reference - Williams 82
-    publication_doi: Schmutz, Cannon et al., 2010
+    publication_doi: 10.1038/nature08670
     origin: Northern United States
     description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams."
   - identifier: Lee
