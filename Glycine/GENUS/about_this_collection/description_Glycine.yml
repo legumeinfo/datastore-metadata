@@ -1,9 +1,8 @@
 ---
 taxid: 3847
-genus: Glycine 
-commonName: soybean 
+genus: Glycine
+commonName: soybean
 description: "The best-known species in Glycine is the cultivated soybean, G. max, which was domesticated in Central and East Asia. The majority of the species in the genus are found only in Australia, while a few species extend from Australia to East Asia."
-
 species:
   - max
   - soja
@@ -12,7 +11,7 @@ species:
   - falcata
   - stenophita
   - syndetika
-  - D3-tomentella  
+  - D3-tomentella
 
 resources:
   - name: GlycineMine
