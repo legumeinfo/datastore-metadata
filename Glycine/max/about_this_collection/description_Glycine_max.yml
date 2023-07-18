@@ -5,7 +5,6 @@ species: max
 abbrev: glyma
 commonName: soybean
 description: "Soybean (Glycine max), the predominant oil-seed legume worldwide, was likely domesticated in East Asia, ~6000-9000 years ago (Sedivy et al., 2017; https://doi.org/10.1111/nph.14418). It has many culinary and industrial uses. Some of the culinary uses include: for direct consumption of the green seed (i.e. edamame) and leaves (cooked, much like spinach); for tofu, soymilk, textured vegetable protein, soy sauce, tempeh, natto, and vegetable oil. Industrial uses include: oils, soap, cosmetics, and biodiesel. Soybean is also used as a high-protein forage, and can be prepared for fish- and animal-feed."
-
 resources:
   - name: GlycineMine
     URL: "https://mines.legumeinfo.org/glycinemine/begin.do"
@@ -22,258 +21,256 @@ resources:
   - name: Grin Data Explorer
     URL: "https://soybase.org/grindata/"
     description: "Tool to facilitate searches of GRIN Descriptor Data"
-
 strains:
   - identifier: Wm82_ISU01
     accession: Wm82-ISU-01
     name: Williams 82-ISU-01
     accession_group: Reference - Williams 82
-    citation: Stupar, Schmutz et al., in prep.
+    publication_doi: Stupar, Schmutz et al., in prep.
     origin: Northern United States
     description: "Glycine max var. Williams 82-ISU-01 is an inbred line developed by Robert Stupar (University of Minnesota) by inbreeding original W82 seed. The resulting genome is a haploid version of W82. This genome can be used as an updated version of W82. It is the most complete and highest quality soybean genome completed to date."
   - identifier: Wm82
     accession: PI 518671
     name: Williams 82
     accession_group: Reference - Williams 82
-    citation: Schmutz, Cannon et al., 2010
+    publication_doi: 10.1038/nature08670
     origin: Northern United States
     description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams."
   - identifier: Lee
     accession: PI 548656
     accession_group: Reference - Lee
-    citation: Valliyodan, Cannon et al., 2019
+    publication_doi: 10.1111/tpj.14500
     name: Lee
     origin: Southern United States
     description: "Cultivar Lee, which derives from a cross of Chinese lines CNS and S-100, has been widely used as a parent in many breeding projects in the Southern U.S. and in Brazil (Wysmierski and Vello, 2013; http://doi.org/10.1590/S1415-47572013005000041). The variety is notable for resistance to Phytophthora rot, Peanut Mottle Virus, and bacterial pustule (Wysmierski and Vello, 2013)."
   - identifier: FiskebyIII
     accession: PI 438471
     accession_group: Reference - Fiskeby III
-    citation: Stupar, Schmutz et al., in prep.
+    publication_doi: Stupar, Schmutz et al., in prep.
     name: Fiskeby III
     origin: Fiskeby, Norrköpping, Sweden
     description: "Bred by the late Dr. Sven Holmberg in Fiskeby, Norrköpping, Sweden. Highly nutritious — up to 40% protein, high in calcium, iron, and vitamins (particularly A, B1, B12, and C). Thrives in northern climates. 75-80 days."
   - identifier: Zh13
-    accession: GWHAAEV00000000.1 
+    accession: GWHAAEV00000000.1
     accession_group: Reference - Zhonghuang 13
-    citation: Shen, Liu et al., 2018
+    publication_doi: 10.1007/s11427-018-9360-0
     name: Zhonghuang 13
     origin: China
     description: "Zhonghuang 13 is a Chinese cultivar derived from accessions Yudou 18 and Zhongzuo 90052-76 by pedigree selection for high yield and stress tolerance (Shen et al., 2018; https://doi.org/10.1007/s11427-018-9360-0)."
   - identifier: Hwangkeum
     accession: Hwangkeum
     accession_group: Reference - Hwangkeum
-    citation: Shen, Liu et al., 2018
+    publication_doi: 10.1093/g3journal/jkab272
     name: Hwangkeum
     origin: South Korea
     description: "Hwangkeum is an important South Korean cultivar, released in 1979 and widely used since then as a breeding parent in Korea. Hwangkeum has a determinate growth habit and nonshattering pods and is adapted to the middle Korean peninsula (Maturity Group V)."
   - identifier: Wenfeng7_IGA1001
     accession: IGA1001
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Wenfeng 7
     origin: National Soybean Preservation Center, ICS, CAAS
-    description: "Glycine max Wenfeng 7 (IGA1001) was sequenced and annotated by Chu, et al. (2021)." 
+    description: "Glycine max Wenfeng 7 (IGA1001) was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Hefeng25_IGA1002
     accession: IGA1002
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Hefeng 25
     origin: Jiamusi Branch of Heilongjiang Academy of Agricultural Sciences
     description: "Glycine max Hefeng 25 (IGA1002) was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Zh35_IGA1004
     accession: IGA1004
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Zhonghuang 35
     origin: National Soybean Improvement Sub-Center, ICS, CAAS
     description: "Glycine max Zhonghuang 35 (IGA1004) was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Zh13_IGA1005
     accession: IGA1005
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Zhonghuang 13
     origin: National Soybean Improvement Sub-Center, ICS, CAAS
     description: "Zhonghuang 13 is a Chinese cultivar derived from accessions Yudou 18 and Zhongzuo 90052-76 by pedigree selection for high yield and stress tolerance (Shen et al., 2018; https://doi.org/10.1007/s11427-018-9360-0). This line, IGA1005, was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Jinyuan_IGA1006
     accession: IGA1006
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Jinyuan
-    origin: National Soybean Preservation Center, ICS, CAAS 
+    origin: National Soybean Preservation Center, ICS, CAAS
     description: "Glycine max Jinyuan (IGA1006) was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Huaxia3_IGA1007
     accession: IGA1007
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Huaxia 3
     origin: South China Agricultural University
     description: "Glycine max Huaxia 3 (IGA1007) was sequenced and annotated by Chu, et al. (2021)."
   - identifier: Wm82_IGA1008
     accession: IGA1008
-    accession_group: 
-    citation: 
+    accession_group: Chu, Peng et al., 2021
+    publication_doi: 10.1038/s41597-021-00947-2
     name: Williams 82
     origin: Northeast Institute of Geography and Agroecology, CAS
     description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams. This line, IGA1008, was sequenced and annotated by Chu, et al. (2021)."
   - identifier: 58-161
     accession: SoyL04
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: 58-161
     origin: China, Jiang Su
     description: Landrace 58-161 (SoyL04 from China, Jiang Su, from Liu et al. 2020
   - identifier: Amsoy
     accession: SoyC05
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Amsoy
     origin: United States, Iowa
     description: Cultivar Amsoy (SoyC05 from United States, Iowa, from Liu et al. 2020
   - identifier: DongNongNo_50
     accession: SoyC12
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Dong Nong No.50
     origin: China, Hei Long Jiang
     description: Cultivar Dong Nong No.50 (SoyC12 from China, Hei Long Jiang, from Liu et al. 2020
   - identifier: FengDiHuang
     accession: SoyL07
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Feng Di Huang
     origin: China, Ji Lin
     description: Landrace Feng Di Huang (SoyL07 from China, Ji Lin, from Liu et al. 2020
   - identifier: HanDouNo_5
     accession: SoyC09
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Han Dou No.5
     origin: China, He Bei
     description: Cultivar Han Dou No.5 (SoyC09 from China, He Bei, from Liu et al. 2020
   - identifier: HeiHeNo_43
     accession: SoyC13
-    accession_group: 
-    citation: 
-    name: Hei He No.43 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
+    name: Hei He No.43
     origin: China, Hei Long Jiang
     description: Cultivar Hei He No.43  (SoyC13 from China, Hei Long Jiang, from Liu et al. 2020
   - identifier: JiDouNo_17
     accession: SoyC11
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Ji Dou No.17
     origin: China, He Bei
     description: Cultivar Ji Dou No.17 (SoyC11 from China, He Bei, from Liu et al. 2020
   - identifier: JinDouNo_23
     accession: SoyC07
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Jin Dou No.23
     origin: China, Shan Xi
     description: Cultivar Jin Dou No.23 (SoyC07 from China, Shan Xi, from Liu et al. 2020
   - identifier: JuXuanNo_23
     accession: SoyC03
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Ju Xuan No.23
     origin: China, Shan Dong
     description: Cultivar Ju Xuan No.23 (SoyC03 from China, Shan Dong, from Liu et al. 2020
   - identifier: KeShanNo_1
     accession: SoyC14
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Ke Shan No.1
     origin: China, Hei Long Jiang
     description: Cultivar Ke Shan No.1 (SoyC14 from China, Hei Long Jiang, from Liu et al. 2020
   - identifier: PI_398296
     accession: SoyL05
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: PI 398296
     origin: South Korea, Kyonggi
     description: Landrace PI 398296 (SoyL05 from South Korea, Kyonggi, from Liu et al. 2020
   - identifier: PI_548362
     accession: SoyC10
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: PI 548362
     origin: United States, Illinois
     description: Cultivar PI 548362 (SoyC10 from United States, Illinois, from Liu et al. 2020
   - identifier: QiHuangNo_34
     accession: SoyC08
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Qi Huang No.34
     origin: China, Shan Dong
     description: Cultivar Qi Huang No.34 (SoyC08 from China, Shan Dong, from Liu et al. 2020
   - identifier: ShiShengChangYe
     accession: SoyL09
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Shi Sheng Chang Ye
     origin: Japan, Hokkaido
     description: Landrace Shi Sheng Chang Ye (SoyL09 from Japan, Hokkaido, from Liu et al. 2020
   - identifier: TieFengNo_18
     accession: SoyC02
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Tie Feng No.18
     origin: China, Hei Long Jiang
     description: Cultivar Tie Feng No.18 (SoyC02 from China, Hei Long Jiang, from Liu et al. 2020
   - identifier: TieJiaSiLiHuang
     accession: SoyL08
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Tie Jia Si Li Huang
     origin: China, Ji Lin
     description: Landrace Tie Jia Si Li Huang (SoyL08 from China, Ji Lin, from Liu et al. 2020
   - identifier: TongShanTianEDan
     accession: SoyL03
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Tong Shan Tian E Dan
     origin: China, Jiang Su
     description: Landrace Tong Shan Tian E Dan (SoyL03 from China, Jiang Su, from Liu et al. 2020
   - identifier: WanDouNo_28
     accession: SoyC04
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Wan Dou No.28
     origin: China, An Hui
     description: Cultivar Wan Dou No.28 (SoyC04 from China, An Hui, from Liu et al. 2020
   - identifier: XuDouNo_1
     accession: SoyC01
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Xu Dou No.1
     origin: China, Jiang Su
     description: Cultivar Xu Dou No.1 (SoyC01 from China, Jiang Su, from Liu et al. 2020
   - identifier: YuDouNo_22
     accession: SoyC06
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Yu Dou No.22
     origin: China, He Nan
     description: Cultivar Yu Dou No.22 (SoyC06 from China, He Nan, from Liu et al. 2020
   - identifier: ZhangChunManCangJin
     accession: SoyL06
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Chang Chun Man Cang Jin
     origin: China, Ji Lin
     description: Landrace Chang Chun Man Cang Jin (SoyL06 from China, Ji Lin, from Liu et al. 2020
   - identifier: Zhutwinning2
     accession: SoyL01
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Zhutwinning2
     origin: China
     description: Landrace Zhutwinning2 (SoyL01 from China, from Liu et al. 2020
   - identifier: ZiHuaNo_4
     accession: SoyL02
-    accession_group: 
-    citation: 
+    accession_group: Liu, Du et al., 2020
+    publication_doi: 10.1016/j.cell.2020.05.023
     name: Zi Hua No.4
     origin: China, Hei Long Jiang
     description: Landrace Zi Hua No.4 (SoyL02 from China, Hei Long Jiang, from Liu et al. 2020
-
