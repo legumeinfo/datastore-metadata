@@ -20,8 +20,6 @@ genotype:
 
 description: "Files in this directory are genome annotation files for Glycine max Fiskeby III, Stupar et al. (2020)"
 
-publication_doi: 10.1093/nar/gkv1159
-
 original_file_creation_date: "2021-02-19"
 
 local_file_creation_date: "2021-04-19"
