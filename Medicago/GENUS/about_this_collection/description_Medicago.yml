@@ -14,8 +14,8 @@ resources:
   - name: "Medicago Analysis Portal"
     URL: "https://medicago.legumeinfo.org"
     description: "LIS genus-centric portal for Medicago resources"
-  - name: MedicMine
-    URL: "https://mines.legumeinfo.org/medicmine/begin.do"
+  - name: MedicagoMine
+    URL: "https://mines.legumeinfo.org/medicagomine/begin.do"
     description: "InterMine interface for accessing genetic and genomic data for several species in Medicago."
   - name: Genome Context Viewer
     URL: "https://gcv.legumeinfo.org/gene;lis=medtr.A17_HM341.gnm4.ann2.Medtr1g009230"

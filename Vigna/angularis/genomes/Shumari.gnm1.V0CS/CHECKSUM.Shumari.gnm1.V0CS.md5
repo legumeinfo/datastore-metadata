@@ -1,11 +1,11 @@
 c0bebc19df3b3118c01a5ee052aa7b4a  ./vigan.Shumari.gnm1.V0CS.genome_main.fna.gz.fai
-1ab9a1c5091b2908ea2c55fe35286281  ./CHANGES.Shumari.gnm1.V0CS.txt
+907eeb85028a87edc50384650f7afc26  ./CHANGES.Shumari.gnm1.V0CS.txt
 60542f4bccb595dfb0a3743177818310  ./busco/vigan.Shumari.gnm1.V0CS.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.vigan.Shumari.gnm1.V0CS.genome_main.fna.gz_busco.txt
-851245e6342010f24e8925fc0d99958e  ./README.Shumari.gnm1.V0CS.yml
+ba4e501daf24b54ebc136c139104e870  ./README.Shumari.gnm1.V0CS.yml
 e96bd6ebe921b3987cfcc34cc78766a5  ./BUSCO/vigan.Shumari.gnm1.V0CS.busco.fabales_odb10.short_summary.json
 670ab23beafcce8b4da84db1fd233e3f  ./BUSCO/vigan.Shumari.gnm1.V0CS.busco.fabales_odb10.short_summary.txt
 08c432c6bb786e899bb86f39aed15667  ./BUSCO/vigan.Shumari.gnm1.V0CS.busco.fabales_odb10.full_table.tsv.gz
-43c1c34056e8c66b42a906e1161ca66b  ./vigan.Shumari.gnm1.V0CS.genome_main.fna.gz
+5faf6023d1468db644ad001d99ce89e8  ./vigan.Shumari.gnm1.V0CS.genome_main.fna.gz
 f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.Shumari.gnm1.V0CS.correspondence.yml
 8384b74de5231ac41095e621c19b3a95  ./MANIFEST.Shumari.gnm1.V0CS.descriptions.yml
-0cd251bbc64c1ed403854e53adf271db  ./vigan.Shumari.gnm1.V0CS.genome_main.fna.gz.gzi
+6414cc119f91271ffe09ce5f8a7b44ed  ./vigan.Shumari.gnm1.V0CS.genome_main.fna.gz.gzi

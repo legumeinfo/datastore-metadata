@@ -1,16 +1,17 @@
+---
 identifier: Tifrunner.gnm2.J5K5
 
-provenance: The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. 
+provenance: "The files in this directory are a product of the International Peanut Genome Initiative. The files here are held as part of the LegumeInfo and Peanutbase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and Peanutbase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
 
 source: "https://peanutbase.org/data/"
 
-synopsis: Genome assembly 2 for Arachis hypogaea, cultivar Tifrunner. This version has structural changes relative to assembly 1.
+synopsis: "Genome assembly 2 for Arachis hypogaea, cultivar Tifrunner. This version has structural changes relative to assembly 1."
 
 scientific_name: Arachis hypogaea
 
 taxid: 3818
 
-bioproject: PRJNA291488
+bioproject: PRJNA419393
 
 scientific_name_abbrev: arahy
 
@@ -19,26 +20,35 @@ genotype:
 
 description: "Genome assembly for Arachis hypogaea cultivar Tifrunner. This version is essentially the same as Tifrunner version 1 (arahy.Tifrunner.gnm1.KYV3.genome_main.fna) at the basepair level, but has several large structural rearrangements, on the basis of HiC assessments. The largest changes are: a translocation of ~8 Mbp in the pericentromere of A02; several rearrangements in the pericentromere of A03; a swap in the telomeric regions of A06 and B06; inversion of a small scaffold from the distal end of A08; inversion of a telomeric region in B05; other small changes in telomeric regions of several pseudomolecules: B10, B09, A08."
 
-chromosome_prefix: Arahy
+chromosome_prefix: chr
 
 supercontig_prefix: scaffold
+
+sraproject: 
+
+dataset_doi: 
+
+genbank_accession: 
 
 original_file_creation_date: "2019-03-01"
 
 local_file_creation_date: "2019-05-01"
 
-publication_doi: 10.1038/s41588-019-0405-z
-
 dataset_release_date: "2019-05-01"
 
-publication_title: The genome sequence of segmental allotetraploid peanut Arachis hypogaea
+publication_doi: 10.1038/s41588-019-0405-z
 
-contributors: "The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins; HiC assessments and corrections: Melanie Pham, Olga Dudchenko; Erez Lieberman Aiden lab"
+publication_title: "The genome sequence of segmental allotetraploid peanut Arachis hypogaea"
 
-data_curators: Ethalinda Cannon, Steven Cannon, Jerry Jenkins
+contributors: "The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins; HiC assessments and corrections: Melanie Pham, Olga Dudchenko; Erez Lieberman Aiden lab. Annotation by Jacqueline Campbell, Connor Cameron, and Andrew Farmer."
+
+citation: "Bertioli, D.J., Jenkins, J., Clevenger, J. et al. The genome sequence of segmental allotetraploid peanut Arachis hypogaea. Nat Genet 51, 877-884 (2019). https://doi.org/10.1038/s41588-019-0405-z"
+
+data_curators: Ethalinda Cannon, Steven Cannon, Jerry Jenkins, Andrew Farmer
 
 public_access_level: public
 
-license: Open
+license: open
 
 keywords: peanut, Arachis hypogaea, Tifrunner
+

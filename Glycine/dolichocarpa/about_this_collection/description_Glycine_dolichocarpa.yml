@@ -1,10 +1,9 @@
 ---
-taxid: 82538 
-genus: Glycine 
-species: dolichocarpa   
+taxid: 82538
+genus: Glycine
+species: dolichocarpa
 abbrev: glydo
 description: "Glycine dolichocarpa (Tateishi & Ohashi) is a twining plant with long straight dark brown pods with 5-7 seeds. Seeds are square and dark brown in color. G. dolichocarpa is an allotetraploid (2n = 4x = 80) formed by hybridizatoin between G. syndetika and G. tomentella D3 (both 2n = 40). (This species was formerly part of the Glycine tomentella species complex and was referred to as G. tomentella T2.) It has a limited Australian range in Queensland, but like several other Glycine allopolyploids, has colonized islands of the Pacific Ocean (in this case Taiwan) where no perennial diploid Glycine species have been found ( Ratnaparkhe et al 2011; Harbert et al 2014)."
-
 resources:
   - name: SoyMap2 Diversity Browser on Gmax1.01
     URL: "https://soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_dolichocarpa_alignments_relaxed_filtering"
@@ -12,10 +11,10 @@ resources:
   - name: SoyMap2 Diversity Browser on Gmax2.0
     URL: "https://soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_dolichocarpa_alignments_relaxed_filtering"
     description: "GBrowse for G. dolichocarpa Bac End Sequence alignments on Gmax2.0"
-
 strains:
   - identifier: G1134
-    accession: G1134 
-    name: G. dolichocarpa  
-    origin: Queensland, Australia  
+    accession: G1134
+    accession_group: Zhuang, Wang et al., 2022
+    name: G. dolichocarpa
+    origin: Queensland, Australia
     description: "Glycine dolichocarpa (Tateishi & Ohashi) is a twining plant with long straight dark brown pods with 5-7 seeds. Seeds are square and dark brown in color."

@@ -10,8 +10,8 @@ species:
   - unguiculata
 
 resources:
-  - name: CowpeaMine
-    URL: "https://mines.legumeinfo.org/cowpeamine/begin.do"
+  - name: VignaMine
+    URL: "https://mines.legumeinfo.org/vignamine/begin.do"
     description: "InterMine interface for accessing genetic and genomic data for several species in Vigna."
   - name: ZZBrowse
     URL: "https://zzbrowse.legumeinfo.org/?tab=WhGen&datasets=Cowpea%20GWAS&chr=Vu01&selected=100000&window=250000&datasets2=Soybean%20GWAS&chr2=Gm01&selected2=100000&window2=250000&macroMatched=20&macroIntermediate=10&macroMask=10&macroDistance=levenshtein"

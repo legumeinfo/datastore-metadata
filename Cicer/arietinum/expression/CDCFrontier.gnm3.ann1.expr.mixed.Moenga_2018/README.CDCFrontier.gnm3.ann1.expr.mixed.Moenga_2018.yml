@@ -15,10 +15,6 @@ synopsis: "Study of drought stress effects on gene expression from contrasting d
 
 description: "To decipher the most important changes occurring in chickpea under water stress, we implemented an integrated quantitative and qualitative analysis of morpho-physiological changes and associated transcriptional regulation by whole transcriptome co-expression network analysis. We investigated the root and shoot responses of accessions that possess varying drought tolerance capacities by exposing plants to similar treatments of soil moisture deficit. Cultivated genotypes ICC14778 and ICC8058 have comparable overall phenology but are categorized as drought tolerant and drought sensitive, respectively, based on previous studies of canopy conductance rates and patterns of water use across developmental stages. Plants were grown to the onset of flowering, the developmental stage at which drought is most frequent for chickpea, and soil moisture was reduced in a moderated fashion to achieve 80%, 40% or 20% available soil water (ASW), representing non-stress, mild and severe drought stress treatments."
 
-publication_doi: 10.1093/nar/gkv1159
-
-publication_title: "Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family"
-
 expression_unit: TPM
 
 local_file_creation_date: "2022-07-14"

@@ -1,0 +1,13 @@
+---
+taxid: 35936
+genus: Lablab
+species: purpureus
+abbrev: labpu
+commonName: "antaque, banner bean, carmelita, frijol caballero, hyacinth bean, natoba"
+description: "Lablab purpureus L. Sweet, is an indigenous African legume that is remarkably drought-resilient and thrives in diverse environments. It is grown widely across Asia and Africa."
+strains:
+  - identifier: Highworth
+    accession: Highworth
+    name: Highworth 
+    origin: India
+    description: "This cultivar of Lablab purpureus was sequenced and reported in Njaci, Isaac, et al. DOI: https://doi.org/10.1038/s41467-023-37489-7"

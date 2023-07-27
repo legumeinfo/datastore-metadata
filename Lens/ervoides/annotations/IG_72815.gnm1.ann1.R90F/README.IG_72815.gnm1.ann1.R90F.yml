@@ -12,7 +12,3 @@ genotype:
   - IG_72815
 
 description: Genome annotation version 1 for Lens ervoides IG 72815 genome version 1
-
-publication_doi: 10.1093/nar/gkv1159
-
-publication_title: "Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family"

@@ -3,9 +3,12 @@ c908fbab9e3ba8bd12ea4c15d81cf15f  ./BUSCO/arast.V10309.gnm1.PFL2.busco.fabales_o
 fab12c1ce8e88fe52d35b2a19f553b9f  ./BUSCO/arast.V10309.gnm1.PFL2.busco.fabales_odb10.full_table.tsv.gz
 d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/*.busco.fabales_odb10.full_table.tsv.gz
 faec240bbac90aa193a29ac1ea445fa5  ./MANIFEST.PFL2.correspondence.yml
+039116c908fc69fccfd9fb7e87dbf914  ./arast.V10309.gnm1.PFL2.genome_main.fna.gz.fai
+ec29d4bc0070da9437427107daad2ce8  ./CHANGES.V10309.gnm1.PFL2.txt
 73035054706eb276dcfe093afeeb7f88  ./MANIFEST.PFL2.descriptions.yml
 79e6bb587c84bf683645b6dc852af8b3  ./arast.V10309.gnm1.PFL2.agp_placed.txt.gz
+de9db7d3cde8f1bc4165d001bcdaae9d  ./arast.V10309.gnm1.PFL2.genome_main.fna.gz.gzi
 b1b1d846422d32f2bf7e06c7cd4d4663  ./usage_policy.txt
 6b55f7b9c5339a9d63dc7ae383775653  ./arast.V10309.gnm1.PFL2.agp_unplaced.txt.gz
-69661bb3807e09c3c3e98f5063cbc676  ./arast.V10309.gnm1.PFL2.genome_main.fna.gz
-69ff1d4cf59ae2547d65be3093caee79  ./README.V10309.gnm1.PFL2.yml
+7c4ecbd0d8cd4cb34c2148b999059d99  ./arast.V10309.gnm1.PFL2.genome_main.fna.gz
+21de1a074eae6c2e77f6ed6d312e4fdf  ./README.V10309.gnm1.PFL2.yml

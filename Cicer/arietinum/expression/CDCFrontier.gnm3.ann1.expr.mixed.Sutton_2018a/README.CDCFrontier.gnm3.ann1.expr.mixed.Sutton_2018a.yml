@@ -15,10 +15,6 @@ synopsis: "Study of gene expression in contrasting salt tolerance chickpea genot
 
 description: "Whole transcriptome analysis was performed in leaves of two contrasting chickpea genotypes to investigate the molecular basis for salt tolerance. Salt-sensitive Rupali and salt-tolerant Genesis836 were grown in non-saline (control) or 60 mM NaCl treatment in nutrient solution and leaf tissues were harvested after six days with six biological replicates for transcriptome sequencing. Functional annotation of ‘Genotype’ and ‘interaction’ effect differentially expressed genes identified transcripts with products involved in osmotic adjustment, ion transport, metabolism related to energy generation, stress signalling and regulatory pathways, and photosynthesis."
 
-publication_doi: 10.1093/nar/gkv1159
-
-publication_title: "Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family"
-
 expression_unit: TPM
 
 local_file_creation_date: "2022-07-14"

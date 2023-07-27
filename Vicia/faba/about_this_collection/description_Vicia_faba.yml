@@ -1,0 +1,19 @@
+---
+taxid: 3906
+genus: Vicia
+species: faba
+abbrev: vicfa
+commonName: faba bean
+description: "Faba bean (Vicia faba L., 2n=12) was domesticated in the near East more than 10,000 years BP and its broad adaptability, value as a restorative crop in rotations and high nutritional density have propelled it to the status of a global crop grown on all continents except Antarctica."
+
+strains:
+  - identifier: Hedin2
+    accession: Hedin/2
+    name: faba bean (fava bean)
+    origin: Germany
+    description: "Accession Heddin/2 was selected as a reference genotype due to its high autofertility and productivity, as well as early maturing spring habit and high homozygosity."
+  - identifier: Tiffany
+    accession: Tiffany
+    name: faba bean (fava bean)
+    origin: Germany
+    description: "German cultivar Tiffany has a large seed and light hilum, in contrast to the reference genotype Hedin/2."

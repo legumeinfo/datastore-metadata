@@ -1,9 +1,10 @@
-243a3c278ed1dd812916d1303a6eb1ec  ./aesev.CIAT22838.gnm1.XF73.genome_main.fna.gz.gzi
+ec29d4bc0070da9437427107daad2ce8  ./CHANGES.CIAT22838.gnm1.XF73.txt
+825dbd7a6832bb0cfe056565a5a984d3  ./aesev.CIAT22838.gnm1.XF73.genome_main.fna.gz.gzi
 708b9e93d33271b3b1b5a89c758a3456  ./BUSCO/aesev.CIAT22838.gnm1.XF73.busco.fabales_odb10.short_summary.json
 a7173bcb4f0d1f20e9348bb37009687b  ./BUSCO/aesev.CIAT22838.gnm1.XF73.busco.fabales_odb10.full_table.tsv.gz
 4ed87925eb8bad36f8bff55c9482289a  ./BUSCO/aesev.CIAT22838.gnm1.XF73.busco.fabales_odb10.short_summary.txt
 9676d1edbe79154a57471ba332aa32b1  ./README.CIAT22838.gnm1.XF73.yml
-d357fe8be030cddb093118212a8f32ba  ./aesev.CIAT22838.gnm1.XF73.genome_main.fna.gz
+bd12c35b453bc77c67685a72dbb221fb  ./aesev.CIAT22838.gnm1.XF73.genome_main.fna.gz
 dfbdded03edd6b4be54b51e41c32cdef  ./aesev.CIAT22838.gnm1.XF73.genome_main.gff3.gz
 5459be9f6e37a7254ad7ef8e455e21cd  ./aesev.CIAT22838.gnm1.XF73.genome_main.fna.gz.fai
 4805515f27592ca730dc9c5a3bdfcbc2  ./aesev.CIAT22838.gnm1.XF73.genome_main.gff3.gz.tbi
