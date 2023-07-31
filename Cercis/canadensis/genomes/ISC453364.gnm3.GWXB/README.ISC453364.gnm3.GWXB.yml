@@ -18,6 +18,10 @@ genotype:
 
 description: "This release is from a tree on the Iowa State University campus, registered as accession ISC453364. The resulting genome assembly was resolved into two haplotype assemblies. This particular assembly has been designated as haplotype 1. For full description of assembly methods and characteristics, see the Phytozome description at the URL above."
 
+chromosome_prefix: Chr
+  
+supercontig_prefix: scaffold
+
 original_file_creation_date: "2023-03-08"
 
 local_file_creation_date: "2023-04-11"
