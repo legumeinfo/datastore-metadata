@@ -9,6 +9,8 @@ synopsis: "Pangene set for Vigna species, based primarily on V. unguiculata but 
 
 scientific_name: Vigna
 
+scientific_name_abbrev: Vigna
+
 taxid: 3913
 
 annotations_main:
