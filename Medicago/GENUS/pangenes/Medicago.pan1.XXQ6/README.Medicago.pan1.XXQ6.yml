@@ -42,27 +42,13 @@ annotations_extra:
 
 description: "Pan-gene set for Medicago species, spanning 2 species and 19 annotation sets, calculated using the pandagma pipeline, version 2023-04-03"
 
-bioproject: 
-
-sraproject: 
-
-dataset_doi: 
-
-genbank_accession: 
-
 original_file_creation_date: "2023-04-03"
 
 local_file_creation_date: "2023-04-03"
 
 dataset_release_date: "2023-04-03"
 
-publication_doi: ""
-
-publication_title: ""
-
 contributors: Steven Cannon, Hyunoh Lee
-
-citation: 
 
 data_curators: Steven Cannon
 
@@ -71,4 +57,3 @@ public_access_level: public
 license: Open
 
 keywords: Medicago, barrel medic, alfalfa, lucerne, pan-gene, pangene, orthogroup
-
