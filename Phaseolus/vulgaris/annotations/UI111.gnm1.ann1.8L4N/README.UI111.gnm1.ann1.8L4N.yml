@@ -18,10 +18,6 @@ genotype:
 
 description: "Genome annotations for the Phaseolus vulgaris UI111 v1 genome assembly."
 
-publication_doi: 10.1093/nar/gkv1159
-
-publication_title: "Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family"
-
 original_file_creation_date: "2019-11-01"
 
 local_file_creation_date: "2019-12-01"

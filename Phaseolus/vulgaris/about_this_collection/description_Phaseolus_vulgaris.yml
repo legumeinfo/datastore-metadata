@@ -22,11 +22,6 @@ strains:
       - name: LIS SequenceServer
         URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the Phaseolus vulgaris genome v2.0"
-  - identifier: BAT93
-    accession: PI 633451
-    name: BAT93
-    origin: CIAT
-    description: "Accession BAT93 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies."
   - identifier: UI111
     accession: PI 549535, PI 599011, PI 599012, PI 599013
     name: UI111
@@ -49,3 +44,18 @@ strains:
     name: 5-593
     origin: US National Plant Germplasm System
     description: "5-593 has been used by Dr. Mark Bassett at the University of Florida as the recipient parent to introgress many genes for seed coat color and pattern, flower color, and other morphological traits typically to the backcross three generation."
+  - identifier: BAT93
+    accession: BAT93
+    name: BAT 93
+    origin: CIAT, Colombia
+    description: "Common bean genotype BAT 93, a representative of the Mesoamerican gene pool, was bred for high productivity in tropical conditions at the Centro Internacional de Agricultura Tropical (CIAT), Colombia (Voysest, 1983, 2000). It was selected from a double cross population developed between landraces. BAT 93 was selected for mutagenesis (Table 1) because it is one of the parents of the core common bean mapping population (Freyre et al., 1998), it has been used in the generation of a large BAC library (Kami et al., 2006), and it is amenable for production in temperate and tropical environments and under growth chamber, greenhouse, or field conditions (Blair et al., 2005). BAT 93 also possesses several desirable characteristics (Table 1), including disease resistance (Sanchez-Valdez et al., 2004). Seed of BAT 93 were carefully generated for the experiment from single plant selections and confirmed for homogeneity using simple sequence repeat marker analysis at CIAT."
+  - identifier: Flavert
+    accession: Flavert
+    name: Flavert
+    origin: France
+    description: "Flavert is a flageolet bean originating in France."
+  - identifier: Hystyle
+    accession: Hystyle
+    name: Hystyle
+    origin: USA
+    description: "The common bean variety Hystyle has a combination of consistently high yield and the highest level of Bacterial Brown Spot resistance of any commercial variety, which has made it the most used processing bean in the US."

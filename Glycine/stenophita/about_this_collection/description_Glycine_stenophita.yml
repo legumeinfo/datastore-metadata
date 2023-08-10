@@ -1,10 +1,9 @@
 ---
-taxid: 96944 
-genus: Glycine 
-species: stenophita  
+taxid: 96944
+genus: Glycine
+species: stenophita
 abbrev: glyst
 description: "Glycine stenophita (B.E. Pfeil & Tind.) is a scrambling or climbing perennial that is glabrous or with sparse white hairs covering the stems. Pods are 4 to 6 seeded and seeds are generally barrel shaped with some variation in shape from elliptical to square. G. stenophita is a diploid (2n = 40) member of the B-genome group. It occurs in the Australian states of Queensland and New South Wales (Ratnaparkhe et al 2011; Gonzalez-Orozco et al., 2012)."
-
 resources:
   - name: SoyMap2 Diversity Browser on Gmax1.01
     URL: "https://soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_stenophita_BES_alignments"
@@ -12,11 +11,10 @@ resources:
   - name: SoyMap2 Diversity Browser on Gmax2.0
     URL: "https://soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_stenophita_bes_alignments_relaxed_filtering"
     description: "GBrowse for G. stenophita Bac End Sequence alignments on Gmax2.0"
-
 strains:
   - identifier: G1974
     accession: G1974
+    accession_group: Zhuang, Wang et al., 2022
     name: G. stenophita (B.E. Pfeil & Tind.)
     origin: Australian states of Queensland and New South Wales
     description: "Glycine stenophita (B.E. Pfeil & Tind.) is a scrambling or climbing perennial that is glabrous or with sparse white hairs covering the stems. Pods are 4 to 6 seeded and seeds are generally barrel shaped with some variation in shape from elliptical to square."
-     

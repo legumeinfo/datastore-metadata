@@ -24,3 +24,8 @@ strains:
     name: W6 (15578)
     origin: Mexico
     description: "[Description by Dr. Kirstin Bett] W6 15578 is a wild P. acutifolius accession obtained from the Western Regional Plant Introduction Station of the USDA. Originally collected by O.W. Norvell in Mexico in 1955, it now has the Plant Introduction number PI 638833. It is photoperiod sensitive, has an indeterminate growth habit, small, mottled seeds, and the pods shatter at maturity. It was used as a donor parent in the development of an interspecific hybrid population to improve abiotic stress tolerance in common bean (Souter et al. 2017(1)). W6 15578 was one of the parents, along with PI 430219, of the tepary bean mapping population, BR-06, developed and genotyped at the University of Saskatchewan (Gujaria-Verma et al. 2016(2))."
+  - identifier: Tep23
+    name: Tep 23
+    accession: PI 698457
+    origin: Sonoran Desert
+    description: "TARS-Tep 23 (Reg. no. GP-309, PI 698457) is an improved tepary bean germplasm with wide-ranging adaptation to tropical and temperate regions experiencing high temperature and drought stress conditions, with broad resistance to bean rust and with resistance to common bacterial blight. It has a flat, mottled black seed type with good seed size, a Type III plant habit, and a short crop cycle of 55–61 d in the environments tested. This germplasm was developed cooperatively by the USDA-ARS, Zamorano University, the University of California–Davis, and the University of Nebraska. The use of this improved germplasm by farmers in production zones affected by abiotic and biotic stresses, or by breeding programs, can potentially increase seed yields of this climate-resilient crop."
