@@ -5,7 +5,10 @@ species: cardenasii
 abbrev: araca
 commonName: Mani silvestre (wild peanut)
 description: "Arachis cardenasii Krapov. & W.C. Greg. is a wild peanut relative native to Bolivia. It has been used by peanut breeders and geneticists in interspecific hybrids with cultivated peanut (A. hypogaea) as a source of pest and disease resistance. A. cardenasii is a diploid  species in the 'A-genome' group of Arachis, similar to A. duranensis, which contributed one of the two subgenomes to tetraploid cultivated peanut."
-
+resources:
+  - name: Dowload at DS
+    URL: "https://data.legumeinfo.org/Arachis/cardenasii/"
+    description: "DataStore dir for Arachis cardenasii."
 strains:
   - identifier: K10017
     accession: PI 262141
