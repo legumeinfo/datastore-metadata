@@ -4,8 +4,8 @@ prefix: arahy.BaileyII.gnm1.ann1
 gene_linkouts:
   -
     method: GET
-    href: https://mines.legumeinfo.org/legumemine/gene:{GENE_ID}
-    text: "View {GENE_ID} in LegumeMine"
+    href: https://mines.legumeinfo.org/arachismine/gene:{GENE_ID}
+    text: "View {GENE_ID} in ArachisMine"
   -
     method: GET
     href: https://funnotate.legumeinfo.org/?gene_name={GENE_ID}
