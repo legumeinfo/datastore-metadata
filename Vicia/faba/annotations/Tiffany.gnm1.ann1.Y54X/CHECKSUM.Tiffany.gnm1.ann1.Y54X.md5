@@ -1,6 +1,7 @@
 5d64dafc31f941316c369308405597aa  ./vicfa.Tiffany.gnm1.ann1.Y54X.mrna.fna.gz
-3fe95373b6310b1808739fe6a91cffa9  ./CHANGES.Tiffany.gnm1.ann1.Y54X.txt
-08513297aceafd1a5c19d3b9a95949d1  ./vicfa.Tiffany.gnm1.ann1.Y54X.gene_models_main.gff3.gz.csi
+2f8f74c76c3fd0dc79316ecd5c97eb6a  ./feature_id_remapping.txt
+3cfe003d4241ac602af103214b4f7462  ./CHANGES.Tiffany.gnm1.ann1.Y54X.txt
+f48297886db1c03aa6cbdb95f2163089  ./vicfa.Tiffany.gnm1.ann1.Y54X.gene_models_main.gff3.gz.csi
 ce3c2af78e4170a520cccee5c4f892ec  ./vicfa.Tiffany.gnm1.ann1.Y54X.protein.faa.gz.fai
 9054330b4630476772fa344547376e4e  ./vicfa.Tiffany.gnm1.ann1.Y54X.mrna.fna.gz.fai
 ae6e86adc0f460bfda1889b38ce5555e  ./vicfa.Tiffany.gnm1.ann1.Y54X.cds.bed.gz
@@ -25,7 +26,7 @@ b251311e1cd4126208fa0e3a0a01a5b7  ./vicfa.Tiffany.gnm1.ann1.Y54X.mrna_primary.fn
 c939385f3256143f2d85019e61bf4570  ./vicfa.Tiffany.gnm1.ann1.Y54X.protein_primary.faa.gz.fai
 cbec26921247cc007934786d2812391f  ./vicfa.Tiffany.gnm1.ann1.Y54X.protein.faa.gz.gzi
 1bc0e9ac83d5c414e37f08553381b6ab  ./vicfa.Tiffany.gnm1.ann1.Y54X.mrna.fna.gz.gzi
-173186a1bce4d8b89ae0e9a60c988d5e  ./vicfa.Tiffany.gnm1.ann1.Y54X.gene_models_main.gff3.gz
+c24c70784b99c328a679bf3e7e50c231  ./vicfa.Tiffany.gnm1.ann1.Y54X.gene_models_main.gff3.gz
 e0cf6b18491d7ba3095020c345dc66bb  ./MANIFEST.Tiffany.gnm1.ann1.Y54X.descriptions.yml
 7517242099c510ee057cef25091fbfdf  ./vicfa.Tiffany.gnm1.ann1.Y54X.legfed_v1_0.M65K.gfa.tsv.gz
 d617d23e2fcf782bafe78344ce4fdf39  ./vicfa.Tiffany.gnm1.ann1.Y54X.cds.fna.gz
