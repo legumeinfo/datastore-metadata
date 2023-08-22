@@ -1,0 +1,13 @@
+---
+taxid: 271790
+genus: Lablab
+commonName: Lablab
+description: "A monotypic genus containing only the hyacinth bean (Lablab purpureus, native to Africa and cultivated throughout the tropics as a food crop."
+
+species:
+  - purpureus
+
+resources:
+  - name: Genome Context Viewer
+    URL: "https://gcv.legumeinfo.org/gene;lis=labpu.Highworth.gnm1.ann1.Labpu01g00200"
+    description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
