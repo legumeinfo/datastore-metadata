@@ -9,6 +9,8 @@ synopsis: "Annotation 1 for Glycine max accession Jidou 17 (JD17), genome assemb
 
 scientific_name: Glycine max
 
+scientific_name_abbrev: glyma
+
 taxid: 3847
 
 genotype:
@@ -43,4 +45,3 @@ public_access_level: public
 license: Open, with usage agreement
 
 keywords: soybean, JD17, Jidou 17
-
