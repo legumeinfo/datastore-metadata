@@ -7,9 +7,11 @@ a94d0a2a457e1a91dd0567ebb5af4aad  ./MANIFEST.MG20.gnm3.ann1.WF9B.descriptions.ym
 af48a6a3067676e64bbe5feccc8bf82c  ./BUSCO/lotja.MG20.gnm3.ann1.WF9B.busco.fabales_odb10.full_table.tsv.gz
 94540a0f478549c95d66116f2fd22e20  ./BUSCO/lotja.MG20.gnm3.ann1.WF9B.busco.fabales_odb10.short_summary.txt
 be4d39d7d00827e593086c42670f774b  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz.tbi
+29c2a503c3f5ecf5d0319474be638faf  ./lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz
 0f4b8875dc5eac37ab04067d9ac353bd  ./lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz.fai
 bae609ed62c4a2430a23c6b39fe98a78  ./lotja.MG20.gnm3.ann1.WF9B.protein_primary.faa.gz.gzi
 bcf6571e9602ea2571cb96104cebc911  ./lotja.MG20.gnm3.ann1.WF9B.cds_primary.fna.gz.fai
+fff8da64f2ca1049414955cc900c8dd3  ./lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz.tbi
 aa47dea5dee7778458ad1cc83c2b652f  ./lotja.MG20.gnm3.ann1.WF9B.low_quality_genes.gff3.gz
 0e4fd02f6d710422fdb620f596bfa324  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3
 04ca2a7feefa865c2cce950f9ef777d9  ./MANIFEST.MG20.gnm3.ann1.WF9B.correspondence.yml
