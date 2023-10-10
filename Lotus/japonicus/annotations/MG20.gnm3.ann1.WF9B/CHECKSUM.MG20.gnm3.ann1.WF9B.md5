@@ -14,7 +14,6 @@ bae609ed62c4a2430a23c6b39fe98a78  ./lotja.MG20.gnm3.ann1.WF9B.protein_primary.fa
 bcf6571e9602ea2571cb96104cebc911  ./lotja.MG20.gnm3.ann1.WF9B.cds_primary.fna.gz.fai
 fff8da64f2ca1049414955cc900c8dd3  ./lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz.tbi
 aa47dea5dee7778458ad1cc83c2b652f  ./lotja.MG20.gnm3.ann1.WF9B.low_quality_genes.gff3.gz
-0e4fd02f6d710422fdb620f596bfa324  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3
 04ca2a7feefa865c2cce950f9ef777d9  ./MANIFEST.MG20.gnm3.ann1.WF9B.correspondence.yml
 bd8912360530a39594ca0b90d4518739  ./lotja.MG20.gnm3.ann1.WF9B.mrna_primary.fna.gz.gzi
 d29e6d07b271ca7fcab508fd40ccfb92  ./lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz.gzi
