@@ -12,7 +12,7 @@ f01eeb8191925d71424ddc48dd9e6cf3  ./arahy.Tifrunner.gnm2.ann2.PVFB.protein.faa.g
 3621003e797ac7011738e451848d2acd  ./arahy.Tifrunner.gnm2.ann2.PVFB.protein_lowqual.faa.gz
 d17728cc393fd58f1121dca958034063  ./arahy.Tifrunner.gnm2.ann2.PVFB.mrna.fna.gz.fai
 2f5ff665bfbf1618be0c469b51759ef5  ./arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_lowqual.bed.gz
-646fe6c6b0921f6ef804eb227a87cedd  ./CHANGES.Tifrunner.gnm2.ann2.PVFB.txt
+35c6c57f8ee3f32f44afd2e58911de37  ./CHANGES.Tifrunner.gnm2.ann2.PVFB.txt
 86aa9c488206a4fff4cd9d24a918d247  ./arahy.Tifrunner.gnm2.ann2.PVFB.cds_lowqual.fna.gz
 683c05e2e08c2132a18832a80185107c  ./MANIFEST.Tifrunner.gnm2.ann2.PVFB.descriptions.yml
 a90461b9c01b6e87ec08a8a0b2b583db  ./arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_main.bed.gz
@@ -22,7 +22,7 @@ df4085fb64f6de082c7b754ee391029b  ./arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_l
 27f1299574992abeec3c2bd59c10cdac  ./arahy.Tifrunner.gnm2.ann2.PVFB.protein_lowqual.faa.gz.gzi
 d33ed45b5d9ac633cbda2ce7534caa8b  ./arahy.Tifrunner.gnm2.ann2.PVFB.featid_map.tsv.gz
 b21a21082fce168ebf72bcc22c03e93f  ./arahy.Tifrunner.gnm2.ann2.PVFB.cds_lowqual.fna.gz.fai
-9edc022a4e9894054e2d37f123eaad7b  ./arahy.Tifrunner.gnm2.ann2.PVFB.legfed_v1_0.M65K.gfa.tsv.gz
+c9f66ab47f925f756b383e1b9cba87ae  ./arahy.Tifrunner.gnm2.ann2.PVFB.legfed_v1_0.M65K.gfa.tsv.gz
 3f1774a04664c6535c4c1af4d2c41ba4  ./arahy.Tifrunner.gnm2.ann2.PVFB.mrna_lowqual.fna.gz.gzi
 f8874af162a950fc0742382c7ab46498  ./arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_main.bed.gz.tbi
 a2d800f1a63197a074d280952910ed56  ./arahy.Tifrunner.gnm2.ann2.PVFB.protein.faa.gz.fai
