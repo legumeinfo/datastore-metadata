@@ -45,6 +45,9 @@ strains:
       - name: PeanutBase Genome Browser (GBrowse)
         URL: "https://legacy.peanutbase.org/gb2/gbrowse/arahy.Tifrunner.gnm2/"
         description: "GBrowse for Tifrunner assembly 2.0"
+      - name: NCBI Tifrunner assembly 2.0
+        URL: "https://www.ncbi.nlm.nih.gov/nuccore/PIVG00000000"
+        description: "Tifrunner gnm2.ann2 (assembly 2.0 annotation 2.0) at NCBI"
       - name: LIS SequenceServer
         URL: "https://www.peanutbase.org/tools/sequenceserver/" 
         description: "SequenceServer BLAST against the Tifrunner v2 assembly"
