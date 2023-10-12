@@ -1,5 +1,5 @@
 ---
-identifier: Phaseolus.pan1.X2PC
+identifier: Phaseolus.pan2.G5HV
 
 provenance: "The files in this directory are a product of the staff of the SoyBase and LegumeInfo project teams. The method is described here: https://github.com/legumeinfo/pandagma"
 
@@ -8,8 +8,6 @@ source: "https://data.legumeinfo.org"
 synopsis: "Pangene set for Phaseolus species, based primarily on P. vulgaris but also including P. acutifolius and P. lunatus. This pangene set includes 8 annotation sets."
 
 scientific_name: Phaseolus
-
-scientific_name_abbrev: Phaseolus
 
 taxid: 3883
 
@@ -25,13 +23,13 @@ annotations_main:
 annotations_extra:
   - phavu.G19833.gnm1.ann1
 
-description: "Pan-gene set for Phaseolus species, spanning 3 species and 8 annotation sets, calculated using the pandagma pipeline, version 2023-04-03"
+description: "Pan-gene set for Phaseolus species, spanning 3 species and 8 annotation sets, calculated using the pandagma pipeline, version 2023-09-15"
 
-original_file_creation_date: "2023-04-03"
+original_file_creation_date: "2023-09-15"
 
-local_file_creation_date: "2023-04-03"
+local_file_creation_date: "2023-09-15"
 
-dataset_release_date: "2023-04-03"
+dataset_release_date: "2023-09-15"
 
 contributors: Steven Cannon, Hyunoh Lee
 
@@ -42,3 +40,4 @@ public_access_level: public
 license: Open
 
 keywords: Phaseolus, common bean, lima bean, pan-gene, pangene, orthogroup
+
