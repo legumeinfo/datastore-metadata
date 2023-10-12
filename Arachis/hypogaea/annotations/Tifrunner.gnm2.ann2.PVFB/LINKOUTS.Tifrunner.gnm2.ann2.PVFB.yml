@@ -12,5 +12,5 @@ gene_linkouts:
     text: "View Funnotate phylogram for family of {GENE_ID}"
   -
     method: GET
-    href: https://peanutbase.org/tools/gcv//gene;arachis={GENE_ID}
+    href: https://peanutbase.org/tools/gcv//gene;peanutbase={GENE_ID}
     text: "View {GENE_ID} in arachis Genome Context Viewer"
