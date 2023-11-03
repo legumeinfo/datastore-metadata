@@ -1,4 +1,4 @@
-d124ffaecd607ef654062f76967e6571 CHANGES.Glycine.pan4.RK4P.txt
+030171d2d9e2ae0cc1ddac1f3891b215 CHANGES.Glycine.pan4.RK4P.txt
 4fba1054f308b74625adc1ccef129832 Glycine.pan4.RK4P.clust.tsv.gz
 c5e4def1a6a8d58732a7f4b7a77c6810 Glycine.pan4.RK4P.complement.fna.gz
 29ee255f39f60a526046550bdea12cd9 Glycine.pan4.RK4P.complement.fna.gz.fai
@@ -17,8 +17,9 @@ eacad948d44351760ccd4cc1726e32ff Glycine.pan4.RK4P.pctl25_named_cds.fna.gz.gzi
 e8649b2418bbd831a347849a11c50878 Glycine.pan4.RK4P.pctl25_named_protein.faa.gz
 a330d563e0ea68dc30f52d47341a674d Glycine.pan4.RK4P.pctl25_named_protein.faa.gz.fai
 4c95f6e08fb4ebd607818fb976ad79cd Glycine.pan4.RK4P.pctl25_named_protein.faa.gz.gzi
-936693d2d9eac0dd724a3248832bc3f9 Glycine.pan4.RK4P.ref_lines_table.tsv.gz
 dd806c27bb072ebd44f4bd7e3acae3e8 Glycine.pan4.RK4P.stats.txt
-359c066b7a040cd0ef69d18d3c10e331 MANIFEST.Glycine.pan4.RK4P.correspondence.yml
-73d6a57dff06b4b838aea642dd85d5c7 MANIFEST.Glycine.pan4.RK4P.descriptions.yml
+936693d2d9eac0dd724a3248832bc3f9 Glycine.pan4.RK4P.table_ref_lines.tsv.gz
+4d25f1d2f971170987d2d2eaecb9a153 Glycine.pan4.RK4P.table.tsv.gz
+1fdd33d2f563748bd7523ecc385cffbb MANIFEST.Glycine.pan4.RK4P.correspondence.yml
+89541422620d746af92992391ebb0b94 MANIFEST.Glycine.pan4.RK4P.descriptions.yml
 6faca2b442432fa401e5cf4f8328227b README.Glycine.pan4.RK4P.yml
