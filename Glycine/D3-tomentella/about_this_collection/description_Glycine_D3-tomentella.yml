@@ -5,12 +5,15 @@ species: D3-tomentella
 abbrev: glyd3
 description: "A complex of diploid and tetraploid taxa are lumped under the name \"G. tomentella\" but are each reproductively isolated species, e.g. G. tomentella D3 belongs to the D-genome, whereas D1 G. tomentella belongs to the E-genome."
 resources:
-  - name: SoyMap2 Diversity Browser on Gmax1.01
+  - name: SoyMap2 Diversity Browser on Glyma.Wm82.a1 (Gmax1.01)
     URL: "https://soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_tomentella_BES_alignments_relaxed_filtering"
-    description: "GBrowse for G. tomentella Bac End Sequence alignments on Gmax1.01"
-  - name: SoyMap2 Diversity Browser on Gmax2.0
+    description: "GBrowse for G. tomentella Bac End Sequence alignments on Glyma.Wm82.a1 (Gmax1.01)"
+  - name: SoyMap2 Diversity Browser on Glyma.Wm82.a2 (Gmax2.0)
     URL: "https://soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_tomentella_bes_alignments_relaxed_filtering"
-    description: "GBrowse for G. tomentella Bac End Sequence alignments on Gmax2.0"
+    description: "GBrowse for G. tomentella Bac End Sequence alignments on Glyma.Wm82.a2 (Gmax2.0)"
+  - name: SoyMap II
+    URL: "/projects/zhuang_wang_2022"
+    description: "SoyMap II project to sequence perennial relatives of soybean."
 strains:
   - identifier: G1403
     accession: G1403
