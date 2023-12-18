@@ -5,9 +5,10 @@ species: tomentosa
 abbrev: bauto
 commonName: St. Thomas-tree, bell bauhinia, yellow bauhinia
 description: "A small tree found in Tropical and Southern Africa as well as the Indian subcontinent."
-resources: 
 
 strains:
   - identifier: HK3 
     accession: HK3
     name: HK3
+    origin: Southern Africa
+    description: "A small tree found in Tropical and Southern Africa as well as the Indian subcontinent."

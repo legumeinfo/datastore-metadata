@@ -5,9 +5,10 @@ species: variegata
 abbrev: bauva
 commonName: mountain ebony, orchid tree
 description: "A small deciduous tree native to an area from China through Southeast Asia to the Indian subcontinent. Edible buds are widely used as an ingredient in many subcontinent recipes."
-resources: 
 
 strains:
   - identifier: HK4
     accession: HK4
     name: HK4
+    origin: China
+    description: "A small deciduous tree native to an area from China through Southeast Asia to the Indian subcontinent. Edible buds are widely used as an ingredient in many subcontinent recipes."

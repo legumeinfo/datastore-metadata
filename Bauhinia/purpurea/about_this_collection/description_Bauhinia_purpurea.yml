@@ -5,9 +5,10 @@ species: purpurea
 abbrev: baupu
 commonName: camel's foot tree
 description: "Bauhinia purpurea is a small deciduous tree native to the Indian subcontinent and Myanmar. Some parts of the plant are edible and it has various medicinal uses."
-resources: 
 
 strains:
   - identifier: HK2 
     accession: HK2
     name: HK2
+    origin: Myanmar
+    description: "Bauhinia purpurea is a small deciduous tree native to the Indian subcontinent and Myanmar. Some parts of the plant are edible and it has various medicinal uses."
