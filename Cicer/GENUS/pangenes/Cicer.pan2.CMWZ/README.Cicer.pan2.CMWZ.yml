@@ -1,0 +1,41 @@
+---
+identifier: Cicer.pan2.CMWZ
+
+provenance: "The files in this directory are a product of the staff of the SoyBase and LegumeInfo project teams. The method is described here: https://github.com/legumeinfo/pandagma"
+
+source: "https://data.legumeinfo.org"
+
+synopsis: "Pangene set for Cicer species, based on C. arietinum, C. echinospermum, and reticulatum. This pangene set includes 12 annotation sets."
+
+scientific_name: Cicer
+
+taxid: 3826
+
+annotations_main:
+  - cicar.CDCFrontier.gnm3.ann1
+  - cicar.ICC4958.gnm2.ann1
+  - cicec.S2Drd065.gnm1.ann1
+  - cicre.Besev079.gnm1.ann1
+
+annotations_extra:
+  - cicar.CDCFrontier.gnm1.ann1
+  - cicar.CDCFrontier.gnm2.ann1
+
+description: "Pan-gene set for Cicer species, spanning 3 species and 6 annotation sets, calculated using the pandagma pipeline, version 2023-09-15"
+
+original_file_creation_date: "2023-09-15"
+
+local_file_creation_date: "2023-09-15"
+
+dataset_release_date: "2023-09-15"
+
+contributors: Steven Cannon, Hyunoh Lee
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Cicer, chickpea, pan-gene, pangene, orthogroup
+

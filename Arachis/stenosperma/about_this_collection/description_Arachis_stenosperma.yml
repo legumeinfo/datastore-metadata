@@ -5,7 +5,10 @@ species: stenosperma
 abbrev: arast
 commonName: Amendoim silvestre (wild peanut)
 description: "Arachis stenosperma Krapov. & W.C. Greg. is a wild peanut relative native to central Brazil, in the past it was cultivated by native peoples of South America, and was carried to the Atlantic coast, where populations persist to the present day. It is a source of strong pest and disease resistance and has been used by peanut breeders and geneticists in interspecific hybrids. A. stenosperma is diploid species in the A-genome group of Arachis, which has similarity to the A genome of tetraploid cultivated peanut (A. hypogaea)."
-
+resources:
+  - name: Dowload at DS
+    URL: "https://data.legumeinfo.org/Arachis/stenosperma/"
+    description: "DataStore dir for Arachis stenosperma."
 strains:
   - identifier: V10309
     accession: "PI 666100"

@@ -1,0 +1,33 @@
+---
+identifier: Tifrunner.gnm2.ann2.expr.Tifrunner.Clevenger_2016
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype:
+  - Tifrunner
+  
+synopsis: "A Developmental Transcriptome Map for Allotetraploid Arachis hypogaea"
+
+description: "The advent of the genome sequences of Arachis duranensis and Arachis ipaensis has ushered in a new era for peanut genomics. With the goal of producing a gene atlas for cultivated peanut (Arachis hypogaea), 22 different tissue types and ontogenies that represent the full development of peanut were sequenced, including a complete reproductive series from flower to peg elongation and peg tip immersion in the soil to fully mature seed. Using a genome-guided assembly pipeline, a homeolog-specific transcriptome assembly for Arachis hypogaea was assembled and its accuracy was validated. The assembly was used to annotate 21 developmental co-expression networks as tools for gene discovery. Using a set of 8816 putative homeologous gene pairs, homeolog expression bias was documented, and although bias was mostly balanced, there were striking differences in expression bias in a tissue-specific context. Over 9000 alterative splicing events and over 6000 non-coding RNAs were further identified and profiled in a developmental context. Together, this work represents a major new resource for cultivated peanut and will be integrated into peanutbase.org as an available resource for all peanut researchers."
+
+expression_unit: TPM
+
+bioproject: PRJNA291488
+
+sraproject: SRP061833
+
+publication_doi: 10.3389/fpls.2016.01446
+
+publication_title: "A Developmental Transcriptome Map for Allotetraploid Arachis hypogaea"
+
+citation: "Josh Clevenger, Ye Chu, Brian Scheffler, Peggy Ozias-Akins, A Developmental Transcriptome Map for Allotetraploid Arachis hypogaea, Front. Plant Sci. (2016)"
+
+local_file_creation_date: "2023-10-04"
+
+contributors: "Andrew Farmer, Samuel Hokin"
+
+license: public

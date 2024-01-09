@@ -1,0 +1,45 @@
+---
+identifier: Wm82.gnm4.div.Song_Hyten_2015
+
+provenance: "The files in this directory originated from NCBI dbSNP (https://www.ncbi.nlm.nih.gov/projects/SNP/).  The NCBI dbSNP repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, SoyBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "ftp://ftp.ncbi.nih.gov/snp/organisms/soybean_3847/viewBatch/snpBatch_BARC_1059007.gz"
+
+synopsis: "VCF and HapMap files containing genotype information of the whole U.S. soybean germplasm collection using the SoySNP50K BeadChip."
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - U.S. Soybean Germplasm Collection (Glycine max and Glycine soja)
+
+description: "Multiple files containing genotype information of the U.S. soybean germplasm collection genotyped with the SoySNP50K BeadChip. Data included in this set are VCF files, HapMap files"
+
+genotyping_platform: SoySNP50K
+
+genbank_accession: "ss715578401, ss715639200, rs121965363, rs864620262"
+
+original_file_creation_date: "2015-07-28"
+
+local_file_creation_date: "2016-10-01"
+
+publication_doi: 10.1534/g3.115.019000
+
+dataset_release_date: "2015-07-28"
+
+publication_title: Fingerprinting Soybean Germplasm and Its Utility in Genomic Research
+
+contributors: Qijian Song, David L. Hyten, Gaofeng Jia, Charles V. Quigley, Edward W. Fickus, Randall L. Nelson, and Perry B. Cregan
+
+data_curators: Wei Huang 
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, germplasm, genotyping, SoySNP50K, genetic diversity, haplotype block, map
+
+citation: "Song, Q., Hyten, D. L., Jia, G., Quigley, C. V., Fickus, E. W., Nelson, R. L., & Cregan, P. B. (2015). Fingerprinting soybean germplasm and its utility in genomic research. G3: Genes, Genomes, Genetics, 5(10), 1999-2006."

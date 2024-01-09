@@ -1,0 +1,16 @@
+---
+taxid: 3904
+genus: Vicia
+commonName: vetches
+description: "Vicia is a genus in the legume family comprised of over 240 species, commonly known as vetches. The genus includes bitter vetch (Vicia ervilia), one of the earliest domesticated crop species, and broadbean (Vicia faba). Member species are native to Europe, North America, South America, Asia and Africa."
+
+species:
+  - faba
+
+resources:
+  - name: Genome Context Viewer
+    URL: "https://gcv.legumeinfo.org/gene;lis=vicfa.Hedin2.gnm1.ann1.4g051440"
+    description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
+  - name: Germplasm GIS  
+    URL: "https://germplasm-map.legumeinfo.org/#?zoom=3&maxRecs=200&taxonQuery=Vicia&traitScale=global&geocodedOnly=false&traitExcludeUnchar=false&limitToMapExtent=false&lat=38.33&lng=28.41&mapHeight=188&baseMap=ESRI%20-%20NatGeo%20(default,%20reference%20map)&ne_lat=50.10868962134672&ne_lng=153.91845703125&sw_lat=24.27012711798097&sw_lng=-97.09716796875001&accessionIdsInclusive=false&traitOverlay=&country="
+    description: "Geographic information system viewer, showing collection locations for Vicia data held by the U.S. National Plant Germplasm System."

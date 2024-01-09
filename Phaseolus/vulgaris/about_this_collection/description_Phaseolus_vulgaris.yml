@@ -39,6 +39,11 @@ strains:
     name: Labor Ovalle
     origin: Institute of Agricultural Science and Technology (ICTA)
     description: "Guatemalan highlands landrace improved by selection; round-seeded Bolonilio market class bean."
+  - identifier: OACRex
+    accession: OACRex
+    name: OAC Rex
+    origin: Department of Plant Agriculture, University of Guelph, Guelph, Ontario.
+    description: "OAC Rex is a white-seeded, high-yielding cultivar intended for production in Canada, and is the first common bean cultivar resistant to common bacterial blight."
   - identifier: 5-593
     accession: PI 608674
     name: 5-593

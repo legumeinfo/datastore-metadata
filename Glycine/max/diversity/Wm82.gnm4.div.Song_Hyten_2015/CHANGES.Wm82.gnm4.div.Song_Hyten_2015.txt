@@ -1,0 +1,6 @@
+---
+file_transformation: 
+  - glyma.Wm82.gnm4.div.Song_Hyten_2015.hmp.gz Transformation from VCF format to HapMap format using Tassel-5-standalone.  
+ 
+changes: 
+  - 2023-12-18 Initial preparation for Legume Federation datastore.

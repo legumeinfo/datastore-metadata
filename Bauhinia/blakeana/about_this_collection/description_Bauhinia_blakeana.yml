@@ -1,0 +1,14 @@
+---
+taxid: 180222
+genus: Bauhinia
+species: blakeana 
+abbrev: baubl
+commonName: Hong Kong orchidtree
+description: "A sterile hybrid between Bauhinia variegata and Bauhinia purpurea, originating in Hong Kong in 1880. It is thought that all cultivated trees derive from grafts starting from one cultivated at the Hong Kong Botanical Gardens."
+
+strains:
+  - identifier: HK1 
+    accession: HK1
+    name: HK1
+    origin: Hong Kong
+    description: "A sterile hybrid between Bauhinia variegata and Bauhinia purpurea, originating in Hong Kong in 1880. It is thought that all cultivated trees derive from grafts starting from one cultivated at the Hong Kong Botanical Gardens."
