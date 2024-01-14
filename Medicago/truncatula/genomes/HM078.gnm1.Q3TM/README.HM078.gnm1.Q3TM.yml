@@ -1,0 +1,43 @@
+---
+identifier: HM078.gnm1.Q3TM
+
+provenance: "contributed directly by authors"
+
+source: 
+
+synopsis: Genome assembly for Medicago truncatula (HM078)
+
+scientific_name: Medicago truncatula
+
+taxid: 3880
+
+bioproject: 
+
+scientific_name_abbrev: medtr
+
+genotype:
+  - HM078
+
+supercontig_prefix: ctg
+
+description: "Genome assembly for Medicago truncatula (HM078)."
+
+original_file_creation_date: "2024-01-02"
+
+local_file_creation_date: "2024-01-11"
+
+publication_doi: 
+
+dataset_release_date: "2024-01-11"
+
+publication_title: 
+
+contributors: "Jacob Botkin, Shaun Curtin"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+citation: 
