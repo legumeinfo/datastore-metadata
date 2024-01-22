@@ -1,4 +1,7 @@
 4e4ea00a039158b5bdc1f274bbfb40a2  ./medtr.HM078.gnm1.Q3TM.genome_main.fna.gz.gzi
 699e12b09676e7a0f7d143395f7ec1f3  ./medtr.HM078.gnm1.Q3TM.genome_main.fna.gz.fai
+85e114f09cd90f6be7fe476e4cddba71  ./BUSCO/medtr.HM078.gnm1.Q3TM.busco.fabales_odb10.short_summary.json
+b6a748e9750c298bc658a137d8f1d6c1  ./BUSCO/medtr.HM078.gnm1.Q3TM.busco.fabales_odb10.short_summary.txt
+23821f47677c5c4012629ab4653ecbcf  ./BUSCO/medtr.HM078.gnm1.Q3TM.busco.fabales_odb10.full_table.tsv.gz
 3b594b5531a47ee8830d53698c44a179  ./README.HM078.gnm1.Q3TM.yml
 ab66fa55170527a4a49cca56e4080b49  ./medtr.HM078.gnm1.Q3TM.genome_main.fna.gz
