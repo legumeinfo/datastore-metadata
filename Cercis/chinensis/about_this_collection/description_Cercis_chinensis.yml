@@ -1,0 +1,14 @@
+---
+taxid: 161750
+genus: Cercis
+species: chinensis
+abbrev: cerch
+commonName: Chinese redbud
+description: "Cercis chinensis is a flowering tree endemic to China, with medicinal and horticultural uses."
+
+strains:
+  - identifier: GXIB
+    accession: GXIB
+    name: GXIB
+    origin: "A plant at the campus of Guangxi Institute of Botany, Chinese Academy of Sciences"
+    description: "A plant at the campus of Guangxi Institute of Botany, Chinese Academy of Sciences"
