@@ -7,12 +7,6 @@ commonName: barrel medic
 description: "Medicago truncatula, a close relative of alfalfa (M. sativa), is widely used as a model in legume biology. It is physically small in stature, with a small genome, and has a short generation-to-generation time. Sevweral high-quality genome assemblies have been generated, including Tang et al., 2014 (DOI:10.1186/1471-2164-15-312) and Pecrix et al., 2018 (DOI:10.1038/s41477-018-0286-7)."
 
 resources: 
-  - name: LIS Genome Browser (GBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/gbrowse/Mt4.0"
-    description: "GBrowse for Medicago truncatula assembly v4.0"
-  - name: LIS Genome Browser (JBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/jbrowse/Mt4.0"
-    description: "JBrowse for Medicago truncatula assembly v4.0"
   - name: LIS SequenceServer
     URL: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against the Medicago truncatula assembly v4.0"   

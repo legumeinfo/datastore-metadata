@@ -16,12 +16,6 @@ strains:
     origin: Southern Bolivia
     description: "Arachis ipaensis accession K30076 is the only accession collected from what is thought to be the origin of tetraploid peanut, Villa Montes Bolivia. It was likely carried there by early agriculturalists from a larger population several hundred kilometers to the north (Bertioli et al., 2016: doi:10.1038/ng.3517)"
     resources:
-      - name: Peanutbase Genome Browser (GBrowse)
-        URL: "https://legacy.peanutbase.org/gb2/gbrowse/Araip1.0"
-        description: "GBrowse for K30076 assembly 1.0"
-      - name: Peanutbase Genome Browser (JBrowse)
-        URL: "https://legacy.peanutbase.org/genomes/jbrowse?data=Araip1.0"
-        description: "JBrowse for K30076 assembly 1.0"
       - name: "Genome assembly at NCBI"
         URL: "http://www.ncbi.nlm.nih.gov/assembly/GCA_000816755.1/"
         description: "Genome assembly at NCBI, K30076"

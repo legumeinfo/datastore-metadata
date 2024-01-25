@@ -16,12 +16,6 @@ strains:
     origin: Argentina, via USDA National Plant Germplasm Repository
     description: "Arachis duranensis strain V14167 originates in a region east of the Andes, in the vicinity of northern Argentina and southern Bolivia. This accession is thought to be one of the diploid ancestors of cultivated peanut. Its genome has been sequenced as part of the Peanut Genomics Initiative, to help in the accurate assembly of the more important cultivated peanut, A. hypogaea. This accession is described in Bertioli et al., 2016 (doi:10.1038/ng.3517)"
     resources:
-      - name: Peanutbase Genome Browser (GBrowse)
-        URL: "https://legacy.peanutbase.org/gb2/gbrowse/Aradu1.0"
-        description: "GBrowse for V14167 assembly 1.0"
-      - name: Peanutbase Genome Browser (JBrowse)
-        URL: "https://legacy.peanutbase.org/genomes/jbrowse?data=Aradu1.0"
-        description: "JBrowse for V14167 assembly 1.0"
       - name: "Genome assembly at NCBI"
         URL: "http://www.ncbi.nlm.nih.gov/assembly/GCA_000817695.1/"
         description: "Genome assembly at NCBI, V14167"

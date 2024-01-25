@@ -7,12 +7,6 @@ commonName: red clover
 description: "Red clover (Trifolium pratense) is a perennial legume species native to Northwest Africa, Europe and Western Asia. Today, red clover is found in many regions around the world including the Americas and Australia. Unlike other legume species, red clover is an outcrossing species due to a strong gametophytic incompatibility system. Red clover is a widely grown fodder legume crop and is valued for its role in increasing soil fertility by nitrogen fixation."
 
 resources:
-  - name: LIS Genome Browser (GBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/gbrowse/Tp2.0"
-    description: "GBrowse Trifolium pratense assembly v2.0"
-  - name: LIS Genome Browser (JBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/jbrowse/?data=Tp2.0"
-    description: "JBrowse for Trifolium pratense assembly v2.0" 
   - name: LIS SequenceServer
     URL: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against Trifolium pratense assembly v2.0"
