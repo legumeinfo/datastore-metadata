@@ -12,7 +12,6 @@ strains:
     name: G27455
     origin: Colombia
     description: "G27455 was selected from MI population, which is the most widespread among domesticated gene pools. Domesticated accessions have low heterozygosity, which reduces the complexity of genome assembly. G27455 is cultivated in the north of Colombia, where temperatures are very high all year, suggesting it may be a good source of candidate genes for resistance to heat and drought stress."
-    resources: 
   - identifier: B2C
     accession: PI 549515
     name: B2C

@@ -21,7 +21,6 @@ strains:
     name: UI111
     origin: US National Plant Germplasm System
     description: "Bean variety UI111 is a Mesomarican line that has been used in numerous breeding projects and trait-mapping studies.It is a pinto-type bean, with indeterminate climbing habit."
-    resources: 
   - identifier: LaborOvalle
     accession: Labor Ovalle
     name: Labor Ovalle
