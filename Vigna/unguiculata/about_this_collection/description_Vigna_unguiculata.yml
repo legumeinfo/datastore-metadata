@@ -16,7 +16,6 @@ strains:
     name: IT97K-499-35
     origin: IITA, Nigeria
     description: "Cowpea variety is an elite breeding line developed at the International Institute of Tropical Agriculture (IITA, Nigeria). This accession was used for generation of the reference genome assembly described in Lonardi et al., 2019 (DOI:10.1111/tpj.14349)."
-    resources:
   - identifier: CB5-2
     name: CB5-2
     accession: CB5-2
