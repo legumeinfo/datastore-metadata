@@ -1,0 +1,47 @@
+---
+identifier: TE_lib_2024.rpt.YFQ7
+
+provenance: "This repository is considered the primary source for these files. The files here are held as part of the PeanutBase, LegumeInfo, and SoyBase projects."
+
+synopsis: Genomic repetitive elements for legume species. Derived from 14 diverse genera (11 legumes and 3 non-legumes).
+
+scientific_name: Fabaceae
+
+taxid: 3803
+
+scientific_name_abbrev: legume 
+
+genotype:
+  - Arachis species
+  - Arabidopsis thaliana
+  - Bauhinia tomentosa
+  - Cercis canadensis
+  - Cercis chinensis
+  - Chamaecrista faciculata
+  - Glycine max
+  - Medicago truncatula
+  - Phaseolus vulgaris
+  - Prunus persica
+  - Quillaja saponaria
+  - Senna tora
+  - Sindora glauca
+  - Vitis vinifera
+
+description: "Genomic repetitive elements for legume species. Derived from RepeatModeler run on 14 genomes -- 11 legumes and three non-legume species: arasp arath bauto cerca cerch chafa glyma medtr phavu prupe quisa sento singl vitvi. Additional curated repeats in Arachis contributed by Dongying Gao, David Bertioli, Soraya Bertioli and in Glycine contributed by Jianxin Ma and Jianchang Du, as part of the Williams 82 reference genome project in 2010."
+
+original_file_creation_date: "2024-01-23"
+
+local_file_creation_date: "2024-01-23"
+
+dataset_release_date: "2024-01-27"
+
+contributors: "Hyunoh Lee, Steven Cannon, Dongying Gao, David Bertioli, Jianxin Ma, Jianchang Du"
+
+data_curators: Steven Cannon, Hyunoh Lee
+
+public_access_level: public
+
+license: Open
+
+keywords: transposable elements
+
