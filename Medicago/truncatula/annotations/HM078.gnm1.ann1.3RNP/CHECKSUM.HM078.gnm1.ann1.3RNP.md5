@@ -3,6 +3,8 @@ adf1b17620b4f5699c1502a6588339a2  ./medtr.HM078.gnm1.ann1.3RNP.gene_models_main.
 49e4992064141a84e361dbadd785ba58  ./medtr.HM078.gnm1.ann1.3RNP.protein.faa.gz
 cd80fa46e412cb66472db90883ace6d8  ./medtr.HM078.gnm1.ann1.3RNP.cds.fna.gz.gzi
 f0288fdaf6e82de3e957886ffeb1a080  ./medtr.HM078.gnm1.ann1.3RNP.legfed_v1_0.M65K.gfa.tsv.gz
+be4c463008222c4542fd0e28a4888dd6  ./medtr.HM078.gnm1.ann1.3RNP.gene_models_main.bed.gz.tbi
+844923d40861a91c05804f396c0a701b  ./medtr.HM078.gnm1.ann1.3RNP.gene_models_main.bed.gz
 b818a5a86bc7c04021d4103f86e5a276  ./medtr.HM078.gnm1.ann1.3RNP.iprscan.gff3.gz
 82f5ebc2af0f5a48950660c142848d2d  ./medtr.HM078.gnm1.ann1.3RNP.protein.faa.gz.fai
 239fb56cf3070c2d3f39c6c80630e37b  ./medtr.HM078.gnm1.ann1.3RNP.gene_models_main.gff3.gz.tbi
