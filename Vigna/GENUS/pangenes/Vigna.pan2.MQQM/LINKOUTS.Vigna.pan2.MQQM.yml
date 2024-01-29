@@ -1,0 +1,8 @@
+---
+prefix: Vigna.pan2
+
+pan_gene_set_linkouts:
+  -
+   method: GET
+   href: https://mines.legumeinfo.org/legumemine/pangeneset:{PAN_GENE_SET_ID}
+   text: "View report for {PAN_GENE_SET_ID}"
