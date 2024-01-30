@@ -13,7 +13,7 @@ c69c7edf12ad79f176d0365902e36d4e  ./arast.V10309.gnm1.ann1.CZRZ.cds_primary.fna.
 1ff23c576960f7354f35728ff00ac8fa  ./arast.V10309.gnm1.ann1.CZRZ.protein_primary.faa.gz
 7bc661e46f60e9308d5cd2663776e081  ./arast.V10309.gnm1.ann1.CZRZ.protein_primary.faa.gz.fai
 04ef98566b55ad667b058b1bfb3dc8df  ./arast.V10309.gnm1.ann1.CZRZ.featid_map.tsv.gz
-f888bec467738642550af258e3e61113  ./arast.V10309.gnm1.ann1.CZRZ.iprscan.gff3.gz
+daed0de5d10057896f6b4f1ac5196e8b  ./arast.V10309.gnm1.ann1.CZRZ.iprscan.gff3.gz
 eb04962bd814ee2aaaedd42e774f17ee  ./arast.V10309.gnm1.ann1.CZRZ.protein_primary.faa.gz.gzi
 7cacd41f7aa04ec27ed09daa2c967e28  ./arast.V10309.gnm1.ann1.CZRZ.mrna.fna.gz
 5d1928c4f5bf4245aae4d266531ba816  ./arast.V10309.gnm1.ann1.CZRZ.cds_primary.fna.gz.fai
@@ -29,5 +29,5 @@ e2f21d5ed24891d848c9f98e244cadbe  ./arast.V10309.gnm1.ann1.CZRZ.protein.faa.gz
 b42d54c9910048ddb841ca2ff57eac91  ./MANIFEST.V10309.gnm1.ann1.CZRZ.descriptions.yml
 d037c86f41256501f7f40d94cb6a2d5e  ./arast.V10309.gnm1.ann1.CZRZ.protein.faa.gz.fai
 92fa388cf112420111f5218a0da23306  ./arast.V10309.gnm1.ann1.CZRZ.cds.fna.gz
-d1293c7e339185b773c0d2809d78e88a  ./arast.V10309.gnm1.ann1.CZRZ.iprscan.gff3.gz.tbi
+c12383db77e38c85973edfba355fc5a4  ./arast.V10309.gnm1.ann1.CZRZ.iprscan.gff3.gz.tbi
 e7e13718aea32fbff026133e7bb1bf33  ./README.V10309.gnm1.ann1.CZRZ.yml
