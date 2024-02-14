@@ -23,7 +23,7 @@ resources:
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 strains:
   - identifier: Wm82_ISU01
-    accession: Wm82-ISU-01
+    accession: PI 704477
     name: Williams 82-ISU-01
     accession_group: Reference - Williams 82
     origin: Northern United States
