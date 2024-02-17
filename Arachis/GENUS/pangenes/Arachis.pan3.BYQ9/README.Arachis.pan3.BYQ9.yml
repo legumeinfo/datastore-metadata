@@ -1,0 +1,42 @@
+---
+identifier: Arachis.pan3.BYQ9
+
+provenance: "The files in this directory are a product of the staff of the LegumeInfo, PeanutBase, and SoyBase project teams. The method is described here: https://github.com/legumeinfo/pandagma"
+
+source: "https://data.legumeinfo.org"
+
+synopsis: "Pangene set for Arachis species, based on A. hypogaea, A. duranensis, and A. ipaensis. This pangene set includes four annotation sets from A. hypogaea and one each from A. duranensis and A. ipaensis."
+
+scientific_name: Arachis
+
+taxid: 3826
+
+annotations_main:
+  - arahy.BaileyII.gnm1.ann1
+  - arahy.Tifrunner.gnm1.ann2
+  - arahy.Tifrunner.gnm2.ann1
+  - arahy.Tifrunner.gnm2.ann2
+
+annotations_extra:
+  - aradu.V14167.gnm1.ann1
+  - araip.K30076.gnm1.ann1
+  - arast.V10309.gnm1.ann1
+
+description: "Pan-gene set for Arachis species, spanning 4 species and 7 annotation sets, calculated using the pandagma pipeline, version 2.0 (February, 2024)"
+
+original_file_creation_date: "2024-02-14"
+
+local_file_creation_date: "2024-02-14"
+
+dataset_release_date: "2024-02-14"
+
+contributors: The International Peanut Genome Initiative and authors of all constituent genomes and annotations
+
+data_curators: Steven Cannon, Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: Arachis, peanut, pan-gene, pangene, orthogroup
+
