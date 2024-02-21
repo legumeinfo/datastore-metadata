@@ -1,0 +1,37 @@
+---
+identifier: Wm82.rpt.C1JW
+
+provenance: "This repository is considered the primary source for these files. The files here are held as part of the SoyBase and LegumeInfo."
+
+source: "https://soybase.org/data"
+
+synopsis: Genomic repetitive elements for Glycine max, identified in Williams 82 (Wm82) assembly 1, published as part of SoyTEdb
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+description: "This collection contains repetitive elements for Glycine max identified by Du, Grant, Tian et al. (2010)."
+
+original_file_creation_date: "2010-02-17"
+
+local_file_creation_date: "2024-02-21"
+
+dataset_release_date: "2024-02-21"
+
+publication_doi: 10.1186/1471-2164-11-113
+
+contributors: "Du J, Grant D, Tian Z, Nelson RT, Zhu L, Shoemaker RC, Ma J."
+
+data_curators: Rex Nelson, David Grant, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: transposable elements, SoyTEdb, soybean, repetitive elements
