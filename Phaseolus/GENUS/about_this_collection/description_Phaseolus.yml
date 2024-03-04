@@ -8,6 +8,7 @@ species:
   - lunatus 
   - vulgaris  
   - acutifolius  
+  - coccineus
 
 resources:
   - name: PhaseolusMine
