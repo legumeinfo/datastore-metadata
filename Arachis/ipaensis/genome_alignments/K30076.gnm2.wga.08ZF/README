@@ -1,0 +1,11 @@
+identifier: K30076.gnm2.wga.08ZF  
+
+provenance: The files in this dir originated from alignment of the two genomes below at PeanutBase/LIS.
+Used minimap2(script:run_minimap2_genome.bash) between araip.K30076.gnm2.1GWY.genome_main.fna.gz (Ref) and araca.K10017.gnm1.DQ4M.genome_main.fna.gz(Qry). 
+
+synopsis: araip.K30076.gnm2-x-araca.K10017.gnm1
+
+description:
+
+data_curators: Sudhansu Dash
+
