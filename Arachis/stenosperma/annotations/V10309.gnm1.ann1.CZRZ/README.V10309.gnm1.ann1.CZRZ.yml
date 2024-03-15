@@ -1,0 +1,46 @@
+---
+identifier: V10309.gnm1.ann1.CZRZ
+
+provenance: "The files in this directory originated from GenBank, for RefSeq genome sequence GCF_014773155.1, submitted by the International Peanut Genome Initiative in 2018. The GenBank source is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and Peanutbase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and Peanutbase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_014773155.1"
+
+synopsis: "GenBank RefSeq annotation for Genome assembly 1 for Arachis stenosperma, genotype V10309"
+
+scientific_name: Arachis stenosperma
+
+taxid: 217475
+
+genotype:
+  - V10309
+
+chromosome_prefix: Chr
+
+supercontig_prefix: Scaffold
+
+description: "This annotation was produced by GenBank on the RefSeq assembly V10309 in 2023"
+
+genbank_accession: GCF_014773155.1
+
+original_file_creation_date: "2023-10-01"
+
+local_file_creation_date: "2024-01-17"
+
+dataset_release_date: "2024-01-22"
+
+publication_doi: 10.1038/s41588-019-0405-z
+
+publication_title: "The genome sequence of segmental allotetraploid peanut Arachis hypogaea"
+
+contributors: The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins
+
+citation: "Bertioli, D.J., Jenkins, J., Clevenger, J. et al. The genome sequence of segmental allotetraploid peanut Arachis hypogaea. Nat Genet 51, 877-884 (2019). https://doi.org/10.1038/s41588-019-0405-z"
+
+data_curators: Steven Cannon, Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: wild peanut, Arachis stenosperma
+

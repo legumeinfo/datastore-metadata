@@ -5,13 +5,6 @@ species: acutifolius
 abbrev: phaac
 commonName: tepary bean
 description: "The tepary bean (Phaseolus acutifolius), native to the Southwestern United States and northern Mexico, has been cultivated by indigenous groups in that region since pre-Columbian times. It is generally more drought-tolerant than common bean"
-resources: 
-  - name: LIS Genome Browser (GBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/gbrowse/phaac.Frijol_Bayo.gnm1"
-    description: "GBrowse for Frijol_Bayo assembly v1.0"
-  - name: LIS Genome Browser (JBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/jbrowse/?data=phaac.Frijol_Bayo.gnm1"
-    description: "JBrowse for Frijol_Bayo assembly v1.0"
     
 strains:
   - identifier: Frijol_Bayo

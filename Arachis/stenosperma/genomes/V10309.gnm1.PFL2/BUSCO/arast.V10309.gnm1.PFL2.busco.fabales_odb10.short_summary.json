@@ -16,7 +16,7 @@
         "use_augustus": "False",
         "batch_mode": "False",
         "tar": "False",
-        "in": "/busco_wd/run_busco.bash.HhFEIb/arast.V10309.gnm1.PFL2.genome_main.fna",
+        "in": "/busco_wd/run_busco.bash.TUc4DD/arast.V10309.gnm1.PFL2.genome_main.fna",
         "out": "BUSCO_genome_fabales_odb10",
         "mode": "euk_genome_met",
         "lineage_dataset": "/erdos/adf/busco_downloads/lineages/fabales_odb10",

@@ -6,12 +6,6 @@ abbrev: vigan
 commonName: adzuki bean
 description: "Adzuki bean (Vigna angularis) is a diploid legume crop (2n = 2x = 22). Adzuki beans are commonly sweetened before eating by boiling the beans with sugar, resulting in red bean paste. The adzuki bean is a good dietary source for a variety of minerals including; magnesium, potassium and zinc. Genome assemblies have been generated for several accessions."
 resources:
-  - name: LIS Genome Browser (GBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/gbrowse/Va3.0"
-    description: "GBrowse for Vigna angularis assembly v3.0"
-  - name: LIS Genome Browser (JBrowse)
-    URL: "https://legacy.legumeinfo.org/genomes/jbrowse/?data=Va3.0"
-    description: "JBrowse for Vigna angularis assembly v3.0"
   - name: LIS SequenceServer
     URL: "https://sequenceserver.legumeinfo.org/"
     description: "SequenceServer BLAST against the Vigna angularis assembly v3.0"

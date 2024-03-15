@@ -1,0 +1,42 @@
+---
+identifier: GXIB.gnm1.ann1.L8L4
+
+provenance: "The files in this directory originated from the Genome Warehouse of the China National Center for Bioinformation, https://ngdc.cncb.ac.cn/gwh. The Genome Warehouse repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://ngdc.cncb.ac.cn/gwh/Assembly/24066/show"
+
+synopsis: "Gene annotations for Cercis chinensis, from a plant at the campus of Guangxi Institute of Botany, Chinese Academy of Sciences."
+
+scientific_name: Cercis chinensis
+
+taxid: 161750
+
+genotype:
+  - GXIB
+
+description: "Gene annotations for Cercis chinensis were based on deep transcriptome sequencing of five plant tissues, and transcriptome-based, homolog-based, and ab initio methods."
+
+genbank_accession: GWHBHAK00000000
+
+original_file_creation_date: "2021-11-20"
+
+local_file_creation_date: "2024-01-08"
+
+dataset_release_date: "2024-02-01"
+
+publication_doi: 10.1016/j.xplc.2022.100422
+
+publication_title: "The nearly complete assembly of the Cercis chinensis genome and Fabaceae phylogenomic studies provide insights into new gene evolution"
+
+contributors: Li J, Shen J, Wang R, Chen Y, Zhang T, Wang H, Guo C, Qi J.
+
+citation: "Li J, Shen J, Wang R, Chen Y, Zhang T, Wang H, Guo C, Qi J. The nearly complete assembly of the Cercis chinensis genome and Fabaceae phylogenomic studies provide insights into new gene evolution. Plant Commun. 2023 Jan 9;4(1):100422. doi: 10.1016/j.xplc.2022.100422. Epub 2022 Aug 11. PMID: 35957520; PMCID: PMC9860166."
+
+data_curators: Steven Cannon, Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: Chinese redbud tree
+

@@ -36,15 +36,6 @@ strains:
     origin: Southeastern United States
     description: "Cultivar Tifrunner is a runner-type peanut bred in the United States and widely planted as a variety and widely used in breeding programs. The genome of this cultivar is described in Bertioli et al., 2019 (doi:10.1038/s41588-019-0405-z)."
     resources:
-      - name: Peanutbase Genome Browser (GBrowse)
-        URL: "https://legacy.peanutbase.org/gbrowse_peanut1.0"
-        description: "GBrowse for Tifrunner assembly 1.0"
-      - name: Peanutbase Genome Browser (JBrowse)
-        URL: "https://legacy.peanutbase.org/genomes/jbrowse?data=arahy.Tifrunner.gnm1"   
-        description: "JBrowse for Tifrunner assembly 1.0"
-      - name: PeanutBase Genome Browser (GBrowse)
-        URL: "https://legacy.peanutbase.org/gb2/gbrowse/arahy.Tifrunner.gnm2/"
-        description: "GBrowse for Tifrunner assembly 2.0"
       - name: NCBI Tifrunner assembly 2.0
         URL: "https://www.ncbi.nlm.nih.gov/nuccore/PIVG00000000"
         description: "Tifrunner gnm2.ann2 (assembly 2.0 annotation 2.0) at NCBI"

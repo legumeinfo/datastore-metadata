@@ -12,13 +12,6 @@ strains:
     name: G27455
     origin: Colombia
     description: "G27455 was selected from MI population, which is the most widespread among domesticated gene pools. Domesticated accessions have low heterozygosity, which reduces the complexity of genome assembly. G27455 is cultivated in the north of Colombia, where temperatures are very high all year, suggesting it may be a good source of candidate genes for resistance to heat and drought stress."
-    resources: 
-      - name: LIS Genome Browser (GBrowse)
-        URL: "https://legacy.legumeinfo.org/genomes/gbrowse/phalu.G27455.gnm1"
-        description: "GBrowse for G27544 assembly v1.0"
-      - name: LIS Genome Browser (JBrowse)
-        URL: "https://legacy.legumeinfo.org/genomes/jbrowse/?data=phalu.G27455.gnm1"
-        description: "JBrowse for G27544 assembly v1.0"
   - identifier: B2C
     accession: PI 549515
     name: B2C

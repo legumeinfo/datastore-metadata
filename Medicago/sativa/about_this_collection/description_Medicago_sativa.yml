@@ -22,12 +22,6 @@ strains:
     origin: China
     description: "Xinjiang Daye is a salt-sensitive cultivar of alfalfa."
     resources:
-      - name: LIS Genome Browser (GBrowse)
-        URL: "https://legacy.legumeinfo.org/gb2/gbrowse/medsa.XinJiangDaYe.gnm1"
-        description: "GBrowse for XinJiangDaYe assembly v1.0"
-      - name: LIS Genome Browser (JBrowse)
-        URL: "https://legacy.legumeinfo.org/genomes/jbrowse/?data=medsa.XinJiangDaYe.gnm1"
-        description: "JBrowse for XinJiangDaYe assembly v1.0"
       - name: LIS SequenceServer
         URL: "https://sequenceserver.legumeinfo.org/"
         description: "SequenceServer BLAST against the XinJiangDaYe assembly v1.0"

@@ -1,0 +1,35 @@
+---
+identifier: XinJiangDaYe.gnm1.mrk.3KAlfaDArTagBICU01
+
+genotyping_platform: 3KAlfaDArTagBICU01
+
+synopsis: "3KAlfaDArTagBICU01 is a DArTag panel of 3K loci distributed across the alfalfa genome for use in molecular breeding and genomic insight"
+
+related_to: XinJiangDaYe.gnm1.12MR
+
+scientific_name: Medicago sativa
+
+taxid: 3879
+
+scientific_name_abbrev: medsa
+
+genotype:
+  - XinJiangDaYe
+
+description: "This alfalfa 3K DArTag panel was developed from a diversity panel of 40 individual alfalfa clonal genotypes, focusing on elite breeding and stress-resistant genotypes used in North America. This panel consisted of 17 elite parents with various fall dormancy levels, six samples of diploid-cultivated alfalfa, 13 genotypes with abiotic stress resistance, one genotype with Aphanomyces root rot disease resistance, and three other genotypes... a high-confidence set of 10K SNPs were obtained by requiring them: (1) not located within 5bp distance to an indel, (2) QUAL > 30, (3) minimum and maximum read depths of 20 and 1,900, respectively, (4) for each sample, at least one read supporting reference allele and two reads supporting the alternative allele, (5) no missing genotype per SNP position, (6) with a minor allele frequency greater than 0.25, (7) not located in transposable elements and (8) not within 1Kb of chromosome termini. The 10K SNPs were assessed by DArT, and from those that passed QC, a 3K SNP set targeting even genomic distribution was selected to form a 3K DArTag marker panel. Of the 3,000 loci selected for the panel, 85% (2,542) reside in genic regions and only 15% (458) reside in non-genic regions."
+
+publication_doi: 10.1371/journal.pone.0054985 
+
+publication_title: "A public mid-density genotyping platform for alfalfa (Medicago sativa L.)"
+
+contributors: "Dongyan Zhao, Katherine Mejia-Guerra, Marcelo Mollinari, Deborah A Samac, Brian M Irish, Kasia Heller-Uszynska, Craig T Beil, Moira J Sheehan"
+
+citation: "Dongyan Zhao, Katherine Mejia-Guerra, Marcelo Mollinari, Deborah A Samac, Brian M Irish, Kasia Heller-Uszynska, Craig T Beil, Moira J Sheehan. A public mid-density genotyping platform for alfalfa (Medicago sativa L.). Genetic Resources 2023; 4 (8), 55–63. doi:10.46265/genresj.EMOR6509"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: alfalfa, genetic markers, genotyping

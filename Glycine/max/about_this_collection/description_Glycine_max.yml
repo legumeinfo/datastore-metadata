@@ -23,7 +23,7 @@ resources:
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 strains:
   - identifier: Wm82_ISU01
-    accession: Wm82-ISU-01
+    accession: PI 704477
     name: Williams 82-ISU-01
     accession_group: Reference - Williams 82
     origin: Northern United States
@@ -244,3 +244,9 @@ strains:
     name: Zi Hua No.4
     origin: China, Hei Long Jiang
     description: Landrace Zi Hua No.4 (SoyL02 from China, Hei Long Jiang, from Liu et al. 2020
+  - identifier: Wm82_NJAU
+    accession: Wm82_NJAU
+    accession_group: 
+    name: "Williams 82 Nanjing Agricultural University"
+    origin: "Nanjing Agricultural University"
+    description: "Williams 82 sequenced for T2T assembly of Wang, Zhang et al. 2023"
