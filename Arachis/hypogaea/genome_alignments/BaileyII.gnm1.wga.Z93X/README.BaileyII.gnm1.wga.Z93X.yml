@@ -1,6 +1,8 @@
 ---
 identifier: BaileyII.gnm1.wga.Z93X
 
+taxid: 3818  
+
 provenance: "The files in this dir originated from alignment of genomes below at PeanutBase/LIS.  Used minimap2(script:run_minimap2_genome.bash) between BaileyII.gnm1.1JTF (Ref) and other genomes as Qry."
 
 synopsis: Genome alignments with BaileyII.gnm1.1JTF
