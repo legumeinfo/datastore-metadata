@@ -9,6 +9,8 @@ synopsis: "Pangene set for Cicer species, based on C. arietinum, C. echinospermu
 
 scientific_name: Cicer
 
+scientific_name_abbrev: Cicer
+
 taxid: 3826
 
 annotations_main:

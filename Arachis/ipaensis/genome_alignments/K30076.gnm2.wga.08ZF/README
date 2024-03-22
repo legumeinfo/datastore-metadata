@@ -1,11 +1,12 @@
-identifier: K30076.gnm2.wga.08ZF  
+identifier: BaileyII.gnm1.wga.Z93X
 
-provenance: The files in this dir originated from alignment of the two genomes below at PeanutBase/LIS.
-Used minimap2(script:run_minimap2_genome.bash) between araip.K30076.gnm2.1GWY.genome_main.fna.gz (Ref) and araca.K10017.gnm1.DQ4M.genome_main.fna.gz(Qry). 
+provenance: The files in this dir originated from alignment of genomes below at PeanutBase/LIS.
+Used minimap2(script:run_minimap2_genome.bash) between BaileyII.gnm1.1JTF (Ref) and other genomes as Qry.
 
-synopsis: araip.K30076.gnm2-x-araca.K10017.gnm1
+synopsis: Genome alignments with BaileyII.gnm1.1JTF
 
-description:
+description: The files in this dir originated from alignment of genomes below at PeanutBase/LIS.
+Used minimap2(script:run_minimap2_genome.bash) between BaileyII.gnm1.1JTF (Ref) and other genomes as Qry.
 
 data_curators: Sudhansu Dash
 
