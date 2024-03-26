@@ -1,0 +1,8 @@
+---
+prefix: GoldenEyeCream_x_IT98K-476-8.qtl.Angira_Zhang_2020
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/vignamine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in VignaMine"

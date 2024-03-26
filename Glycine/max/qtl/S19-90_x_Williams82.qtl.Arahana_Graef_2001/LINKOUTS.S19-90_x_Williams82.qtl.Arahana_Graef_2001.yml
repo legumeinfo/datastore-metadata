@@ -1,0 +1,8 @@
+---
+prefix: S19-90_x_Williams82.qtl.Arahana_Graef_2001
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

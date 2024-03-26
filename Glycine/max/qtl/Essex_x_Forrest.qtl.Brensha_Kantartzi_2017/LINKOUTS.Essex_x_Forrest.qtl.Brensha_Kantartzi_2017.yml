@@ -1,0 +1,8 @@
+---
+prefix: Essex_x_Forrest.qtl.Brensha_Kantartzi_2017
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

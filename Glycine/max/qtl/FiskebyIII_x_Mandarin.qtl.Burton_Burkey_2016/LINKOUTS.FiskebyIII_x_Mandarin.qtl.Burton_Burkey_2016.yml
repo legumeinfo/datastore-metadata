@@ -1,0 +1,8 @@
+---
+prefix: FiskebyIII_x_Mandarin.qtl.Burton_Burkey_2016
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

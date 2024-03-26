@@ -1,0 +1,8 @@
+---
+prefix: CX1834-1-6_x_V99-3337.qtl.Gao_Biyashev_2008
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

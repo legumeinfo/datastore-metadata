@@ -1,0 +1,8 @@
+---
+prefix: TK780_x_Hidaka4.qtl.Shibata_Takayama_2008
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

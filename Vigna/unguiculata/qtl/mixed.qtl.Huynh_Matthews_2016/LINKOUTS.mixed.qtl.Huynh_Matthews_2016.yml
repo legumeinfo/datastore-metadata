@@ -1,0 +1,8 @@
+---
+prefix: mixed.qtl.Huynh_Matthews_2016
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/vignamine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in VignaMine"

@@ -1,0 +1,8 @@
+---
+prefix: S-100_x_Tokyo.qtl.Lee_Boerma_2004
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

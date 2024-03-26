@@ -1,0 +1,8 @@
+---
+prefix: KF1_x_NN1138-2.qtl.Li_Zhao_2011
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

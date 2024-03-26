@@ -1,0 +1,8 @@
+---
+prefix: CB27_x_IT97K-556-6.qtl.Huynh_Ehlers_2015
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/vignamine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in VignaMine"

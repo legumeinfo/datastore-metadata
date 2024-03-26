@@ -1,0 +1,8 @@
+---
+prefix: Jinpumkong2_x_SS2-2.qtl.Liu_Kim_2011
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

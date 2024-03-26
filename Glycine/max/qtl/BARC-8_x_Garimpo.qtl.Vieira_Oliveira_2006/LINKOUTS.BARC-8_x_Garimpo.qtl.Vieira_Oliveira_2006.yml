@@ -1,0 +1,8 @@
+---
+prefix: BARC-8_x_Garimpo.qtl.Vieira_Oliveira_2006
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

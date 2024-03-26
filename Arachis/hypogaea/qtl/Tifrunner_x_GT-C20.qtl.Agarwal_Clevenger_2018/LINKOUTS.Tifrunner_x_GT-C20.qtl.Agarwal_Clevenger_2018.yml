@@ -1,0 +1,8 @@
+---
+prefix: Tifrunner_x_GT-C20.qtl.Agarwal_Clevenger_2018
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/arachismine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in ArachisMine"

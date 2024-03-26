@@ -1,0 +1,8 @@
+---
+prefix: NAMFlor7.gwas.Gangurde_Wang_2020
+
+gwas_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/arachismine/gwas:{GWAS_ID}
+    text: "View {GWAS_ID} in ArachisMine"

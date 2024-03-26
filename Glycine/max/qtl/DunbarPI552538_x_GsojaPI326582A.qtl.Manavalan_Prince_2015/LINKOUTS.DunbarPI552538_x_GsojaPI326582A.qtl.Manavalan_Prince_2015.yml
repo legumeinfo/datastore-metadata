@@ -1,0 +1,8 @@
+---
+prefix: DunbarPI552538_x_GsojaPI326582A.qtl.Manavalan_Prince_2015
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

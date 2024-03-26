@@ -1,0 +1,8 @@
+---
+prefix: OACWallace_x_OACGlencoe.qtl.Eskandari_Cober_2013a
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

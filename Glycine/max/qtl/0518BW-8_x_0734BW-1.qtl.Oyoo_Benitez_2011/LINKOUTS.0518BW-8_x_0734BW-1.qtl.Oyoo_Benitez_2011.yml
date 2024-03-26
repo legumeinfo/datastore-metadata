@@ -1,0 +1,8 @@
+---
+prefix: 0518BW-8_x_0734BW-1.qtl.Oyoo_Benitez_2011
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

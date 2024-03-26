@@ -1,0 +1,8 @@
+---
+prefix: IT99K-573-1-1_x_TVNu-1158.qtl.Lo_Muñoz-Amatriaín_2018
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/vignamine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in VignaMine"

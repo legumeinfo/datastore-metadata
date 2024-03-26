@@ -1,0 +1,8 @@
+---
+prefix: Taekwangkong_x_SS2-2.qtl.Sun_Kim_2013b
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

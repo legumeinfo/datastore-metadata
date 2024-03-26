@@ -1,0 +1,8 @@
+---
+prefix: PI97100_x_Coker237.qtl.Mian_Bailey_1996
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

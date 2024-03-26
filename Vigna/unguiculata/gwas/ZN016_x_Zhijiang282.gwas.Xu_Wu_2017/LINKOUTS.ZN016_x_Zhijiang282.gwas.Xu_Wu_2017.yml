@@ -1,0 +1,8 @@
+---
+prefix: ZN016_x_Zhijiang282.gwas.Xu_Wu_2017
+
+gwas_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/vignamine/gwas:{GWAS_ID}
+    text: "View {GWAS_ID} in VignaMine"

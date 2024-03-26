@@ -1,0 +1,8 @@
+---
+prefix: Bogao_x_Nannong94-156.qtl.Jun_Freewalt_2014
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

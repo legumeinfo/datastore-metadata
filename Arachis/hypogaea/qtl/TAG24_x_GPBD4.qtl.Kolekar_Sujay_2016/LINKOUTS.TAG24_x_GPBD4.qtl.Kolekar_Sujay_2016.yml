@@ -1,0 +1,8 @@
+---
+prefix: TAG24_x_GPBD4.qtl.Kolekar_Sujay_2016
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/arachismine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in ArachisMine"

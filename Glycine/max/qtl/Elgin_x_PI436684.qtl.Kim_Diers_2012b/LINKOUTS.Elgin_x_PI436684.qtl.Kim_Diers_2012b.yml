@@ -1,0 +1,8 @@
+---
+prefix: Elgin_x_PI436684.qtl.Kim_Diers_2012b
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

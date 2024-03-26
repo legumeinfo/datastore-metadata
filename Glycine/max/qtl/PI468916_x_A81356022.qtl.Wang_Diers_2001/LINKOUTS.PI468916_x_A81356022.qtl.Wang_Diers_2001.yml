@@ -1,0 +1,8 @@
+---
+prefix: PI468916_x_A81356022.qtl.Wang_Diers_2001
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

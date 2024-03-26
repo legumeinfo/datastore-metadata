@@ -1,0 +1,8 @@
+---
+prefix: N87-984-16_x_TN93-99.qtl.Panthee_Kwanyuen_2004
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

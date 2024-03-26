@@ -1,0 +1,8 @@
+---
+prefix: RG10_x_OX948.qtl.Reinprecht_Poysa_2006
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

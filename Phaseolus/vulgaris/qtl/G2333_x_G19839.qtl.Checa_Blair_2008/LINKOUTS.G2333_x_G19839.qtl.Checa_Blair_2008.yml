@@ -1,0 +1,8 @@
+---
+prefix: G2333_x_G19839.qtl.Checa_Blair_2008
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/phaseolusmine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in PhaseolusMine"

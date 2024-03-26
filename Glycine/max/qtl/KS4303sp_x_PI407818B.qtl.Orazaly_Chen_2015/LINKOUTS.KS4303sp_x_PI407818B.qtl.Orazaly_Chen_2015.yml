@@ -1,0 +1,8 @@
+---
+prefix: KS4303sp_x_PI407818B.qtl.Orazaly_Chen_2015
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

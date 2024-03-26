@@ -1,0 +1,8 @@
+---
+prefix: Evans_x_PI88788.qtl.Concibido_Young_1996
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

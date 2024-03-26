@@ -1,0 +1,8 @@
+---
+prefix: Wan82-178_x_TSBPHDJ.qtl.Xing_Zhou_2012
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

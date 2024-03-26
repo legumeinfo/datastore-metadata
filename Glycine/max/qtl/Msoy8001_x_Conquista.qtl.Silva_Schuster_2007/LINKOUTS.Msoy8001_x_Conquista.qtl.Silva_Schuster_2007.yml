@@ -1,0 +1,8 @@
+---
+prefix: Msoy8001_x_Conquista.qtl.Silva_Schuster_2007
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

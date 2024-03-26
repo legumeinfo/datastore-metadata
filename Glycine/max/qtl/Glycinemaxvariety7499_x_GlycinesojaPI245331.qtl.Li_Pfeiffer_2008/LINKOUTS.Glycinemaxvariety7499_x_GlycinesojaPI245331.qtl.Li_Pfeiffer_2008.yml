@@ -1,0 +1,8 @@
+---
+prefix: Glycinemaxvariety7499_x_GlycinesojaPI245331.qtl.Li_Pfeiffer_2008
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

@@ -1,0 +1,8 @@
+---
+prefix: Cook_x_N87-2122-4.qtl.Li_Wilson_2002
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

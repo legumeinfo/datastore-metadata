@@ -1,0 +1,8 @@
+---
+prefix: Xana_x_Cornell49242.qtl.Pérez-Vega_Trabanco_2013
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/phaseolusmine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in PhaseolusMine"

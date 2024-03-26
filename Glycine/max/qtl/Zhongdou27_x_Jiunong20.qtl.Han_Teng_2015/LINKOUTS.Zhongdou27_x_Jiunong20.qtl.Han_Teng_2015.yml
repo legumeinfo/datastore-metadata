@@ -1,0 +1,8 @@
+---
+prefix: Zhongdou27_x_Jiunong20.qtl.Han_Teng_2015
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

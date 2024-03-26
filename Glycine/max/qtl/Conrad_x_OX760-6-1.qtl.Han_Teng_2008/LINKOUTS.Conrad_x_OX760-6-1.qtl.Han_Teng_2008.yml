@@ -1,0 +1,8 @@
+---
+prefix: Conrad_x_OX760-6-1.qtl.Han_Teng_2008
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

@@ -1,0 +1,8 @@
+---
+prefix: BenningPI595645_x_PI416937.qtl.Carpentieri-Pipolo_Pipolo_2012
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

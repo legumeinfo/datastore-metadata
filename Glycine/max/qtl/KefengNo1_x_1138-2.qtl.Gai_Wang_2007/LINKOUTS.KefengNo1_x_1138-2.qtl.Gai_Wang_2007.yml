@@ -1,0 +1,8 @@
+---
+prefix: KefengNo1_x_1138-2.qtl.Gai_Wang_2007
+
+qtl_study_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/glycinemine/qtlstudy:{QTL_STUDY_ID}
+    text: "View {QTL_STUDY_ID} in GlycineMine"

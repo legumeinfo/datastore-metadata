@@ -1,0 +1,8 @@
+---
+prefix: mixed.gwas.Oladzad_Porch_2019
+
+gwas_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/phaseolusmine/gwas:{GWAS_ID}
+    text: "View {GWAS_ID} in PhaseolusMine"
