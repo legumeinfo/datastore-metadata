@@ -1,0 +1,46 @@
+---
+identifier: IA_panel.gwas.Chiteri_Rairdin_2024
+
+provenance: "The files in this directory were provided by Drs. Arti Singh Kevin Chiteri in December, 2022. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, SoyBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "GWAS study of control of flowering time in mung bean, genotyped in the Iowa mung bean diversity panel"
+
+scientific_name: Vigna radiata
+
+taxid: 157791
+
+scientific_name_abbrev: vigra
+
+genotype:
+  - 482 USDA Germplasm Collection accessions
+  - 17 Asian Vegetable Research and Development Center lines
+
+description: "This study investigates the genetic basis of the Days-to-Flowering trait (DTF) in mung bean, combining genome-wide association studies (GWAS) in mung bean and comparisons with orthologous genes involved with control of DTF responses in soybean (Glycine max (L) Merr) and Arabidopsis (Arabidopsis thaliana)."
+
+dataset_doi: 10.5061/dryad.wdbrv15mb
+
+genotyping_platform: Chiteri_Rairdin_2024
+
+genotyping_method: "Genotyping with the 51,128 single nucleotide polymorphism (SNP) Illumina iSelect BeadArray resulted in 36,346 SNPs that were polymorphic between the eight parents (68.26%)."
+
+original_file_creation_date: "2024-03-27"
+
+local_file_creation_date: "2024-03-27"
+
+publication_doi: 10.1186/s12864-024-10156-x
+
+dataset_release_date: "2024-03-12"
+
+publication_title: "Combining GWAS and comparative genomics to fine map candidate genes for days to flowering in mung bean"
+
+contributors: Kevin Chiteri, Ashlyn Rairdin, Kulbir Sandhu, Sven Redsun, Andrew Farmer, Amie A. O'Rourke, Steven B. Cannon, Arti Singh
+
+data_curators: Sven Redsun, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: "mung bean, Vigna radiata, flowering time, days to flower, GWAS"
+
+citation: "Chiteri KO, Rairdin A, Sandhu K, Redsun S, Farmer A, O'Rourke JA, Cannon SB, Singh A. Combining GWAS and comparative genomics to fine map candidate genes for days to flowering in mung bean. BMC Genomics. 2024 Mar 12;25(1):270. doi: 10.1186/s12864-024-10156-x. PMID: 38475739; PMCID: PMC10935824."
