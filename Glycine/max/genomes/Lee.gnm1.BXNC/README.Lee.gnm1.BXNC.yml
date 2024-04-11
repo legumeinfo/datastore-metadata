@@ -3,7 +3,7 @@ identifier: Lee.gnm1.BXNC
 
 provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
 
-synopsis: Genome assembly
+synopsis: Glycine max accession Lee Genome assembly 1; JGI name Lee v1.1
 
 scientific_name: Glycine max
 

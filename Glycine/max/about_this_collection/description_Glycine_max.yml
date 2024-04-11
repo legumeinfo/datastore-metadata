@@ -22,12 +22,12 @@ resources:
     URL: "https://soybase.org/grindata/"
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 strains:
-  - identifier: Wm82_ISU01
+  - identifier: Wm82
     accession: PI 704477
-    name: Williams 82-ISU-01
+    name: Williams 82
     accession_group: Reference - Williams 82
     origin: Northern United States
-    description: "Glycine max var. Williams 82-ISU-01 is an inbred line developed by Robert Stupar (University of Minnesota) by inbreeding original W82 seed. The resulting genome is a haploid version of W82. This genome can be used as an updated version of W82. It is the most complete and highest quality soybean genome completed to date."
+    description: "Glycine max var. Williams 82 is an inbred line developed by Robert Stupar (University of Minnesota) by inbreeding original W82 seed. The resulting genome issembly, Wm82.a6 / Wm82.gnm6 (previously also called 82-ISU-01), is a near-complete haploid version of W82, with high-quality gene annotations that correspond when possible to the Wm82.a2 and Wm82.a4 gene model names."
   - identifier: Wm82
     accession: PI 518671
     name: Williams 82
