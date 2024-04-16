@@ -3,15 +3,30 @@ identifier: legume.fam3.VLMQ
 
 provenance: "The files in this directory are considered the primary instancess. The files here are held as part of the LegumeFederation and associated projects, e.g. LegumeInfo, PeanutBase, etc."
 
-synopsis: gene families and phylogenetic trees for the legume family
+synopsis: gene families and phylogenetic trees for the legume family; family set 3 calculated by the Legume Information System group
 
-scientific_name: legume
+scientific_name: Fabaceae
 
 scientific_name_abbrev: legume
 
 taxid: 3803
 
-description: "Files in this directory include the main results for gene families constructed for the legume family. Methods are documented at https://github.com/legumeinfo/pandagma. Briefly, the methods are based on gene pairs filtered for per-species Ks values. These were clustered using Markov clustering. Sequence match scores of each sequence in a family were used to identify outliers, on the basis of score value relative to the median score for the family. Remaining sequences were re-clustered, added to the HMM set. Then all sequences were searched against all HMMs, realigned, re-screened relative to median match score, and finally used to generate alignments and phylogenetic trees (using FastTree)."
+description: "Files in this directory include the main results for gene families constructed for the legume family.
+  Methods are documented at https://github.com/legumeinfo/pandagma. Briefly, the methods are based on gene pairs filtered
+  for per-species Ks values. These were clustered using Markov clustering. Sequence match scores of each sequence in
+  a family were used to identify outliers, on the basis of score value relative to the median score for the family.
+  Remaining sequences were re-clustered, added to the HMM set. Then all sequences were searched against all HMMs, realigned,
+  re-screened relative to median match score, and finally used to generate alignments and phylogenetic trees (using FastTree).
+  The files labeled with 'base' are the primary gene families, calculated using 18 diverse legume taxa and three outgroup species.
+  The base files include, for each family: multifasta protein sets, initial alignments, hidden Markov models, alignments cleaned 
+  of indels (non-match state positions), and phylogenetic trees. The base families were calculated using pangene collections 
+  for six genera with good representation in terms of species and annotations (Arachis, Cicer, Glycine, Medicago, Phaseolus, Vigna),
+  while files labeled with 'sup1' consist of gene family sets for which selected species and annotations were placed into
+  the base families by homology. The gene families in the base and sup1 sets correspond by family name; for example,
+  Legume.fam3.01000 in the base files is the same family as Legume.fam3.01000 in sup1 (though containing different species sets).
+  The A and B sets (baseA, baseB; sup1A, sup1B) designate files (A) and directories/tar-balls (B). Each of the B tar-balls
+  can be extracted to produce a directory of approximately 25,000 gene family files of the indicated ty[e (proteomes, HMM models,
+  alignments, alignments trimmed of indels, and trees)."
 
 original_file_creation_date: "2024-02-27"
 
@@ -27,5 +42,6 @@ public_access_level: public
 
 license: open
 
-keywords: legumes, gene family, Glycine max, Phaseolus vulgaris, Vigna angularis, Vigna radiata, Vigna unguiculata, Cajanus cajan, Medicago truncatula, Cicer arietinum, Trifolium pratense, Lotus japonicus, Lupinus angustifolius, Arachis duranensis, Arachis ipaensis, Arachis hypogaea
+keywords: legumes, gene family, Glycine max, Phaseolus vulgaris, Vigna angularis, Vigna radiata, Vigna unguiculata, Cajanus cajan, 
+  Medicago truncatula, Cicer arietinum, Trifolium pratense, Lotus japonicus, Lupinus angustifolius, Arachis duranensis, Arachis ipaensis, Arachis hypogaea
 
