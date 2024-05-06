@@ -5,7 +5,7 @@ provenance: "SoyBase.org is the primary repository for files in this directory. 
 
 source: https://soybase.org/data/public/Glycine_max/Wm82.gnm2.div.Zhang_Jiang_2020
 
-synopsis: "Variant information for 1,556 resequenced soybean accessions Glycine max and Glycine soja, provided by Yong-Qiang (Charles) An and Rick Meyers, relative to Wm82 assembly 2." 
+synopsis: "Variant information for 1,556 resequenced soybean accessions Glycine max and Glycine soja, provided by Yong-Qiang An and Rick Meyer (Zhang et al., 2022), relative to Wm82 assembly 2." 
 
 scientific_name: Glycine max
 
@@ -16,17 +16,17 @@ scientific_name_abbrev: glyma
 genotype:
   - 1556 cultivated and wild soybean accessions
 
-description: "Genetic variant data derived from whole genome resequencing data of 1,502 diverse accessions from G. max and G. soja. The datasets were generated as part of a project funded by the United Soybean Board, USDA-ARS and Bayer Company. Data sets include a full set of 32 million SNPs, and subsets filtered at minor allele frequencies of 1% and 5%. The pre-released datasets have not been fully peer-reviewed. Please contact Dr. Yong-Qiang An if you have questions or identify problems (Yong-qiang.an@ars.usda.gov)."
+description: "Genetic variant data derived from whole genome resequencing data of 1,502 diverse accessions from G. max and G. soja. The datasets were generated as part of a project funded by the United Soybean Board, USDA-ARS and Bayer Company. Data sets include a full set of 32 million SNPs, and subsets filtered at minor allele frequencies of 1% and 5%. The pre-released datasets have not been fully peer-reviewed."
 
 original_file_creation_date: "2020-08-13"
 
 local_file_creation_date: "2021-10-27"
 
-publication_doi: 10.1101/2020.11.16.383950
+publication_doi: 10.1186/s12864-022-08326-w
 
 dataset_release_date: "2021-10-28"
 
-publication_title: "A versatile resource of 1500 diverse wild and cultivated soybean genomes for post-genomics research."
+publication_title: "Development of a versatile resource for post-genomic research through consolidating and characterizing 1500 diverse wild and cultivated soybean genomes"
 
 contributors: Rick Meyer, Yong-Qiang An  
 
@@ -38,4 +38,5 @@ license: open
 
 keywords: soybean, diversity, SNP
 
-citation: "Hengyou Zhang, He Jiang, Zhenbin Hu, Qijian Song, Yong-qiang Charles An, A versatile resource of 1500 diverse wild and cultivated soybean genomes for post-genomics research. 2020, BioRixv."
+citation: "Zhang H, Jiang H, Hu Z, Song Q, An YC. Development of a versatile resource for post-genomic research through consolidating and characterizing 1500 diverse wild and cultivated soybean genomes. BMC Genomics. 2022 Mar 31;23(1):250. doi: 10.1186/s12864-022-08326-w. PMID: 35361112; PMCID: PMC8973893."
+
