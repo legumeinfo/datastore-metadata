@@ -23,17 +23,11 @@ resources:
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 strains:
   - identifier: Wm82
-    accession: PI 704477
-    name: Williams 82
-    accession_group: Reference - Williams 82
-    origin: Northern United States
-    description: "Glycine max var. Williams 82 is an inbred line developed by Robert Stupar (University of Minnesota) by inbreeding original W82 seed. The resulting genome issembly, Wm82.a6 / Wm82.gnm6 (previously also called 82-ISU-01), is a near-complete haploid version of W82, with high-quality gene annotations that correspond when possible to the Wm82.a2 and Wm82.a4 gene model names."
-  - identifier: Wm82
     accession: PI 518671
     name: Williams 82
     accession_group: Reference - Williams 82
     origin: Northern United States
-    description: "Williams 82, the soybean cultivar used to produce the reference genome sequence, was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams."
+    description: "Williams 82 was derived from backcrossing a phytophthora root rot resistance locus from the donor parent Kingwa into the recurrent parent Williams. A sub-line, Wm82-ISU-01, was derived by Robert Stupar (University of Minnesota) by inbreeding original W82 seed. That sub-line, registered as PI 704477, was used for assembly Wm82.gnm6 / Wm82.a6."
   - identifier: Lee
     accession: PI 548656
     accession_group: Reference - Lee
