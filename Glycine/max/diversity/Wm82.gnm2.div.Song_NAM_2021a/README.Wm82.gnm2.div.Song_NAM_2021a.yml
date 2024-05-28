@@ -16,7 +16,7 @@ scientific_name_abbrev: glyma
 genotype:
   - 5176 Nested Association Mapping (NAM) RILs
 
-description: "The files glyma.Wm82.gnm2.div.Song_NAM_2021a.imputed_5176RILs_29kSNPs* contain imputed genotypes of the 5176 NAM RILs using the 40 NAM parental genotypes obtained from SoySNP50K and SoyNAM6K assays. The imputation was performed by each of the 39 families except for the NAM46 family which has a high percentage of non-parental alleles. The imputed dataset contained the genomics position in Glyma1.01 and Wm82a2v1 assemblies as well as genotypes of 29416 SNPs for 5176 RILs. The common genotype IA3023 alleles were changed to “B”, and the non-IA3023 alleles to “A”.  In addition, the linkage map position of each SNP was inferred based on SNP physical position and the high-density linkage map of Williams 82 x PI479752 consisting of 21,478 SNPs (Song et al. 2016., BMC Genomics 17:33)."
+description: "The files glyma.Wm82.gnm2.div.Song_NAM_2021a.imputed_5176RILs_29kSNPs* contain imputed genotypes of the 5176 NAM RILs using the 40 NAM parental genotypes obtained from SoySNP50K and SoyNAM6K assays. The imputation was performed by each of the 39 families except for the NAM46 family which has a high percentage of non-parental alleles. The imputed dataset contained the genomics position in Glyma1.01 and Wm82a2v1 assemblies as well as genotypes of 29416 SNPs for 5176 RILs. The common genotype IA3023 alleles were changed to B, and the non-IA3023 alleles to A.  In addition, the linkage map position of each SNP was inferred based on SNP physical position and the high-density linkage map of Williams 82 x PI479752 consisting of 21,478 SNPs (Song et al. 2016., BMC Genomics 17:33)."
 
 original_file_creation_date: "2021-09-20"
 
