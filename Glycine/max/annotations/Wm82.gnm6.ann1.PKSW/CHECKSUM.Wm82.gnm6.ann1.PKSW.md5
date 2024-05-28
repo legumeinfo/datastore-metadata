@@ -2,7 +2,7 @@
 7f384e7511ab90c454266ae8d45829d3  ./glyma.Wm82.gnm6.ann1.PKSW.mrna_primary.fna.gz
 68e4fcb761543a1736d639edf9fc324c  ./glyma.Wm82.gnm6.ann1.PKSW.DataReleasePolicy.html
 92c391988a35488823cd50a5d3012c78  ./README.Wm82.gnm6.ann1.PKSW.yml
-c23b4e7ffe6bb1b281e4afc3e2db0896  ./CHANGES.Wm82.gnm6.ann1.PKSW.txt
+8578f10009544e8967cffd3196543739  ./CHANGES.Wm82.gnm6.ann1.PKSW.txt
 bb6528469f23d78c70d57a9a4e99668c  ./glyma.Wm82.gnm6.ann1.PKSW.annotation_info.txt.gz
 182ec606855a30857ff94974db4a7337  ./glyma.Wm82.gnm6.ann1.PKSW.cds_primary.fna.gz.fai
 d8b37ed8a8a1f13f6e9a582b7c94f1a5  ./MANIFEST.Wm82.gnm6.ann1.PKSW.descriptions.yml
@@ -10,6 +10,7 @@ d8b37ed8a8a1f13f6e9a582b7c94f1a5  ./MANIFEST.Wm82.gnm6.ann1.PKSW.descriptions.ym
 b8b1b7c66fc9a6634622d6ea255e7488  ./glyma.Wm82.gnm6.ann1.PKSW.gene_models_main.gff3.gz.tbi
 723b89a1b5f3de260a85037be77e2dbf  ./glyma.Wm82.gnm6.ann1.PKSW.protein_primary.faa.gz.gzi
 8e73a9e48b6576ce33f62bad0dbd5ba3  ./glyma.Wm82.gnm6.ann1.PKSW.protein.faa.gz.fai
+77a554f4d9bd40ca97d358f6a99b995e  ./glyma.Wm82.gnm6.ann1.PKSW.gene_models_main.bed.gz.tbi
 5caac9e0a5d22ef29b65cdb3887ec9b3  ./glyma.Wm82.gnm6.ann1.PKSW.cds.fna.gz.fai
 51bb4a5142b430007bef3da75161dcb5  ./glyma.Wm82.gnm6.ann1.PKSW.legfed_v1_0.M65K.gfa.tsv.gz
 0a2689863cddfe64a244de6e5bda56bf  ./glyma.Wm82.gnm6.ann1.PKSW.mrna.fna.gz.gzi
