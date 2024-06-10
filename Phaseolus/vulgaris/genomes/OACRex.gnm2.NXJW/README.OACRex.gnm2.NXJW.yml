@@ -20,6 +20,8 @@ supercontig_prefix: scaffold
 
 description: "Genome assembly for OAC Rex is a white-seeded, high-yielding cultivar, with resistance to common bacterial blight."
 
+publication_doi: ""
+
 original_file_creation_date: "2023-06-01"
 
 local_file_creation_date: "2023-10-24"
