@@ -1,0 +1,12 @@
+---
+prefix: vicfa.Tiffany.gnm1.ann1
+
+gene_linkouts:
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/legumemine/gene:{GENE_ID}
+    text: "View {GENE_ID} in LegumeMine"
+  -
+    method: GET
+    href: https://funnotate.legumeinfo.org/?gene_name={GENE_ID}
+    text: "View Funnotate phylogram for family of {GENE_ID}"

@@ -1,0 +1,20 @@
+---
+prefix: phaco.PHA8298.gnm1.ann1
+
+gene_linkouts:
+  -
+    method: GET
+    href: https://phaseolus.legumeinfo.org/tools/gcv//gene;phaseolus={GENE_ID}
+    text: "View {GENE_ID} in Phaseolus Genome Context Viewer"
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/phaseolusmine/gene:{GENE_ID}
+    text: "View {GENE_ID} in PhaseolusMine"
+  -
+    method: GET
+    href: https://mines.legumeinfo.org/legumemine/gene:{GENE_ID}
+    text: "View {GENE_ID} in LegumeMine"
+  -
+    method: GET
+    href: https://funnotate.legumeinfo.org/?gene_name={GENE_ID}
+    text: "View Funnotate phylogram for family of {GENE_ID}"
