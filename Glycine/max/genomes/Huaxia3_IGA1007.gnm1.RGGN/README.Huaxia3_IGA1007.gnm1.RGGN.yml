@@ -5,7 +5,7 @@ provenance: "The files in this directory originated from GenBank. The GenBank is
 
 source: "https://sra-download.ncbi.nlm.nih.gov/traces/wgs01/wgs_aux/WI/XC/WIXC01/WIXC01.1.fsa_nt.gz"
 
-synopsis: "Genome assembly files for cultivar Huaxia3 (Huaxia3_IGA1007 in publication; WHFS_GmHX3_1.0 in the GenBank assembly record), Chu et al. (2021)"
+synopsis: "Genome assembly files for cultivar Huaxia3 (Huaxia3_IGA1007 in publication; WHFS_GmHX3_1.0 in the GenBank assembly record)"
 
 scientific_name: Glycine max
 

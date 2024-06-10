@@ -9,6 +9,8 @@ synopsis: "Gene annotations for Cercis chinensis, from a plant at the campus of 
 
 scientific_name: Cercis chinensis
 
+scientific_name_abbrev: cerch
+
 taxid: 161750
 
 genotype:

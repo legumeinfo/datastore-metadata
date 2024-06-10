@@ -9,6 +9,8 @@ synopsis: "Pangene set for Medicago species, based primarily on M. truncatula bu
 
 scientific_name: Medicago
 
+scientific_name_abbrev: Medicago
+
 taxid: 3877
 
 annotations_main:

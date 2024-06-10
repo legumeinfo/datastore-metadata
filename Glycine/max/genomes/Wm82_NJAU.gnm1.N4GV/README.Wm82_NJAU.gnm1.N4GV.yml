@@ -5,9 +5,11 @@ provenance: "The files in this directory originated from https://ngdc.cncb.ac.cn
 
 source: "https://ngdc.cncb.ac.cn/gwh/Assembly/37536/show"
 
-synopsis: "Glycine max accession Williams 82 from Nanjing Agricultural University (Wm82-NJAU), genome assebly v1"
+synopsis: Glycine max accession Williams 82 from Nanjing Agricultural University (Wm82-NJAU), genome assebly v1
 
 scientific_name: Glycine max
+
+scientific_name_abbrev: glyma
 
 taxid: 3847
 

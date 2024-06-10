@@ -9,6 +9,8 @@ synopsis: "Phaseolus vulgaris accession OACRex, genome assembly 2"
 
 scientific_name: Phaseolus vulgaris 
 
+scientific_name_abbrev: phavu
+
 taxid: 3885
 
 genotype:
@@ -19,6 +21,8 @@ chromosome_prefix: Chr
 supercontig_prefix: scaffold
 
 description: "Genome assembly for OAC Rex is a white-seeded, high-yielding cultivar, with resistance to common bacterial blight."
+
+publication_doi: ""
 
 original_file_creation_date: "2023-06-01"
 

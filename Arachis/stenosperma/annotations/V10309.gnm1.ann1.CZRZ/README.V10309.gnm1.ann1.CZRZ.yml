@@ -9,6 +9,8 @@ synopsis: "GenBank RefSeq annotation for Genome assembly 1 for Arachis stenosper
 
 scientific_name: Arachis stenosperma
 
+scientific_name_abbrev: arast
+
 taxid: 217475
 
 genotype:

@@ -1,0 +1,18 @@
+---
+taxid: 3886
+genus: Phaseolus 
+species: coccineus
+abbrev: phaco 
+commonName: scarlet runner bean
+description: "Phaseolus coccineus originated in Central American mountain regions and was probably cultivated around 2000 BCE. Used as both a food crop (seeds and pods) and as an ornamental with typically red flowers. As opposed to the congeneric P. vulgaris, P. coccineus is a perennial vine with tuberous roots."
+
+strains:
+  - identifier: PHA8298   
+    accession: ""
+    name: Pc_12
+    origin: Europe
+    description: "A European line Pc_12 was selected for genome sequencing and annotation in the context of the BEANADAPT project, designed to investigate the genetic basis and phenotypic consequences of the adaptation to new environments of the common bean and its sister species, the runner bean, through the study of their introduction and expansion through Europe, as a recent and historically well-defined event of rapid adaptation."
+    resources: 
+      - name: Phytozome
+        URL: "https://phytozome-next.jgi.doe.gov/info/Pcoccineus_v1_1"
+        description: "Phytozome information for Phaseolus coccineus v1.1"
