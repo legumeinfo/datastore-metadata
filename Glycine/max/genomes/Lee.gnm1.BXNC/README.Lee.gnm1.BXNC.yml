@@ -3,7 +3,7 @@ identifier: Lee.gnm1.BXNC
 
 provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
 
-synopsis: Genome assembly
+synopsis: Glycine max accession Lee Genome assembly 1; JGI name Lee v1.1
 
 scientific_name: Glycine max
 
@@ -43,3 +43,6 @@ public_access_level: public
 license: Open
 
 keywords: soybean, Lee
+
+citation: "Valliyodan B, Cannon SB, Bayer PE, Shu S, Brown AV, Ren L, Jenkins J, Chung CY, Chan TF, Daum CG, Plott C, Hastie A, Baruch K, Barry KW, Huang W, Patil G, Varshney RK, Hu H, Batley J, Yuan Y, Song Q, Stupar RM, Goodstein DM, Stacey G, Lam HM, Jackson SA, Schmutz J, Grimwood J, Edwards D, Nguyen HT. Construction and comparison of three reference-quality genome assemblies for soybean. Plant J. 2019 Dec;100(5):1066-1082. doi: 10.1111/tpj.14500. Epub 2019 Oct 28. PMID: 31433882."
+

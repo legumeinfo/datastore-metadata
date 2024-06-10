@@ -9,6 +9,8 @@ synopsis: "Pangene set for Phaseolus species, based primarily on P. vulgaris but
 
 scientific_name: Phaseolus
 
+scientific_name_abbrev: Phaseolus
+
 taxid: 3883
 
 annotations_main:

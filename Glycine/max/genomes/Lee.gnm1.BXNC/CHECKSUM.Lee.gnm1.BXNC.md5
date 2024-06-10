@@ -1,9 +1,8 @@
 8ed86b083b0a81ec24db8f3922efeb02  ./glyma.Lee.gnm1.BXNC.agp.txt.gz
 964f9e2e6b8592968305cc54c27b5f00  ./glyma.Lee.gnm1.BXNC.genome_hardmasked.fna.gz
 ff26c3e4dd190aec394eb94297ea4ad1  ./glyma.Lee.gnm1.BXNC.genome_main.fna.gz.gzi
-61e1846e07690cfa378fb4292f928aba  ./CHANGES.Lee.gnm1.BXNC.txt
+f4cd98e0529514e3ef91058d93db8f65  ./CHANGES.Lee.gnm1.BXNC.txt
 58ae3359bfc66d60049f4192fd26901f  ./MANIFEST.Lee.gnm1.BXNC.correspondence.yml
-52569d3b504a7096aee6b25e9e186e37  ./busco/glyma.Lee.gnm1.BXNC.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.glyma.Lee.gnm1.BXNC.genome_main.fna.gz_busco.txt
 e3081ce308b44e7771a08508ad84fad5  ./glyma.Lee.gnm1.BXNC.genome_softmasked.fna.gz
 3740cff22542a2525573b8c2ceb1f18d  ./_h5ai.footers.html
 bbd1c6df237d216ed8dfe6e5068b7898  ./BUSCO/glyma.Lee.gnm1.BXNC.busco.fabales_odb10.short_summary.json
@@ -15,4 +14,4 @@ bbd1c6df237d216ed8dfe6e5068b7898  ./BUSCO/glyma.Lee.gnm1.BXNC.busco.fabales_odb1
 5333f35d2edb02b4d8b0f2ced029bd21  ./glyma.Lee.gnm1.BXNC.order_orient.txt.gz
 44752b76b0be5f82ad4e161dc36ecf8a  ./glyma.Lee.gnm1.BXNC.genome_main.fna.gz
 98e931d4e7c2615e41eb56303775f6b9  ./MANIFEST.Lee.gnm1.BXNC.descriptions.yml
-6e15b980b1b75ee6e2cedfe0ea753199  ./README.Lee.gnm1.BXNC.yml
+f059fb166b61a522526bf3134cec14d0  ./README.Lee.gnm1.BXNC.yml

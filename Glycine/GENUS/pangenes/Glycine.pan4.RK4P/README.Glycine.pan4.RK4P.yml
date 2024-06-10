@@ -9,6 +9,8 @@ synopsis: "Pangene set for Glycine species, based on G. max and G. soja but also
 
 scientific_name: Glycine
 
+scientific_name_abbrev: Glycine
+
 taxid: 3846
 
 annotations_main:

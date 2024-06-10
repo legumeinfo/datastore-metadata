@@ -24,7 +24,7 @@ supercontig_prefix: tig
 
 description: "Files in this directory include the genome assembly for Phaseolus lunatus accession G27455"
 
-publication_doi: 10.1093/nar/gkr944
+publication_doi: 10.1038/s41467-021-20921-1
 
 genbank_accession: GCA_013389735.1
 
@@ -34,7 +34,7 @@ local_file_creation_date: "2020-07-01"
 
 dataset_release_date: "2020-09-09"
 
-contributors: "Maria Isabel Chacón, Jorge Duitama, Paul Gepts and Clara Bermudez"
+contributors: "Garcia T, Duitama J, Zullo SS, Gil J, Ariani A, Dohle S, Palkovic A, Skeen P, Bermudez-Santana CI, Debouck DG, Martínez-Castillo J, Gepts P, Chacón-Sánchez MI"
 
 data_curators: Andrew Farmer
 
@@ -43,3 +43,5 @@ public_access_level: public
 license: open
 
 keywords: lima bean
+
+citation: "Garcia T, Duitama J, Zullo SS, Gil J, Ariani A, Dohle S, Palkovic A, Skeen P, Bermudez-Santana CI, Debouck DG, Martínez-Castillo J, Gepts P, Chacón-Sánchez MI. Comprehensive genomic resources related to domestication and crop improvement traits in Lima bean. Nat Commun. 2021 Jan 29;12(1):702. doi: 10.1038/s41467-021-20921-1. PMID: 33514713; PMCID: PMC7846787."

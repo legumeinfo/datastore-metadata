@@ -5,7 +5,7 @@ provenance: "The files in this directory originated from http://phytozome.jgi.do
 
 source: "http://phytozome.jgi.doe.gov/"
 
-synopsis: Glycine soja accession PI483463 genome annotation files; JGI annotation version 1 on assembly 1
+synopsis: Glycine soja accession PI483463 genome annotation files; JGI name Glycine soja v1.1
 
 scientific_name: Glycine soja
 
@@ -17,6 +17,10 @@ genotype:
   - PI483463
 
 description: "Genome annotations for the Glycine soja PI483463 genome assembly"
+
+publication_doi: 10.1111/tpj.14500
+
+publication_title: "Construction and comparison of three reference-quality genome assemblies for soybean"
 
 original_file_creation_date: "2018-07-01"
 
@@ -31,3 +35,6 @@ data_curators: Steven Cannon
 public_access_level: public
 
 license: Open
+
+citation: "Valliyodan B, Cannon SB, Bayer PE, Shu S, Brown AV, Ren L, Jenkins J, Chung CY, Chan TF, Daum CG, Plott C, Hastie A, Baruch K, Barry KW, Huang W, Patil G, Varshney RK, Hu H, Batley J, Yuan Y, Song Q, Stupar RM, Goodstein DM, Stacey G, Lam HM, Jackson SA, Schmutz J, Grimwood J, Edwards D, Nguyen HT. Construction and comparison of three reference-quality genome assemblies for soybean. Plant J. 2019 Dec;100(5):1066-1082. doi: 10.1111/tpj.14500. Epub 2019 Oct 28. PMID: 31433882."
+

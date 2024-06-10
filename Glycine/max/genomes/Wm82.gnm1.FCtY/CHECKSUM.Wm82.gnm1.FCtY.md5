@@ -1,15 +1,14 @@
 64e4e4907a051b06cbf163126ebf0336  ./MANIFEST.Wm82.gnm1.FCtY.descriptions.yml
-0fdb26d5ee29ec9b7fb007b9c550bc63  ./busco/glyma.Wm82.gnm1.FCtY.genome_main.fna.gz_busco/short_summary.specific.embryophyta_odb10.glyma.Wm82.gnm1.FCtY.genome_main.fna.gz_busco.txt
 30253d6fd0e73827204c99d321cdc6fb  ./glyma.Wm82.gnm1.FCtY.genome_hardmasked.fna.gz.gzi
 24571e45ab6dc52e8b2264595e8c4038  ./glyma.Wm82.gnm1.FCtY.genome_softmasked.fna.gz.gzi
 14546a43a30ba37c1d86e9b7270d039e  ./glyma.Wm82.gnm1.FCtY.genome_main.fna.gz.gzi
 4f43c5751d15df8382e1ae9a0d92f629  ./glyma.Wm82.gnm1.FCtY.genome_main.fna.gz.fai
 00210107d557c79956791d346638e1d2  ./glyma.Wm82.gnm1.FCtY.genome_softmasked.fna.gz.fai
 3f25a6b97e5ae4c9a946a377c64a681d  ./glyma.Wm82.gnm1.FCtY.genome_main.fna.gz
-56ee0df9d72c396e9063b996ff1b93b6  ./CHANGES.Wm82.gnm1.FCtY.txt
+790df82d3c2be83e6b077f4f920cf5b7  ./CHANGES.Wm82.gnm1.FCtY.txt
 8d65734f66061ee34667bfcd64bd897e  ./glyma.Wm82.gnm1.FCtY.genome_hardmasked.fna.gz
 9618251ab079a9a43a713cd84a9e3f3e  ./glyma.Wm82.gnm1.FCtY.genome_hardmasked.fna.gz.fai
-2d872a97c9a8f56899b54b09f1a4c6cc  ./README.Wm82.gnm1.FCtY.yml
+ffe904ef0c5d3f42c9a31fc2762ec297  ./README.Wm82.gnm1.FCtY.yml
 83c77ea0cbc54d88c33dd1b52d698f15  ./MANIFEST.Wm82.gnm1.FCtY.correspondence.yml
 5e2536e15d5f850f851f29ccf8f832b2  ./BUSCO/glyma.Wm82.gnm1.FCtY.busco.fabales_odb10.short_summary.json
 49c897b00991a76d7ccc6cf673460ff6  ./BUSCO/glyma.Wm82.gnm1.FCtY.busco.fabales_odb10.short_summary.txt

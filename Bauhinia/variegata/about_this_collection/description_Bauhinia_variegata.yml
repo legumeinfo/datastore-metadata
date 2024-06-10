@@ -12,3 +12,8 @@ strains:
     name: HK4
     origin: China
     description: "A small deciduous tree native to an area from China through Southeast Asia to the Indian subcontinent. Edible buds are widely used as an ingredient in many subcontinent recipes."
+  - identifier: BV-YZ2020
+    accession: BV-YZ2020
+    name: BV-YZ2020
+    origin: China
+    description: "Bauhinia variegata (Mountain ebony) isolate a pink petal individual (BV-YZ2020) Genome sequencing, Genome 2"
