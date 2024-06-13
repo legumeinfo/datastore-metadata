@@ -2,12 +2,12 @@
 - name: glyma.Wm82.gnm2.div.Jeong_Moon_2019.NonSynSNPs.vcf.gz
   description: Original VCF file filtered for Non-Synonymous SNPs based on the program SnpEff
     (SNPS indicated as HIGH or MODERATE effect). This file contains 20,390 SNPs.
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.L78C.NonSynSNPs.vcf.gz
     - Korean_A02_nsSNPs.vcf.gz
 - name: glyma.Wm82.gnm2.div.Jeong_Moon_2019.SNPdata.vcf.gz
   description: VCF file for Jeong_Moon_2019
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - null

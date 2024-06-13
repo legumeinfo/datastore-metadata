@@ -1,36 +1,31 @@
 ---
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.info_accessions.txt.gz
   description: Table of Accessions used in this study including VCF ID, PI, Common Name and Species
-  display: false
   prior_names:
     - AnLab_1.5K.SampleIDs.txt
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.nonSyn_SNPs.gtf.gz
   description: List of non-Synonymous SNPs from all 20 chromosomes
-  display: false
   prior_names:
     - AnLab_all_nonSyn_SNPs.gtf.gz
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.NonsynSNPs_provean_freq01.gtf.gz
   description: Nonsynonymous SNPs reported by PROVEAN, with parameters -D=2.5 and allele frequency=0.01
-  display: false
   prior_names:
     - AnLab_1.5K.NS_SNPs_minusd2.5proveanAlleleFreq.01.gtf
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.NonsynSNPs_provean_freq01.vcf.gz
   description: Nonsynonymous SNPs reported by PROVEAN, with parameters -D=2.5 and allele frequency=0.01
-  display: false
   prior_names:
     - AnLab_1.5K.NS_SNPs_minusd2.5proveanAlleleFreq.01.vcf
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.SNPdata_full.vcf.gz
   description: Full VCF file received from Charles An Lab
-  display: false
   prior_names:
     - AnLab_1.5k.vcf.gz
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.SNPdata_maf01.vcf.gz
   description: Original VCF file (SNPData_Full.vcf.gz) filtered for minor allele frequency (MAF) of 1%.
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - An_FUll_filtered1.vcf.gz
 - name: glyma.Wm82.gnm2.div.Zhang_Jiang_2020.SNPdata_maf05.vcf.gz
   description: Original VCF file (SNPData_Full.vcf.gz) filtered for minor allele frequency (MAF) of 5%.
-  display: false
   prior_names:
     - AnLab_filtered.05.vcf.gz

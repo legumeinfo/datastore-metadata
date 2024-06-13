@@ -3,7 +3,6 @@
   description: Imputed genotypes of the 5176 NAM RILs, from the 40 NAM parental genotypes
     obtained from SoySNP50K and SoyNAM6K assays, with positions relative to
     Wm82 assembly 2; alleles in VCF scoring format (0/1, 0/1, 1/1).
-  display: false
   prior_names:
     - ready_imputed_dataset1_5176RILsX29416SNPs_imputed_from_SoySNP50K_SNPs_01_format_Oct29.txt
 ---
@@ -11,7 +10,6 @@
   description: Imputed genotypes of the 5176 NAM RILs, from the 40 NAM parental genotypes obtained
     from SoySNP50K and SoyNAM6K assays, with positions relative to Wm82 assembly 2;
     alleles in A/B format; IA3023 alleles as B, non-IA3023 alleles as A.
-  display: false
   prior_names:
     - ready_imputed_dataset0_5176RILsX29416SNPs_imputed_from_SoySNP50K_SNPs_AB_format_Oct21.txt
 ---
@@ -19,6 +17,5 @@
   description: Imputed genotypes of the 5176 NAM RILs, from the 40 NAM parental genotypes
     obtained from SoySNP50K and SoyNAM6K assays, with positions relative to Wm82 assembly 2;
     alleles indicated as bases (ACGT).
-  display: false
   prior_names:
     - ready_imputed_dataset0_5176RILsX29416SNPs_imputed_from_SoySNP50K_SNPs_ACGT_vcf_format_Oct21.txt

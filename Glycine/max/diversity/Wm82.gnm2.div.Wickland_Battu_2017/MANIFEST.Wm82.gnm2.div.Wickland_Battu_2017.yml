@@ -2,19 +2,22 @@
 - name: glyma.Wm82.gnm2.div.Wickland_Battu_2017.SNPdata1.vcf.gz
   description: genotype information from Population 1; 378 F2 lines resulting from a
     cross between Prize and an NMU-mutagenized individual of Williams 82
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.RW0X.SNPdata1.vcf.gz
     - Pop1_SNPs_minDP2.vcf.gz
 - name: glyma.Wm82.gnm2.div.Wickland_Battu_2017.SNPdata2.vcf.gz
   description: genotype information from Population 2; 391 F2 individuals from a cross between two breeding lines
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.RW0X.SNPdata2.vcf.gz
     - Pop2_SNPs_minDP2.vcf.gz
 - name: glyma.Wm82.gnm2.div.Wickland_Battu_2017.SNPdata3.vcf.gz
   description: genotype information from Population 3; 81 unrelated accessions that form an association panel
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.RW0X.SNPdata3.vcf.gz
     - Pop3_SNPs_minDP2.vcf.gz

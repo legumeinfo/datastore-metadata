@@ -1,65 +1,52 @@
 ---
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.sampled_25Kpos.fna.gz
   description: XX
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.sampled_25Kpos.nh.txt.gz
   description: Phylogenetic tree (newick format) of SNP data for USB481 data, based on SNPs sampled at one SNP per 25kb
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.sampled_25Kpos.pxml.txt.gz
   description: Phylogenetic tree (phyloxml format; colored) of SNP data for USB481 data, based on SNPs sampled at one SNP per 25kb
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.snpEff_Gmax.gff.gz
   description: XX
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.snpEff_Gsoja.gff.gz
   description: XX
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.snpEff.gff3.gz
   description: SnpEff results using the SNPs from the glyma.Wm82.gnm2.div.G787.USB481.vcf file as input. Output was converted to GFF file format.
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.Soja.vcf.gz
   description: XX
-  display: false
   prior_names:
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.Soy106.vcf.gz
   description: Genotype information in vcf format for 106 accessions from USB-funded project; from Valliyodan et al Sci Rep 2016.
-  display: false
   prior_names:
     - Genotype information in vcf format for 106 accessions from USB-funded project; from Valliyodan et al Sci Rep 2016.
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.USB-15x.vcf.gz
   description: Genotype information in vcf format for 284 accessions sequenced at 15x coverage from USB-funded project.
-  display: false
   prior_names:
     - Genotype information in vcf format for 284 accessions sequenced at 15x coverage from USB-funded project.
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.USB-40x.vcf.gz
   description: Genotype information in vcf format for 46 accessions sequenced at 40x coverage from USB-funded project.
-  display: false
   prior_names:
     Genotype information in vcf format for 46 accessions sequenced at 40x coverage from USB-funded project.
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.USB481_list.txt.gz
   description: Table containing the PI names, common names, maturity group, and county of origin for the 481 accessions.
-  display: false
   prior_names:
     - Table containing the PI names, common names, maturity group, and county of origin for the 481 accessions.
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.USB481_nosoja.vcf.gz
   description: Combined genotype information, in vcf format, for all USB lines excluding the Sjoa lines from USB funded project.
-  display: false
   prior_names:
     - Combined genotype information, in vcf format, for all USB lines excluding the Sjoa lines from USB funded project.
 - name: glyma.Wm82.gnm2.div.Valliyodan_Brown_2021.USB481.vcf.gz
   description: Genotype informaiton in vcf format for all 481 accessions from USB-funded project
-  display: true
+  applications:
+    - jbrowse
     - Genotype informaiton in vcf format for all 481 accessions from USB-funded project
 - name: ngs481_50K_25kPos_merged.vcf.gz
   description: XX
-  display: false
   prior_names:
 - name: USB481-25Kshared50Kpos.vcf.gz
   description: XX
-  display: false

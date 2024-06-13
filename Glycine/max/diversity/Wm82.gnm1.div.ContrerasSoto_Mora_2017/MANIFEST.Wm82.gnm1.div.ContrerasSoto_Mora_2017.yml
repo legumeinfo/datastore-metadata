@@ -1,7 +1,8 @@
 ---
 - name: glyma.Wm82.gnm1.div.ContrerasSoto_Mora_2017.SNPs.vcf.gz
   description: SNP data for 169 Brazilian soybean cultivars genotyped with the SoyNAM6K SNP chip
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm1.div.G4BG.SNPs.vcf.gz
     - Brazil169.vcf.gz

@@ -1,7 +1,8 @@
 ---
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2017.SNPdata.vcf.gz
   description: VCF file for Torkamaneh_Laroche_2017
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.47GQ.SNPdata.vcf.gz
     - CAD_WGS.vcf

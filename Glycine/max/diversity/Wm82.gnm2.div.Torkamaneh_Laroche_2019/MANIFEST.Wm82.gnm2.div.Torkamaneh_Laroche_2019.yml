@@ -1,44 +1,41 @@
 ---
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.AccessionTable.txt.gz
   description: Table containing accession codes and information for the 1007 soybean accessions in the VCF file.
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.AccessionTable.txt.gz
     - Supplemental_Table_1.txt
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.genotypes_by_gene.hmp.gz
   description: Genotypes found in all genes, in hapmap format, with addition of gene name in first column. Derived using HaplotypeMiner
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.genotypes_by_gene.hmp.gz
     - derived using HaplotypeMiner
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.haplotypes_by_gene.tsv.gz
   description: List of haplotype patterns found in all genes. Custom format. Derived using HaplotypeMiner
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.haplotypes_by_gene.tsv.gz
     - derived using HaplotypeMiner
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.loss_of_function.xlsx.gz
   description: Spreadsheet of loss-of-function genotypes for all genes. Derived using HaplotypeMiner
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.loss_of_function.xlsx.gz
     - GmHapMap_LOF_genotypes.xlsx
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.NonSynSNPs.vcf.gz
   description: Original VCF file filtered to only Non-Synonymous SNPs based off the program
     SnpEff (SNPs indicated as having a HIGH or MODERATE effect). This file contains 315,993 SNP positions.
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.NonSynSNPs.vcf.gz
     - GmHapMap_nsPos.vcf.gz
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.script.py.gz
   description: Script used to convert GmHapMap_GT text file to vcf file.
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.script.py.gz
     - GmHapMapGt-to-vcf.py
 - name: glyma.Wm82.gnm2.div.Torkamaneh_Laroche_2019.SNPdata.vcf.gz
   description: Full VCF file for Torkamaneh_Laroche_2019
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.HVCP.SNPData.vcf.gz
     - GmHapMap_GT.gz

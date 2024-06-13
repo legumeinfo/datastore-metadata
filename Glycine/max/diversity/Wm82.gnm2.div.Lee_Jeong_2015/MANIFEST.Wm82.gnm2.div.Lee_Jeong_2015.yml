@@ -3,32 +3,29 @@
   description: Text file containing genotype information of each soybean accession.
     Columns are ssIDs and rows are Accessions. File to be used in conjunction with
     markerMap as input in the FlapJack program (Milne et al. 2010).
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.dDzw.Flapjack.txt.gz
     - Korean222_2018-06-18.FlapJack.txt
 - name: glyma.Wm82.gnm2.div.Lee_Jeong_2015.hmp.gz
   description: HapMap file containing genotype data for 222 diverse Korean soybean lines.
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.dDzw.SNPdata.hmp.gz
     - Korean222_2018-06-18.hmp.txt
 - name: glyma.Wm82.gnm2.div.Lee_Jeong_2015.markerMap.txt.gz
   description: Text file containing SNP IDs and their relative positions in the Wm82.a2.v1 reference genome.
     File to be used in conjunction with Flapjack file as input in the FlapJack program (Milne et al. 2010).
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.dDzw.markerMap.txt.gz
     - Korean222_markerMap.txt.gz
 - name: glyma.Wm82.gnm2.div.Lee_Jeong_2015.Original_Korean222.txt.gz
   description: Text file with marker IDs, SNP positions, flanking sequence, and alleles
-  display: false
   prior_names:
     - glyma.Wm82.gnm2.div.dDzw.Original_Korean222.txt.gz
     - Validation_data_set_genotyped_from_the_222_soybean_samples.txt.gz
 - name: glyma.Wm82.gnm2.div.Lee_Jeong_2015.SNPdata.vcf.gz
   description: VCF file containing genotype data for 222 diverse Korean soybean lines
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.dDzw.SNPdata.vcf.gz
     - Korean222_2018-06-18.GM.vcf.gz

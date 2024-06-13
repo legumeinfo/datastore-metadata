@@ -1,7 +1,8 @@
 ---
 - name: glyma.Wm82.gnm2.div.Lam_Xu_2010.SNPdata.vcf.gz
   description: VCF file for Lam_Xu_2010
-  display: true
+  applications:
+    - jbrowse
   prior_names:
     - glyma.Wm82.gnm2.div.0SZD.SNPData.vcf.gz
     - 31.SNP.vcf.gz
