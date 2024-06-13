@@ -25,7 +25,7 @@
     - soysnp50K_wm82.a1_markerMap.txt.gz
 - name: glyma.Wm82.gnm1.div.Song_Hyten_2015.vcf.gz
   description: VCF file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a1 (Wm82.a1.v1.1)
-  display: false
+  display: true
   prior_names:
     - glyma.Wm82.gnm1.BDYN.vcf.gz
     - soysnp50k_wm82.a1_41317.vcf.gz
