@@ -1,0 +1,24 @@
+---
+- name: glyma.Wm82.gnm2.div.dosSantos_Valliyodan_2016.CultivarList.txt.gz
+  description: Text file containing the accession codes in the VCF file and the accessions those codes represent
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.5KDR.CultivarList.txt
+    - codigo_cultivares.txt
+- name: glyma.Wm82.gnm2.div.dosSantos_Valliyodan_2016.loss_of_function.xlsx.gz
+  description: Spreadsheet of genes with loss-of-function mutations
+  display: false
+  prior_names:
+    - null
+- name: glyma.Wm82.gnm2.div.dosSantos_Valliyodan_2016.SNPdata.hmp.gz
+  description: Genotype information in HapMap format for the 28 Brazilian cultivars. HapMap was produced using Tasssel v5.2
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.5KDR.SNPdata.hmp.gz
+    - Brazilian_passed_snp.hmp.gz
+- name: glyma.Wm82.gnm2.div.dosSantos_Valliyodan_2016.SNPdata.vcf.gz
+  description: VCF file for dosSantos_Valliyodan_2016
+  display: true
+  prior_names:
+    - glyma.Wm82.gnm2.div.5KDR.SNPdata.vcf.gz
+    - Brazilian_passed_snp.vcf.gz

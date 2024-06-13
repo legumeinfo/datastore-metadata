@@ -1,0 +1,29 @@
+---
+- name: glyma.Wm82.gnm2.div.Song_Yan_2017.SNPs.parents-progeny.txt.gz
+  description: Original text file downloaded from SoyBase containing haplotype information for the SoyNAM parents genotyped with the 6K SNP chip
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.Bandillo_Lorenz_2017.SNPs.parents-progeny.txt
+    - glyma.Wm82.gnm2.div.BRR2.SNPs.parents-progeny.txt
+    - SoyNAMparents-progeny-4312SNP-genotypes-Wm82.a1.txt
+- name: glyma.Wm82.gnm2.div.Song_Yan_2017.SNPs.parents-progeny.vcf.gz
+  description: VCF file containing haplotype informaiton for the the SoyNAM parents and progeny genotyped with the 6k SNP chip
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.Bandillo_Lorenz_2017.SNPs.parents-progeny.vcf.gz
+    - glyma.Wm82.gnm2.div.BRR2.SNPs.parents-progeny.vcf.gz
+    - SoyNAMparents-and-progeny.a1.vcf.gz
+- name: glyma.Wm82.gnm2.div.Song_Yan_2017.SNPs.parents.txt.gz
+  description: Original text file downloaded from SoyBase containing haplotype information for the SoyNAM parents genotyped with the 6K SNP chip
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.Bandillo_Lorenz_2017.SNPs.parents.vcf.gz
+    - glyma.Wm82.gnm2.div.BRR2.SNPs.parents.vcf.gz
+    - SoyNAMparents.a1.vcf.gz
+- name: glyma.Wm82.gnm2.div.Song_Yan_2017.SNPs.parents.vcf.gz
+  description: VCF file containing haplotype informaiton for the the SoyNAM parents and genotyped with the 6k SNP chip
+  display: true
+  prior_names:
+    - glyma.Wm82.gnm2.div.Bandillo_Lorenz_2017.SNPs.parents.vcf.gz
+    - glyma.Wm82.gnm2.div.BRR2.SNPs.parents.vcf.gz
+    - SoyNAMparents.a1.vcf.gz

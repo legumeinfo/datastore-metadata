@@ -1,0 +1,42 @@
+---
+- name: glyma.Wm82.gnm2.div.Song_Hyten_2015.AlleleCount.tsv.gz
+  description: Tab separated file containing allele counts for each cultivar in the dataset.
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.892R.AlleleCount.tsv.gz
+    - Wm82.a2_SNP50K_Cultivar_Allele_Count.tsv
+- name: glyma.Wm82.gnm2.div.Song_Hyten_2015.Flapjack.txt.gz
+  description: Text file containing genotype information of each soybean accession.
+    Columns are ssIDs and rows are Accessions. To be used with
+    glysp.mixed.div2.892R.Wm82.a2.markerMap.txt as input into the Flapjack Program
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.892R.Flapjack.txt.gz
+    - soysnp50K_wm82.a2_070617_Flapjack.txt.gz
+- name: glyma.Wm82.gnm2.div.Song_Hyten_2015.hmp.gz
+  description: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K
+    against Williams82 Reference genome a2 (Wm82.a2.v1)
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.892R.hmp.gz
+    - soysnp50K_wm82.a2_070617.hmp.gz
+- name: glyma.Wm82.gnm2.div.Song_Hyten_2015.markerMap.txt.gz
+  description: Text file containing ssIDs and their positions in Wm82.a2.v1 reference genome.
+    To be used with glysp.mixed.div2.892R.Wm82.a2.Flapjack.txt.gz as input into the Flapjack Program
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.892R.markerMap.txt.gz
+    - soysnp50K_wm82.a2_markerMap.txt
+- name: glyma.Wm82.gnm2.div.Song_Hyten_2015.PIconversion.txt.gz
+  description: Text file containing the PI# for each accession in the U.S. germplasm collection
+    and what the common name is in the second column.
+  display: false
+  prior_names:
+    - glyma.Wm82.gnm2.div.892R.PIconversion.txt.gz
+    - PI_to_CommName_table.txt
+- name: glyma.Wm82.gnm2.div.Song_Hyten_2015.vcf.gz
+  description: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a2 (Wm82.a2.v1)
+  display: true
+  prior_names:
+    - glyma.Wm82.gnm2.div.892R.vcf.gz
+    - soysnp50K_wm82.a2_41317.vcf.gz
