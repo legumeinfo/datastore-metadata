@@ -6,8 +6,6 @@
     - INDEL_coordinates.txt
 - name: glyma.Wm82.gnm1.div.Song_Wei_2015.SNPs.txt.gz
   description: genotype information for cultivar Hedou12 represented as SNPs in relation to reference genome Wm82.a1
-  applications:
-    - jbrowse
   prior_names:
     - glyma.Wm82.gnm1.div.0SXV.SNPs.txt
     - SNP_coordinates.txt
