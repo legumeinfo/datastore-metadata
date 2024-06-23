@@ -16,6 +16,10 @@ scientific_name_abbrev: vicfa
 genotype:
   - Tiffany
 
+chromosome_prefix: chr
+
+supercontig_prefix: contig,ptg
+
 description: "This release is from the German cultivar ‘Tiffany’ and assembled these into a set of contigs with an N50 of 1.6 Mb, spanning 11.4 Gb. For full description of assembly methods and characteristics, see the description at the associated primary reference."
 
 bioproject: PRJEB52541

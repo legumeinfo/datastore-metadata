@@ -2,10 +2,11 @@
 taxid: 3904
 genus: Vicia
 commonName: vetches
-description: "Vicia is a genus in the legume family comprised of over 240 species, commonly known as vetches. The genus includes bitter vetch (Vicia ervilia), one of the earliest domesticated crop species, and broadbean (Vicia faba). Member species are native to Europe, North America, South America, Asia and Africa."
+description: "Vicia is a genus in the legume family comprised of over 240 species, commonly known as vetches. The genus includes bitter vetch (Vicia ervilia), one of the earliest domesticated crop species, hairy vetch (Vicia villosa), and broadbean (Vicia faba). Member species are native to Europe, North America, South America, Asia and Africa."
 
 species:
   - faba
+  - villosa
 
 resources:
   - name: Genome Context Viewer
