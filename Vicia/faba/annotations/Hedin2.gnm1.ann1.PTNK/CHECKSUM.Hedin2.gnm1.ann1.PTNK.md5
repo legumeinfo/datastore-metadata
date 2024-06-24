@@ -1,6 +1,6 @@
 5c5cf9de03b543dcd169ae840b3ad8bb  ./vicfa.Hedin2.gnm1.ann1.PTNK.transcript.fna.gz.fai
 47dbe51e25979e5e904175a7a7aeaec9  ./vicfa.Hedin2.gnm1.ann1.PTNK.ncrna.fna.gz
-01cc09b983aaa29236475e03dccb5ec1  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz
+cd5e60964a0bc19d8a1852e7097bbea0  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz
 d3826f0567a1661fd4916ffd0fc78a45  ./README.Hedin2.gnm1.ann1.PTNK.yml
 6979931d750c9afbfa65a9838027e8aa  ./vicfa.Hedin2.gnm1.ann1.PTNK.mrna_primary.fna.gz.fai
 029d6467c673a94722190bcc444d1a59  ./vicfa.Hedin2.gnm1.ann1.PTNK.protein.faa.gz.fai
@@ -13,7 +13,7 @@ bb0cb7144e2c5a270e04eec81350b22f  ./vicfa.Hedin2.gnm1.ann1.PTNK.legfed_v1_0.M65K
 05bc0a0e83387e6041c0abeebd119761  ./vicfa.Hedin2.gnm1.ann1.PTNK.ncrna.fna.gz.fai
 92d47e2989a5996056356103ee6f09cc  ./vicfa.Hedin2.gnm1.ann1.PTNK.transcript.fna.gz
 fee858c26fadb34891e7748e7e02928f  ./vicfa.Hedin2.gnm1.ann1.PTNK.featid_map.tsv.gz
-80279a4040e9c5bbbb7b1a61f44692f0  ./vicfa.Hedin2.gnm1.ann1.PTNK.noncoding.gff3.gz.csi
+828c93f3ffc7d24fa898eda9ff64ed75  ./vicfa.Hedin2.gnm1.ann1.PTNK.noncoding.gff3.gz.csi
 b634283e9057695425c0f5452007a3e7  ./MANIFEST.Hedin2.gnm1.ann1.PTNK.descriptions.yml
 245d7d01a38cb40506c62b83e01ddb00  ./vicfa.Hedin2.gnm1.ann1.PTNK.iprscan.gff3.gz
 fbbb8907cd12c4ef02dbcd37726bd5e3  ./MANIFEST.Hedin2.gnm1.ann1.PTNK.correspondence.yml
@@ -30,11 +30,11 @@ ef285e336f5ddc972cfabb29b20e81bd  ./vicfa.Hedin2.gnm1.ann1.PTNK.cds_primary.fna.
 241a845b736c0950a6addc0aa82b3416  ./vicfa.Hedin2.gnm1.ann1.PTNK.cds.fna.gz
 b448d44c42b73820efd0d1a26d4301ae  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.bed.gz
 a239d8704bd4571f5840d283d1d1ccfb  ./vicfa.Hedin2.gnm1.ann1.PTNK.mrna_primary.fna.gz.gzi
-a203932ec6caefb295ef2c2b44ec6fe2  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz.csi
+a1a37638d026d7dd4f508d722b20b81a  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz.csi
 e3840a76af604c9dc180a6d45ee80c2f  ./vicfa.Hedin2.gnm1.ann1.PTNK.protein.faa.gz.gzi
 19bcf6687c08f7c6cde59ccc196edec1  ./BUSCO/vicfa.Hedin2.gnm1.ann1.PTNK.busco.fabales_odb10.full_table.tsv.gz
 55d80f6c60ddd38886f03e1f8068b585  ./BUSCO/vicfa.Hedin2.gnm1.ann1.PTNK.busco.fabales_odb10.short_summary.txt
 17a030d29cc2b75621057ac0be204e11  ./BUSCO/vicfa.Hedin2.gnm1.ann1.PTNK.busco.fabales_odb10.short_summary.json
 f8bfb625bd81280cb12a242536579f8e  ./vicfa.Hedin2.gnm1.ann1.PTNK.mrna.fna.gz
-3834ee3ad9b9cf71cb3ffcc617aaa021  ./vicfa.Hedin2.gnm1.ann1.PTNK.noncoding.gff3.gz
+0ea79394412c7a9ddcbc13b9ea1c7ff9  ./vicfa.Hedin2.gnm1.ann1.PTNK.noncoding.gff3.gz
 0afd65dcec9179bfda9e509680dde625  ./vicfa.Hedin2.gnm1.ann1.PTNK.transcript.fna.gz.gzi
