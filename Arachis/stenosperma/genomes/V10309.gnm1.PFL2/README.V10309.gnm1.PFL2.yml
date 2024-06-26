@@ -16,7 +16,7 @@ scientific_name_abbrev: arast
 genotype:
   - V10309
 
-chromosome_prefix: Chr
+chromosome_prefix: chr
 
 supercontig_prefix: Scaffold
 
