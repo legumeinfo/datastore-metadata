@@ -18,7 +18,7 @@ genotype:
 
 chromosome_prefix: Chr
 
-supercontig_prefix: scaffold
+supercontig_prefix: scaffold,ctg
 
 description: "Genome assembly 1 for Vicia villosa, genotype HV-30, with sequenced generated using PacBio Improved Phased Assembler, HiFi assembler version 1.3.0, and approximately 55–60× predicted coverage of HiFi reads. See publication for information about additional assembly and scaffolding details."
 

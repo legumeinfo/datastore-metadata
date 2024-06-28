@@ -1,0 +1,14 @@
+---
+taxid: 3911
+genus: Vicia
+species: villosa
+abbrev: vicvi
+commonName: hairy vetch
+description: "Hairy vetch (Vicia villosa) ..."
+
+strains:
+  - identifier: HV-30
+    accession: HV-30
+    name: hairy vetch
+    origin: ...
+    description: "Genome assembly 1 for Vicia villosa, genotype HV-30"
