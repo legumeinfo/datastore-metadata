@@ -12,7 +12,6 @@ strains:
     name: MN87
     origin: Toulouse, France
     description: "Chamaecrista fasciculata MN87 was sequenced and reported in Griesmann, et al. DOI: 10.1126/science.aat1743"
-strains:
   - identifier: ISC494698
     accession: ISC494698
     name: ISC494698
