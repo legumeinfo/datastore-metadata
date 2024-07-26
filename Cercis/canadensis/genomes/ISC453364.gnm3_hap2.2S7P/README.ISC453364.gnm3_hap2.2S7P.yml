@@ -16,7 +16,7 @@ scientific_name_abbrev: cerca
 genotype:
   - ISC453364
 
-chromosome_prefix: chr
+chromosome_prefix: Chr
 
 supercontig_prefix: scaffold
 
