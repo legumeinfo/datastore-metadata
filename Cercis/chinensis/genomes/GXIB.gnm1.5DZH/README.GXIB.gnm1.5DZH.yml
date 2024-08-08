@@ -18,6 +18,10 @@ genotype:
 
 description: "Genome assembly for Cercis chinensis, from a plant at the campus of Guangxi Institute of Botany (GXIB), from Li, Shen et al., 2023.  The genome assembly was derived from PacBio HiFi reads with 130.9x coverage."
 
+chromosome_prefix: Chr
+  
+supercontig_prefix: scaffold
+
 genbank_accession: GWHBHAK00000000
 
 original_file_creation_date: "2021-11-20"
