@@ -18,6 +18,7 @@ scientific_name_abbrev: medtr
 genotype:
   - HM078
 
+chromosome_prefix: Chr,MT,CP
 supercontig_prefix: ctg
 
 description: "Genome assembly for Medicago truncatula (HM078)."
