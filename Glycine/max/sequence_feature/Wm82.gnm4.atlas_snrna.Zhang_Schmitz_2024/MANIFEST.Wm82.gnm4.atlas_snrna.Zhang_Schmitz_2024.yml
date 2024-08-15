@@ -1,0 +1,1310 @@
+---
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.Dividing_cell.12.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Dividing_cell.12.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.Em_epidermis.14.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_epidermis.14.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.Em_proper_innitials.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_proper_innitials.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.End_chalazal.11.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.End_chalazal.11.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.End_micropylar.8.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.End_micropylar.8.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.End_peripheral.16.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.End_peripheral.16.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.End_peripheral.9.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.End_peripheral.9.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_endothelium.10.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_endothelium.10.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_parenchyma.15.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_hillum_parenchyma.15.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_vasculature.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_hillum_vasculature.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_inner_integument.13.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_inner_integument.13.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_phloem.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_phloem.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_vascular_parenchyma.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_vascular_parenchyma.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Cotyledon_seeds.SC_xylem.17.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_xylem.17.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.0_0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.0_0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.8.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.8.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Endodermis.11.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Endodermis.11.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Nodule_infected_cell.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_infected_cell.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Nodule_meritem.9.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_meritem.9.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Nodule_uninfected_cell.0_1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_uninfected_cell.0_1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Pericycle.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Pericycle.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Phloem.10.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Phloem.10.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Procambium.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Procambium.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_nodule.Xylem.12.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Xylem.12.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Dividing_cell.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Dividing_cell.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Em_epidermis.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Em_epidermis.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Em_parenchyma.0_0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Em_parenchyma.0_0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Em_parenchyma.0_1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Em_parenchyma.0_1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Em_parenchyma.0_2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Em_parenchyma.0_2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Em_vasculature.13.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Em_vasculature.13.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.End_micropylar.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.End_micropylar.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.End_peripheral.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.End_peripheral.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_endothelium.11.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_endothelium.11.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_epidermis.0_3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_epidermis.0_3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_epidermis.10.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_epidermis.10.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_epidermis.1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_epidermis.1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_parenchyma.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_parenchyma.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_parenchyma.8.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_parenchyma.8.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_vasculature.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_vasculature.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.SC_xylem.9.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.SC_xylem.9.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Early_seeds.Unknown.12.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_stage_seeds.Unknown.12.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Early seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.Dividing_cell.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Dividing_cell.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.Em_innitials.12.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Em_innitials.12.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.End_chalazal.11.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.End_chalazal.11.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.End_chalazal.13.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.End_chalazal.13.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.End_micropylar.10.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.End_micropylar.10.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.End_peripheral.8.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.End_peripheral.8.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_endothelium.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_endothelium.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_epidermis.1_0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_epidermis.1_0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_epidermis.1_1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_epidermis.1_1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_parenchyma.1_2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_parenchyma.1_2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_vasculature.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_vasculature.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_inner_integument.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_inner_integument.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_phloem.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_phloem.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_unknown.14.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_unknown.14.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_vascular_parenchyma.9.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_vascular_parenchyma.9.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Globular_seeds.SC_xylem.1_3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_xylem.1_3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.Dividing_cell.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Dividing_cell.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.Em_innitials.11.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Em_innitials.11.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.End_chalazal.16.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.End_chalazal.16.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.End_micropylar.9.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.End_micropylar.9.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.End_peripheral.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.End_peripheral.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_endothelium.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_endothelium.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_epidermis.1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_epidermis.1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_hillum_parenchyma.10.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_hillum_parenchyma.10.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_hillum_vasculature.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_hillum_vasculature.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_inner_integument.8.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_inner_integument.8.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_parenchyma.0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_parenchyma.0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_phloem.13.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_phloem.13.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_phloem.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_phloem.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_vascular_parenchyma.12.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_vascular_parenchyma.12.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_vascular_parenchyma.14.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_vascular_parenchyma.14.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_vascular_parenchyma.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_vascular_parenchyma.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Heart_seeds.SC_xylem.15.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_xylem.15.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Dividing_cell.8.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Dividing_cell.8.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Endodermis.10.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Endodermis.10.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Epidermis.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Epidermis.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Inner_cortex.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Inner_cortex.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Outer_cortex.1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Outer_cortex.1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Outer_cortex.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Outer_cortex.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Pericycle.11.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pericycle.11.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Phloem.15.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Phloem.15.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Phloem.9.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Phloem.9.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Pith.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pith.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Procambium.14.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Procambium.14.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Procambium.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Procambium.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Trichome.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Trichome.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Unknown.13.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Unknown.13.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Vascular_parenchyma.0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Vascular_parenchyma.0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Hypocotyl.Xylem.12.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Xylem.12.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Cortex.0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Cortex.5.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.5.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Cortex.7.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.7.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Endodermis.4.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Endodermis.4.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Epidermis.2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Epidermis.2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Epidermis.3.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Epidermis.3.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Pericycle.1_1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Pericycle.1_1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Phloem.8_0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Phloem.8_0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Phloem.8_2.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Phloem.8_2.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Procambium.1_0.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Procambium.1_0.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Root_hair.6.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_hair.6.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.Root.Xylem.8_1.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Xylem.8_1.clean.rna.bw
+  category:
+    - Single-nucleus RNA-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_hypocotyl.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_nodule.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_root.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_seed_cotyledon_stage.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_seed_early_stage.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_seed_globular_stage.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024.merged_seed_heart_stage.bw
+  description: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for
+    cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome
+    assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-nucleus RNA-seq
+    - Merged by tissue

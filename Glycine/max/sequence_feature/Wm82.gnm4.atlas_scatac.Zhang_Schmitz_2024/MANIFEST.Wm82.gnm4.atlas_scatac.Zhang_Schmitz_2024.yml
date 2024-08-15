@@ -1,0 +1,1728 @@
+---
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.Em_epidermis.15.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_epidermis.15.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.Em_proper_innitials.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_proper_innitials.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.Endosperm.17.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Endosperm.17.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.Endosperm.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Endosperm.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_endothelium.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_endothelium.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.13.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.13.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_vasculature.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_hillum_vasculature.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_vasculature.16.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_hillum_vasculature.16.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_inner_integument.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_inner_integument.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.14.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.14.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_phloem.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_phloem.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_vascular_parenchyma.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_vascular_parenchyma.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Cotyledon_seeds.SC_xylem.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_xylem.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Em_epidermis.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_epidermis.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Em_parenchyma.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_parenchyma.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Em_parenchyma.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_parenchyma.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Em_parenchyma.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_parenchyma.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Em_vasculature.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_vasculature.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Endosperm.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Endosperm.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Endosperm.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Endosperm.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_endothelium.13.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_endothelium.13.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_epidermis.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_epidermis.17.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_epidermis.17.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_epidermis.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_epidermis.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_epidermis.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_hillum_vasculature.14.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_hillum_vasculature.14.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_parenchyma.16.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_parenchyma.16.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_parenchyma.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_parenchyma.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_vasculature.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_vasculature.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.SC_xylem.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_xylem.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_maturation_seeds.Unknown.15.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Unknown.15.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Endodermis.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Endodermis.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Nodule_infected_cell.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_infected_cell.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Nodule_meristem.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_meristem.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Nodule_uninfected_cell.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_uninfected_cell.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Pericycle.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Pericycle.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Phloem.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Phloem.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Procambium.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Procambium.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Procambium.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Procambium.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Early_nodule.Xylem.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Xylem.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.Em_innitials.15.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Em_innitials.15.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.Endosperm.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Endosperm.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_endothelium.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_endothelium.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_epidermis.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_epidermis.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_epidermis.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_epidermis.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_parenchyma.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_parenchyma.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_vasculature.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_vasculature.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_inner_integument.17.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_inner_integument.17.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_inner_integument.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_inner_integument.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.13.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.13.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_phloem.14.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_phloem.14.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_phloem.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_phloem.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_unknown.16.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_unknown.16.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Globular_seeds.SC_xylem.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_xylem.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.Em_innitials.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Em_innitials.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.Endosperm.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Endosperm.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_endothelium.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_endothelium.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_epidermis.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_epidermis.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_hillum_vasculature.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_hillum_vasculature.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_inner_integument.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_inner_integument.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_parenchyma.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_parenchyma.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_parenchyma.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_parenchyma.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_parenchyma.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_parenchyma.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_parenchyma.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_parenchyma.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_phloem.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_phloem.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.SC_xylem.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_xylem.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Heart_seeds.Unknown.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Unknown.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Endodermis.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Endodermis.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Epidermis.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Epidermis.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Inner_cortex.14.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Inner_cortex.14.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Outer_cortex.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Outer_cortex.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Outer_cortex.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Outer_cortex.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Pericycle.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pericycle.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Phloem.16.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Phloem.16.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Pith.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pith.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Pith.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pith.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Procambium.13.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Procambium.13.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Procambium.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Procambium.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Trichome.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Trichome.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Trichome.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Trichome.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Unknown.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Unknown.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Unknown.17.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Unknown.17.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Vascular_parenchyma.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Vascular_parenchyma.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Hypocotyl.Xylem.15.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Xylem.15.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Epidermis.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Epidermis.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Epidermis.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Epidermis.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Guard_cell.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Guard_cell.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Mesophyll.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Mesophyll.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Mesophyll.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Mesophyll.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Mesophyll.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Mesophyll.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Mesophyll.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Mesophyll.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Paraveinal_mesophyll.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Paraveinal_mesophyll.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Paraveinal_mesophyll.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Paraveinal_mesophyll.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Trichome.13.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Trichome.13.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Unknown.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Unknown.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Vascular_bundle.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Vascular_bundle.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Leaf.Vascular_parenchyma.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Vascular_parenchyma.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_epidermis.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Axis_epidermis.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_parenchyma.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Axis_parenchyma.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_epidermis.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Cot_epidermis.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_parenchyma.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Cot_parenchyma.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_parenchyma.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Cot_parenchyma.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_parenchyma.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Cot_parenchyma.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Em_vasculature.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Em_vasculature.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.Endosperm.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Endosperm.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_endothelium.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_endothelium.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_epidermis.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_epidermis.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_parenchyma.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_parenchyma.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_vasculature.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_vasculature.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Em_innitials.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Em_innitials.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Endosperm.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Endosperm.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Epidermis.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Epidermis.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Procambium.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Procambium.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.SC_Endothelium.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_Endothelium.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.SC_hillum_vasculature.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_hillum_vasculature.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.SC_inner_integument.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_inner_integument.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Trichome.1.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Trichome.1.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Vascular_parenchyma.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Vascular_parenchyma.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Vascular_parenchyma.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Vascular_parenchyma.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Vascular_parenchyma.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Vascular_parenchyma.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Pod.Xylem.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Xylem.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Cortex.12.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.12.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Cortex.2.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.2.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Cortex.3.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.3.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Cortex.9.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.9.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Endodermis.6.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Endodermis.6.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Epidermis.11.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Epidermis.11.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Epidermis.5.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Epidermis.5.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Pericycle.7.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Pericycle.7.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Phloem.16.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Phloem.16.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Procambium.4.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Procambium.4.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.RAM.8.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.RAM.8.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Root_cap.14.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_cap.14.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Root_hair.13.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_hair.13.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Root_hair.15.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_hair.15.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Unknown.10.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Unknown.10.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.Root.Xylem.17.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Xylem.17.macs2.clean.bw
+  category:
+    - Single-cell ATAC-seq
+    - Root
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_hypocotyl.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_leaf.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_nodule.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_pod.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_root.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_seed_cotyledon_stage.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_seed_early_stage.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_seed_globular_stage.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_seed_heart_stage.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue
+- name: glyma.Wm82.gnm4.atlas_scatac.Zhang_Schmitz_2024.merged_seed_middle_stage.bw
+  description: Sequence profiles of chromatin accessibility, from scATAC-seq, for
+    many cell types, tissues, and developmental stages, for Glycine max
+    accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - merged from separate files from indicated structure
+  category:
+    - Single-cell ATAC-seq
+    - Merged by tissue

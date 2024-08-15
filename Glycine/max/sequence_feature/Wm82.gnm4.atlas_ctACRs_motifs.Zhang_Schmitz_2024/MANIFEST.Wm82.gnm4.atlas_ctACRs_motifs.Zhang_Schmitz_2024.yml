@@ -1,0 +1,1101 @@
+---
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.all_tissues_motif.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_all_tissues_cpm4.ACR.motif.fimo.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - all tissues motif
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.Em_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.Em_proper_innitials.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_proper_innitials.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.Endosperm.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Endosperm.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_endothelium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_endothelium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_hillum_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_inner_integument.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_inner_integument.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_phloem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_phloem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_vascular_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_vascular_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Cotyledon seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.Endosperm.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Endosperm.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_endothelium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_endothelium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_hillum_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_hillum_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_maturation_seeds.Unknown.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Unknown.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Endodermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Endodermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Nodule_infected_cell.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_infected_cell.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Nodule_meristem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_meristem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Nodule_uninfected_cell.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_uninfected_cell.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Pericycle.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Pericycle.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Phloem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Phloem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Procambium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Procambium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Early_nodule.Xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Early nodule
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.Em_innitials.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Em_innitials.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.Endosperm.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Endosperm.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_endothelium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_endothelium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_inner_integument.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_inner_integument.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_phloem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_phloem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_unknown.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_unknown.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Globular_seeds.SC_xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Globular seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.Em_innitials.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Em_innitials.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.Endosperm.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Endosperm.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.SC_endothelium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_endothelium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.SC_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.SC_hillum_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_hillum_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.SC_inner_integument.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_inner_integument.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.SC_phloem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_phloem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.SC_xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Heart_seeds.Unknown.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Unknown.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Heart seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Endodermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Endodermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Inner_cortex.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Inner_cortex.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Pericycle.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pericycle.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Phloem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Phloem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Pith.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pith.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Procambium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Procambium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Trichome.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Trichome.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Unknown.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Unknown.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Vascular_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Vascular_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Hypocotyl.Xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Hypocotyl
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Guard_cell.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Guard_cell.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Mesophyll.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Mesophyll.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Paraveinal_mesophyll.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Paraveinal_mesophyll.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Trichome.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Trichome.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Unknown.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Unknown.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Vascular_bundle.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Vascular_bundle.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Leaf.Vascular_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Vascular_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Leaf
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Axis_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Axis_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Cot_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.Em_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Em_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.Endosperm.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Endosperm.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_endothelium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_endothelium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Middle maturation seeds
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Em_innitials.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Em_innitials.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Endosperm.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Endosperm.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Procambium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Procambium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.SC_Endothelium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_Endothelium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.SC_hillum_vasculature.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_hillum_vasculature.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.SC_inner_integument.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_inner_integument.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Trichome.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Trichome.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Vascular_parenchyma.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Vascular_parenchyma.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Pod.Xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Pod
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Endodermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Endodermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Epidermis.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Epidermis.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Pericycle.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Pericycle.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Phloem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Phloem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Procambium.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Procambium.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.RAM.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.RAM.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Root_cap.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_cap.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Root_hair.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_hair.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Unknown.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Unknown.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
+- name: glyma.Wm82.gnm4.atlas_ctACRs_motifs.Zhang_Schmitz_2024.Root.Xylem.motifs.bed.gz
+  description: The motifs identified in the accessible chromatin regions (ACRs),
+    as bed files with motif signatures per feature, for Glycine max accession
+    Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Xylem.ctACR.motif.sorted.bed
+  category:
+    - Cell-specifc ACRs; motifs
+    - Root
