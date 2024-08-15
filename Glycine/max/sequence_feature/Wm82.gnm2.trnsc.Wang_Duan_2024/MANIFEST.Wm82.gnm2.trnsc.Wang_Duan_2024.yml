@@ -5,9 +5,13 @@
     - jbrowse
   prior_names:
     - TSR_annotated.V2.gff3.gz
+  category:
+    - transcription
 - name: glyma.Wm82.gnm2.trnsc.Wang_Duan_2024.tss.gff3.gz
   description: Transcription start sites (TSS) identified in Wm82 genome assembly 2
   applications:
     - jbrowse
   prior_names:
     - tss_annotated.V2.gff3.gz
+  category:
+    - transcription
