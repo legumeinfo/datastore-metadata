@@ -8,6 +8,7 @@
 *.bam
 *.bai
 *.bz2
+*.bw
 *.xls
 *.xlsx
 *.stats
