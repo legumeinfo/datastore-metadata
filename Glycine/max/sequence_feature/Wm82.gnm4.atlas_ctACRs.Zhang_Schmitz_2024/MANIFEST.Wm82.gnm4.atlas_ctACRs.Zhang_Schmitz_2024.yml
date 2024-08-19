@@ -1,6 +1,6 @@
 ---
 -
-  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.all_tissues_ACR.bed.gz.gz
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.all_tissues_ACR.bed.gz
   description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
   applications:
     - jbrowse

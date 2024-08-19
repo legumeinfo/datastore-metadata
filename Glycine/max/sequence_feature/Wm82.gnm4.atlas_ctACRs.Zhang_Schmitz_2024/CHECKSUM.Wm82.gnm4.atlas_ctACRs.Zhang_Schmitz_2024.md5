@@ -104,7 +104,7 @@ e711aebf01ff4c07f0af3c367421e52f  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2
 57d75ace28ed6d30f0f5b97747db2791  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_parenchyma.bed.gz.tbi
 781f91cdb53bdfe24a380bfb72dd31b0  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_epidermis.bed.gz.tbi
 38b0f77d2dfef534a93f4f0bc570f904  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_unknown.bed.gz.tbi
-1aeab48e44b5198dff42f917667ea19b  ./MANIFEST.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.yml
+987187cdf2eff67c927f13d1fc6c5a1c  ./MANIFEST.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.yml
 56087c966428173f6440a80d2b672c9e  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_epidermis.bed.gz
 93afbec54e29255594e12f1c751d1bd8  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Endodermis.bed.gz.tbi
 7a47adf78fcf31cf1bf27abdda9372c5  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Unknown.bed.gz
@@ -122,6 +122,7 @@ fb2e38527de5afdb8ab24c77b8d83243  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2
 ed377ad060b4d476656a7422628fd5c1  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Procambium.bed.gz.tbi
 480dc1985881b6f94ef65da8a96fbf33  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Root_cap.bed.gz.tbi
 be266c06bbf0f31adfedb054153e957c  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Unknown.bed.gz.tbi
+13404a696f3a45fe5a591d315d7a6b25  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.all_tissues_ACR.bed.gz
 5ca0892b00a697343a873ea68e50f6af  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Unknown.bed.gz.tbi
 905903c02b0be569241c49d408073c9c  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Guard_cell.bed.gz.tbi
 ee9648a562ca1a98aef79e6db9211b82  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_phloem.bed.gz.tbi
@@ -158,6 +159,7 @@ aa075ea4de0d9347563ce4d7af11fc26  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2
 3809a4e44955ae75b1801fc1fad2f1d5  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_epidermis.bed.gz.tbi
 9c89846500fa2d06fcdfc7bc5e9cdc05  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_vasculature.bed.gz
 f779b35c4cd2a795f676db5278a2bfcd  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.RAM.bed.gz
+bd55695413f8db6483693fad5fd27233  ./CHANGES.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.txt
 9a032c5dc64107401653d4eaec2562cf  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Outer_cortex.bed.gz
 a140f43cb4dae3feb6e7d210fe0a9bcf  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Procambium.bed.gz
 8f848f7a44130045453084a14aba1dc6  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Epidermis.bed.gz.tbi
@@ -192,7 +194,6 @@ a1f13322b550f3e24ab6692d4763befc  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2
 bd858cc556c834cf92c2fbbd25837ac2  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Endosperm.bed.gz.tbi
 af5dd08a3a4092054e44fea1942b3399  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Nodule_uninfected_cell.bed.gz
 95212c854bd03efe70de74827ec39fb9  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_hillum_vasculature.bed.gz
-6b72738b70090eb54531d9af7501c0fd  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.all_tissues_ACR.bed.gz.gz
 3a3c3774f3a1ad16a6d6ed81a8e9f60d  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_epidermis.bed.gz
 94d6862557203bf8bb86b83546fa0b8e  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_vasculature.bed.gz
 c4f1a6aa397b87c6579393c0aebf8bc3  ./glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.Unknown.bed.gz.tbi
