@@ -1,0 +1,18 @@
+---
+- name: glyma.Wm82.gnm1.div.Zhou_Jiang_2015.script1.sh.gz
+  description: Script used to convert original text file containing SNP data into a VCF file.
+  prior_names:
+    - glyma.Wm82.gnm1.div.QXZK.script1.sh
+    - Zhou2015-SNPtxt-to-vcf.sh
+- name: glyma.Wm82.gnm1.div.Zhou_Jiang_2015.script2.sh.gz
+  description: Script used to convert original text file containing INDEL information into a VCF file
+  prior_names:
+    - glyma.Wm82.gnm1.div.QXZK.script2.sh
+    - Zhou2015-INDELtxt-to-vcf.sh
+- name: glyma.Wm82.gnm1.div.Zhou_Jiang_2015.SNPdata.vcf.gz
+  description: VCF file for 302 wild and cultivated soybean accessions obtained from http://figshare.com/articles/Soybean_resequencing_project/1176133.
+  applications:
+    - jbrowse
+  prior_names:
+    - glyma.Wm82.gnm1.div.QXZK.SNPData.vcf.gz
+    - Zhou-SNP-data-sort.vcf.gz

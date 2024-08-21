@@ -1,0 +1,13 @@
+---
+- name: glyma.Wm82.gnm1.div.Hu_Zhang_2020.SNPdata.hmp.gz
+  description: Genotype information for 96 wild soybean accessions in hapmap format
+  prior_names:
+    - glyma.Wm82.gnm1.div.WKJG.SNPdata.hmp.gz
+    - 96w_used_tassel.hmp.txt
+- name: glyma.Wm82.gnm1.div.Hu_Zhang_2020.SNPdata.vcf.gz
+  description: Genotype information for 96 wild soybean accessions in VCF format
+  applications:
+    - jbrowse
+  prior_names:
+    - glyma.Wm82.gnm1.div.WKJG.SNPdata.vcf.gz
+    - 96w_used.vcf.gz

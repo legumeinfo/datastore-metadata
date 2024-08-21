@@ -11,13 +11,14 @@ scientific_name: Medicago truncatula
 
 taxid: 3880
 
-bioproject: 
+bioproject: PRJNA975868
 
 scientific_name_abbrev: medtr
 
 genotype:
   - HM078
 
+chromosome_prefix: Chr,MT,CP
 supercontig_prefix: ctg
 
 description: "Genome assembly for Medicago truncatula (HM078)."
@@ -26,7 +27,11 @@ original_file_creation_date: "2024-01-02"
 
 local_file_creation_date: "2024-01-11"
 
+publication_doi: 10.1186/s12864-024-10112-9
+
 dataset_release_date: "2024-01-11"
+
+publication_title: "Genome assembly of Medicago truncatula accession SA27063 provides insight into spring black stem and leaf spot disease resistance"
 
 contributors: "Jacob Botkin, Shaun Curtin"
 
@@ -36,4 +41,4 @@ public_access_level: public
 
 license: Open
 
-citation: 
+citation: "Botkin, J.R., Farmer, A.D., Young, N.D. et al. Genome assembly of Medicago truncatula accession SA27063 provides insight into spring black stem and leaf spot disease resistance. BMC Genomics 25, 204 (2024)."

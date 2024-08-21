@@ -1,0 +1,42 @@
+---
+identifier: Wm82.gnm4.atlas_snrna.Zhang_Schmitz_2024
+
+provenance: "The files in this directory originated from the lab of Dr. Bob Schmitz, Univeristy of Georgia. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the SoyBase and LegumeInfo projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase and LegumeInfo projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "http://soybase.org"
+
+synopsis: snRNA-seq (single‐nucleus RNA sequencing), as bigwig files, for cell clusters from scATAC-seq, for Glycine max accession Williams 82 genome assembly 4
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+bioproject:
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+description: Accessible chromatin regions (ACR), as bigwig files, for cell clusters from scATAC-seq, merged per organ type and developmental stage for Glycine max accession Williams 82 genome assembly 4
+
+original_file_creation_date: "2024-05-01"
+
+local_file_creation_date: "2024-08-12"
+
+publication_doi: 10.1101/2024.07.03.601616
+
+publication_title: "A spatially resolved multiomic single-cell atlas of soybean development"
+
+contributors: "Xuan Zhang, Ziliang Luo, Alexandre P. Marand, Haidong Yan, Hosung Jang, Sohyun Bang, John P. Mendieta, Mark A.A. Minow, Robert J. Schmitz"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, snRNA-seq, single‐nucleus RNA sequencing, single-cell sequencing
+
+citation: "Widespread transcription initiation within coding sequences marks tissue identity and accessible chromatin. Xutong Wang, Jingbo Duan, Chancelor B. Clark, Wanjie Feng, Jianxin Ma. bioRxiv 2024.03.27.587116; doi: https://doi.org/10.1101/2024.03.27.587116"
+

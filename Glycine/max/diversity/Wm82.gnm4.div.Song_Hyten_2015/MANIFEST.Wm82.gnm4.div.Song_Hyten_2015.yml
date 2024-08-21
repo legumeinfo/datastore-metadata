@@ -1,0 +1,14 @@
+---
+- name: glyma.Wm82.gnm4.div.Song_Hyten_2015.hmp.gz
+  description: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K
+    against Williams82 Reference genome a4 (Wm82.a4.v1)
+  prior_names:
+    - glyma.Wm82.gnm4.div.892R.hmp.gz
+    - soysnp50K_wm82.a2_070617.hmp.gz
+- name: glyma.Wm82.gnm4.div.Song_Hyten_2015.vcf.gz
+  description: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a4 (Wm82.a4.v1)
+  applications:
+    - jbrowse
+  prior_names:
+    - glyma.Wm82.gnm4.div.892R.vcf.gz
+    - soysnp50K_wm82.a2_41317.vcf.gz

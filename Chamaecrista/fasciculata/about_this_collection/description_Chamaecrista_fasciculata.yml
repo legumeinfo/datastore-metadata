@@ -12,3 +12,8 @@ strains:
     name: MN87
     origin: Toulouse, France
     description: "Chamaecrista fasciculata MN87 was sequenced and reported in Griesmann, et al. DOI: 10.1126/science.aat1743"
+  - identifier: ISC494698
+    accession: ISC494698
+    name: ISC494698
+    origin: Ames, Iowa; population derived from one from Minneapolis, Minnesota
+    description: "This release is from a an accession from Ames, Iowa, registered as accession ISC494698. This accession derived originally from a population on the west side of Minneapolis, Minnesota. The resulting genome assembly was resolved into two haplotype assemblies."

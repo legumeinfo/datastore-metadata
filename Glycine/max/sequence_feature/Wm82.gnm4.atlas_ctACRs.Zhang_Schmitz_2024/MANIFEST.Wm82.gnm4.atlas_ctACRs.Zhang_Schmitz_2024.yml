@@ -1,0 +1,1041 @@
+---
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.all_tissues_ACR.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_all_tissues_cpm4.ACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - all tissues ACR
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.All_tissues.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_All_tissues.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - All tissues
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.Em_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.Em_proper_innitials.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Em_proper_innitials.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.Endosperm.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.Endosperm.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_endothelium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_endothelium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_hillum_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_hillum_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_inner_integument.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_inner_integument.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_phloem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_phloem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_vascular_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_vascular_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Cotyledon_seeds.SC_xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Cotyledon_stage_seeds.SC_xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Cotyledon seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Em_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Em_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Endosperm.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Endosperm.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_endothelium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_endothelium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_hillum_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_hillum_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.SC_xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.SC_xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_maturation_seeds.Unknown.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_maturation_stage_seeds.Unknown.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Cortex_Epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Cortex_Epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Endodermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Endodermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Nodule_infected_cell.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_infected_cell.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Nodule_meritem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_meritem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Nodule_uninfected_cell.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Nodule_uninfected_cell.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Pericycle.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Pericycle.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Phloem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Phloem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Procambium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Procambium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Early_nodule.Xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Early_nodule.Xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Early nodule
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.Em_innitials.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Em_innitials.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.Endosperm.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.Endosperm.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_endothelium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_endothelium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_hillum_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_hillum_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_inner_integument.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_inner_integument.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_phloem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_phloem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_unknown.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_unknown.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Globular_seeds.SC_xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Globular_stage_seeds.SC_xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Globular seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.Em_innitials.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Em_innitials.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.Endosperm.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Endosperm.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_endothelium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_endothelium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_hillum_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_hillum_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_inner_integument.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_inner_integument.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_phloem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_phloem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.SC_xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.SC_xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Heart_seeds.Unknown.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Heart_stage_seeds.Unknown.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Heart seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Endodermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Endodermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Inner_cortex.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Inner_cortex.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Outer_cortex.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Outer_cortex.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Pericycle.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pericycle.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Phloem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Phloem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Pith.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Pith.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Procambium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Procambium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Trichome.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Trichome.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Unknown.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Unknown.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Vascular_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Vascular_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Hypocotyl.Xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Hypocotyl.Xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Hypocotyl
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Guard_cell.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Guard_cell.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Mesophyll.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Mesophyll.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Paraveinal_mesophyll.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Paraveinal_mesophyll.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Trichome.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Trichome.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Unknown.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Unknown.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Vascular_bundle.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Vascular_bundle.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Leaf.Vascular_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Leaf.Vascular_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Leaf
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Axis_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Axis_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Axis_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Cot_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Cot_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Em_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Em_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.Endosperm.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.Endosperm.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_endothelium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_endothelium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Middle_maturation_seeds.SC_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Middle_maturation_stage_seeds.SC_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Middle maturation seeds
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Em_innitials.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Em_innitials.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Endosperm.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Endosperm.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Procambium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Procambium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.SC_Endothelium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_Endothelium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.SC_hillum_vasculature.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_hillum_vasculature.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.SC_inner_integument.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.SC_inner_integument.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Trichome.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Trichome.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Vascular_parenchyma.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Vascular_parenchyma.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Pod.Xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Pod.Xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Pod
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Cortex.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Cortex.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Endodermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Endodermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Epidermis.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Epidermis.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Pericycle.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Pericycle.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Phloem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Phloem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Procambium.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Procambium.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.RAM.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.RAM.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Root_cap.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_cap.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Root_hair.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Root_hair.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Unknown.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Unknown.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
+-
+  name: glyma.Wm82.gnm4.atlas_ctACRs.Zhang_Schmitz_2024.Root.Xylem.bed.gz
+  description: Cell-type-specific ACRs(ctACRs) identified each cell type, for Glycine max accession Williams 82 genome assembly 4
+  applications:
+    - jbrowse
+  prior_names:
+    - Gm_atlas_Root.Xylem.ctACR.sorted.bed
+  category:
+    - Cell-specifc accessible chromatin regions
+    - Root
