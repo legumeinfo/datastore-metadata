@@ -1,5 +1,0 @@
----
-# filename in this repository: description
-glyma.Wm82.gnm.div.Song_Hyten_2015.vcf.gz: SoySNP50K Glyma.Wm82.gnm4 VCF file using SoySNP50K Glyma.Wm82.gnm2 VCF file and GFF3 file with SoySNP50k positions on Glyma.Wm82.gnm4
-glyma.Wm82.gnm.div.Song_Hyten_2015.vcf.gz.tbi: Indexed VCF file using tabix
-glyma.Wm82.gnm.div.Song_Hyten_2015.hmp.gz: HapMap file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a4 (Wm82.a4.v1)                    

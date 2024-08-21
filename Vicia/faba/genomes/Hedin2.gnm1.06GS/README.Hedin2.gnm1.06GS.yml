@@ -16,6 +16,10 @@ scientific_name_abbrev: vicfa
 genotype:
   - Hedin2
 
+chromosome_prefix: chr
+
+supercontig_prefix: contig
+
 description: "The inbred line Hedin/2 (Hedin2) was selected as a reference genotype owing to its high autofertility and productivity, combined with an early maturing spring habit and high homozygosity. The genome sequence was generated with PacBio HiFi long reads to 20-fold coverage and assembled 11.9 Gb of sequence, more than half of which was represented by contigs longer than 2.7 Mb. For full description of assembly methods and characteristics, see the description at the associated primary reference."
 
 bioproject: PRJEB52541

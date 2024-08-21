@@ -1,0 +1,13 @@
+e6b48465c974161f96d90fc98ba502e8  ./tripr.HEN17-A07.gnm1.Y8WV.genome_main.fna.gz.fai
+797f5bddd18867c24f5afa7faed1e03f  ./MANIFEST.HEN17-A07.gnm1.Y8WV.descriptions.yml
+455c0ca605b1f02f57039d385e54275c  ./MANIFEST.HEN17-A07.gnm1.Y8WV.correspondence.yml
+4cb51192178bab98ce2c07c1153c2820  ./CHANGES.HEN17-A07.gnm1.Y8WV.txt
+5816fbafddfbf9a6f1c2409f532d5bc9  ./BUSCO/tripr.HEN17-A07.gnm1.Y8WV.busco.fabales_odb10.full_table.tsv.gz
+d5da2480addce4e9db5a67cbf982c11b  ./BUSCO/tripr.HEN17-A07.gnm1.Y8WV.busco.fabales_odb10.short_summary.txt
+ad8aa0a06bf63101d71b144a69286ff9  ./BUSCO/tripr.HEN17-A07.gnm1.Y8WV.busco.fabales_odb10.short_summary.json
+9848aa5b7d0a907ff440941a7561916f  ./tripr.HEN17-A07.gnm1.Y8WV.initial_seqid_map.tsv.gz
+c511c3ec8428eb2e729c164fa2956b9f  ./tripr.HEN17-A07.gnm1.Y8WV.genome_main.fna.gz
+879ff9a3574924689b5ee67c4d108205  ./tripr.HEN17-A07.gnm1.Y8WV.seqid_map.tsv.gz
+70db71e86f905e94f69f193cce7e0f21  ./README.HEN17-A07.gnm1.Y8WV.yml
+d41d8cd98f00b204e9800998ecf8427e  ./.HEN17-A07.gnm1.Y8WV.seqid_map.tsv
+45d655ebadb3ffcd048b64e4d0dbb967  ./tripr.HEN17-A07.gnm1.Y8WV.genome_main.fna.gz.gzi

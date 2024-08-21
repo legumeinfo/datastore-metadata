@@ -1,7 +1,11 @@
 ---
 identifier: BaileyII.gnm1.wga.Z93X
 
+scientific_name: Arachis hypogaea
+
 taxid: 3818  
+
+scientific_name_abbrev: arahy
 
 provenance: "The files in this dir originated from alignment of genomes below at PeanutBase/LIS.  Used minimap2(script:run_minimap2_genome.bash) between BaileyII.gnm1.1JTF (Ref) and other genomes as Qry."
 

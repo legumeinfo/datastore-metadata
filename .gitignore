@@ -8,6 +8,7 @@
 *.bam
 *.bai
 *.bz2
+*.bw
 *.xls
 *.xlsx
 *.stats
@@ -19,7 +20,8 @@
 *.id_map
 .nfs.*
 *~
-MANIFEST.*
+MANIFEST.*.correspondence.yml
+MANIFEST.*.descriptions.yml
 .DS_Store
 
 ## ignore stuff that probably shouldn't be here

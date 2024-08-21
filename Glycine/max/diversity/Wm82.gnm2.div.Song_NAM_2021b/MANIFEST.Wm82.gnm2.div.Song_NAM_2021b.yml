@@ -1,0 +1,18 @@
+---
+- name: glyma.Wm82.gnm2.div.Song_NAM_2021b.imputed_5176RILs_423kSNPs_01.txt.gz
+  description: Imputed genotypes of the 5176 NAM RILs, from the 40 NAM parental genotypes,
+    across 423419 WGS-derived SNPs; positions relative to Wm82 assembly 2;
+    alleles in VCF scoring format (0/1, 0/1, 1/1).
+  prior_names:
+    - ready_imputed_dataset2_5176RILsx423419SNPs_01_format_Oct29.txt
+- name: glyma.Wm82.gnm2.div.Song_NAM_2021b.imputed_5176RILs_423kSNPs_AB.txt.gz
+  description: Imputed genotypes of the 5176 NAM RILs, from the 40 NAM parental genotypes,
+    across 423419 WGS-derived SNPs; positions relative to Wm82 assembly 2;
+    alleles in A/B format; IA3023 alleles as B, non-IA3023 alleles as A.
+  prior_names:
+    - ready_imputed_dataset1_5176RILsx423419SNPs_AB_format_Oct21.txt
+- name: glyma.Wm82.gnm2.div.Song_NAM_2021b.imputed_5176RILs_423kSNPs_ACGT.txt.gz
+  description:
+    - Imputed genotypes of the 5176 NAM RILs, from the 40 NAM parental genotypes,
+      across 423419 WGS-derived SNPs; positions relative to Wm82 assembly 2;
+      alleles in A/B format; alleles indicated as bases (ACGT).

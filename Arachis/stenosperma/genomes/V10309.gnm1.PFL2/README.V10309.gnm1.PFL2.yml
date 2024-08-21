@@ -9,9 +9,9 @@ synopsis: "Genome assembly 1 for Arachis stenosperma, genotype V10309"
 
 scientific_name: Arachis stenosperma
 
-scientific_name_abbrev: arast
-
 taxid: 217475
+
+scientific_name_abbrev: arast
 
 genotype:
   - V10309

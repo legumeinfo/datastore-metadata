@@ -1,0 +1,48 @@
+---
+identifier: HEN17-A07.gnm1.Y8WV
+
+provenance: "The files in this directory originated from GenBank, for RefSeq genome sequence GCF_020283565.1. submitted by USDA ARS in 2021. The GenBank source is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and Peanutbase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo project. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_020283565.1"
+
+synopsis: "Genome assembly 1 for Trifolium pratense, genotype HEN17-A07"
+
+scientific_name: Trifolium pratense
+
+taxid: 57577
+
+scientific_name_abbrev: tripr
+
+genotype:
+  - HEN17-A07
+
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
+description: "Genome assembly 1 for Trifolium pratense, genotype HEN17-A07, with sequenced generated using PacBio Improved Phased Assembler, HiFi assembler version 1.3.0, and approximately 55–60× predicted coverage of HiFi reads. See publication for information about additional assembly and scaffolding details."
+
+genbank_accession: GCF_020283565.1.
+
+original_file_creation_date: "2021-10-13"
+
+local_file_creation_date: "2024-04-18"
+
+dataset_release_date: "2024-05-01"
+
+publication_doi: 10.46471/gigabyte.42
+
+publication_title: "Chromosome-scale assembly of the highly heterozygous genome of red clover (Trifolium pratense L.), an allogamous forage crop species"
+
+contributors: Derek Bickhart, Lisa Koch, Timothy Smith, Heathcliffe Riday, Michael Sullivan
+
+citation: "Bickhart DM, Koch LM, Smith TPL, Riday H, Sullivan ML. Chromosome-scale assembly of the highly heterozygous genome of red clover (Trifolium pratense L.), an allogamous forage crop species. GigaByte. 2022 Feb 18;2022:gigabyte42. doi: 10.46471/gigabyte.42. PMID: 36824517; PMCID: PMC9650271."
+
+data_curators: Steven Cannon, Wei Huang, Andrew Farmer
+
+public_access_level: public
+
+license: open
+
+keywords: Trifolium pratense, red clover, peavine clover
+

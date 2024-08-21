@@ -8,8 +8,8 @@ description: "Phaseolus coccineus originated in Central American mountain region
 
 strains:
   - identifier: PHA8298   
-    accession: ""
     name: Pc_12
+    accession: PHA8298
     origin: Europe
     description: "A European line Pc_12 was selected for genome sequencing and annotation in the context of the BEANADAPT project, designed to investigate the genetic basis and phenotypic consequences of the adaptation to new environments of the common bean and its sister species, the runner bean, through the study of their introduction and expansion through Europe, as a recent and historically well-defined event of rapid adaptation."
     resources: 
