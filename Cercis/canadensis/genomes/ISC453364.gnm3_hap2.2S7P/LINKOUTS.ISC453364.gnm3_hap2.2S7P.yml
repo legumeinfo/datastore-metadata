@@ -1,0 +1,8 @@
+---
+prefix: cerca.ISC453364.gnm3_hap2
+
+genomic_region_linkouts:
+  -
+    method: GET
+    href: https://other-genera.lis.ncgr.org/tools/jbrowse2/?session=spec-%7B%22views%22%3A%5B%7B%22assembly%22%3A%22cerca.ISC453364.gnm3_hap2%22%2C%22loc%22%3A%22{GENOMIC_REGION_CHR_ID}%3A{GENOMIC_REGION_START}-{GENOMIC_REGION_END}%22%2C%22type%22%3A%20%22LinearGenomeView%22%2C%22tracks%22%3A%5B%22cerca.ISC453364.gnm3_hap2.ann1.G88H.gene_models_main.gff3%22%5D%7D%5D%7D
+    text: "View {GENOMIC_REGION} in JBrowse2"
