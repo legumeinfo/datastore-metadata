@@ -2,7 +2,7 @@
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmPLDγ
+  - GmPLDy
 gene_symbol_long: Phospholipase D gamma
 gene_model_pub_name: Glyma.01G215100
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.01G215100
@@ -10,7 +10,7 @@ confidence: 5
 curators:
   - Greg Murrell
   - Scott Kalberer
-phenotype_summary: Overexpression of GmPLDγ introduced from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
+phenotype_summary: Overexpression of GmPLDy introduced from soybean results in higher seed oil content and fatty-acid remodeling in Arabidopsis.
 traits:
   - entity_name: seed oil content
     entity: CO_336:0000048
@@ -1020,8 +1020,8 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmNFR1α
-gene_symbol_long: Nod Factor Receptor 1α
+  - GmNFR1a
+gene_symbol_long: Nod Factor Receptor 1a
 gene_model_pub_name: Glyma.02G270800
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.02G270800
 confidence: 5
@@ -1029,9 +1029,9 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Mutants lacking NFR1α don't form nodules.
+  - Mutants lacking NFR1a don't form nodules.
   - Transgenic overexpression increased the number of nodules per plant and allowed plants to form nodules in unfavorable conditions.
-phenotype_synopsis: NFR1α codes for a receptor kinase which positively regulates nodule number.
+phenotype_synopsis: NFR1a codes for a receptor kinase which positively regulates nodule number.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -1052,8 +1052,8 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmNFR1β
-gene_symbol_long: Nod Factor Receptor 1β
+  - GmNFR1B
+gene_symbol_long: Nod Factor Receptor 1B
 gene_model_pub_name: Glyma.14G046200
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.14G046200
 confidence: 5
@@ -1061,10 +1061,10 @@ curators:
   - Marlene Dorneich-Hayes
   - Scott Kalberer
 comments:
-  - Mutants with functional NFR1β but nonfunctional NFR1α have very minimal nodulation.
-  - Overexpression of NFR1β did not increase nodule number.
-  - Expression of NFR1β is not sufficient to induce a healthy level of nodulation.
-phenotype_synopsis: NFR1β codes for a redundant receptor kinase with unstable mRNA transcripts.
+  - Mutants with functional NFR1B but nonfunctional NFR1a have very minimal nodulation.
+  - Overexpression of NFR1B did not increase nodule number.
+  - Expression of NFR1B is not sufficient to induce a healthy level of nodulation.
+phenotype_synopsis: NFR1B codes for a redundant receptor kinase with unstable mRNA transcripts.
 traits:
   - entity_name: regulation of biological process involved in symbiotic interaction
     entity: GO:0043903
@@ -1093,7 +1093,7 @@ curators:
   - Steven Cannon
   - Scott Kalberer
 comments:
-  - Protein–protein interaction network analysis showed that five out of the top 10 potential interacting proteins of GmERD15B were GmPAB proteins. Two of the GmPAB genes, GmPAB-14G and GmPAB-17G, have annotations related to salt stress responses.
+  - Protein-protein interaction network analysis showed that five out of the top 10 potential interacting proteins of GmERD15B were GmPAB proteins. Two of the GmPAB genes, GmPAB-14G and GmPAB-17G, have annotations related to salt stress responses.
 phenotype_summary: Gene overexpression in Glycine enhanced salt tolerance probably by increasing the expression levels of genes related to ABA-signalling, proline content, catalase peroxidase, dehydration response and cation transport.
 traits:
   - entity_name: salt tolerance
@@ -2571,7 +2571,7 @@ references:
 scientific_name: Glycine max
 gene_symbols:
   - GmC/VIF2
-gene_symbol_long: Cell Wall or Vacuolar Inhibitor of β-Fructosidase 2
+gene_symbol_long: Cell Wall or Vacuolar Inhibitor of B-Fructosidase 2
 gene_model_pub_name: Glyma17G036400
 gene_model_full_id: glyma.Wm82.gnm2.ann1.Glyma.17G036400
 confidence: 4
@@ -3035,7 +3035,7 @@ references:
 ---
 scientific_name: Glycine max
 gene_symbols:
-  - GmVSPβ
+  - GmVSPB
 gene_model_pub_name: Glyma08g21410
 gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma08g21410
 confidence: 3
@@ -3695,7 +3695,7 @@ gene_model_full_id: glyma.Wm82.gnm1.ann1.Glyma12g01690
 confidence: 5
 curators:
   - Greg Murrell
-phenotype_synopsis: Catalyzes the conversion of γ-tocopherol to α-tocopherol.
+phenotype_synopsis: Catalyzes the conversion of y-tocopherol to a-tocopherol.
 traits:
   - entity_name: vitamin E biosynthetic process
     entity: GO:0010189
