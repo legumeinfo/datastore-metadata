@@ -23,5 +23,6 @@ gene_linkouts:
     href: https://bar.utoronto.ca/eplant_soybean/?ActiveSpecies=Glycine%20max&Genes={UNPREFIXED_GENE_ID}&ActiveGene={UNPREFIXED_GENE_ID}&ActiveView=PlantView
     text: "View {GENE_ID} in BAR eFP"
   -
+    method: GET
     href: https://shinycell.legumeinfo.org/glyma.expr.Cervantes-Perez_Zogli_2024/?gene1={UNPREFIXED_GENE_ID}
     text: "View {GENE_ID} in single cell experiments"
