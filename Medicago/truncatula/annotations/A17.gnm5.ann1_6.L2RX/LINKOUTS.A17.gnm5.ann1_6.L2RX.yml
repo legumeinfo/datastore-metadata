@@ -18,3 +18,7 @@ gene_linkouts:
     method: GET
     href: https://medicago.legumeinfo.org/tools/gcv//gene;medicago={GENE_ID}
     text: "View {GENE_ID} in medicago Genome Context Viewer"
+  -
+    method: GET
+    href: https://shinycell.legumeinfo.org/medtr.A17.gnm5.ann1_6.expr.Cervantes-Perez_Thibivilliers_2022/?gene1={UNPREFIXED_GENE_ID}
+    text: "View {GENE_ID} in single cell experiments"

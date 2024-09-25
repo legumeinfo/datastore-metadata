@@ -18,3 +18,7 @@ gene_linkouts:
     method: GET
     href: https://glycine.legumeinfo.org/tools/gcv//gene;glycine={GENE_ID}
     text: "View {GENE_ID} in glycine Genome Context Viewer"
+  -
+    method: GET
+    href: https://shinycell.legumeinfo.org/glyma.expr.Cervantes-Perez_Zogli_2024/?gene1={UNPREFIXED_GENE_ID}
+    text: "View {GENE_ID} in single cell experiments"
