@@ -24,7 +24,7 @@ git push
 All other files are blocked from being added to the repository in .gitignore -- except files that probably shouldn't belong in the Datastore to begin with.
 Having these files up-to-date in the github repo is important not only for version control purposes, but also because some of our tools operate by cloning this repo and using the metadata as a light-weight representation of the state of the datastore. Some files (e.g. BUSCO summary files) have also been introduced into this repository to facilitate consumption by applications from a cloned version of the repository.
 
-GitHub Actions will now validate your file(s) upon commit and will fail if they don't pass validation, although this is only apparent from the github UI and leaves the files in the datastore proper still needing to be fixed.
+GitHub Actions will now validate your file(s) upon commit and will fail if they don't pass validation, although this is only apparent from the github UI (https://github.com/legumeinfo/datastore-metadata/actions) and leaves the files in the datastore proper still needing to be fixed.
 
 For additional description of protocols related to data curation for the data store, see https://github.com/legumeinfo/datastore-specifications/tree/main/PROTOCOLS
 
