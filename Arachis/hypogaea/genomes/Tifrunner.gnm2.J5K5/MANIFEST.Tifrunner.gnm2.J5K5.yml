@@ -1,0 +1,20 @@
+---
+- name: arahy.Tifrunner.gnm2.J5K5.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - arahy.Tifrunner.gnm2.genome_main_bare.fna.gz
+- name: arahy.Tifrunner.gnm2.J5K5.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - derived from arahy.Tifrunner.gnm1.KYV3.1.fasta
+- name: arahy.Tifrunner.gnm2.J5K5.info_HiC_assembly.txt.gz
+  description: Edit coordinates based on HiC analysis
+- name: arahy.Tifrunner.gnm2.J5K5.info_nucmer_coords.tar.gz
+  description: Coords file from nucmer analysis
+- name: arahy.Tifrunner.gnm2.J5K5.info_nucmer_plots.tar.gz
+  description: Nucmer plots between assemblies
+- name: arahy.Tifrunner.gnm2.J5K5.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

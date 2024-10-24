@@ -1,0 +1,8 @@
+---
+- name: glycy.G1267.gnm1.YWW6.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gcy_G1267.fsa.gz

@@ -1,0 +1,33 @@
+---
+- name: glyd3.G1403.gnm1.ann1.XNZQ.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gto.cds
+- name: glyd3.G1403.gnm1.ann1.XNZQ.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyd3.G1403.gnm1.ann1.XNZQ.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Gto.cds and Gto_G1403_chr.fsa via gmap
+- name: glyd3.G1403.gnm1.ann1.XNZQ.gene_models_orig.gff.gz
+  description: MISSING
+- name: glyd3.G1403.gnm1.ann1.XNZQ.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyd3.G1403.gnm1.ann1.XNZQ.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyd3.G1403.gnm1.ann1.XNZQ.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: glyd3.G1403.gnm1.ann1.XNZQ.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gto.cds and Gto_G1403_chr.fsa via gffread

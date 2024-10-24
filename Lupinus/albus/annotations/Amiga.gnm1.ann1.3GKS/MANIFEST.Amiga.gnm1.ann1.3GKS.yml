@@ -1,0 +1,31 @@
+---
+- name: lupal.Amiga.gnm1.ann1.3GKS.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Lalbus-20171117r1-v1.annot.gff3
+   - Lalb_mitochondrion.gff3
+   - Lalb_chloroplast.gff
+- name: lupal.Amiga.gnm1.ann1.3GKS.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: lupal.Amiga.gnm1.ann1.3GKS.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - mrna.fasta
+- name: lupal.Amiga.gnm1.ann1.3GKS.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - prot.fasta

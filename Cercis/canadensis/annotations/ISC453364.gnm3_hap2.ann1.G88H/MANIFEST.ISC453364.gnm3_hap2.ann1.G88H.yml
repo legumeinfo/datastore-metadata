@@ -1,0 +1,61 @@
+---
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.annotation_info.txt.gz
+  description: Table of gene annotations
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.annotation_info.txt.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.cds_primaryTranscriptOnly.fa.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.cds.fa.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.defline.txt.gz
+  description: Defline for genes
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.defline.txt.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.gene_strip.gff3.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.gene_strip.gff3.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.transcript_primaryTranscriptOnly.fa.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.transcript.fa.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.protein_primaryTranscriptOnly.fa.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.protein.fa.gz
+- name: cerca.ISC453364.gnm3_hap2.ann1.G88H.repeatmasked_assembly.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - CcanadensisHAP2_706_V3.1.repeatmasked_assembly_V3.0.gff3.gz

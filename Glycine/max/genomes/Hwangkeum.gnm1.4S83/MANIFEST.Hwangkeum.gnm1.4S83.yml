@@ -1,0 +1,8 @@
+---
+- name: glyma.Hwangkeum.gnm1.4S83.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GCA_020497155.1_ASM2049715v1_genomic.fna.gz

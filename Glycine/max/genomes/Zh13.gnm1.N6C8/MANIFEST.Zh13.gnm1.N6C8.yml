@@ -1,0 +1,6 @@
+---
+- name: glyma.Zh13.gnm1.N6C8.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

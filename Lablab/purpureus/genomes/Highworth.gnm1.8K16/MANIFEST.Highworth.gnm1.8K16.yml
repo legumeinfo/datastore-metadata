@@ -1,0 +1,10 @@
+---
+- name: labpu.Highworth.gnm1.8K16.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - lablab_purpureus.assembly.softmasked_chr_and_contigs_renamed.fasta.gz
+- name: labpu.Highworth.gnm1.8K16.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

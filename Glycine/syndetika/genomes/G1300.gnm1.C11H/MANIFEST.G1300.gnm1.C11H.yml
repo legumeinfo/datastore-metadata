@@ -1,0 +1,8 @@
+---
+- name: glysy.G1300.gnm1.C11H.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gsy_G1300.fsa.gz

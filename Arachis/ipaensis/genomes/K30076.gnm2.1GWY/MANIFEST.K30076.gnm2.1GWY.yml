@@ -1,0 +1,6 @@
+---
+- name: araip.K30076.gnm2.1GWY.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

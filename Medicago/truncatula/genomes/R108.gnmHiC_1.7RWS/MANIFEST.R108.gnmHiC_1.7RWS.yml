@@ -1,0 +1,8 @@
+---
+- name: medtr.R108.gnmHiC_1.7RWS.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: medtr.R108.gnmHiC_1.7RWS.id_map.txt.gz
+  description: Mapping of feature names

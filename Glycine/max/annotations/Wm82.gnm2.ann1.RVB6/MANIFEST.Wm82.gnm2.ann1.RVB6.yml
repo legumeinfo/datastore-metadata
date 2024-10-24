@@ -1,0 +1,59 @@
+---
+- name: glyma.Wm82.gnm2.ann1.RVB6.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.cds_primaryTranscriptOnly.fa
+- name: glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.cds.fa
+- name: glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: glyma.Wm82.gnm2.ann1.RVB6.info_annot.txt.gz
+  description: Annotation information
+- name: glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz
+  description: annotation from the AHRD pipeline
+- name: glyma.Wm82.gnm2.ann1.RVB6.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Wm82.gnm2.ann1.RVB6.locus_mrna_name_map.txt.gz
+  description: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.locus_transcript_name_map.txt
+- name: glyma.Wm82.gnm2.ann1.RVB6.markers.gff3.gz
+  description: MISSING
+- name: glyma.Wm82.gnm2.ann1.RVB6.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.transcript_primaryTranscriptOnly.fa
+- name: glyma.Wm82.gnm2.ann1.RVB6.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.transcript.fa
+- name: glyma.Wm82.gnm2.ann1.RVB6.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.protein_primaryTranscriptOnly.fa
+- name: glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.protein.fa
+- name: glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.repeatmasked_assembly_v2.0.gff3
+- name: glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz
+  description: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
+  prior_names:
+   - Gmax_275_Wm82.a2.v1.synonym.txt

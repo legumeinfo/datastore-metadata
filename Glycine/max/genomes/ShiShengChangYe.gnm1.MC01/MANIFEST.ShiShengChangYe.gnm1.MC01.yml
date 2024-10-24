@@ -1,0 +1,10 @@
+---
+- name: glyma.ShiShengChangYe.gnm1.MC01.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEJ00000000.genome_modID.fasta.gz
+- name: glyma.ShiShengChangYe.gnm1.MC01.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

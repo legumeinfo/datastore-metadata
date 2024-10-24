@@ -1,0 +1,29 @@
+---
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.cds_primary.fna.gz
+  description: CDS sequences - primary only
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: vigun.IT97K-499-35.gnm1.ann2.FD7K.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines

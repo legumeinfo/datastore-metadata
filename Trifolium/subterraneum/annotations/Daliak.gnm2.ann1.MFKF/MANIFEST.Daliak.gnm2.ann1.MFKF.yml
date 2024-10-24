@@ -1,0 +1,41 @@
+---
+- name: trisu.Daliak.gnm2.ann1.MFKF.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Tsu.longestmRNA.cds.fa
+- name: trisu.Daliak.gnm2.ann1.MFKF.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Tsu.cds.fa
+- name: trisu.Daliak.gnm2.ann1.MFKF.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: trisu.Daliak.gnm2.ann1.MFKF.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Tsu.genes.gff
+- name: trisu.Daliak.gnm2.ann1.MFKF.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: trisu.Daliak.gnm2.ann1.MFKF.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: trisu.Daliak.gnm2.ann1.MFKF.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: trisu.Daliak.gnm2.ann1.MFKF.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: trisu.Daliak.gnm2.ann1.MFKF.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Tsu.longestmRNA.pep.fa
+- name: trisu.Daliak.gnm2.ann1.MFKF.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Tsu.pep.fa

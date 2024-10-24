@@ -1,0 +1,6 @@
+---
+- name: vigun.ZN016.gnm1.997F.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

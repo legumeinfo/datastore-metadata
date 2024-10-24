@@ -1,0 +1,10 @@
+---
+- name: arahy.Shitouqi.gnm1.L4VP.contigs.fna.gz
+  description: Fasta file of contig sequences
+  prior_names:
+   - HuaSheng.quiver.polish.pcontig.fasta
+- name: arahy.Shitouqi.gnm1.L4VP.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

@@ -1,0 +1,55 @@
+---
+- name: feature_id_remapping.txt.gz
+  description: MISSING
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Vfaba.Hedin2.v1.gffread.cds_primary.fna.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vfaba.Hedin2.v1.gffread.cds.fna.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Vfaba.Hedin2.v1.agat.gff3.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Vfaba.Hedin2.v1.gffread.mrna_primary.fna.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Vfaba.Hedin2.v1.gffread.mrna.fna.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.ncrna.fna.gz
+  description: MISSING
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.noncoding.gff3.gz
+  description: Noncoding features
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Vfaba.Hedin2.v1.gffread.protein_primary.faa.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vfaba.Hedin2.v1.gffread.protein.faa.gz
+- name: vicfa.Hedin2.gnm1.ann1.PTNK.transcript.fna.gz
+  description: MISSING

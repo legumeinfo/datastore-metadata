@@ -1,0 +1,6 @@
+---
+- name: medtr.HM058.gnm1.JVBP.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

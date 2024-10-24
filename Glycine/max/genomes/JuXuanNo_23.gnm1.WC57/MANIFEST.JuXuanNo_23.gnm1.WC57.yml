@@ -1,0 +1,10 @@
+---
+- name: glyma.JuXuanNo_23.gnm1.WC57.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEM00000000.genome_modID.fasta.gz
+- name: glyma.JuXuanNo_23.gnm1.WC57.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

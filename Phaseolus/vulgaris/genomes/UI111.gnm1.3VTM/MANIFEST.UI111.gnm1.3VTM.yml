@@ -1,0 +1,12 @@
+---
+- name: phavu.UI111.gnm1.3VTM.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+- name: phavu.UI111.gnm1.3VTM.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: phavu.UI111.gnm1.3VTM.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - PvulgarisUI111_534_v1.0.softmasked.fa.gz

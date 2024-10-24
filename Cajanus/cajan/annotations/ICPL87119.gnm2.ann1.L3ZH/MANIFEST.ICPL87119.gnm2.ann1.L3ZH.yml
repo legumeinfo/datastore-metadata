@@ -1,0 +1,41 @@
+---
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Cca.longestmRNA.cds.fa
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Cca.cds.fa
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Cca.genes.gff
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Cca.longestmRNA.pep.fa
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Cca.pep.fa

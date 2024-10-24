@@ -1,0 +1,9 @@
+---
+- name: glyma.Huaxia3_IGA1007.gnm1.RGGN.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - WIXC01.1.fsa_nt.gz
+   - WIXC01.2.fsa_nt.gz

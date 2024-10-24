@@ -1,0 +1,63 @@
+---
+- name: phaco.PHA8298.gnm1.ann1.0Q14.annotation_info.txt.gz
+  description: Table of gene annotations
+  prior_names:
+   - Pcoccineus_703_v1.1.annotation_info.txt.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Pcoccineus_703_v1.1.cds_primaryTranscriptOnly.fa.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Pcoccineus_703_v1.1.cds.fa.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.defline.txt.gz
+  description: Defline for genes
+  prior_names:
+   - Pcoccineus_703_v1.1.defline.txt.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: phaco.PHA8298.gnm1.ann1.0Q14.gene_models_exons.gff3.gz
+  description: Gene models, with exon features
+  applications:
+   - mines
+  prior_names:
+   - Pcoccineus_703_v1.1.gene_exons_strip.gff3.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - Pcoccineus_703_v1.1.gene_strip.gff3.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Pcoccineus_703_v1.1.gene_strip.gff3.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: phaco.PHA8298.gnm1.ann1.0Q14.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: phaco.PHA8298.gnm1.ann1.0Q14.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Pcoccineus_703_v1.1.transcript_primaryTranscriptOnly.fa.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Pcoccineus_703_v1.1.transcript.fa.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Pcoccineus_703_v1.1.protein_primaryTranscriptOnly.fa.gz
+- name: phaco.PHA8298.gnm1.ann1.0Q14.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Pcoccineus_703_v1.1.protein.fa.gz

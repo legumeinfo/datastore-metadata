@@ -1,0 +1,59 @@
+---
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.filterTE.gff.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea.gff.filterTE.gff.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_KEGG.txt.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea_pep.kegg.blast.tab.best.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_miRNA.gff.gz
+  description: MISSING
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_rRNA.gff.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea_rRNA.gff.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_snRNA.gff.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea_snRNA.gff.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_Trembl.txt.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea_pep.trembl.blast.tab.best.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_tRNA.gff.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea_tRNA.gff.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.mrna_with_TEs.fna.gz
+  description: MISSING
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.protein_with_TEs.faa.gz
+  description: MISSING
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.repeat_models.gff.gz
+  description: MISSING
+  prior_names:
+   - Pigeonpea_repeat.gff.gz
+- name: cajca.ICPL87119.gnm1.ann1.Y27M.TE.gff.gz
+  description: MISSING

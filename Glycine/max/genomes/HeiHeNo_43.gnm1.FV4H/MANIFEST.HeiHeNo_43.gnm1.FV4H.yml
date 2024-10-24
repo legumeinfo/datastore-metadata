@@ -1,0 +1,10 @@
+---
+- name: glyma.HeiHeNo_43.gnm1.FV4H.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEW00000000.genome_modID.fasta.gz
+- name: glyma.HeiHeNo_43.gnm1.FV4H.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

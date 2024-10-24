@@ -1,0 +1,41 @@
+---
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Derived from gff
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Derived from gff
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Derived from gff
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.phytozome_10_2.HFNR.gfa.tsv.gz
+  description: gene family assignments
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Derived from gff
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Derived from gff
+- name: medtr.A17_HM341.gnm4.ann2.G3ZY.trna.fna.gz
+  description: MISSING

@@ -1,0 +1,10 @@
+---
+- name: phavu.G19833.gnm2.fC0g.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+- name: phavu.G19833.gnm2.fC0g.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: phavu.G19833.gnm2.fC0g.genome_softmasked.fna.gz
+  description: Softmasked genome assembly

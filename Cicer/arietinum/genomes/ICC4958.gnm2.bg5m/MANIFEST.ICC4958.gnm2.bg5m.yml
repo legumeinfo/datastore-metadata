@@ -1,0 +1,6 @@
+---
+- name: cicar.ICC4958.gnm2.bg5m.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

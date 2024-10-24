@@ -1,0 +1,8 @@
+---
+- name: cajca.ICPL87119.gnm1.SBGP.agp.txt.gz
+  description: Golden path file, for GenBank submission
+- name: cajca.ICPL87119.gnm1.SBGP.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
