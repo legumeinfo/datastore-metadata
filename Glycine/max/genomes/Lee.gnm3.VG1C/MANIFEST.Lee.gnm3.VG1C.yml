@@ -1,0 +1,10 @@
+---
+- name: glyma.Lee.gnm3.VG1C.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lee.a3.genome.softmasked.fasta.gz
+- name: glyma.Lee.gnm3.VG1C.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

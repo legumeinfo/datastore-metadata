@@ -1,0 +1,10 @@
+---
+- name: vigra.VC1973A.gnm7.SB53.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vradi.pacbio.gapfilled.final.fa.gz
+- name: vigra.VC1973A.gnm7.SB53.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

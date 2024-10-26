@@ -1,0 +1,10 @@
+---
+- name: arahy.BaileyII.gnm1.1JTF.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - JAGJTH01_all.fna.gz
+- name: arahy.BaileyII.gnm1.1JTF.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

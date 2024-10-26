@@ -1,0 +1,67 @@
+---
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.annotation_info.txt.gz
+  description: Table of gene annotations
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.annotation_info.txt.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.cds_primaryTranscriptOnly.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.cds.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.defline.txt.gz
+  description: Defline for genes
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.defline.txt.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.gene_models_exons.gff3.gz
+  description: Gene models, with exon features
+  applications:
+   - mines
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.gene_exons_strip.gff3.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.gene_strip.gff3.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.gene_strip.gff3.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.transcript_primaryTranscriptOnly.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.transcript.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.protein_primaryTranscriptOnly.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.protein.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.repeatmasked_assembly.gff.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.1.repeatmasked_assembly_v1.0.gff3.gz

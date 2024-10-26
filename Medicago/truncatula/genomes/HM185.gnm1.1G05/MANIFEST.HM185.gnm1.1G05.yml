@@ -1,0 +1,6 @@
+---
+- name: medtr.HM185.gnm1.1G05.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

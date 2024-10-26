@@ -1,0 +1,10 @@
+---
+- name: glyma.TieJiaSiLiHuang.gnm1.W9PV.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEI00000000.genome_modID.fasta.gz
+- name: glyma.TieJiaSiLiHuang.gnm1.W9PV.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

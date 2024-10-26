@@ -1,0 +1,12 @@
+---
+- name: lupan.Tanjil.gnm1.Qq0N.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lupinus_angustifolius_pschrom_v1.0.fa
+- name: lupan.Tanjil.gnm1.Qq0N.scaffolds_unassigned.fna.gz
+  description: Scaffolds not included in pseudomolecules
+- name: lupan.Tanjil.gnm1.Qq0N.scaffolds.fna.gz
+  description: Scaffolds, unoriented, used in the main genome assembly

@@ -1,0 +1,33 @@
+---
+- name: glycy.G1267.gnm1.ann1.HRFD.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gcy.cds
+- name: glycy.G1267.gnm1.ann1.HRFD.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glycy.G1267.gnm1.ann1.HRFD.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Gcy.cds and Gcy_G1267_chr.fsa via gmap
+- name: glycy.G1267.gnm1.ann1.HRFD.gene_models_orig.gff.gz
+  description: MISSING
+- name: glycy.G1267.gnm1.ann1.HRFD.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glycy.G1267.gnm1.ann1.HRFD.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glycy.G1267.gnm1.ann1.HRFD.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: glycy.G1267.gnm1.ann1.HRFD.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gcy.cds and Gcy_G1267_chr.fsa via gffread

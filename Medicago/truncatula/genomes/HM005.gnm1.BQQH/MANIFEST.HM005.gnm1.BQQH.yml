@@ -1,0 +1,6 @@
+---
+- name: medtr.HM005.gnm1.BQQH.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

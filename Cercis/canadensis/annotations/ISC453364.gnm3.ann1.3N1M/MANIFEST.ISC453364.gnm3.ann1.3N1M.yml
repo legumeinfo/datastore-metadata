@@ -1,0 +1,59 @@
+---
+- name: cerca.ISC453364.gnm3.ann1.3N1M.annotation_info.txt.gz
+  description: Table of gene annotations
+  prior_names:
+   - Ccanadensis_705_V3.1.annotation_info.txt.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Ccanadensis_705_V3.1.cds_primaryTranscriptOnly.fa.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Ccanadensis_705_V3.1.cds.fa.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.defline.txt.gz
+  description: Defline for genes
+  prior_names:
+   - Ccanadensis_705_V3.1.defline.txt.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: cerca.ISC453364.gnm3.ann1.3N1M.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: cerca.ISC453364.gnm3.ann1.3N1M.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Ccanadensis_705_V3.1.gene_strip.gff3.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: cerca.ISC453364.gnm3.ann1.3N1M.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: cerca.ISC453364.gnm3.ann1.3N1M.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Ccanadensis_705_V3.1.transcript_primaryTranscriptOnly.fa.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Ccanadensis_705_V3.1.transcript.fa.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Ccanadensis_705_V3.1.protein_primaryTranscriptOnly.fa.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Ccanadensis_705_V3.1.protein.fa.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.repeatmasked_assembly.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Ccanadensis_705_V3.1.repeatmasked_assembly_V3.0.gff3.gz

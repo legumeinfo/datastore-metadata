@@ -1,0 +1,6 @@
+---
+- name: glyma.Hefeng25_IGA1002.gnm1.L69T.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

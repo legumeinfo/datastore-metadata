@@ -1,0 +1,49 @@
+---
+- name: chafa.ISC494698.gnm1.ann1.G7XW.annotation_info.txt.gz
+  description: Table of gene annotations
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP1_854_v1.1.annotation_info.txt.gz
+- name: chafa.ISC494698.gnm1.ann1.G7XW.cds_primary.fna.gz
+  description: CDS sequences - primary only
+- name: chafa.ISC494698.gnm1.ann1.G7XW.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: chafa.ISC494698.gnm1.ann1.G7XW.defline.txt.gz
+  description: Defline for genes
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP1_854_v1.1.defline.txt.gz
+- name: chafa.ISC494698.gnm1.ann1.G7XW.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: chafa.ISC494698.gnm1.ann1.G7XW.gene_models_exons.gff3.gz
+  description: Gene models, with exon features
+  applications:
+   - mines
+- name: chafa.ISC494698.gnm1.ann1.G7XW.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: chafa.ISC494698.gnm1.ann1.G7XW.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: chafa.ISC494698.gnm1.ann1.G7XW.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: chafa.ISC494698.gnm1.ann1.G7XW.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: chafa.ISC494698.gnm1.ann1.G7XW.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: chafa.ISC494698.gnm1.ann1.G7XW.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: chafa.ISC494698.gnm1.ann1.G7XW.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: chafa.ISC494698.gnm1.ann1.G7XW.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: chafa.ISC494698.gnm1.ann1.G7XW.repeatmasked_assembly.gff.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP1_854_v1.1.repeatmasked_assembly_v1.0.gff3.gz

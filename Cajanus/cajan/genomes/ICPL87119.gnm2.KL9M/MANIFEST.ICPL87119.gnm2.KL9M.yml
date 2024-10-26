@@ -1,0 +1,8 @@
+---
+- name: cajca.ICPL87119.gnm2.KL9M.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Cca.genome.fa

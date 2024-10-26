@@ -1,0 +1,6 @@
+---
+- name: medtr.HM020.gnm1.PNGN.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

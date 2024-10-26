@@ -1,0 +1,8 @@
+---
+- name: medtr.R108_HM340.gnm1.XT6J.gcv_genome.gff3.gz
+  description: gff of assembly molecule sizes
+- name: medtr.R108_HM340.gnm1.XT6J.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

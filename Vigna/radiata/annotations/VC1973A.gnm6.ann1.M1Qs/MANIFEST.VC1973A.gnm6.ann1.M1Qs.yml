@@ -1,0 +1,35 @@
+---
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Vradi.ver6.cor.gff
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mrna.gff3.gz
+  description: MISSING
+  prior_names:
+   - Vradi.ver6.cor.mRNA.gff
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vradi.ver6.cor.pep.fa
+- name: vigra.VC1973A.gnm6.ann1.M1Qs.scaffolds_in_pchr.gff3.gz
+  description: MISSING
+  prior_names:
+   - Vradi.ver6.cor.contig.gff

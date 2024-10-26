@@ -1,0 +1,10 @@
+---
+- name: glyma.TieFengNo_18.gnm1.BW65.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEL00000000.genome_modID.fasta.gz
+- name: glyma.TieFengNo_18.gnm1.BW65.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

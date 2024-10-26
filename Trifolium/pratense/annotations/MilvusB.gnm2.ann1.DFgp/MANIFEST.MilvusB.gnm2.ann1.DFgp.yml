@@ -1,0 +1,33 @@
+---
+- name: tripr.MilvusB.gnm2.ann1.DFgp.cds_primary.fna.gz
+  description: CDS sequences - primary only
+- name: tripr.MilvusB.gnm2.ann1.DFgp.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: tripr.MilvusB.gnm2.ann1.DFgp.gene_models_gbrowse.gff3.gz
+  description: MISSING
+- name: tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: tripr.MilvusB.gnm2.ann1.DFgp.info_annot_AHRD.txt.gz
+  description: annotation from the AHRD pipeline
+- name: tripr.MilvusB.gnm2.ann1.DFgp.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: tripr.MilvusB.gnm2.ann1.DFgp.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: tripr.MilvusB.gnm2.ann1.DFgp.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: tripr.MilvusB.gnm2.ann1.DFgp.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: tripr.MilvusB.gnm2.ann1.DFgp.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines

@@ -1,0 +1,6 @@
+---
+- name: cicre.Besev079.gnm1.2FZC.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

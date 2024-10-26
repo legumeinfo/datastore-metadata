@@ -1,0 +1,6 @@
+---
+- name: medsa.Zhongmu_No_1.gnm1.TRQW.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

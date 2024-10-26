@@ -1,0 +1,14 @@
+---
+- name: arast.V10309.gnm1.PFL2.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GCF_014773155.1.modID.genome.fasta.gz
+- name: arast.V10309.gnm1.PFL2.initial_seqid_map.tsv.gz
+  description: Mapping between original and modified sequence IDs
+  prior_names:
+   - GCF_014773155.1.initial_seqid_map.tsv
+- name: arast.V10309.gnm1.PFL2.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

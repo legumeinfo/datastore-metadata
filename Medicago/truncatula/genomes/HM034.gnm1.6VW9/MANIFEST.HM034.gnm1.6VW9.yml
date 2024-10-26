@@ -1,0 +1,6 @@
+---
+- name: medtr.HM034.gnm1.6VW9.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

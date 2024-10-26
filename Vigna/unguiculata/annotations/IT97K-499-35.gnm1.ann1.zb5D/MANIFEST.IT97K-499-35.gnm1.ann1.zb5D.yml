@@ -1,0 +1,49 @@
+---
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.annotation_info.txt.gz
+  description: Table of gene annotations
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Vunguiculata_469_v1.1.cds_primaryTranscriptOnly.fa
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.defline.txt.gz
+  description: Defline for genes
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Vunguiculata_469_v1.1.gene_exons.gff3
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Vunguiculata_469_v1.1.transcript_primaryTranscriptOnly.fa
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Vunguiculata_469_v1.1.transcript.fa
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Vunguiculata_469_v1.1.protein_primaryTranscriptOnly.fa
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vunguiculata_469_v1.1.protein.fa
+- name: vigun.IT97K-499-35.gnm1.ann1.zb5D.repeatmasking.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Vunguiculata_469_v1.1.repeatmasked_assembly_v1.0.gff3

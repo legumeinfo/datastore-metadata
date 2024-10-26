@@ -1,0 +1,10 @@
+---
+- name: glyma.YuDouNo_22.gnm1.T2VD.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEP00000000.genome_modID.fasta.gz
+- name: glyma.YuDouNo_22.gnm1.T2VD.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

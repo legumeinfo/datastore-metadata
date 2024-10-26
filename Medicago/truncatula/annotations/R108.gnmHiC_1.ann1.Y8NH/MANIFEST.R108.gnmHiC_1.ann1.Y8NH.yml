@@ -1,0 +1,29 @@
+---
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.id_map.txt.gz
+  description: MISSING
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.phytozome_10_2.HFNR.gfa.tsv.gz
+  description: gene family assignments
+- name: medtr.R108.gnmHiC_1.ann1.Y8NH.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines

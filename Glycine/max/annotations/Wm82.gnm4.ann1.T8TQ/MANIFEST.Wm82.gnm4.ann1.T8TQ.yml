@@ -1,0 +1,69 @@
+---
+- name: glyma.Wm82.gnm4.ann1.T8TQ.cds_low_confidence.fna.gz
+  description: MISSING
+- name: glyma.Wm82.gnm4.ann1.T8TQ.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.cds_primaryTranscriptOnly.fa
+- name: glyma.Wm82.gnm4.ann1.T8TQ.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: glyma.Wm82.gnm4.ann1.T8TQ.gene_models_exons.gff3.gz
+  description: Gene models, with exon features
+  applications:
+   - mines
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.gene_exons.gff3
+- name: glyma.Wm82.gnm4.ann1.T8TQ.gene_models_low_confidence_exons.gff3.gz
+  description: MISSING
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.lowConfidence.gene_exons.gff3
+- name: glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.gene.gff3
+- name: glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt.gz
+  description: Annotation information
+- name: glyma.Wm82.gnm4.ann1.T8TQ.info_gene_annot.txt.gz
+  description: annotation from the AHRD pipeline
+- name: glyma.Wm82.gnm4.ann1.T8TQ.info_locus_mrna_name_map.txt.gz
+  description: MISSING
+- name: glyma.Wm82.gnm4.ann1.T8TQ.info_synonyms.txt.gz
+  description: MISSING
+- name: glyma.Wm82.gnm4.ann1.T8TQ.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Wm82.gnm4.ann1.T8TQ.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.transcript_primaryTranscriptOnly.fa
+- name: glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.transcript.fa
+- name: glyma.Wm82.gnm4.ann1.T8TQ.protein_low_confidence.faa.gz
+  description: protein sequence - low-quality or TE elements
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.lowConfidence.protein.fa
+- name: glyma.Wm82.gnm4.ann1.T8TQ.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.protein_primaryTranscriptOnly.fa
+- name: glyma.Wm82.gnm4.ann1.T8TQ.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.protein.fa
+- name: glyma.Wm82.gnm4.ann1.T8TQ.repeatmasking.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Gmax_508_Wm82.a4.v1.repeatmasked_assembly_v4.0.gff3

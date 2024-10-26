@@ -1,0 +1,10 @@
+---
+- name: glyma.QiHuangNo_34.gnm1.MB9G.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACER00000000.genome_modID.fasta.gz
+- name: glyma.QiHuangNo_34.gnm1.MB9G.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

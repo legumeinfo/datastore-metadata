@@ -1,0 +1,31 @@
+---
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.cds_primary.fna.gz
+  description: CDS sequences - primary only
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: aesev.CIAT22838.gnm1.ann1.ZM3R.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines

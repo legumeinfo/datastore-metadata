@@ -1,0 +1,25 @@
+---
+- name: aradu.K30060.gnm1.W9B1.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - derived from ADur30060.contigs.v1.1.purged.broken.fa
+- name: aradu.K30060.gnm1.W9B1.pathfile.agp.gz
+  description: Golden path file, for GenBank submission
+  prior_names:
+   - derived from ragtag.scaffolds.v1.1c.agp
+   - with subsequent modifications
+- name: aradu.K30060.gnm1.W9B1.pchr_by_scaff.tar.gz
+  description: Pseudomolecules in separate files, composed of separate scaffolds, plus remaining unanchored scaffolds
+  prior_names:
+   - derived from ADur30060.contigs.v1.1.purged.broken.fa
+- name: aradu.K30060.gnm1.W9B1.scaffs_placed.tar.gz
+  description: Scaffolds - placed
+  prior_names:
+   - derived from ADur30060.contigs.v1.1.purged.broken.fa
+- name: aradu.K30060.gnm1.W9B1.scaffs_unplaced.tar.gz
+  description: Scaffolds - unplaced
+  prior_names:
+   - derived from ADur30060.contigs.v1.1.purged.broken.fa

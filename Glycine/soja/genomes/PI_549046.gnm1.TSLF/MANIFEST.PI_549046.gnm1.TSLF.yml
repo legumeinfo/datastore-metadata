@@ -1,0 +1,10 @@
+---
+- name: glyso.PI_549046.gnm1.TSLF.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACDZ00000000.genome_modID.fasta.gz
+- name: glyso.PI_549046.gnm1.TSLF.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

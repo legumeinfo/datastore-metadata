@@ -1,0 +1,14 @@
+---
+- name: tripr.HEN17-A07.gnm1.Y8WV.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GCF_020283565.1.modID.genome.fasta.gz
+- name: tripr.HEN17-A07.gnm1.Y8WV.initial_seqid_map.tsv.gz
+  description: Mapping between original and modified sequence IDs
+  prior_names:
+   - GCF_020283565.1.initial_seqid_map.tsv
+- name: tripr.HEN17-A07.gnm1.Y8WV.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

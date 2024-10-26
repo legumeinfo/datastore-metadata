@@ -1,0 +1,6 @@
+---
+- name: vigun.Suvita2.gnm1.5QLL.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

@@ -1,0 +1,37 @@
+---
+- name: chafa.MN87.gnm1.ann1.LWFM.annot_info.txt.gz
+  description: MISSING
+- name: chafa.MN87.gnm1.ann1.LWFM.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: chafa.MN87.gnm1.ann1.LWFM.fragments.tar.gz
+  description: Several files, in original formats
+  prior_names:
+   - Gene model fragments (several files)
+- name: chafa.MN87.gnm1.ann1.LWFM.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: chafa.MN87.gnm1.ann1.LWFM.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Chamaecrista_fasciculata_v1.gff
+- name: chafa.MN87.gnm1.ann1.LWFM.info_function.txt.gz
+  description: MISSING
+- name: chafa.MN87.gnm1.ann1.LWFM.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: chafa.MN87.gnm1.ann1.LWFM.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Chamaecrista_fasciculata_v1.pep
+- name: chafa.MN87.gnm1.ann1.LWFM.repeats.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Chamaecrista_fasciculata_v1.repeat.gff

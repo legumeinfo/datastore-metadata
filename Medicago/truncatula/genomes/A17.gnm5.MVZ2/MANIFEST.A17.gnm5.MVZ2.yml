@@ -1,0 +1,6 @@
+---
+- name: medtr.A17.gnm5.MVZ2.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

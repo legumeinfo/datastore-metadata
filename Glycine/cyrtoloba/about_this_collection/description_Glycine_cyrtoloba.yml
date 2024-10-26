@@ -9,10 +9,10 @@ resources:
     URL: "/projects/zhuang_wang_2022"
     description: "SoyMap II project to sequence perennial relatives of soybean."
   - name: SoyMap2 Diversity Browser on Glyma.Wm82.a1 (Gmax1.01)
-    URL: "https://soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_cyrtoloba_BES_alignments_relaxed_filtering"
+    URL: "https://legacy.soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_cyrtoloba_BES_alignments_relaxed_filtering"
     description: "GBrowse for G. cyrtoloba Bac End Sequence alignments on Glyma.Wm82.a1 (Gmax1.01)"
   - name: SoyMap2 Diversity Browser on Glyma.Wm82.a2 (Gmax2.0)
-    URL: "https://soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_cyrtoloba_bes_alignments_relaxed_filtering"
+    URL: "https://legacy.soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_cyrtoloba_bes_alignments_relaxed_filtering"
     description: "GBrowse for G. cyrtoloba Bac End Sequence alignments on Glyma.Wm82.a2 (Gmax2.0)"
 strains:
   - identifier: G1267

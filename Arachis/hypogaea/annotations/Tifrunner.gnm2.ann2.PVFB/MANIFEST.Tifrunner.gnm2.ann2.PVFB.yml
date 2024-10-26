@@ -1,0 +1,49 @@
+---
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.cds_lowqual.fna.gz
+  description: CDS sequences; low confidence
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.cds_lowqual.fna.gz
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.cds.fna.gz
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_lowqual.gff3.gz
+  description: MISSING
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.gene_models_bare.gff3.gz
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.mrna_lowqual.fna.gz
+  description: transcript sequences - low quality or transposable elements
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.mrna_lowqual.fna.gz
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.mrna.fna.gz
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.protein_lowqual.faa.gz
+  description: protein sequence - low-quality or TE elements
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.protein_lowqual.faa.gz
+- name: arahy.Tifrunner.gnm2.ann2.PVFB.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - arahy.Tifrunner.gnm2.ann2.protein.faa.gz

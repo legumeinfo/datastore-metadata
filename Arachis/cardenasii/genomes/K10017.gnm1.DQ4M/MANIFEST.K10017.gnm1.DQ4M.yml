@@ -1,0 +1,18 @@
+---
+- name: araca.K10017.gnm1.DQ4M.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: araca.K10017.gnm1.DQ4M.pchr_by_scaff.tar.gz
+  description: Pseudomolecules in separate files, composed of separate scaffolds, plus remaining unanchored scaffolds
+  prior_names:
+   - derived from Acardenasii.v14167.SALSA.fasta
+- name: araca.K10017.gnm1.DQ4M.pchr.agp.txt.gz
+  description: Golden path file, for GenBank submission
+  prior_names:
+   - derived from Acardenasii.v14167.SALSA.fasta
+- name: araca.K10017.gnm1.DQ4M.scaffolds.fna.gz
+  description: Scaffolds, unoriented, used in the main genome assembly
+  prior_names:
+   - derived from Acardenasii.v14167.SALSA.fasta

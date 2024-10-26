@@ -1,0 +1,6 @@
+---
+- name: medtr.HM324.gnm1.SJSJ.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

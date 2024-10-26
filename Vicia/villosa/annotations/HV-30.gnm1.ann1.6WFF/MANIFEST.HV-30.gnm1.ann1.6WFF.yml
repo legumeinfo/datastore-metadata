@@ -1,0 +1,53 @@
+---
+- name: vicvi.HV-30.gnm1.ann1.6WFF.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - GCF_029867415.1.modID.CDS_primary.fna.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GCF_029867415.1.modID.CDS.fna.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - GCF_029867415.1.modID.genes_exons.gff3.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - GCF_029867415.1.modID.genes_exons.gff3.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: vicvi.HV-30.gnm1.ann1.6WFF.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vicvi.HV-30.gnm1.ann1.6WFF.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - GCF_029867415.1.modID.transcripts_primary.fna.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - GCF_029867415.1.modID.transcripts.fna.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.noncoding.gff3.gz
+  description: Noncoding features
+  prior_names:
+   - GCF_029867415.1.modID.noncoding.gff3.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - GCF_029867415.1.modID.protein_primary.faa.gz
+- name: vicvi.HV-30.gnm1.ann1.6WFF.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GCF_029867415.1.modID.protein.faa.gz

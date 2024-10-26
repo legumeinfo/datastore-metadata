@@ -1,0 +1,10 @@
+---
+- name: aradu.V14167.gnm1.SWBf.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: aradu.V14167.gnm1.SWBf.pchr_by_scaff_RM.tar.gz
+  description: Repeat-masked Pseudomolecules in separate files, composed of separate scaffolds, plus remaining unanchored scaffolds
+- name: aradu.V14167.gnm1.SWBf.pchr_by_scaff.tar.gz
+  description: Pseudomolecules in separate files, composed of separate scaffolds, plus remaining unanchored scaffolds

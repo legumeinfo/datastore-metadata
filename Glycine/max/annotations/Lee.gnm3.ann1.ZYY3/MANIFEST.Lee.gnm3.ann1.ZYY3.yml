@@ -1,0 +1,35 @@
+---
+- name: glyma.Lee.gnm3.ann1.ZYY3.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lee.a3.cds.patched.fa.gz
+- name: glyma.Lee.gnm3.ann1.ZYY3.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Lee.a3.genes.patched.gff3.gz
+- name: glyma.Lee.gnm3.ann1.ZYY3.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.Lee.gnm3.ann1.ZYY3.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Lee.gnm3.ann1.ZYY3.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+  prior_names:
+   - Lee.a3.transcripts.patched.fa.gz
+- name: glyma.Lee.gnm3.ann1.ZYY3.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lee.a3.proteins.patched.fa.gz

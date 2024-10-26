@@ -1,0 +1,9 @@
+---
+- name: glyso.F_IGA1003.gnm1.V9RB.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - WIXD01.1.fsa_nt.gz
+   - WIXD01.2.fsa_nt.gz

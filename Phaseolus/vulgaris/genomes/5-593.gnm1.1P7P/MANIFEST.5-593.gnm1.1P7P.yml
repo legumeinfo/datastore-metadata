@@ -1,0 +1,8 @@
+---
+- name: phavu.5-593.gnm1.1P7P.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Pvulgaris5_593_696_v1.0.fa.gz

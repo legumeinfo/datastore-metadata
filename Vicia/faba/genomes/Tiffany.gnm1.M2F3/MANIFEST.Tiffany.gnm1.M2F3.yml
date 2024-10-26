@@ -1,0 +1,10 @@
+---
+- name: vicfa.Tiffany.gnm1.M2F3.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vfaba.Tiffany.v1.genome.fasta.gz
+- name: vicfa.Tiffany.gnm1.M2F3.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

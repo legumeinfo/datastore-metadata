@@ -1,0 +1,12 @@
+---
+- name: cerch.GXIB.gnm1.5DZH.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHBHAK00000000.genome_modID.fasta.gz
+- name: cerch.GXIB.gnm1.5DZH.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+- name: cerch.GXIB.gnm1.5DZH.initial_seqid_map.tsv.gz
+  description: Mapping between original and modified sequence IDs

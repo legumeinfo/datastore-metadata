@@ -1,0 +1,6 @@
+---
+- name: vigun.UCR779.gnm1.M7KZ.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

@@ -1,0 +1,10 @@
+---
+- name: glyma.Zhutwinning2.gnm1.GR6N.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEB00000000.genome_modID.fasta.gz
+- name: glyma.Zhutwinning2.gnm1.GR6N.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

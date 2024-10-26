@@ -1,0 +1,6 @@
+---
+- name: medsa.CADL_HM342.gnm1.rVNY.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

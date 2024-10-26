@@ -1,0 +1,41 @@
+---
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Pacutifolius_580_v1.0.cds_primaryTranscriptOnly.fa.gz
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - Pacutifolius_580_v1.0.gene.gff3.gz
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Pacutifolius_580_v1.0.transcript_primaryTranscriptOnly.fa.gz
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.mrna.fna.gz
+  description: mrna.fna.gz
+  applications:
+   - mines
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.phytozome_defline.txt.gz
+  description: Functional annotation provided by Phytozome
+  prior_names:
+   - PacutifoliusWLD_581_v2.0.defline.txt
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Pacutifolius_580_v1.0.protein_primaryTranscriptOnly.fa.gz
+- name: phaac.W6_15578.gnm2.ann1.LVZ1.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines

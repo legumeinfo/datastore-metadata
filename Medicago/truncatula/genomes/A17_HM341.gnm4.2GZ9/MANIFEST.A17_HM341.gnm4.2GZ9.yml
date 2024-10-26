@@ -1,0 +1,6 @@
+---
+- name: medtr.A17_HM341.gnm4.2GZ9.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
