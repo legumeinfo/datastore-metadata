@@ -1,0 +1,45 @@
+---
+identifier: glyma.Wm82.gnm6.ann1.expr.Wm82.Chen_Lin_2021_2 
+
+provenance: "The files in this directory derive from supplementary data from Chen et al., 2021, Comparative analysis of embryo proper and suspensor transcriptomes in plant embryos with different morphologies., Proc Natl Acad Sci U S A. 2021 Feb 9; 118(6): e2024704118. The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "Gene Expression Changes in the Development of the Soybean Seed-Globular Stage."
+
+scientific_name: Glycine max  
+  
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+expression_unit: TPM
+
+description: "We investigated soybean seed development because (1) soybean seeds are a major source of food and fuel, (2) soybean seeds have been an excellent system for studying the basic processes controlling seed development for over three decades, and (3) new soybean genomic resources, including the sequence of the soybean genome and the gene expression profiles for all seed compartments, tissues, and cell types, can be used to gain new insights into the regulatory processes required for seed differentiation. We sequenced messenger RNA populations of specific soybean seed compartments, which will provide new insights into gene expression that are important for “making a soybean seed.” (Chen et al., 2021)" 
+
+original_file_creation_date: "2014-05-07"
+
+local_file_creation_date: "2024-05-20"
+
+dataset_release_date: "2014-05-07"
+
+publication_doi: 10.1073/pnas.2024704118
+
+publication_title: "Comparative analysis of embryo proper and suspensor transcriptomes in plant embryos with different morphologies."
+
+bioproject: PRJNA246315
+
+geoseries: GSE57349
+
+data_curators: Andrew Farmer, Evan Lavelle
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, transcription, seed, globular-stage
+
+citation: "Comparative analysis of embryo proper and suspensor transcriptomes in plant embryos with different morphologies., Proc Natl Acad Sci, 2021; 118(6):e2024704118"
+  
+contributors: "Min Chen, Jer-Young Lin, Xiaomeng Wu, Nestor R. Apuya, Kelli F. Henry, Brandon H. Le, Anhthu Q. Bui, Julie M. Pelletier, Shawn Cokus, Matteo Pellegrini, John J. Harada, Robert B. Goldberg"
