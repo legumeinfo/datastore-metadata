@@ -26,3 +26,8 @@ gene_linkouts:
     method: GET
     href: https://gcv.legumeinfo.org/gene;lis={GENE_ID}
     text: "View {GENE_ID} in Genome Context Viewer"
+  -
+    method: GET
+    #href: https://bar.utoronto.ca/eplant_soybean/?ActiveSpecies=Glycine%20max&Genes={UNPREFIXED_GENE_ID}&ActiveGene={UNPREFIXED_GENE_ID}&ActiveView=PlantView
+    href: https://bar.utoronto.ca/efpsoybean/cgi-bin/efpWeb.cgi?dataSource=soybean&mode=Absolute&primaryGene={UNPREFIXED_GENE_ID}&searchSubmit=GO
+    text: "View {GENE_ID} in BAR eFP"
