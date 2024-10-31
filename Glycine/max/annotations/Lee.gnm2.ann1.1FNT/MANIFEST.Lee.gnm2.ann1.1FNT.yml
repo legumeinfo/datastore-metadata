@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse
   prior_names:
    - Gma.genes.gff
 - name: glyma.Lee.gnm2.ann1.1FNT.iprscan.gff3.gz

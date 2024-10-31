@@ -26,6 +26,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse
   prior_names:
    - Gmax_508_Wm82.a4.v1.gene.gff3
 - name: glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt.gz

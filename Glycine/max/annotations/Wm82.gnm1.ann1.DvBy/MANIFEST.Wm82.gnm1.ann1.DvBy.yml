@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse
   prior_names:
    - Gmax_189_gene.gff3.gz
 - name: glyma.Wm82.gnm1.ann1.DvBy.info_annot.txt.gz

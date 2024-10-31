@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse
 - name: glyma.Wm82.gnm2.ann1.RVB6.info_annot.txt.gz
   description: Annotation information
 - name: glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz
