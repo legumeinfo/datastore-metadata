@@ -1,6 +1,6 @@
 5c5cf9de03b543dcd169ae840b3ad8bb  ./vicfa.Hedin2.gnm1.ann1.PTNK.transcript.fna.gz.fai
 47dbe51e25979e5e904175a7a7aeaec9  ./vicfa.Hedin2.gnm1.ann1.PTNK.ncrna.fna.gz
-cd5e60964a0bc19d8a1852e7097bbea0  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz
+398d0f8c2f776ba415fae93e637538de  ./vicfa.Hedin2.gnm1.ann1.PTNK.gene_models_main.gff3.gz
 d3826f0567a1661fd4916ffd0fc78a45  ./README.Hedin2.gnm1.ann1.PTNK.yml
 6979931d750c9afbfa65a9838027e8aa  ./vicfa.Hedin2.gnm1.ann1.PTNK.mrna_primary.fna.gz.fai
 029d6467c673a94722190bcc444d1a59  ./vicfa.Hedin2.gnm1.ann1.PTNK.protein.faa.gz.fai
@@ -11,17 +11,16 @@ a1bb6c7e0bf2dfbf6b63ed4299ea6355  ./vicfa.Hedin2.gnm1.ann1.PTNK.mrna.fna.gz.fai
 bb0cb7144e2c5a270e04eec81350b22f  ./vicfa.Hedin2.gnm1.ann1.PTNK.legfed_v1_0.M65K.gfa.tsv.gz
 11a3da73b9c2ba0ef1fd770eff6b4fdd  ./vicfa.Hedin2.gnm1.ann1.PTNK.cds.fna.gz.fai
 05bc0a0e83387e6041c0abeebd119761  ./vicfa.Hedin2.gnm1.ann1.PTNK.ncrna.fna.gz.fai
+4e5bad77ce305be017bb84f249f3e0d9  ./MANIFEST.Hedin2.gnm1.ann1.PTNK.yml
 92d47e2989a5996056356103ee6f09cc  ./vicfa.Hedin2.gnm1.ann1.PTNK.transcript.fna.gz
 fee858c26fadb34891e7748e7e02928f  ./vicfa.Hedin2.gnm1.ann1.PTNK.featid_map.tsv.gz
 828c93f3ffc7d24fa898eda9ff64ed75  ./vicfa.Hedin2.gnm1.ann1.PTNK.noncoding.gff3.gz.csi
-b634283e9057695425c0f5452007a3e7  ./MANIFEST.Hedin2.gnm1.ann1.PTNK.descriptions.yml
 245d7d01a38cb40506c62b83e01ddb00  ./vicfa.Hedin2.gnm1.ann1.PTNK.iprscan.gff3.gz
-fbbb8907cd12c4ef02dbcd37726bd5e3  ./MANIFEST.Hedin2.gnm1.ann1.PTNK.correspondence.yml
 06be9bc2e4f29e1e4bbd925da91f5376  ./vicfa.Hedin2.gnm1.ann1.PTNK.cds_primary.fna.gz
 befd4b6355f07f5292e835a1bee03dc3  ./vicfa.Hedin2.gnm1.ann1.PTNK.mrna_primary.fna.gz
 0c3b5273a91b4cc593286f4fdd43b890  ./feature_id_remapping.txt.gz
 623e0806cd35bd0dcdc1c7f37750d244  ./vicfa.Hedin2.gnm1.ann1.PTNK.protein.faa.gz
-6a26a806350a43775d5cf4d75384dd0a  ./CHANGES.Hedin2.gnm1.ann1.PTNK.txt
+f1e7177463ded65e53d74d41f308507e  ./CHANGES.Hedin2.gnm1.ann1.PTNK.txt
 2799068b25af8d1e6cad58b9535dbee8  ./vicfa.Hedin2.gnm1.ann1.PTNK.cds.fna.gz.gzi
 fe33c54acbe17df091db6530aaa401a7  ./vicfa.Hedin2.gnm1.ann1.PTNK.ncrna.fna.gz.gzi
 c8340f7065cd499f59aa3508f69309b0  ./vicfa.Hedin2.gnm1.ann1.PTNK.protein_primary.faa.gz.fai
