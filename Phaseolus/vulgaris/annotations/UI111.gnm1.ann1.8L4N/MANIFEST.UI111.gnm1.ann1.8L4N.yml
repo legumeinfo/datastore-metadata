@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - PvulgarisUI111_534_v1.1.gene.gff3.gz
 - name: phavu.UI111.gnm1.ann1.8L4N.info_annot.txt.gz

@@ -6,9 +6,9 @@ ea84e4dee31e8e24d1cf1e81d9977921  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_low_
 007f1cd8d07e748a7715507274047c15  ./phalu.G27455.gnm1.ann1.JD7C.protein_primary.faa.gz.fai
 39675076b1528813f6b940d4804ccee2  ./phalu.G27455.gnm1.ann1.JD7C.mrna_primary.fna.gz.gzi
 773bd6046fc8908689b39d0e149d139b  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.bed.gz
+8723c30f92ee4a93a0501a22d698e563  ./MANIFEST.G27455.gnm1.ann1.JD7C.yml
 409d80aa6fe500507f5e88889d9e0f0f  ./Plunatus_563_V1.defline.txt.gz
 d2696ccb562e48adafea0451095e8846  ./phalu.G27455.gnm1.ann1.JD7C.cds_primary.fna.gz
-44af65776c0c62699615e1f04ec21f08  ./MANIFEST.G27455.gnm1.ann1.JD7C.descriptions.yml
 694bdeddfb8c75c107046780e5a462b3  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_main.bed.gz.tbi
 42f42fdd96f7d150366c6e6dfe06291a  ./README.G27455.gnm1.ann1.JD7C.yml
 48e6a924ee622bedf98f1616e0757d78  ./phalu.G27455.gnm1.ann1.JD7C.gene_models_low_confidence.gff3.gz.tbi
@@ -20,13 +20,10 @@ fd58a885a5e8380cdd50eabf82613eb3  ./BUSCO/phalu.G27455.gnm1.ann1.JD7C.busco.faba
 8048149010bc2fcc726c9bb6d35fb7ee  ./phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3.gz
 155e407ce5226ab4c5a6a14d4d30c734  ./usage_policy.txt
 6482772af78cbe7a8382fb0f6da88cd4  ./_h5ai.footers.html
-7bfb151d6b101e825f9a266aef26fb03  ./MANIFEST.G27455.gnm1.ann1.JD7C.correspondence.yml
 e05550ea523d7e22112ab475aaf2b0a8  ./phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz.fai
 065c5ea278409406c24b25e59692b473  ./phalu.G27455.gnm1.ann1.JD7C.cds_primary.fna.gz.gzi
 095b1872866f8dc3c61b024723a8d3ec  ./phalu.G27455.gnm1.ann1.JD7C.protein_low_confidence.faa.gz
 28dfc5048fe2a4d0e98a55bdcfa52084  ./phalu.G27455.gnm1.ann1.JD7C.protein_primary.faa.gz
-f82784a215a56513af421afc9d2d1302  ./busco/phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz_busco/short_summary.specific.embryophyta_odb10.phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz_busco.txt
-46be661535dd9a6965fcd9086c8de948  ./busco/phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript.faa.gz_busco/short_summary.specific.embryophyta_odb10.phalu.G27455.gnm1.ann1.JD7C.protein_primaryTranscript.faa.gz_busco.txt
 2705f09517772912feafdf7ddf40ff67  ./phalu.G27455.gnm1.ann1.JD7C.cds_primary.fna.gz.fai
 c780744feecc011504a059d024f7e59b  ./phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz
 75e85e1247e35e57f13e9050dc709739  ./Plunatus_563_V1.annotation_info.txt.gz

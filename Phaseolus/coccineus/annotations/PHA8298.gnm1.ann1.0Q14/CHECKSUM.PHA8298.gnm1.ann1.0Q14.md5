@@ -14,10 +14,10 @@ cec0ab7f88f936495d1e4e4bd4881b10  ./phaco.PHA8298.gnm1.ann1.0Q14.annotation_info
 436b45756b0e2022dc85960cf96b90ca  ./phaco.PHA8298.gnm1.ann1.0Q14.cds_primary.fna.gz.gzi
 e9aa796d5cd4957de282637c01a6cf8d  ./phaco.PHA8298.gnm1.ann1.0Q14.cds.fna.gz.gzi
 86e17bd7fd54bc95b7fed18832b252ea  ./phaco.PHA8298.gnm1.ann1.0Q14.protein_primary.faa.gz
+6209399fce1d606842eb20f4044cccae  ./MANIFEST.PHA8298.gnm1.ann1.0Q14.yml
 1cb0c5abd3bedccfa9aa379f49c1553c  ./phaco.PHA8298.gnm1.ann1.0Q14.legfed_v1_0.M65K.gfa.tsv.gz
 945d9c232af74407738a56caf77420dc  ./phaco.PHA8298.gnm1.ann1.0Q14.protein.faa.gz
 fbad357143db44aa9485d824db9aec5e  ./README.PHA8298.gnm1.ann1.0Q14.yml
-958a73f73aa3d332c8d96cc87b72b1b5  ./MANIFEST.PHA8298.gnm1.ann1.0Q14.correspondence.yml
 8c61b55b467351524c7bcfe741125321  ./BUSCO/phaco.PHA8298.gnm1.ann1.0Q14.busco.fabales_odb10.full_table.tsv.gz
 7b85946127f63f9ab76e73937dad8b56  ./BUSCO/phaco.PHA8298.gnm1.ann1.0Q14.busco.fabales_odb10.short_summary.txt
 d75ad559a347afcb8a6f686db0b9b5fb  ./BUSCO/phaco.PHA8298.gnm1.ann1.0Q14.busco.fabales_odb10.short_summary.json
@@ -34,4 +34,3 @@ c3cfea3c57f31a3f3bf51ef1ff5a1d39  ./phaco.PHA8298.gnm1.ann1.0Q14.mrna_primary.fn
 38dfcd73e78a15206be49700769ca329  ./phaco.PHA8298.gnm1.ann1.0Q14.cds.fna.gz
 aa679077433ff7dece8e36de5cc834c2  ./phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.gff3.gz
 d4940ca42b2d00506a7fdceeced38fdc  ./phaco.PHA8298.gnm1.ann1.0Q14.mrna_primary.fna.gz
-e59fc3615c3cee38f22247df9cab7417  ./MANIFEST.PHA8298.gnm1.ann1.0Q14.descriptions.yml

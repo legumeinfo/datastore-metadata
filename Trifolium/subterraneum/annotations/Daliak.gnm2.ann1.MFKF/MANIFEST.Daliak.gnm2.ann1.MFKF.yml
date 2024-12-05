@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Tsu.genes.gff
 - name: trisu.Daliak.gnm2.ann1.MFKF.iprscan.gff3.gz

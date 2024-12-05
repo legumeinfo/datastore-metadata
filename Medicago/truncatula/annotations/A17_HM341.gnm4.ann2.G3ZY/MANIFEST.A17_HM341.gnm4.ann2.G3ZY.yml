@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: medtr.A17_HM341.gnm4.ann2.G3ZY.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: medtr.A17_HM341.gnm4.ann2.G3ZY.mrna.fna.gz

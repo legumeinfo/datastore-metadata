@@ -10,6 +10,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_miRNA.gff3.gz
   description: MISSING
 - name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_pchr_plus_scaff.gff3.gz

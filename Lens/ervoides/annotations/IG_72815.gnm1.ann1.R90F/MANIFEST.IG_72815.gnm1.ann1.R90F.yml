@@ -10,6 +10,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: lener.IG_72815.gnm1.ann1.R90F.iprscan.gff3.gz
   description: InterPro functional information for genes (gff format)
 - name: lener.IG_72815.gnm1.ann1.R90F.legfed_v1_0.M65K.gfa.tsv.gz

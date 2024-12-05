@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - GCF_029867415.1.modID.genes_exons.gff3.gz
 - name: vicvi.HV-30.gnm1.ann1.6WFF.iprscan.gff3.gz

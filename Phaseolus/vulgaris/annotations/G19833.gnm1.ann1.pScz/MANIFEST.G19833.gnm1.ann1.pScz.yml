@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Pvulgaris_218_v1.0.gene.gff3.gz
 - name: phavu.G19833.gnm1.ann1.pScz.info_annot.txt.gz

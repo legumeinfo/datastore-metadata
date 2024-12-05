@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: vigan.Shumari.gnm1.ann1.8BRS.iprscan.gff3.gz
   description: InterPro functional information for genes (gff format)
 - name: vigan.Shumari.gnm1.ann1.8BRS.legfed_v1_0.M65K.gfa.tsv.gz

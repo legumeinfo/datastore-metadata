@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: phavu.G19833.gnm2.ann1.PB8d.info_annot.txt.gz
   description: Annotation information
 - name: phavu.G19833.gnm2.ann1.PB8d.legfed_v1_0.M65K.gfa.tsv.gz

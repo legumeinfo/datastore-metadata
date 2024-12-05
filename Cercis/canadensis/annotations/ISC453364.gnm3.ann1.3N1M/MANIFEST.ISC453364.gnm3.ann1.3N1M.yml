@@ -26,6 +26,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Ccanadensis_705_V3.1.gene_strip.gff3.gz
 - name: cerca.ISC453364.gnm3.ann1.3N1M.iprscan.gff3.gz

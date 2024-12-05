@@ -10,6 +10,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Vradi.ver6.cor.gff
 - name: vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mrna.gff3.gz

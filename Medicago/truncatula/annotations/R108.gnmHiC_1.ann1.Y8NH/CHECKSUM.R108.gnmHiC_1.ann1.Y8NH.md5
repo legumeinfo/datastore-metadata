@@ -10,7 +10,7 @@ b893729ec3525091b5ba4d2618bb334d  ./medtr.R108.gnmHiC_1.ann1.Y8NH.id_map.txt.gz
 ec355d925e15df38cda9409773b837a2  ./medtr.R108.gnmHiC_1.ann1.Y8NH.legfed_v1_0.M65K.gfa.tsv.gz
 620df0ce4d071250ae466aeab384da05  ./medtr.R108.gnmHiC_1.ann1.Y8NH.gene_models_main.bed.gz.tbi
 ee37dfe32562f7cbd65afe1d2cffa6a2  ./medtr.R108.gnmHiC_1.ann1.Y8NH.mrna.fna.gz
-19c3067fa634ffb7d6cd4b49180a7947  ./MANIFEST.R108.gnmHiC_1.ann1.Y8NH.correspondence.yml
+61ac0d8dbe7b4b360a011b95ada35121  ./MANIFEST.R108.gnmHiC_1.ann1.Y8NH.yml
 18385c357c379909110a251e18110573  ./medtr.R108.gnmHiC_1.ann1.Y8NH.cds.fna.gz
 55f56f56c230446530339b0ffc9bff5c  ./medtr.R108.gnmHiC_1.ann1.Y8NH.iprscan.gff3.gz
 298402957f3f2eb07d1007603a8a567c  ./medtr.R108.gnmHiC_1.ann1.Y8NH.protein.faa.gz
@@ -19,6 +19,5 @@ c407d4d6511a652b5ac09b0154487842  ./BUSCO/medtr.R108.gnmHiC_1.ann1.Y8NH.busco.fa
 f707fe3037de9c4fad235eb06ae8f9ac  ./BUSCO/medtr.R108.gnmHiC_1.ann1.Y8NH.busco.fabales_odb10.full_table.tsv.gz
 1d76f951b5ddcc96b3f8863985d33f31  ./medtr.R108.gnmHiC_1.ann1.Y8NH.cds.fna.gz.gzi
 38bfd6526e8cc52af8e53b2879186b3e  ./medtr.R108.gnmHiC_1.ann1.Y8NH.protein.faa.gz.fai
-595cf02828d981b1a55c67aabcacb747  ./MANIFEST.R108.gnmHiC_1.ann1.Y8NH.descriptions.yml
 7d19b425e88997232ce5c11efdc41390  ./medtr.R108.gnmHiC_1.ann1.Y8NH.mrna.fna.gz.fai
 700f788b864f2c4e988ed7ef9a948ad8  ./medtr.R108.gnmHiC_1.ann1.Y8NH.iprscan.gff3.gz.tbi

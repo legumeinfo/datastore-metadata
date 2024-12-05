@@ -18,6 +18,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - arahy.BaileyII.mRNA_ID.gff3.gz
 - name: arahy.BaileyII.gnm1.ann1.PQM7.iprscan.gff3.gz

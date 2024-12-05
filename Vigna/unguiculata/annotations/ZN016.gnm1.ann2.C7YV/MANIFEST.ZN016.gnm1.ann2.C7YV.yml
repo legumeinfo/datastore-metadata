@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: vigun.ZN016.gnm1.ann2.C7YV.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: vigun.ZN016.gnm1.ann2.C7YV.mrna_primary.fna.gz

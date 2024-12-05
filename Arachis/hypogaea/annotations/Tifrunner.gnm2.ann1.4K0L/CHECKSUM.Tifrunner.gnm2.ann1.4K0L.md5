@@ -1,6 +1,6 @@
-5d7a047c51cae06d643ed0b77b874805  ./MANIFEST.Tifrunner.gnm2.ann1.4K0L.correspondence.yml
 b28b4429681ce4a448c480db65c0dfa0  ./arahy.Tifrunner.gnm2.ann1.4K0L.info_fwd_chain.txt.gz
 0eaa66669d73f29687a45858b9ea52dc  ./arahy.Tifrunner.gnm2.ann1.4K0L.info_descriptors.txt.gz
+6457420e51c01e77cab3f1ee9b3b41bd  ./MANIFEST.Tifrunner.gnm2.ann1.4K0L.yml
 436abe8e353739e0b714b4a076763966  ./arahy.Tifrunner.gnm2.ann1.4K0L.info_unmapped_models.txt.gz
 462b6013453e67913a2268728c60977b  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds.fna.gz.fai
 3dcc6c8ac442255658655cfe080d83c1  ./arahy.Tifrunner.gnm2.ann1.4K0L.mrna.fna.gz.fai
@@ -46,7 +46,6 @@ fb34c554edf484e0317def28366dbd67  ./arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M
 164822fc5d3924941254504bd52b5c22  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.full_table.tsv.gz
 4441ab10d195c9e57ee7cac9acec4a07  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.short_summary.json
 c183edfcfb2f8f747b3a1afa257f26c8  ./BUSCO/arahy.Tifrunner.gnm2.ann1.4K0L.busco.fabales_odb10.short_summary.txt
-3a1c34fbd9db5cd0ab0434265ed9996a  ./MANIFEST.Tifrunner.gnm2.ann1.4K0L.descriptions.yml
 13f4d177c6eaa7b1d430eda13325450e  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz
 7b037421be2f30d280d5b5f333256ce1  ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz.fai
 12c8f8f0565eccdff994db6ec94f9606  ./arahy.Tifrunner.gnm2.ann1.4K0L.cds.fna.gz.gzi

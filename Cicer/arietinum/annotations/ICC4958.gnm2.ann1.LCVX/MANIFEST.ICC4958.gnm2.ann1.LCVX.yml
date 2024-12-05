@@ -18,6 +18,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - cicar.ICC4958.a2.v1.gff3.gz
 - name: cicar.ICC4958.gnm2.ann1.LCVX.legfed_v1_0.M65K.gfa.tsv.gz

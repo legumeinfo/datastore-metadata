@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Pacutifolius_580_v1.0.gene.gff3.gz
 - name: phaac.W6_15578.gnm2.ann1.LVZ1.legfed_v1_0.M65K.gfa.tsv.gz

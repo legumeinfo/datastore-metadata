@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Cca.genes.gff
 - name: cajca.ICPL87119.gnm2.ann1.L3ZH.iprscan.gff3.gz

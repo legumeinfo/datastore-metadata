@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Vfaba.Tiffany.v1.agat.gff3.gz
 - name: vicfa.Tiffany.gnm1.ann1.Y54X.iprscan.gff3.gz

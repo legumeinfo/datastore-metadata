@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Vradi.pacbio.gapfilled.final.all.standard.gff.gz
 - name: vigra.VC1973A.gnm7.ann1.RWBG.gene_models_original.gff3.gz
