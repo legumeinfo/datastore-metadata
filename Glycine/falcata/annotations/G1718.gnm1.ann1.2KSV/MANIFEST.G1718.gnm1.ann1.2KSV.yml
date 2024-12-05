@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Gfa.cds and Gfa_G1718_chr.fsa via gmap
 - name: glyfa.G1718.gnm1.ann1.2KSV.gene_models_orig.gff.gz

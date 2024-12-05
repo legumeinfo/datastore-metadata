@@ -22,6 +22,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - GWHACDY00000000.modID.gff3.gz
 - name: glyso.PI_562565.gnm1.ann1.1JD2.iprscan.gff3.gz

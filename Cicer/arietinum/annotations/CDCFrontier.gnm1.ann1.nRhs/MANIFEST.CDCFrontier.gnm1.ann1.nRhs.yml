@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_GO.txt.gz
   description: MISSING
 - name: cicar.CDCFrontier.gnm1.ann1.nRhs.info_annot_InterPro.txt.gz

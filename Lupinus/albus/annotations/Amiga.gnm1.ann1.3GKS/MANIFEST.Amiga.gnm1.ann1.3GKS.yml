@@ -10,6 +10,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Lalbus-20171117r1-v1.annot.gff3
    - Lalb_mitochondrion.gff3

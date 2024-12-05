@@ -14,7 +14,7 @@
   description: Gene models - main
   applications:
    - mines
-   - jbrowse
+   - jbrowse-index
   prior_names:
    - GWHAAEV00000000.1.gff.gz
 - name: glyma.Zh13.gnm2.ann1.FJ3G.iprscan.gff3.gz

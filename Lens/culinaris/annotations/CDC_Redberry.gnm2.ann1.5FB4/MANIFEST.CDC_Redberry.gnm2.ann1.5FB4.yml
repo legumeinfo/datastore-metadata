@@ -10,6 +10,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: lencu.CDC_Redberry.gnm2.ann1.5FB4.iprscan.gff3.gz
   description: InterPro functional information for genes (gff format)
 - name: lencu.CDC_Redberry.gnm2.ann1.5FB4.legfed_v1_0.M65K.gfa.tsv.gz

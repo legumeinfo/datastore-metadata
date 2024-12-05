@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Gsy.cds and Gsy_G1300_chr.fsa via gmap
 - name: glysy.G1300.gnm1.ann1.RRK6.gene_models_orig.gff.gz

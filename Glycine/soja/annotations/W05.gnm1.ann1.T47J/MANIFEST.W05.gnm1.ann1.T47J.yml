@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: glyso.W05.gnm1.ann1.T47J.info_annot_InterProScan.txt.gz
   description: MISSING
 - name: glyso.W05.gnm1.ann1.T47J.info_gene_annot.txt.gz

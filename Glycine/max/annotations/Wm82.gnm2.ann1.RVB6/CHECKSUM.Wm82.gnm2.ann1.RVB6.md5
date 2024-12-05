@@ -10,7 +10,6 @@ d4bc053a7695910e98c9fe740234c9ea  ./glyma.Wm82.gnm2.ann1.RVB6.cds_primary.fna.gz
 c4c70a70a8190848572a2ac0ddaf8446  ./README.Wm82.gnm2.ann1.RVB6.yml
 3e65918e211a4f609c68a27136aa75d7  ./glyma.Wm82.gnm2.ann1.RVB6.protein_primary.faa.gz.gzi
 d76e408e99bd0f68bf6ea1a15a2e85ac  ./glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz
-b352c08c83c2c102f977df9a1de38044  ./MANIFEST.Wm82.gnm2.ann1.RVB6.descriptions.yml
 2f9243e0bf6f9f86cae993ae5e3a13d7  ./glyma.Wm82.gnm2.ann1.RVB6.synonym.txt.gz
 0fbab90169178950a9796ade5e697c3b  ./glyma.Wm82.gnm2.ann1.RVB6.legfed_v1_0.M65K.gfa.tsv.gz
 3ede956dc130df155e684ed7db6e7f7f  ./glyma.Wm82.gnm2.ann1.RVB6.repeatmasked_assembly_v2.0.gff3.gz
@@ -20,16 +19,15 @@ b352c08c83c2c102f977df9a1de38044  ./MANIFEST.Wm82.gnm2.ann1.RVB6.descriptions.ym
 f3a535164d45c7563c9e96c46dcfd264  ./glyma.Wm82.gnm2.ann1.RVB6.protein.faa.gz.fai
 83a691e8eaea0aa4abe11bcf3047f178  ./original_data_usage_policy.txt
 7fa21679915e2f4fa35395582e928830  ./glyma.Wm82.gnm2.ann1.RVB6.protein_primary.faa.gz.fai
-c49a8452fd513b5ebc77d7bf5730d831  ./MANIFEST.Wm82.gnm2.ann1.RVB6.correspondence.yml
 3ae39a05e49f8d25e27a21aa6f4848a1  ./glyma.Wm82.gnm2.ann1.RVB6.mrna.fna.gz
 2a56c62a738f3ef2011650033d491abc  ./glyma.Wm82.gnm2.ann1.RVB6.mrna_primary.fna.gz
 1fca7eda87c14d40801787d9da25f6e5  ./glyma.Wm82.gnm2.ann1.RVB6.cds_primary.fna.gz
 bc86ca0426b50bb3d0b53d7c0ad90ec4  ./glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz.fai
-1870912c74ca5935669a3464b89d6c0c  ./glyma.Wm82.gnm2.ann1.RVB6.gene.gff3.gz
 6046fd239da8731c053fda9c6662ffa8  ./glyma.Wm82.gnm2.ann1.RVB6.locus_mrna_name_map.txt.gz
 4f853b1cde293a0b62633b28a30bd9b6  ./glyma.Wm82.gnm2.ann1.RVB6.cds_primary.fna.gz.fai
 767b1105e13e592eaefd9f00d176295f  ./glyma.Wm82.gnm2.ann1.RVB6.mrna.fna.gz.fai
 829b15ec808d6ebae3d0743e669702da  ./CHANGES.Wm82.gnm2.ann1.RVB6.txt
+16778ab2ee1d739e583b9b0cac05f176  ./MANIFEST.Wm82.gnm2.ann1.RVB6.yml
 ade7b72ada31ae759ac1b0a450c39a5f  ./glyma.Wm82.gnm2.ann1.RVB6.gene_models_main.gff3.gz.tbi
 93e0dd750b415876e909baf3e2ce0b91  ./BUSCO/glyma.Wm82.gnm2.ann1.RVB6.busco.fabales_odb10.short_summary.json
 1010e5d5a7495f65d1ee9ce6f2b7618d  ./BUSCO/glyma.Wm82.gnm2.ann1.RVB6.busco.fabales_odb10.full_table.tsv.gz

@@ -14,7 +14,7 @@
   description: Gene models - main
   applications:
    - mines
-   - jbrowse
+   - jbrowse-index
   prior_names:
    - GCA_020497155.1_ASM2049715v1_genomic.gff.gz
 - name: glyma.Hwangkeum.gnm1.ann1.1G4F.iprscan.gff3.gz

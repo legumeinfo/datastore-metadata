@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - GCF_020283565.1.modID.genes_exons.gff3.gz
 - name: tripr.HEN17-A07.gnm1.ann1.LHG2.iprscan.gff3.gz

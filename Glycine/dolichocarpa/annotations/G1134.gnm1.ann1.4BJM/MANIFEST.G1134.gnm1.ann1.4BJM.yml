@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Gtt.cds and Gtt_G1134_chr.fsa via gmap
 - name: glydo.G1134.gnm1.ann1.4BJM.gene_models_orig.gff.gz

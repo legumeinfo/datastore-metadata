@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: vigan.Gyeongwon.gnm3.ann1.3Nz5.info_annot_AHRD.txt.gz
   description: annotation from the AHRD pipeline
 - name: vigan.Gyeongwon.gnm3.ann1.3Nz5.legfed_v1_0.M65K.gfa.tsv.gz

@@ -34,7 +34,7 @@
   description: Gene models - main
   applications:
    - mines
-   - jbrowse
+   - jbrowse-index
   prior_names:
    - Gmax_880_Wm82.a6.v1.gene_strip.gff3.gz
 - name: glyma.Wm82.gnm6.ann1.PKSW.iprscan.gff3.gz

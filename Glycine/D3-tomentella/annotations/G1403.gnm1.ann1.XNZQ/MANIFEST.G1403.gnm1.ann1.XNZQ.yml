@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Gto.cds and Gto_G1403_chr.fsa via gmap
 - name: glyd3.G1403.gnm1.ann1.XNZQ.gene_models_orig.gff.gz

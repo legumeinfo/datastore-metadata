@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Lj3.0_gene_models.gff3.gz
 - name: lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz

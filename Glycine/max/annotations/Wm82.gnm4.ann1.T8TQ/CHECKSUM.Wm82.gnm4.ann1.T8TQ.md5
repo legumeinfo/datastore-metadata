@@ -1,11 +1,11 @@
 17550dd1b1e96188e665fdab3e27e989  ./glyma.Wm82.gnm4.ann1.T8TQ.cds_primary.fna.gz
-1ea9a0fb1f095b41c10943de93a2cd02  ./MANIFEST.Wm82.gnm4.ann1.T8TQ.descriptions.yml
 b4e4177440fdda92fd5d034511de10ae  ./glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt.gz
 0ad92f60fbecbfae5bdf8d49c595dc15  ./glyma.Wm82.gnm4.ann1.T8TQ.legfed_v1_0.M65K.gfa.tsv.gz
 4e6fd3db1536d591d4a0b9980df67fda  ./glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.bed.gz.tbi
 c2335b966b3b26df8e6c310cef218552  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.short_summary.txt
 7bb937fdd776eb595c74ae84b341d03c  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.short_summary.json
 b83370f15ba5a288140ff02198ea6edb  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.full_table.tsv.gz
+a911eeecec543efb8276c2c459c45d6b  ./MANIFEST.Wm82.gnm4.ann1.T8TQ.yml
 91614b64a3c0b64122c291495d90f2b4  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz.gzi
 89b7b5c8843f50fb557ba0df525fc773  ./glyma.Wm82.gnm4.ann1.T8TQ.protein_primary.faa.gz.fai
 abb261056a229d02d34a8665be96c4df  ./glyma.Wm82.gnm4.ann1.T8TQ.cds_primary.fna.gz.fai
@@ -18,7 +18,7 @@ aa906cb4903f5336d90ad98d3c48d6d5  ./glyma.Wm82.gnm4.ann1.T8TQ.info_synonyms.txt.
 1100cfb7218481c52cf96a3df91d1b63  ./glyma.Wm82.gnm4.ann1.T8TQ.gene_models_main.gff3.gz.tbi
 5204a8d5a570c0a025bab55a88e5393a  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna_primary.fna.gz.gzi
 964461b42943f706a5be0244dde69d80  ./glyma.Wm82.gnm4.ann1.T8TQ.cds_low_confidence.fna.gz
-7faba084e0a55ec7d49aacac9bb31a5e  ./README.Wm82.gnm4.ann1.T8TQ.yml
+62ef464cb96aec294dcb3ea62ea91596  ./README.Wm82.gnm4.ann1.T8TQ.yml
 45a9e49b81d3bacbba9585ffe8323161  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna_primary.fna.gz.fai
 a0ffbe51c2e7de7a66e1e7f7b7e92fef  ./glyma.Wm82.gnm4.ann1.T8TQ.repeatmasking.gff3.gz
 7283fcfe25f1f16cfbdcf8fa33a36f4d  ./glyma.Wm82.gnm4.ann1.T8TQ.cds.fna.gz.gzi
@@ -30,7 +30,6 @@ a0ffbe51c2e7de7a66e1e7f7b7e92fef  ./glyma.Wm82.gnm4.ann1.T8TQ.repeatmasking.gff3
 0bd9480b5dff42444e45721a36de63ac  ./CHANGES.Wm82.gnm4.ann1.T8TQ.txt
 de7a5b761707e34467c7aa0ff6530496  ./glyma.Wm82.gnm4.ann1.T8TQ.protein_primary.faa.gz.gzi
 c005195619b4993b1b38868dd055171d  ./glyma.Wm82.gnm4.ann1.T8TQ.cds.fna.gz
-f62dad3abf3aa86cab2f9012a40d7951  ./MANIFEST.Wm82.gnm4.ann1.T8TQ.correspondence.yml
 4ddf7a1a9601762c7d67403d08e4ff46  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz.fai
 6fbbf1dfbf1012d8a40d0e7c67a68f29  ./glyma.Wm82.gnm4.ann1.T8TQ.protein_low_confidence.faa.gz
 d485b0b063c0363c56712ce0d4f62bcd  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna_primary.fna.gz

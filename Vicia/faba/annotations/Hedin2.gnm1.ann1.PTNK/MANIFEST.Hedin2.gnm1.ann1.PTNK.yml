@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Vfaba.Hedin2.v1.agat.gff3.gz
 - name: vicfa.Hedin2.gnm1.ann1.PTNK.iprscan.gff3.gz

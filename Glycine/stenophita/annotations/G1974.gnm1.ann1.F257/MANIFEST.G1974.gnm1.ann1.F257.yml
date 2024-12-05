@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Gst.cds and Gst_G1974_chr.fsa via gmap
 - name: glyst.G1974.gnm1.ann1.F257.gene_models_orig.gff.gz
