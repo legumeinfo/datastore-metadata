@@ -32,7 +32,7 @@
   prior_names:
    - arahy.Tifrunner.gnm2.ann2.mrna_lowqual.fna.gz
 - name: arahy.Tifrunner.gnm2.ann2.PVFB.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

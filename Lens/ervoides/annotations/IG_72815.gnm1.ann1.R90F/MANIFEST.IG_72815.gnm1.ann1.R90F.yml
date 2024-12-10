@@ -16,7 +16,7 @@
 - name: lener.IG_72815.gnm1.ann1.R90F.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: lener.IG_72815.gnm1.ann1.R90F.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: lener.IG_72815.gnm1.ann1.R90F.protein.faa.gz

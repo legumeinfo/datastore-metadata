@@ -18,7 +18,7 @@
 - name: medtr.A17.gnm5.ann1_6.L2RX.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: medtr.A17.gnm5.ann1_6.L2RX.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

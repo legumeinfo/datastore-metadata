@@ -44,7 +44,7 @@
   prior_names:
    - Gmax_508_Wm82.a4.v1.transcript_primaryTranscriptOnly.fa
 - name: glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

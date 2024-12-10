@@ -32,7 +32,7 @@
   prior_names:
    - Vfaba.Hedin2.v1.gffread.mrna_primary.fna.gz
 - name: vicfa.Hedin2.gnm1.ann1.PTNK.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

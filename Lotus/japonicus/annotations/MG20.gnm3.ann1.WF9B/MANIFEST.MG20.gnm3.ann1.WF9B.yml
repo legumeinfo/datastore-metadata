@@ -28,7 +28,7 @@
 - name: lotja.MG20.gnm3.ann1.WF9B.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: lotja.MG20.gnm3.ann1.WF9B.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: lotja.MG20.gnm3.ann1.WF9B.phytozome_10_2.HFNR.gfa.tsv.gz

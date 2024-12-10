@@ -28,7 +28,7 @@
   prior_names:
    - Gmax_189_transcript_primaryTranscriptOnly.fa.gz
 - name: glyma.Wm82.gnm1.ann1.DvBy.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glyma.Wm82.gnm1.ann1.DvBy.protein_primary.faa.gz

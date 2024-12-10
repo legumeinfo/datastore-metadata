@@ -36,7 +36,7 @@
   prior_names:
    - GmaxFiskeby_678_v1.1.transcript_primaryTranscriptOnly.fa.gz
 - name: glyma.FiskebyIII.gnm1.ann1.SS25.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

@@ -18,7 +18,7 @@
 - name: vigun.ZN016.gnm1.ann2.C7YV.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigun.ZN016.gnm1.ann2.C7YV.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigun.ZN016.gnm1.ann2.C7YV.protein_primary.faa.gz

@@ -30,7 +30,7 @@
   prior_names:
    - arahy.BaileyII.mrna_primary.fna.gz
 - name: arahy.BaileyII.gnm1.ann1.PQM7.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

@@ -18,7 +18,7 @@
 - name: vigun.TZ30.gnm1.ann2.59NL.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigun.TZ30.gnm1.ann2.59NL.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigun.TZ30.gnm1.ann2.59NL.protein_primary.faa.gz

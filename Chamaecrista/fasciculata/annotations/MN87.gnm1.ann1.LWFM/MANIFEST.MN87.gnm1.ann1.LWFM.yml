@@ -21,7 +21,7 @@
 - name: chafa.MN87.gnm1.ann1.LWFM.info_function.txt.gz
   description: MISSING
 - name: chafa.MN87.gnm1.ann1.LWFM.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: chafa.MN87.gnm1.ann1.LWFM.protein.faa.gz

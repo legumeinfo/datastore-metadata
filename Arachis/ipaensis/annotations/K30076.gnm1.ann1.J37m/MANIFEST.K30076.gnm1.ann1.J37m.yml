@@ -34,7 +34,7 @@
   prior_names:
    - Araip.K30076.a1.M1.transcript.fa.lowqual_or_TE
 - name: araip.K30076.gnm1.ann1.J37m.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

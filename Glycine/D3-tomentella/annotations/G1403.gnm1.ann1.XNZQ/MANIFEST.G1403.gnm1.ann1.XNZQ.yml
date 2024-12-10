@@ -22,7 +22,7 @@
 - name: glyd3.G1403.gnm1.ann1.XNZQ.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: glyd3.G1403.gnm1.ann1.XNZQ.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glyd3.G1403.gnm1.ann1.XNZQ.protein.faa.gz

@@ -18,7 +18,7 @@
 - name: vigun.Sanzi.gnm1.ann1.HFH8.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigun.Sanzi.gnm1.ann1.HFH8.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigun.Sanzi.gnm1.ann1.HFH8.protein_primary.faa.gz

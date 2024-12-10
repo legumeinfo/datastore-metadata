@@ -16,7 +16,7 @@
 - name: lencu.CDC_Redberry.gnm2.ann1.5FB4.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: lencu.CDC_Redberry.gnm2.ann1.5FB4.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: lencu.CDC_Redberry.gnm2.ann1.5FB4.protein.faa.gz

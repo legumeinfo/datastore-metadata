@@ -32,7 +32,7 @@
   prior_names:
    - GCF_029867415.1.modID.transcripts_primary.fna.gz
 - name: vicvi.HV-30.gnm1.ann1.6WFF.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

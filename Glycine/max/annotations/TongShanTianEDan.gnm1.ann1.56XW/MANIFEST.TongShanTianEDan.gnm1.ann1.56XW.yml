@@ -33,7 +33,7 @@
   prior_names:
    - Calculated from protein_primary.faa file and HMMs for the legfed_v1_0.M65K gene families
 - name: glyma.TongShanTianEDan.gnm1.ann1.56XW.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glyma.TongShanTianEDan.gnm1.ann1.56XW.protein_primary.faa.gz

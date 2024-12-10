@@ -50,7 +50,7 @@
   prior_names:
    - Gmax_880_Wm82.a6.v1.transcript_primaryTranscriptOnly.fa.gz
 - name: glyma.Wm82.gnm6.ann1.PKSW.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

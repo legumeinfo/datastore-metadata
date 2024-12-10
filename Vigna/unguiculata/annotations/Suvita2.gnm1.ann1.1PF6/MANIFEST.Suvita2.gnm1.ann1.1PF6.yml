@@ -18,7 +18,7 @@
 - name: vigun.Suvita2.gnm1.ann1.1PF6.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigun.Suvita2.gnm1.ann1.1PF6.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigun.Suvita2.gnm1.ann1.1PF6.protein_primary.faa.gz

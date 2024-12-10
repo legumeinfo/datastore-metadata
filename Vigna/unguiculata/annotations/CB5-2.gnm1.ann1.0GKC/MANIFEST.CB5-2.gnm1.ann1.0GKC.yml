@@ -18,7 +18,7 @@
 - name: vigun.CB5-2.gnm1.ann1.0GKC.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigun.CB5-2.gnm1.ann1.0GKC.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigun.CB5-2.gnm1.ann1.0GKC.protein_primary.faa.gz

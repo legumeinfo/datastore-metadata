@@ -22,7 +22,7 @@
 - name: vigan.Gyeongwon.gnm3.ann1.3Nz5.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigan.Gyeongwon.gnm3.ann1.3Nz5.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigan.Gyeongwon.gnm3.ann1.3Nz5.protein_primary.faa.gz

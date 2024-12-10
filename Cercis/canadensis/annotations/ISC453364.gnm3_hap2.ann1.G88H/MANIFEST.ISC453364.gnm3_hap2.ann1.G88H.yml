@@ -40,7 +40,7 @@
   prior_names:
    - CcanadensisHAP2_706_V3.1.transcript_primaryTranscriptOnly.fa.gz
 - name: cerca.ISC453364.gnm3_hap2.ann1.G88H.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

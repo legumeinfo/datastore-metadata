@@ -22,7 +22,7 @@
 - name: glydo.G1134.gnm1.ann1.4BJM.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: glydo.G1134.gnm1.ann1.4BJM.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glydo.G1134.gnm1.ann1.4BJM.protein.faa.gz

@@ -34,7 +34,7 @@
 - name: chafa.ISC494698.gnm1.ann1.G7XW.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: chafa.ISC494698.gnm1.ann1.G7XW.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: chafa.ISC494698.gnm1.ann1.G7XW.protein_primary.faa.gz
