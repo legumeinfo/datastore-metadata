@@ -5,7 +5,7 @@ jobs:
   yamllint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: yamllint
         uses: ibiqlik/action-yamllint@v3
         with:
@@ -23,16 +23,19 @@ jobs:
     env:
       AJV_OPTS: '-c ajv-formats --verbose --coerce-types=array --remove-additional=true --changes'
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           repository: legumeinfo/datastore-specifications
           path: datastore-specifications
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           path: datastore-metadata
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
       - name: Install AJV
         run: npm install -g ajv-cli@5.0.0 ajv-formats@2.1.1
       - name: Check READMEs
@@ -43,3 +46,18 @@ jobs:
       - name: Check species
         if: always()
         run: ajv ${AJV_OPTS} -s datastore-specifications/description_genus_species.schema.json -d 'datastore-metadata/!(LEGUMES)/**/description_*_*.yml'
+      - name: Install PyYAML
+        run: |
+          pip install --no-cache-dir PyYAML
+          rm -rf datastore-specifications
+        if: always()
+      - name: Check identifiers
+        # ensure <id>/README.<id>.yml contains "identifier: <id>"
+        if: always()
+        shell: python {0}
+        run: |
+          import sys, pathlib, yaml
+          if (errpath := [path for path in pathlib.Path(".").rglob("README.*.yml")
+                          if (identifier := path.name.removeprefix("README.").removesuffix(".yml")) != path.parent.name
+                          or identifier != yaml.safe_load(open(path)).get("identifier")]):
+              sys.exit(errpath)
