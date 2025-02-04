@@ -3,9 +3,9 @@
 03ac88f1646f3255509bdd8d43123028  ./README.Lee.gnm2.ann1.1FNT.yml
 682757ede960ac72154951ffa3a030ba  ./glyma.Lee.gnm2.ann1.1FNT.iprscan.gff3.gz.tbi
 537bda8fea985230b36f8718066fd6f7  ./glyma.Lee.gnm2.ann1.1FNT.mrna.fna.gz.gzi
-ee810a3682ce5927119ff340c8550dc6  ./MANIFEST.Lee.gnm2.ann1.1FNT.descriptions.yml
 0e2cce4144d6eba600ea733cfac2f361  ./glyma.Lee.gnm2.ann1.1FNT.protein_primary.faa.gz.gzi
 e8dc9ed572d43aa614f09d1de4e56843  ./glyma.Lee.gnm2.ann1.1FNT.cds.fna.gz.fai
+c0ddd7307562305965493e11c0b980c4  ./MANIFEST.Lee.gnm2.ann1.1FNT.yml
 f144cb8ab87fb98c8dd748a27a4d8695  ./glyma.Lee.gnm2.ann1.1FNT.cds.fna.gz
 c369ee7862f3dad31cf062a04fd1aba3  ./glyma.Lee.gnm2.ann1.1FNT.gene_models_main.bed.gz
 b173d004f99fb0fa4b012becac3feaf1  ./glyma.Lee.gnm2.ann1.1FNT.mrna_primary.fna.gz.gzi
@@ -26,7 +26,6 @@ acbb4c23c12759cf3bd4b476cf8e69e4  ./glyma.Lee.gnm2.ann1.1FNT.cds.fna.gz.gzi
 37cca44c7f81188c7487893d680d6c5a  ./glyma.Lee.gnm2.ann1.1FNT.gene_models_main.gff3.gz
 f69d2a2d260e55850ff48c8023a1bcd9  ./glyma.Lee.gnm2.ann1.1FNT.mrna.fna.gz
 30dfff1a65e1c2f2e6127d554b364a98  ./glyma.Lee.gnm2.ann1.1FNT.mrna.fna.gz.fai
-f60e1862f3e593abf8a7b41b6d6cc0b4  ./MANIFEST.Lee.gnm2.ann1.1FNT.corresponding.yml
 7d103f81c164e8e1c398217cd6a5491c  ./glyma.Lee.gnm2.ann1.1FNT.protein.faa.gz.fai
 a87bc09abc43b9782a671c53bcc0eadf  ./glyma.Lee.gnm2.ann1.1FNT.cds_primary.fna.gz.gzi
 592716c1686e768905a2bf09a8a7731d  ./glyma.Lee.gnm2.ann1.1FNT.protein_primary.faa.gz

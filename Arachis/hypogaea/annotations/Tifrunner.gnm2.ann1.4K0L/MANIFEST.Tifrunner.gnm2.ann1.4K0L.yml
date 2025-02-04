@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_main.gff3 mapped into gnm2
 - name: arahy.Tifrunner.gnm2.ann1.4K0L.info_descriptors.txt.gz
@@ -29,7 +30,7 @@
   prior_names:
    - arahy.Tifrunner.gnm1.ann1.CCJH.transcript_primaryTranscript.fna
 - name: arahy.Tifrunner.gnm2.ann1.4K0L.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

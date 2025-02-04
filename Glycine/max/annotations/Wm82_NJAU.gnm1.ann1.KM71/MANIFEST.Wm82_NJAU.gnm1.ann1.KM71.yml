@@ -37,7 +37,7 @@
   prior_names:
    - GWHCAYC00000000.modID.transcripts_primary.fna.gz
 - name: glyma.Wm82_NJAU.gnm1.ann1.KM71.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

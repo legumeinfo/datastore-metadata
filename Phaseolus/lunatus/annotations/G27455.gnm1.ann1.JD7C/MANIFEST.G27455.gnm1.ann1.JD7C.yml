@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Plunatus_563_V1.gene.gff3.gz (subset)
 - name: phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3.gz
@@ -37,7 +38,7 @@
   prior_names:
    - Plunatus_563_V1.transcript_primaryTranscriptOnly.fa.gz (subset)
 - name: phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

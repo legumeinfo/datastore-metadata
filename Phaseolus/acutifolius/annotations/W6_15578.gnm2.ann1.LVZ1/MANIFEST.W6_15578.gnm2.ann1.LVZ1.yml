@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Pacutifolius_580_v1.0.gene.gff3.gz
 - name: phaac.W6_15578.gnm2.ann1.LVZ1.legfed_v1_0.M65K.gfa.tsv.gz
@@ -23,7 +24,7 @@
   prior_names:
    - Pacutifolius_580_v1.0.transcript_primaryTranscriptOnly.fa.gz
 - name: phaac.W6_15578.gnm2.ann1.LVZ1.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: phaac.W6_15578.gnm2.ann1.LVZ1.phytozome_defline.txt.gz

@@ -12,10 +12,11 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: cicec.S2Drd065.gnm1.ann1.YZ9H.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: cicec.S2Drd065.gnm1.ann1.YZ9H.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: cicec.S2Drd065.gnm1.ann1.YZ9H.protein.faa.gz

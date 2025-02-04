@@ -28,6 +28,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - CcanadensisHAP2_706_V3.1.gene_strip.gff3.gz
 - name: cerca.ISC453364.gnm3_hap2.ann1.G88H.iprscan.gff3.gz
@@ -39,7 +40,7 @@
   prior_names:
    - CcanadensisHAP2_706_V3.1.transcript_primaryTranscriptOnly.fa.gz
 - name: cerca.ISC453364.gnm3_hap2.ann1.G88H.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

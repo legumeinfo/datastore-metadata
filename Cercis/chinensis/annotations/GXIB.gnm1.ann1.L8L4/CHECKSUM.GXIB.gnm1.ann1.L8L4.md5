@@ -12,12 +12,11 @@ d4bbefc8d565911d2f94accc17e370d6  ./BUSCO/cerch.GXIB.gnm1.ann1.L8L4.busco.fabale
 3087a692aa13b3b77c0341b8bf467370  ./cerch.GXIB.gnm1.ann1.L8L4.gene_models_main.gff3.gz
 6ff864e90bec4614df6018f58099b911  ./cerch.GXIB.gnm1.ann1.L8L4.mrna.fna.gz.fai
 400cb7ff637035580c5d79330e67ad8c  ./initial_seqid_map.tsv.gz
-2c2a0d93d3008fc86e9c269f8b3429af  ./MANIFEST.GXIB.gnm1.ann1.L8L4.descriptions.yml
 e531870b5a703d5fdfc525cdfab5ba20  ./cerch.GXIB.gnm1.ann1.L8L4.mrna.fna.gz.gzi
-1a4d8a28e82af01aa60736bedf38f124  ./MANIFEST.GXIB.gnm1.ann1.L8L4.correspondence.yml
 2fb0cf88b85630ffaa950b6fbcd93c07  ./cerch.GXIB.gnm1.ann1.L8L4.legfed_v1_0.M65K.gfa.tsv.gz
 c92a531cf55e8433ef04cdcc4bc638dd  ./cerch.GXIB.gnm1.ann1.L8L4.iprscan.gff3.gz.tbi
 5071ef19dc3fd20a7111a2245286b792  ./cerch.GXIB.gnm1.ann1.L8L4.protein.faa.gz.fai
+cf22efc47045c1cf70c1d3bc8e592ef5  ./MANIFEST.GXIB.gnm1.ann1.L8L4.yml
 41b53ce70f33697e1b3804d7037f02a5  ./cerch.GXIB.gnm1.ann1.L8L4.cds.fna.gz.gzi
 bc41e89b4498fa8dd02786010fdbcef3  ./cerch.GXIB.gnm1.ann1.L8L4.protein.faa.gz
 f14447ecf6ddafb17ed6907ab3811d6b  ./cerch.GXIB.gnm1.ann1.L8L4.gene_models_main.bed.gz

@@ -1,5 +1,5 @@
 404d0eb61d0a2e7792028dd893cc7d33  ./glyma.Wm82.gnm5.ann1.J7HW.protein.faa.gz.gzi
-e66cf7307ff21d96de8008ba9414ddb3  ./MANIFEST.Wm82.gnm5.ann1.J7HW.descriptions.yml
+eb72ab03a13d08503142d045d44831f1  ./MANIFEST.Wm82.gnm5.ann1.J7HW.yml
 d80871c4437e8855029ea7473d9b0acc  ./BUSCO/glyma.Wm82.gnm5.ann1.J7HW.busco.fabales_odb10.short_summary.txt
 116db21cb4cdb4432ab00970be49d891  ./BUSCO/glyma.Wm82.gnm5.ann1.J7HW.busco.fabales_odb10.short_summary.json
 36e434ebdbe0257e82d46470d17a8967  ./BUSCO/glyma.Wm82.gnm5.ann1.J7HW.busco.fabales_odb10.full_table.tsv.gz
@@ -21,4 +21,3 @@ c87fc883643f7c3740db8645e0727574  ./glyma.Wm82.gnm5.ann1.J7HW.protein.faa.gz
 7f1b479ec2cbb79d8837f7dda85818b2  ./glyma.Wm82.gnm5.ann1.J7HW.protein.faa.gz.fai
 067701d480901e199a07378714adc416  ./glyma.Wm82.gnm5.ann1.J7HW.gene_models_main.gff3.gz
 a32a557368116c0acbac6aa8c77fe752  ./glyma.Wm82.gnm5.ann1.J7HW.gene_models_main.gff3.gz.tbi
-40a6065db3d7debe6eef91ea90ad2ce2  ./MANIFEST.Wm82.gnm5.ann1.J7HW.correspondence.yml

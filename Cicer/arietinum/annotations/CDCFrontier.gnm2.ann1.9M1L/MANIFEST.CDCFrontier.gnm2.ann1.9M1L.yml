@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Car.genes.gff
 - name: cicar.CDCFrontier.gnm2.ann1.9M1L.iprscan.gff3.gz
@@ -25,7 +26,7 @@
 - name: cicar.CDCFrontier.gnm2.ann1.9M1L.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: cicar.CDCFrontier.gnm2.ann1.9M1L.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: cicar.CDCFrontier.gnm2.ann1.9M1L.protein_primary.faa.gz

@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: arahy.Tifrunner.gnm1.ann1.CCJH.info_descriptors.txt.gz
   description: MISSING
 - name: arahy.Tifrunner.gnm1.ann1.CCJH.legfed_v1_0.M65K.gfa.tsv.gz
@@ -19,7 +20,7 @@
 - name: arahy.Tifrunner.gnm1.ann1.CCJH.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: arahy.Tifrunner.gnm1.ann1.CCJH.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: arahy.Tifrunner.gnm1.ann1.CCJH.protein_primary.faa.gz

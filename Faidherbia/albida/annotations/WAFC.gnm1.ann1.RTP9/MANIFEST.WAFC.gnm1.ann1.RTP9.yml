@@ -13,7 +13,7 @@
   prior_names:
    - Faidherbia_albida.gff
 - name: faial.WAFC.gnm1.ann1.RTP9.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: faial.WAFC.gnm1.ann1.RTP9.protein.faa.gz

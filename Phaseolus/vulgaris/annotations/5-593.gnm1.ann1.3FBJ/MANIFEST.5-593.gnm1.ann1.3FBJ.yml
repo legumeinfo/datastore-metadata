@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Pvulgaris5_593_696_v1.1.gene.gff3.gz
 - name: phavu.5-593.gnm1.ann1.3FBJ.iprscan.gff3.gz
@@ -27,7 +28,7 @@
   prior_names:
    - Pvulgaris5_593_696_v1.1.transcript_primaryTranscriptOnly.fa.gz
 - name: phavu.5-593.gnm1.ann1.3FBJ.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

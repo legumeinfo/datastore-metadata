@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Pisum_sativum_v1a_genes.gff3
 - name: pissa.Cameor.gnm1.ann1.7SZR.legfed_v1_0.M65K.gfa.tsv.gz
@@ -21,7 +22,7 @@
 - name: pissa.Cameor.gnm1.ann1.7SZR.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: pissa.Cameor.gnm1.ann1.7SZR.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

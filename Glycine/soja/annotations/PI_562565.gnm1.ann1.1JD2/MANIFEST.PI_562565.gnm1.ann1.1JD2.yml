@@ -22,6 +22,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - GWHACDY00000000.modID.gff3.gz
 - name: glyso.PI_562565.gnm1.ann1.1JD2.iprscan.gff3.gz
@@ -33,7 +34,7 @@
   prior_names:
    - Calculated from protein_primary.faa file and HMMs for the legfed_v1_0.M65K gene families
 - name: glyso.PI_562565.gnm1.ann1.1JD2.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glyso.PI_562565.gnm1.ann1.1JD2.protein_primary.faa.gz

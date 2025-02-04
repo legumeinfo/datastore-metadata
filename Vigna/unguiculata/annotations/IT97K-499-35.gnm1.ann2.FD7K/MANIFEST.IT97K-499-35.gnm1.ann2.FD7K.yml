@@ -12,12 +12,13 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: vigun.IT97K-499-35.gnm1.ann2.FD7K.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: vigun.IT97K-499-35.gnm1.ann2.FD7K.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: vigun.IT97K-499-35.gnm1.ann2.FD7K.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigun.IT97K-499-35.gnm1.ann2.FD7K.protein_primary.faa.gz

@@ -12,6 +12,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Gsy.cds and Gsy_G1300_chr.fsa via gmap
 - name: glysy.G1300.gnm1.ann1.RRK6.gene_models_orig.gff.gz
@@ -21,7 +22,7 @@
 - name: glysy.G1300.gnm1.ann1.RRK6.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: glysy.G1300.gnm1.ann1.RRK6.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glysy.G1300.gnm1.ann1.RRK6.protein.faa.gz

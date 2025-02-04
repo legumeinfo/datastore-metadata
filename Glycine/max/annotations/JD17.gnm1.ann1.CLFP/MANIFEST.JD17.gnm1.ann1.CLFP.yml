@@ -18,7 +18,7 @@
   description: Gene models - main
   applications:
    - mines
-   - jbrowse
+   - jbrowse-index
   prior_names:
    - jd17_final.rename.gff3.gz
 - name: glyma.JD17.gnm1.ann1.CLFP.iprscan.gff3.gz
@@ -30,7 +30,7 @@
   prior_names:
    - jd17_transcripts_primary.fna.gz
 - name: glyma.JD17.gnm1.ann1.CLFP.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

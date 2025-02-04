@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Cca.genes.gff
 - name: cajca.ICPL87119.gnm2.ann1.L3ZH.iprscan.gff3.gz
@@ -25,7 +26,7 @@
 - name: cajca.ICPL87119.gnm2.ann1.L3ZH.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: cajca.ICPL87119.gnm2.ann1.L3ZH.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: cajca.ICPL87119.gnm2.ann1.L3ZH.protein_primary.faa.gz

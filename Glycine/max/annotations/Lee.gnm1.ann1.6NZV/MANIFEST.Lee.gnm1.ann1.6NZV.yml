@@ -18,7 +18,7 @@
   description: Gene models - main
   applications:
    - mines
-   - jbrowse
+   - jbrowse-index
   prior_names:
    - GmaxLee_510_v1.1.gene.gff3
 - name: glyma.Lee.gnm1.ann1.6NZV.info_annot.txt.gz
@@ -30,7 +30,7 @@
   prior_names:
    - GmaxLee_510_v1.1.transcript_primaryTranscriptOnly.fa
 - name: glyma.Lee.gnm1.ann1.6NZV.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

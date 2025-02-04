@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - arahy.Tifrunner.gnm2.ann2.gene_models_bare.gff3.gz
 - name: arahy.Tifrunner.gnm2.ann2.PVFB.iprscan.gff3.gz
@@ -31,7 +32,7 @@
   prior_names:
    - arahy.Tifrunner.gnm2.ann2.mrna_lowqual.fna.gz
 - name: arahy.Tifrunner.gnm2.ann2.PVFB.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

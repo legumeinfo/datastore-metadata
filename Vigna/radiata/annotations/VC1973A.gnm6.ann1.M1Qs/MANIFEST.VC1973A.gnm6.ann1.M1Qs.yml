@@ -10,6 +10,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Vradi.ver6.cor.gff
 - name: vigra.VC1973A.gnm6.ann1.M1Qs.gene_models_mrna.gff3.gz
@@ -19,7 +20,7 @@
 - name: vigra.VC1973A.gnm6.ann1.M1Qs.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: vigra.VC1973A.gnm6.ann1.M1Qs.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: vigra.VC1973A.gnm6.ann1.M1Qs.protein.faa.gz

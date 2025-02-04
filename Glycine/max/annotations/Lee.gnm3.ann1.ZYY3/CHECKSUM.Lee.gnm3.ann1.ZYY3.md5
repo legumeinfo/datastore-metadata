@@ -1,7 +1,5 @@
 5b98c087114fcf186e5ed09022ac19b2  ./README.Lee.gnm3.ann1.ZYY3.yml
 94ab994663c5c6a01ee738d4c774757a  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.bed.gz
-dc0996846a41cd92a0fff070a2e34435  ./MANIFEST.Lee.gnm3.ann1.ZYY3.descriptions.yml
-472de9144ba6f3812ec44029baee8999  ./MANIFEST.Lee.gnm3.ann1.ZYY3.correspondence.yml
 d64b9aebb294a47c8418b5d51f10bc30  ./glyma.Lee.gnm3.ann1.ZYY3.cds.fna.gz.fai
 caed2a7fe9ae8232481ee280a021df92  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.gff3.gz
 815eb17e85ba654baca9a7aef0b69a35  ./BUSCO/glyma.Lee.gnm3.ann1.ZYY3.busco.fabales_odb10.full_table.tsv.gz
@@ -22,3 +20,4 @@ dcebf90f4fcfc956f15f998de6bf40a3  ./glyma.Lee.gnm3.ann1.ZYY3.iprscan.gff3.gz
 cd0cd44aa0256cdf6e2d4e51e153eb96  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.bed.gz.tbi
 311af8e6854ca75079d4a8ec580d9e36  ./glyma.Lee.gnm3.ann1.ZYY3.iprscan.gff3.gz.tbi
 14e4a2897df646036cf5c4a8c88bafd2  ./CHANGES.Lee.gnm3.ann1.ZYY3.txt
+ebd0d12e9d6b993d3260d6be5f9170f1  ./MANIFEST.Lee.gnm3.ann1.ZYY3.yml

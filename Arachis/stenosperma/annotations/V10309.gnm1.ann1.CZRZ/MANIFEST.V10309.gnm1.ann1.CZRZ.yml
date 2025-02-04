@@ -20,6 +20,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - GCF_014773155.1.modID.genes_exons.gff3.gz
 - name: arast.V10309.gnm1.ann1.CZRZ.iprscan.gff3.gz
@@ -31,7 +32,7 @@
   prior_names:
    - GCF_014773155.1.modID.transcripts_primary.fna.gz
 - name: arast.V10309.gnm1.ann1.CZRZ.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

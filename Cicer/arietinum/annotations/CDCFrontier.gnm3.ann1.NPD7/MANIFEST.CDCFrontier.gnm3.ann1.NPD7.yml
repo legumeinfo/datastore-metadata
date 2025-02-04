@@ -12,10 +12,11 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: cicar.CDCFrontier.gnm3.ann1.NPD7.legfed_v1_0.M65K.gfa.tsv.gz
   description: gene family assignments
 - name: cicar.CDCFrontier.gnm3.ann1.NPD7.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: cicar.CDCFrontier.gnm3.ann1.NPD7.protein.faa.gz

@@ -16,6 +16,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Pacutifolius_580_v1.0.gene.gff3.gz
 - name: phaac.Frijol_Bayo.gnm1.ann1.ML22.iprscan.gff3.gz
@@ -31,7 +32,7 @@
   prior_names:
    - Pacutifolius_580_v1.0.transcript_primaryTranscriptOnly.fa.gz
 - name: phaac.Frijol_Bayo.gnm1.ann1.ML22.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

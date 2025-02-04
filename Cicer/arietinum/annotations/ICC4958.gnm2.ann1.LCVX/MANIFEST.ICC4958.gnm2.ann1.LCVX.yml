@@ -18,6 +18,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - cicar.ICC4958.a2.v1.gff3.gz
 - name: cicar.ICC4958.gnm2.ann1.LCVX.legfed_v1_0.M65K.gfa.tsv.gz
@@ -25,7 +26,7 @@
 - name: cicar.ICC4958.gnm2.ann1.LCVX.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: cicar.ICC4958.gnm2.ann1.LCVX.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: cicar.ICC4958.gnm2.ann1.LCVX.protein_primary.faa.gz

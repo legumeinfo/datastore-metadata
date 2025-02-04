@@ -33,7 +33,7 @@
   prior_names:
    - Calculated from protein_primary.faa file and HMMs for the legfed_v1_0.M65K gene families
 - name: glyma.TieFengNo_18.gnm1.ann1.7GR4.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: glyma.TieFengNo_18.gnm1.ann1.7GR4.protein_primary.faa.gz

@@ -14,6 +14,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
 - name: tripr.MilvusB.gnm2.ann1.DFgp.info_annot_AHRD.txt.gz
   description: annotation from the AHRD pipeline
 - name: tripr.MilvusB.gnm2.ann1.DFgp.legfed_v1_0.M65K.gfa.tsv.gz
@@ -21,7 +22,7 @@
 - name: tripr.MilvusB.gnm2.ann1.DFgp.mrna_primary.fna.gz
   description: Transcript sequences - primary only
 - name: tripr.MilvusB.gnm2.ann1.DFgp.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
 - name: tripr.MilvusB.gnm2.ann1.DFgp.protein_primary.faa.gz

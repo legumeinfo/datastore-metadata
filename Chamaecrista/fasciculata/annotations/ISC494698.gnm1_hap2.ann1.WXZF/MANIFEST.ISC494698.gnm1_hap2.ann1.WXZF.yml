@@ -34,6 +34,7 @@
   description: Gene models - main
   applications:
    - mines
+   - jbrowse-index
   prior_names:
    - Cfasciculatavar_ISC494698HAP2_855_v1.1.gene_strip.gff3.gz
 - name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.iprscan.gff3.gz
@@ -45,7 +46,7 @@
   prior_names:
    - Cfasciculatavar_ISC494698HAP2_855_v1.1.transcript_primaryTranscriptOnly.fa.gz
 - name: chafa.ISC494698.gnm1_hap2.ann1.WXZF.mrna.fna.gz
-  description: mrna.fna.gz
+  description: Transcript sequences
   applications:
    - mines
   prior_names:

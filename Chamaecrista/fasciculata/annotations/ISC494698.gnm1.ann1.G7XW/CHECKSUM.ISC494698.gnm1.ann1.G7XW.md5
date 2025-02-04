@@ -9,6 +9,7 @@ d206b28664ffff98ecb0baa3563e0d2b  ./chafa.ISC494698.gnm1.ann1.G7XW.cds_primary.f
 0224c9e894553ba0b74b919d0b9fb02c  ./chafa.ISC494698.gnm1.ann1.G7XW.mrna_primary.fna.gz
 b8764470c0f84fdd7763fbcc0ada227f  ./chafa.ISC494698.gnm1.ann1.G7XW.gene_models_main.gff3.gz
 ba689423e85c438a0827bb6511ef61e8  ./chafa.ISC494698.gnm1.ann1.G7XW.iprscan.gff3.gz
+d2189b3b934c8f6b59b830da47be611e  ./MANIFEST.ISC494698.gnm1.ann1.G7XW.yml
 a61b1e4a977f074efa30948e9949613f  ./chafa.ISC494698.gnm1.ann1.G7XW.DataReleasePolicy.html
 a507060b7b15066d905d07d1d3b8f903  ./chafa.ISC494698.gnm1.ann1.G7XW.cds.fna.gz.gzi
 f2b3e3eebed99238efa1c3501ba0e3be  ./chafa.ISC494698.gnm1.ann1.G7XW.mrna.fna.gz
@@ -23,7 +24,6 @@ bb9913031e6f3209920b64f67c874d4f  ./chafa.ISC494698.gnm1.ann1.G7XW.gene_models_m
 f7ae1568ae71a1d072faf458ea72da52  ./chafa.ISC494698.gnm1.ann1.G7XW.mrna.fna.gz.gzi
 3e8447d6f0157b23a672ca9c3bbfecd1  ./chafa.ISC494698.gnm1.ann1.G7XW.iprscan.gff3.gz.tbi
 2af0f511bb82e8fb447d822e0d132557  ./chafa.ISC494698.gnm1.ann1.G7XW.protein.faa.gz.fai
-6531da4d0f87cd0d4230b5393539d566  ./MANIFEST.ISC494698.gnm1.ann1.G7XW.descriptions.yml
 da50db7412ca748aee59a725a37cb06a  ./chafa.ISC494698.gnm1.ann1.G7XW.gene_models_exons.gff3.gz
 cdfcb63ba790a2f46b00414af6613090  ./chafa.ISC494698.gnm1.ann1.G7XW.cds.fna.gz.fai
 1ea4faee85c222164135f27c5f7f3f40  ./BUSCO/chafa.ISC494698.gnm1.ann1.G7XW.busco.fabales_odb10.short_summary.txt
@@ -33,6 +33,5 @@ a5d2b0ef6c343956d70585dbc5c33d62  ./BUSCO/chafa.ISC494698.gnm1.ann1.G7XW.busco.f
 1832b040d7d708541e690bd002a06a39  ./chafa.ISC494698.gnm1.ann1.G7XW.cds_primary.fna.gz.gzi
 d8cb3864ca50c65aaa310661a2b3f662  ./chafa.ISC494698.gnm1.ann1.G7XW.protein_primary.faa.gz
 5513083ee26c3cdb548180f308b718cd  ./CHANGES.ISC494698.gnm1.ann1.G7XW.txt
-0690a911693b4bf994b979166891f60f  ./MANIFEST.ISC494698.gnm1.ann1.G7XW.correspondence.yml
 3e844bad33eab1ffc90a7e4e762c9b29  ./chafa.ISC494698.gnm1.ann1.G7XW.cds_primary.fna.gz
 cac250b6923bbfc3cc596755844af9e2  ./chafa.ISC494698.gnm1.ann1.G7XW.mrna_primary.fna.gz.fai
