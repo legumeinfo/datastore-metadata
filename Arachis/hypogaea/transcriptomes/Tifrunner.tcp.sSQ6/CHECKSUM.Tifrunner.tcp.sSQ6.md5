@@ -1,8 +1,10 @@
-0fc7e296e9fc2a896a4ea6d92150d03b  ./MANIFEST.Tifrunner.tcp.sSQ6.correspondence.yml
-c62b1b878602c319af3708c240b39d4b  ./arahy.Tifrunner.tcp.sSQ6.mapped_to_B_genemodels.txt.gz
-dfcd0f38fc51a2aaec58bd749e93cd68  ./README.Tifrunner.tcp.sSQ6.yml
 57fc458addd7687e7fe6dc804b247bf8  ./Aradu_Araip_PBgeneID_to_BARgeneID.tsv.gz
-a2ca4f6f787234d30f04195c30199692  ./MANIFEST.Tifrunner.tcp.sSQ6.descriptions.yml
 3e9949f0c82a8af0f540727d5780da97  ./CHANGES.Tifrunner.tcp.sSQ6.txt
-0e313ed3a2ad029075e7e182782740af  ./arahy.Tifrunner.tcp.sSQ6.transcript.fna.gz
+0fc7e296e9fc2a896a4ea6d92150d03b  ./MANIFEST.Tifrunner.tcp.sSQ6.correspondence.yml
+a2ca4f6f787234d30f04195c30199692  ./MANIFEST.Tifrunner.tcp.sSQ6.descriptions.yml
+1f6bbe031a2725bbe4250cf2dc99503a  ./README.Tifrunner.tcp.sSQ6.yml
 365d51f76aeb26909ff546a13bfbd3aa  ./arahy.Tifrunner.tcp.sSQ6.mapped_to_A_genemodels.txt.gz
+c62b1b878602c319af3708c240b39d4b  ./arahy.Tifrunner.tcp.sSQ6.mapped_to_B_genemodels.txt.gz
+e621a114a96e78da01b152efe9591eac  ./arahy.Tifrunner.tcp.sSQ6.transcript.fna.gz
+93b0d007a855a58b0c4aa77347278879  ./arahy.Tifrunner.tcp.sSQ6.transcript.fna.gz.fai
+a541f78ab013a47e9998c2baedbacf30  ./arahy.Tifrunner.tcp.sSQ6.transcript.fna.gz.gzi
