@@ -12,9 +12,9 @@ genotype:
 
 synopsis: GWAS of soybean cyst nematode (SCN)  resistance for wild soybean bean, relative to the soybean genome Wm82.gnm2
 
-genotyping_platform: SoySNP50K
+genotyping_platform: SoySNP50k
 
-genotyping_method: Illumina SoySNP50K iSelect BeadChip
+genotyping_method: Illumina SoySNP50k iSelect BeadChip
 
 description: "Genome-Wide Association Study of Resistance to Soybean Cyst Nematode (Heterodera glycines) HG Type 2.5.7 in Wild Soybean (Glycine soja)"
 

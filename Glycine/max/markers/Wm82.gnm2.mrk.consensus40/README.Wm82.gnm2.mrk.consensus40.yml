@@ -1,0 +1,35 @@
+---
+identifier: Wm82.gnm2.mrk.consensus40
+
+genotyping_platform: GmConsensus40
+
+synopsis: "Genetic markers on consensus map 4.0"
+
+related_to: Wm82.gnm2.DTC4
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+description: "With the release of the third version of the consensus genetic linkage map that added 1141 SNP markers to the map, the objectives of this study were to add 2500 additional SNP markers to the soybean integrated map and select a set of 1536 SNPs to create a universal linkage panel for high-throughput soybean quantitative trait locus (QTL) mapping." 
+
+publication_doi: 10.2135/cropsci2009.06.0360
+
+publication_title: "A High Density Integrated Genetic Linkage Map of Soybean and the Development of a 1536 Universal Soy Linkage Panel for Quantitative Trait Locus Mapping"
+
+contributors: "David L. Hyten, Ik-Young Choi, Qijian Song, James E. Specht, Thomas E. Carter, Randy C. Shoemaker, Eun-Young Hwang, Lakshmi K. Matukumalli and Perry B. Cregan"
+
+citation: "Hyten DL, Choi I-Y, Song Q, Specht JE, Carter TE et al. (2010) A high density integrated genetic linkage map of soybean and the development of a 1,536 Universal Soy Linkage Panel for QTL mapping. Crop Science 50:960-968."
+
+data_curators: Wei Huang
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, genetic markers, SNPs, QTL mapping
