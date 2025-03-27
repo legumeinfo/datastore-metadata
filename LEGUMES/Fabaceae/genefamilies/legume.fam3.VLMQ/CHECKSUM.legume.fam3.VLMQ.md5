@@ -1,10 +1,12 @@
-866a839c5b36f483558e52425d5c2026  ./CHANGES.legume.fam3.VLMQ.txt
+f3cad39d15c54eb390d7a55c98f322cc  ./CHANGES.legume.fam3.VLMQ.txt
 7405ccdea154c1b8300dfd526cd6fe91  ./legume.fam3.VLMQ.sup1A_clust.tsv.gz
 3f4982d42a4e3a5889bd7a4aaadfa245  ./legume.fam3.VLMQ.baseB_proteomes.tar.gz
 2a4b2bfb68ab84d86f141e1f7a8bfeaf  ./legume.fam3.VLMQ.sup1A_hsh.tsv.gz
 ff77025e46d0ef4dcb20639174934b21  ./legume.fam3.VLMQ.sup1A_stats.txt
-e078d421895516519edf67e448b42d84  ./MANIFEST.fam3.VLMQ.descriptions.yml
-d43c0507a6821719d95d362dcbba7e6f  ./MANIFEST.fam3.VLMQ.correspondence.yml
+420f74202512e2235ee39b5691be71ac  ./README.legume.fam3.VLMQ.yml
+98c65fbbd0e05f3fdef968af52f084bc  ./MANIFEST.fam3.VLMQ.descriptions.yml
+0e937dc1d1043bfa394a2b76a6d7eee0  ./legume.fam3.VLMQ.baseA_hmmemit_consen.faa.gz
+317bb23c1dcbfdc320f51f59bb4e8a24  ./MANIFEST.fam3.VLMQ.correspondence.yml
 8f3518fbf6eaff2cb80e789390d70bd6  ./legume.fam3.VLMQ.sup1A_counts.tsv.gz
 4aed2f7c450fd24d248d2769de41a3cd  ./legume.fam3.VLMQ.sup1B_trees.tar.gz
 2431d4160a648de3418cf0fab5af2c08  ./legume.fam3.VLMQ.baseB_hmmalign_trim.tar.gz
@@ -13,7 +15,6 @@ ad25e61888f42d840d43e5b2552960cc  ./legume.fam3.VLMQ.baseA_table.tsv.gz
 dba9b10072001ffece7cc49a6f98c399  ./legume.fam3.VLMQ.baseA_clust.tsv.gz
 7989c2776a71da91abe9ed0c630093e9  ./legume.fam3.VLMQ.baseA_stats.txt
 66814e33ce4166d3009531f8b3c62ab2  ./legume.fam3.VLMQ.sup1B_hmmalign_trim.tar.gz
-420f74202512e2235ee39b5691be71ac  ./README.fam3.VLMQ.yml
 c64a655aaeb4490488e81f2e7b692858  ./legume.fam3.VLMQ.baseB_hmm.tar.gz
 81c751122943637f2499cb3e0663ef55  ./legume.fam3.VLMQ.baseB_aligns_prot.tar.gz
 ba6ce3f38524f3ddb802390678dab697  ./legume.fam3.VLMQ.baseB_trees.tar.gz
