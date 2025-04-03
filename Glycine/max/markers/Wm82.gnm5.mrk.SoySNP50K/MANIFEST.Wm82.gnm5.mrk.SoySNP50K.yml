@@ -1,6 +1,6 @@
 ---
 - name: glyma.Wm82.gnm5.mrk.SoySNP50K.gff3.gz
-  description: genetic markers on consensus map 4.0
+  description: SoySNP50K
   applications:
    - jbrowse
    - mines
