@@ -25,12 +25,12 @@ dataset_release_date: "2024-11-07"
 
 publication_title: Landscape of rare allelic variants in cultivated and wild soybean genomes
 
-contributors: Liu Z, Shi XL, Yang Q, Li Y, Yang CY, Zhang MC, An YQ, Yan L. Song QJ
+contributors: Liu Z, Shi XL, Yang Q, Li Y, Yang CY, Zhang MC, An YQ, Nguyen HT, Yan L. Song QJ
 
 data_curators: Steven Cannon
 
-public_access_level: private
+public_access_level: public
 
 license: Open
 
-citation: "Liu Z, Shi XL, Yang Q, Li Y, Yang CY, Zhang MC, An YQ, Yan L. Song QJ. 2025. Landscape of rare allelic variants in cultivated and wild soybean genomes (in review)"
+citation: "Liu, Z., Shi, X., Yang, Q., Li, Y., Yang, C., Zhang, M., An, Y.-Q. C., Nguyen, H. T., Yan, L., & Song, Q. (2025). Landscape of rare-allele variants in cultivated and wild soybean genomes. The Plant Genome, 18, e70020. https://doi.org/10.1002/tpg2.70020"
