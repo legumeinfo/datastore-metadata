@@ -1,8 +1,8 @@
 41c1ad8b03d5b15acbb748763da6aee9  ./BUSCO/lupan.Tanjil.gnm1.ann1.nnV9.busco.fabales_odb10.full_table.tsv.gz
 459be85886ca80890d0544145701d09d  ./BUSCO/lupan.Tanjil.gnm1.ann1.nnV9.busco.fabales_odb10.short_summary.json
 02c38a4c9059e59cc9fed778e2df8d40  ./BUSCO/lupan.Tanjil.gnm1.ann1.nnV9.busco.fabales_odb10.short_summary.txt
-189b99658e26a14df5cd6b4f234e7540  ./CHANGES.Tanjil.gnm1.ann1.nnV9.txt
-da11a50f0ad340f2048bebc3c171e705  ./MANIFEST.Tanjil.gnm1.ann1.nnV9.yml
+adb55813684825d37dd675064fe2f3c6  ./CHANGES.Tanjil.gnm1.ann1.nnV9.txt
+a7c64e46ed9663ff1141e74178862ef8  ./MANIFEST.Tanjil.gnm1.ann1.nnV9.yml
 d0aa61cc3a4299138d7bed81de0a3be4  ./README.Tanjil.gnm1.ann1.nnV9.yml
 e7afe368995cd564cfdf4be1e4fc7924  ./lupan.Tanjil.gnm1.ann1.nnV9.cds.fna.gz
 eb031b1b6ffa361dcdba64df8217fa18  ./lupan.Tanjil.gnm1.ann1.nnV9.cds.fna.gz.fai
@@ -20,6 +20,7 @@ e5ba041d8e037d0c67e2957d3fa2ed6e  ./lupan.Tanjil.gnm1.ann1.nnV9.gene_models_pchr
 0f2fa94141230c89b08156048e6d4476  ./lupan.Tanjil.gnm1.ann1.nnV9.gene_models_tRNA.gff3.gz
 5d7af226991098a61aafac59ccdb2990  ./lupan.Tanjil.gnm1.ann1.nnV9.gene_models_tRNA.gff3.gz.tbi
 1d583273c0b7c5b7cbee8d8cc6a1b180  ./lupan.Tanjil.gnm1.ann1.nnV9.legfed_v1_0.M65K.gfa.tsv.gz
+3014c44fb0547ce24db9320e77803d23  ./lupan.Tanjil.gnm1.ann1.nnV9.legume.fam3.VLMQ.gfa.tsv.gz
 59c3dad481b7133c7126a8d49d70a6dd  ./lupan.Tanjil.gnm1.ann1.nnV9.mrna.fna.gz
 b2345a2c4470c14b36708f001d8c6490  ./lupan.Tanjil.gnm1.ann1.nnV9.mrna.fna.gz.fai
 bbc881277fac163b964b24d227a8632d  ./lupan.Tanjil.gnm1.ann1.nnV9.mrna.fna.gz.gzi

@@ -1,8 +1,8 @@
 e6e3708a6a2061dc306151d7802b189a  ./BUSCO/cajca.ICPL87119.gnm1.ann1.Y27M.busco.fabales_odb10.full_table.tsv.gz
 31d6b07c61c92c35ae82606f02c6100d  ./BUSCO/cajca.ICPL87119.gnm1.ann1.Y27M.busco.fabales_odb10.short_summary.json
 bb92abe47a908b77565d9cb851b90c18  ./BUSCO/cajca.ICPL87119.gnm1.ann1.Y27M.busco.fabales_odb10.short_summary.txt
-31cea272f2038656fb0330216e602968  ./CHANGES.ICPL87119.gnm1.ann1.Y27M.txt
-3dbb7e0e68d88d6642b7b7d037e62a2b  ./MANIFEST.ICPL87119.gnm1.ann1.Y27M.yml
+103f6700d45eba6245404b9983ecdd3c  ./CHANGES.ICPL87119.gnm1.ann1.Y27M.txt
+caf485eec830cc6464a9a8bad1847cca  ./MANIFEST.ICPL87119.gnm1.ann1.Y27M.yml
 e4d6c25fd8040732dd12cf1a795900c2  ./README.ICPL87119.gnm1.ann1.Y27M.yml
 b8ad63e7c848ab51762f1f7010237f2f  ./cajca.ICPL87119.gnm1.ann1.Y27M.TE.gff.gz
 dbf543000cd65913473f6276de044f14  ./cajca.ICPL87119.gnm1.ann1.Y27M.cds.fna.gz
@@ -19,6 +19,7 @@ afe1072dc71074cf3e6deeb9264e225e  ./cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_rR
 55bbe9efcd4988c4a0c859adbd88721a  ./cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_snRNA.gff.gz
 59ba5fd6a71d4abbb9dad0bbe1979288  ./cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_tRNA.gff.gz
 7a4226e8e6fc4c24e953d795b25cad70  ./cajca.ICPL87119.gnm1.ann1.Y27M.legfed_v1_0.M65K.gfa.tsv.gz
+c31c4a4709039b4b29dd48d39a06b428  ./cajca.ICPL87119.gnm1.ann1.Y27M.legume.fam3.VLMQ.gfa.tsv.gz
 9d3bba264987710d5cda7a3822d6fb42  ./cajca.ICPL87119.gnm1.ann1.Y27M.mrna.fna.gz
 5db4ddacbde5f6888f291641ca74426b  ./cajca.ICPL87119.gnm1.ann1.Y27M.mrna.fna.gz.fai
 f0f3e5fc5c7d7977d881aa9ea5bc981c  ./cajca.ICPL87119.gnm1.ann1.Y27M.mrna.fna.gz.gzi

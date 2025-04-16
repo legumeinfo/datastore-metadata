@@ -1,8 +1,8 @@
 883298e236ff320be78cad40610ff75b  ./BUSCO/vigun.IT97K-499-35.gnm1.ann1.zb5D.busco.fabales_odb10.full_table.tsv.gz
 64df02b110ac43ff0a44b55aef387ee6  ./BUSCO/vigun.IT97K-499-35.gnm1.ann1.zb5D.busco.fabales_odb10.short_summary.json
 7879c2431cda94f5f530adf13af2646d  ./BUSCO/vigun.IT97K-499-35.gnm1.ann1.zb5D.busco.fabales_odb10.short_summary.txt
-7754456de1833991052c2f5cc13e8b2f  ./CHANGES.IT97K-499-35.gnm1.ann1.zb5D.txt
-87af19eb6bf774b6e64853f3ce07cbe6  ./MANIFEST.IT97K-499-35.gnm1.ann1.zb5D.yml
+26ceb2362ddc9e66c4ff31f31fd316f7  ./CHANGES.IT97K-499-35.gnm1.ann1.zb5D.txt
+f6f2cc30fde73dd1da534fc1304606fd  ./MANIFEST.IT97K-499-35.gnm1.ann1.zb5D.yml
 141f257cc0c63237dcd01bd1258e0df0  ./README.IT97K-499-35.gnm1.ann1.zb5D.yml
 9ba75f0cde0231e31ecee2a4d2418c89  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.annotation_info.txt.gz
 aeb6958951d3d9d26e436aa30bd71b23  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.cds.fna.gz
@@ -17,6 +17,7 @@ cebd1bb325d717c686e497aa8bf5305b  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_model
 1ef2de725286f823cd4f1ebf25efe949  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.gff3.gz
 c205b41c9f5acbe9486d291a04947d26  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.gene_models_main.gff3.gz.tbi
 1abe8951b4787b21b8c535480a8a8ad8  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.legfed_v1_0.M65K.gfa.tsv.gz
+f565a9bb7b5eb13db6dff9db68462751  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.legume.fam3.VLMQ.gfa.tsv.gz
 540aa5657f796c3dfe02eef218b5b70f  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.mrna.fna.gz
 3c07c6013315aabeeef85042874a5c4e  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.mrna.fna.gz.fai
 6081703fd1e23d70e41642fec528a5ea  ./vigun.IT97K-499-35.gnm1.ann1.zb5D.mrna.fna.gz.gzi

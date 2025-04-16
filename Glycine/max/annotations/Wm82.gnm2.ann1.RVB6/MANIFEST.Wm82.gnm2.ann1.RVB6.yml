@@ -58,3 +58,5 @@
   description: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
   prior_names:
    - Gmax_275_Wm82.a2.v1.synonym.txt
+- name: glyma.Wm82.gnm2.ann1.RVB6.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

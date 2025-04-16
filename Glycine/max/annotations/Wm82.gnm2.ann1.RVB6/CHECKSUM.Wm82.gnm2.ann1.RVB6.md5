@@ -1,8 +1,8 @@
 1010e5d5a7495f65d1ee9ce6f2b7618d  ./BUSCO/glyma.Wm82.gnm2.ann1.RVB6.busco.fabales_odb10.full_table.tsv.gz
 93e0dd750b415876e909baf3e2ce0b91  ./BUSCO/glyma.Wm82.gnm2.ann1.RVB6.busco.fabales_odb10.short_summary.json
 7edf908648e17871bbf7792c315b0c64  ./BUSCO/glyma.Wm82.gnm2.ann1.RVB6.busco.fabales_odb10.short_summary.txt
-67edeb8a1b22c3f91d4ffc5f81a68a2d  ./CHANGES.Wm82.gnm2.ann1.RVB6.txt
-1e0582c34239754c34c4156b155c3ac2  ./MANIFEST.Wm82.gnm2.ann1.RVB6.yml
+443390355131467a27844a87120c2cf6  ./CHANGES.Wm82.gnm2.ann1.RVB6.txt
+e9fc818bc51e8b62f87ab4db2d27e803  ./MANIFEST.Wm82.gnm2.ann1.RVB6.yml
 c4c70a70a8190848572a2ac0ddaf8446  ./README.Wm82.gnm2.ann1.RVB6.yml
 4ee030285e8f30d21664b91a3b1480f4  ./glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz
 5372acc83ed2ca1c074e26a608e39479  ./glyma.Wm82.gnm2.ann1.RVB6.cds.fna.gz.fai
@@ -16,6 +16,7 @@ ae1249906585ac67ac0c364d504a79f3  ./glyma.Wm82.gnm2.ann1.RVB6.cds_primary.fna.gz
 4c4888707562400db2d1c4fba4ca8bda  ./glyma.Wm82.gnm2.ann1.RVB6.info_annot.txt.gz
 d76e408e99bd0f68bf6ea1a15a2e85ac  ./glyma.Wm82.gnm2.ann1.RVB6.info_gene_annot.txt.gz
 0fbab90169178950a9796ade5e697c3b  ./glyma.Wm82.gnm2.ann1.RVB6.legfed_v1_0.M65K.gfa.tsv.gz
+95c16578f7a76f0384a35bb4ddf059cb  ./glyma.Wm82.gnm2.ann1.RVB6.legume.fam3.VLMQ.gfa.tsv.gz
 6046fd239da8731c053fda9c6662ffa8  ./glyma.Wm82.gnm2.ann1.RVB6.locus_mrna_name_map.txt.gz
 1d82da54ade6c4551563540c8b781d1b  ./glyma.Wm82.gnm2.ann1.RVB6.markers.gff3.gz
 d4392f3855813abe5bfcd7c39c30211e  ./glyma.Wm82.gnm2.ann1.RVB6.markers.gff3.gz.tbi

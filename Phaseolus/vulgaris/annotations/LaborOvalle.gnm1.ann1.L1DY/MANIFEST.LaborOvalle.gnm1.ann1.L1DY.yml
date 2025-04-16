@@ -44,3 +44,5 @@
    - mines
   prior_names:
    - PvulgarisLaborOvalle_670_v1.1.protein.fa.gz
+- name: phavu.LaborOvalle.gnm1.ann1.L1DY.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

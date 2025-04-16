@@ -32,3 +32,5 @@
    - mines
   prior_names:
    - Gst.cds and Gst_G1974_chr.fsa via gffread
+- name: glyst.G1974.gnm1.ann1.F257.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

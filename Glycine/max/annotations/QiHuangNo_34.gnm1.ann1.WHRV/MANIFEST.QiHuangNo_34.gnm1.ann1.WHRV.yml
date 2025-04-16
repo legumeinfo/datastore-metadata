@@ -47,3 +47,5 @@
    - mines
   prior_names:
    - GWHACER00000000.protein.faa.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

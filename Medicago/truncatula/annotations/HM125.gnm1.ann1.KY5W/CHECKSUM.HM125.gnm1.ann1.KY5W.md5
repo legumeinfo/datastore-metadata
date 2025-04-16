@@ -1,8 +1,8 @@
 e48dda3f6d394024df50c1b6a347b47c  ./BUSCO/medtr.HM125.gnm1.ann1.KY5W.busco.fabales_odb10.full_table.tsv.gz
 b196b96578142fc60e43279bc9cda27f  ./BUSCO/medtr.HM125.gnm1.ann1.KY5W.busco.fabales_odb10.short_summary.json
 53d3f90bcaaef1c5003733926b4c33e3  ./BUSCO/medtr.HM125.gnm1.ann1.KY5W.busco.fabales_odb10.short_summary.txt
-1e54f2cfd59f10fbae6f2fd308c78c4e  ./CHANGES.HM125.gnm1.ann1.KY5W.txt
-c4fc282c433d1308f4d66f6b372402e4  ./MANIFEST.HM125.gnm1.ann1.KY5W.yml
+37ade87c8887ef542124d59cd99b4155  ./CHANGES.HM125.gnm1.ann1.KY5W.txt
+0939f4814092b0eb9c08f0e21d5e3816  ./MANIFEST.HM125.gnm1.ann1.KY5W.yml
 be190bd9928cd334be5e93c45b683856  ./README.HM125.gnm1.ann1.KY5W.yml
 cd1e4012900b9e67032c23c21249ed69  ./medtr.HM125.gnm1.ann1.KY5W.cds.fna.gz
 f7631d7602135a33fdbf2bdb140746a5  ./medtr.HM125.gnm1.ann1.KY5W.cds.fna.gz.fai
@@ -14,6 +14,7 @@ f3b08f6c2ad017a6ee996bcc69eea757  ./medtr.HM125.gnm1.ann1.KY5W.gene_models_main.
 3f908d24de79a20645ac478a23d83e3d  ./medtr.HM125.gnm1.ann1.KY5W.iprscan.gff3.gz
 2c61541081e8c000fbbb070aa2b57a0d  ./medtr.HM125.gnm1.ann1.KY5W.iprscan.gff3.gz.tbi
 2032e753aac191c979f811e61a63d4a6  ./medtr.HM125.gnm1.ann1.KY5W.legfed_v1_0.M65K.gfa.tsv.gz
+7bebfe1abc49931ebd5622c3df724e85  ./medtr.HM125.gnm1.ann1.KY5W.legume.fam3.VLMQ.gfa.tsv.gz
 fd4eabc4e1b253ae1bb36e8c5c8206f8  ./medtr.HM125.gnm1.ann1.KY5W.mrna.fna.gz
 eac8f9121ac002bc59838b5f2dc596ec  ./medtr.HM125.gnm1.ann1.KY5W.mrna.fna.gz.fai
 0b6b46fbf265880afd543e4ccea18119  ./medtr.HM125.gnm1.ann1.KY5W.mrna.fna.gz.gzi

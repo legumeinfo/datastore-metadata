@@ -24,3 +24,5 @@
   applications:
    - blast
    - mines
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

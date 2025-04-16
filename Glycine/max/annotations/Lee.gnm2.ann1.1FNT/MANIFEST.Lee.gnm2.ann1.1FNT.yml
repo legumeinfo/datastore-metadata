@@ -40,3 +40,5 @@
    - mines
   prior_names:
    - Gma.pep.fa
+- name: glyma.Lee.gnm2.ann1.1FNT.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

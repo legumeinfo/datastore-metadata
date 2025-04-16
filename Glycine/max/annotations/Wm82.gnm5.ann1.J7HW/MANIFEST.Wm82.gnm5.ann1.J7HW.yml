@@ -34,3 +34,5 @@
    - mines
   prior_names:
    - Wm82.a5.proteins.patched.fa.gz
+- name: glyma.Wm82.gnm5.ann1.J7HW.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

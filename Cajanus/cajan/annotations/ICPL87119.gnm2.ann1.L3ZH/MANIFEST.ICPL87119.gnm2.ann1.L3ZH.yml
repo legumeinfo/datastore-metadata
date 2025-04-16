@@ -40,3 +40,5 @@
    - mines
   prior_names:
    - Cca.pep.fa
+- name: cajca.ICPL87119.gnm2.ann1.L3ZH.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

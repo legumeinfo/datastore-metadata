@@ -36,3 +36,5 @@
   description: MISSING
 - name: lupan.Tanjil.gnm1.ann1.nnV9.scaffolds_in_pchr.gff3.gz
   description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

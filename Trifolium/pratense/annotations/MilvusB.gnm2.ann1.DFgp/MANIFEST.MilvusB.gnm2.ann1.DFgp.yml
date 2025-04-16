@@ -32,3 +32,5 @@
   applications:
    - blast
    - mines
+- name: tripr.MilvusB.gnm2.ann1.DFgp.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

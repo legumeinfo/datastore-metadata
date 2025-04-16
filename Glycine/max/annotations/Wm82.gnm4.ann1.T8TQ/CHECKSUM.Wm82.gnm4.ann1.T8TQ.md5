@@ -1,8 +1,8 @@
 b83370f15ba5a288140ff02198ea6edb  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.full_table.tsv.gz
 7bb937fdd776eb595c74ae84b341d03c  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.short_summary.json
 c2335b966b3b26df8e6c310cef218552  ./BUSCO/glyma.Wm82.gnm4.ann1.T8TQ.busco.fabales_odb10.short_summary.txt
-1473b5e88303756462eab495919031e7  ./CHANGES.Wm82.gnm4.ann1.T8TQ.txt
-73fdaba276760e47a605a3f73ea039e3  ./MANIFEST.Wm82.gnm4.ann1.T8TQ.yml
+aaab9cdbf52aef7e3975b5a2c01d8581  ./CHANGES.Wm82.gnm4.ann1.T8TQ.txt
+d1c65152d83caa957822770502a1181b  ./MANIFEST.Wm82.gnm4.ann1.T8TQ.yml
 62ef464cb96aec294dcb3ea62ea91596  ./README.Wm82.gnm4.ann1.T8TQ.yml
 9d103d116f94e64a581976d8e229dc7d  ./glyma.Wm82.gnm4.ann1.T8TQ.cds.fna.gz
 84366e2a35bef839c062b2b81fd57c5e  ./glyma.Wm82.gnm4.ann1.T8TQ.cds.fna.gz.fai
@@ -25,6 +25,7 @@ b4e4177440fdda92fd5d034511de10ae  ./glyma.Wm82.gnm4.ann1.T8TQ.info_annot.txt.gz
 85759e438245fff4e669b82b2a75a733  ./glyma.Wm82.gnm4.ann1.T8TQ.info_locus_mrna_name_map.txt.gz
 aa906cb4903f5336d90ad98d3c48d6d5  ./glyma.Wm82.gnm4.ann1.T8TQ.info_synonyms.txt.gz
 0ad92f60fbecbfae5bdf8d49c595dc15  ./glyma.Wm82.gnm4.ann1.T8TQ.legfed_v1_0.M65K.gfa.tsv.gz
+48fabd611e56437069e76f077c763e56  ./glyma.Wm82.gnm4.ann1.T8TQ.legume.fam3.VLMQ.gfa.tsv.gz
 6d7383f3ce4dfc0874c98d8969f7a211  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz
 a4335d313a7b48efa541166a29aa0833  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz.fai
 2d95b5ca354b6f168468dcb800a77eb2  ./glyma.Wm82.gnm4.ann1.T8TQ.mrna.fna.gz.gzi

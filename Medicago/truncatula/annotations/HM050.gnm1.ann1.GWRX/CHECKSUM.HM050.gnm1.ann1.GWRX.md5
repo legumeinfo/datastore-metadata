@@ -1,8 +1,8 @@
 7fa93c1eb9c2f08d10b581fd710bb038  ./BUSCO/medtr.HM050.gnm1.ann1.GWRX.busco.fabales_odb10.full_table.tsv.gz
 bbb1ea17a78da7c904b49d85670be0cd  ./BUSCO/medtr.HM050.gnm1.ann1.GWRX.busco.fabales_odb10.short_summary.json
 fe37fb0789d84e78a508b366341e3bc4  ./BUSCO/medtr.HM050.gnm1.ann1.GWRX.busco.fabales_odb10.short_summary.txt
-1e54f2cfd59f10fbae6f2fd308c78c4e  ./CHANGES.HM050.gnm1.ann1.GWRX.txt
-9ed129810d7b77e515a0f1f496fb584c  ./MANIFEST.HM050.gnm1.ann1.GWRX.yml
+b2694aa3dd12693955ba2ed4ea05971d  ./CHANGES.HM050.gnm1.ann1.GWRX.txt
+de0cfd34b3942b54e54245183ae14b89  ./MANIFEST.HM050.gnm1.ann1.GWRX.yml
 653967c163c48b0684b9d3ed24b94f9c  ./README.HM050.gnm1.ann1.GWRX.yml
 ab949e532710efb55c866a255dd99a77  ./medtr.HM050.gnm1.ann1.GWRX.cds.fna.gz
 a66081c341fee9ec4079ace9e3dc4d9e  ./medtr.HM050.gnm1.ann1.GWRX.cds.fna.gz.fai
@@ -14,10 +14,11 @@ d45cd30ab1913b14699aaf47305c5c4d  ./medtr.HM050.gnm1.ann1.GWRX.gene_models_main.
 9f065f415237b5eaf5159c80cfc60b6d  ./medtr.HM050.gnm1.ann1.GWRX.iprscan.gff3.gz
 8c10d57a8630092a1217af9913d4d178  ./medtr.HM050.gnm1.ann1.GWRX.iprscan.gff3.gz.tbi
 a81034af1a1c77fa092955b241d76045  ./medtr.HM050.gnm1.ann1.GWRX.legfed_v1_0.M65K.gfa.tsv.gz
+2a79a75cc34d3b17dad090c8c8572f71  ./medtr.HM050.gnm1.ann1.GWRX.legume.fam3.VLMQ.gfa.tsv.gz
 f1ff264fcf10060ff197621f92887db3  ./medtr.HM050.gnm1.ann1.GWRX.mrna.fna.gz
 4c19ca7b780cd63c24c82d03026bb37a  ./medtr.HM050.gnm1.ann1.GWRX.mrna.fna.gz.fai
 3ec8ffcccb74628af9c701db57e5436d  ./medtr.HM050.gnm1.ann1.GWRX.mrna.fna.gz.gzi
 6dc7d892bd3925cf219cba3ff63c7df9  ./medtr.HM050.gnm1.ann1.GWRX.phytozome_10_2.HFNR.gfa.tsv.gz
 8ac2e5364c3f450b425f2dd671f1c642  ./medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz
 ac86e68b4bc1d468049fc77af3186983  ./medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz.fai
-78ecab67583246b50f41fe07e29d8f06  ./medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz.gzi
+a08a393f582b3e34216afbf0a809a89a  ./medtr.HM050.gnm1.ann1.GWRX.protein.faa.gz.gzi

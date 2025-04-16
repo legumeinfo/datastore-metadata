@@ -1,8 +1,8 @@
 49c3b2c46ba7f4ab4f0b232e4116ab8b  ./BUSCO/araip.K30076.gnm1.ann1.J37m.busco.fabales_odb10.full_table.tsv.gz
 363db34519e42d3ee0e2369aa9c102f9  ./BUSCO/araip.K30076.gnm1.ann1.J37m.busco.fabales_odb10.short_summary.json
 eac82e746cc79dc430fd4b2def2ab026  ./BUSCO/araip.K30076.gnm1.ann1.J37m.busco.fabales_odb10.short_summary.txt
-bde144e5b4f461c53fdbecaad5b60454  ./CHANGES.K30076.gnm1.ann1.J37m.txt
-9d46d80170e70ed0aaa5c90a46049a71  ./MANIFEST.K30076.gnm1.ann1.J37m.yml
+c6e8c1cdc3570c421a55b26a50bf9fd8  ./CHANGES.K30076.gnm1.ann1.J37m.txt
+6f49da35db879b64a24aee449cb883d8  ./MANIFEST.K30076.gnm1.ann1.J37m.yml
 d20397e9a1e84515e354cf6c6c12c735  ./README.K30076.gnm1.ann1.J37m.yml
 64e48615a707b7e2805a4670df36855c  ./araip.K30076.gnm1.ann1.J37m.cds.fna.gz
 ffc89ec803de489f920cabe70389bd3d  ./araip.K30076.gnm1.ann1.J37m.cds.fna.gz.fai
@@ -16,6 +16,7 @@ a03d4f1b282a010291cb323f86339779  ./araip.K30076.gnm1.ann1.J37m.info_AED_scores.
 2c28f6152e6620e1d17a2598608e7598  ./araip.K30076.gnm1.ann1.J37m.info_annot_AHRD.txt.gz
 deb9e4680ae53ff812798689c51a12e7  ./araip.K30076.gnm1.ann1.J37m.info_annot_AHRD_slim.txt.gz
 b3896b0ca4fc9aff8f4faf83b8704596  ./araip.K30076.gnm1.ann1.J37m.legfed_v1_0.M65K.gfa.tsv.gz
+c1efdca906f7d611b56d99b49314135a  ./araip.K30076.gnm1.ann1.J37m.legume.fam3.VLMQ.gfa.tsv.gz
 c15791ac1e9695219f606075399bd0ce  ./araip.K30076.gnm1.ann1.J37m.mrna.fna.gz
 cccf68802eebfbacd166722cd5e57526  ./araip.K30076.gnm1.ann1.J37m.mrna.fna.gz.fai
 3bc5541dec4280eb0ff7a2be28f97023  ./araip.K30076.gnm1.ann1.J37m.mrna.fna.gz.gzi

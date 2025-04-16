@@ -1,8 +1,8 @@
 c77b7e5700259d96a90c2121320db10c  ./BUSCO/medtr.HM004.gnm1.ann1.2XTB.busco.fabales_odb10.full_table.tsv.gz
 f0b8d1ee7cd10fdaddd8901da6e167d2  ./BUSCO/medtr.HM004.gnm1.ann1.2XTB.busco.fabales_odb10.short_summary.json
 3ede74a35d36655b56648645f04405b3  ./BUSCO/medtr.HM004.gnm1.ann1.2XTB.busco.fabales_odb10.short_summary.txt
-1e54f2cfd59f10fbae6f2fd308c78c4e  ./CHANGES.HM004.gnm1.ann1.2XTB.txt
-48568498a75e40a8a4f0628e3d3af476  ./MANIFEST.HM004.gnm1.ann1.2XTB.yml
+55296a672840b58034fb60fe20aae0a7  ./CHANGES.HM004.gnm1.ann1.2XTB.txt
+44688cf861a04488efe08baf3f244279  ./MANIFEST.HM004.gnm1.ann1.2XTB.yml
 c784524eff92add6831f365a8fc80577  ./README.HM004.gnm1.ann1.2XTB.yml
 0b6de92a1268b9c63c8067c0af1717c1  ./medtr.HM004.gnm1.ann1.2XTB.cds.fna.gz
 026512271085d896dcefd5ec29584da1  ./medtr.HM004.gnm1.ann1.2XTB.cds.fna.gz.fai
@@ -14,10 +14,11 @@ c7eaf0ead92e269e445f0631f5ecd2bf  ./medtr.HM004.gnm1.ann1.2XTB.gene_models_main.
 bd5dc094fa1be66f9fb075b82f480f11  ./medtr.HM004.gnm1.ann1.2XTB.iprscan.gff3.gz
 1bc02437ed9508efeea09bc02f93c5e4  ./medtr.HM004.gnm1.ann1.2XTB.iprscan.gff3.gz.tbi
 cb69439b35aacbed08853f4a3015b289  ./medtr.HM004.gnm1.ann1.2XTB.legfed_v1_0.M65K.gfa.tsv.gz
+9a73b683f79ebff92703826257922e31  ./medtr.HM004.gnm1.ann1.2XTB.legume.fam3.VLMQ.gfa.tsv.gz
 3052bea9772f6d99cc0680d8a8201d3b  ./medtr.HM004.gnm1.ann1.2XTB.mrna.fna.gz
 b8947b57c4854b417530d4e10141288f  ./medtr.HM004.gnm1.ann1.2XTB.mrna.fna.gz.fai
 ab81d7a783e9346fcf31c442a8414ba0  ./medtr.HM004.gnm1.ann1.2XTB.mrna.fna.gz.gzi
 acee445cbda44f5012adeb8e23757968  ./medtr.HM004.gnm1.ann1.2XTB.phytozome_10_2.HFNR.gfa.tsv.gz
 dfb500350be1cc639331dc0006f6a044  ./medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz
 b0adefa9ef77971590c273b2c5c262a9  ./medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz.fai
-1f755aa2048216eb90bb1898130b498e  ./medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz.gzi
+d7124c0cbd022486c76d7efb99409131  ./medtr.HM004.gnm1.ann1.2XTB.protein.faa.gz.gzi

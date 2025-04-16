@@ -34,3 +34,5 @@
    - mines
   prior_names:
    - adzuki.ver3.pep.fa.tr.cor.fa
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

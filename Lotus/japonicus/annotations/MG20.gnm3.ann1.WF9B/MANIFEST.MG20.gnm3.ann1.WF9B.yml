@@ -42,3 +42,5 @@
    - mines
   prior_names:
    - Lj3.0_pep.faa
+- name: lotja.MG20.gnm3.ann1.WF9B.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

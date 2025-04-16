@@ -1,8 +1,8 @@
 665f80e705c6ef91f05089afe0b9f2b2  ./BUSCO/phalu.G27455.gnm1.ann1.JD7C.busco.fabales_odb10.full_table.tsv.gz
 fd58a885a5e8380cdd50eabf82613eb3  ./BUSCO/phalu.G27455.gnm1.ann1.JD7C.busco.fabales_odb10.short_summary.json
 7c4114fbe74886c39be0250b007a0d89  ./BUSCO/phalu.G27455.gnm1.ann1.JD7C.busco.fabales_odb10.short_summary.txt
-7c044d2acf6efd69221854c3ffaddf18  ./CHANGES.G27455.gnm1.ann1.JD7C.txt
-9e715519874f69b55b8e06b15b411b4b  ./MANIFEST.G27455.gnm1.ann1.JD7C.yml
+8224d1699a097fad3e6552bfe4560277  ./CHANGES.G27455.gnm1.ann1.JD7C.txt
+642f13da986503a32efa22f4e5e49ad3  ./MANIFEST.G27455.gnm1.ann1.JD7C.yml
 75e85e1247e35e57f13e9050dc709739  ./Plunatus_563_V1.annotation_info.txt.gz
 409d80aa6fe500507f5e88889d9e0f0f  ./Plunatus_563_V1.defline.txt.gz
 ac51039422c5cc17ebe6a36d4f16f3e0  ./Plunatus_563_V1.lowConfidenceTranscripts.txt
@@ -25,6 +25,7 @@ d681998d8a0ede607ba35eff5cd506db  ./phalu.G27455.gnm1.ann1.JD7C.iprscan.gff3.gz
 ea771fbe9828cd573a0493eabd366582  ./phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3.gz
 37e9e9f80e4525fe3f430cd81925f693  ./phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3.gz.tbi
 0c28d1ea0f392b7408ec3bc838e14776  ./phalu.G27455.gnm1.ann1.JD7C.legfed_v1_0.M65K.gfa.tsv.gz
+f7b0032269507433360e83c8b4b3acdb  ./phalu.G27455.gnm1.ann1.JD7C.legume.fam3.VLMQ.gfa.tsv.gz
 c780744feecc011504a059d024f7e59b  ./phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz
 8c3563080f44406914ab2dc4cfc0c17c  ./phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz.fai
 748610f85bd8abe1838c1d33925a0ffe  ./phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz.gzi

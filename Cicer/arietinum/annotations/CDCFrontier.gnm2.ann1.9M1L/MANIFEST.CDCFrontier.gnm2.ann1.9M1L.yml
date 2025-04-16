@@ -40,3 +40,5 @@
    - mines
   prior_names:
    - Car.pep.fa
+- name: cicar.CDCFrontier.gnm2.ann1.9M1L.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

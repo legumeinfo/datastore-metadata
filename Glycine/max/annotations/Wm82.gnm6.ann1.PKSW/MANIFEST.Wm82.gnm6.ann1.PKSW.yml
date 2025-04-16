@@ -70,3 +70,5 @@
   description: Repeat-masking coordinates
   prior_names:
    - Gmax_880_Wm82.a6.v1.repeatmasked_assembly_v2.0.gff3.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

@@ -1,8 +1,8 @@
 e82d8ac94d56ce628154abdd8eed3c1a  ./BUSCO/phavu.G19833.gnm2.ann1.PB8d.busco.fabales_odb10.full_table.tsv.gz
 8ada90e8de0f6e6abfd5d16493fccb9d  ./BUSCO/phavu.G19833.gnm2.ann1.PB8d.busco.fabales_odb10.short_summary.json
 3765d4ffea810bf100e9c6894e683e32  ./BUSCO/phavu.G19833.gnm2.ann1.PB8d.busco.fabales_odb10.short_summary.txt
-0257e774836ab2c727f3e52aadeae897  ./CHANGES.G19833.gnm2.ann1.PB8d.txt
-bf2b3b54d5328620f3dfaa59311a4fa0  ./MANIFEST.G19833.gnm2.ann1.PB8d.yml
+ed6ea69cbae192cd8d681c84926a9c3a  ./CHANGES.G19833.gnm2.ann1.PB8d.txt
+d4c74bd029a60b67027ad2ffb2758c40  ./MANIFEST.G19833.gnm2.ann1.PB8d.yml
 ecc268cfbf7ce0121f3ca3d55c0877eb  ./README.G19833.gnm2.ann1.PB8d.yml
 2757c2341d49764888e8c7f4a2075d92  ./phavu.G19833.gnm2.ann1.PB8d.cds.fna.gz
 62ddbb5691dee4843b632b5a702c9b47  ./phavu.G19833.gnm2.ann1.PB8d.cds.fna.gz.fai
@@ -16,6 +16,7 @@ f72f9f4d9876c2e4c3acddd95d9f7e83  ./phavu.G19833.gnm2.ann1.PB8d.gene_models_main
 dc437b6ca0cf8c4d998d21f95b18e297  ./phavu.G19833.gnm2.ann1.PB8d.gene_models_main.gff3.gz.tbi
 9cec940150d086928d3473848600980d  ./phavu.G19833.gnm2.ann1.PB8d.info_annot.txt.gz
 c025abe14cbea1fd412a66076e7aeee5  ./phavu.G19833.gnm2.ann1.PB8d.legfed_v1_0.M65K.gfa.tsv.gz
+7a639edfb4331982d2703070ce65f13b  ./phavu.G19833.gnm2.ann1.PB8d.legume.fam3.VLMQ.gfa.tsv.gz
 61feb1a767776e066d2ad9aef8bae063  ./phavu.G19833.gnm2.ann1.PB8d.locus_mrna_name_map.txt.gz
 90bd23efd9b1474686e6e6c4fa072ba3  ./phavu.G19833.gnm2.ann1.PB8d.mrna.fna.gz
 b03e83f9264eb5629f5e6db962baa63d  ./phavu.G19833.gnm2.ann1.PB8d.mrna.fna.gz.fai

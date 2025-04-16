@@ -28,3 +28,5 @@
   applications:
    - blast
    - mines
+- name: vigun.CB5-2.gnm1.ann1.0GKC.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

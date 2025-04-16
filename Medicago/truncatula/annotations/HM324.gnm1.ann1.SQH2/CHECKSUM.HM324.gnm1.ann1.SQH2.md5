@@ -1,12 +1,12 @@
 2faaf8a005f7a00be08720a461908707  ./BUSCO/medtr.HM324.gnm1.ann1.SQH2.busco.fabales_odb10.full_table.tsv.gz
 da321c83f87227d03d5e8a179469ab12  ./BUSCO/medtr.HM324.gnm1.ann1.SQH2.busco.fabales_odb10.short_summary.json
 23136037e1b4188245b70b273b869f11  ./BUSCO/medtr.HM324.gnm1.ann1.SQH2.busco.fabales_odb10.short_summary.txt
-1e54f2cfd59f10fbae6f2fd308c78c4e  ./CHANGES.HM324.gnm1.ann1.SQH2.txt
-54c592698a05505c4f8014052048ea6b  ./MANIFEST.HM324.gnm1.ann1.SQH2.yml
+11c50109852ffcca3a836045bdc186c6  ./CHANGES.HM324.gnm1.ann1.SQH2.txt
+3dad39c30776d40016e1ceca1a696651  ./MANIFEST.HM324.gnm1.ann1.SQH2.yml
 676e77752d0319859e71c19f35a0fa30  ./README.HM324.gnm1.ann1.SQH2.yml
 3be9a9766206834e4ca95577c4fa2850  ./medtr.HM324.gnm1.ann1.SQH2.cds.fna.gz
 22e65b613252732ca9c5a5fcfd9aa05c  ./medtr.HM324.gnm1.ann1.SQH2.cds.fna.gz.fai
-ebaa841ee56b4425d9bfaf913028fc2a  ./medtr.HM324.gnm1.ann1.SQH2.cds.fna.gz.gzi
+c17d7872ed6d28efa20ea3f638b05e47  ./medtr.HM324.gnm1.ann1.SQH2.cds.fna.gz.gzi
 cf17b1658c5598da88910399c515d3f3  ./medtr.HM324.gnm1.ann1.SQH2.gene_models_main.bed.gz
 be1538625534044bd34dc83631e8da8f  ./medtr.HM324.gnm1.ann1.SQH2.gene_models_main.bed.gz.tbi
 8cf87411914253f30c38dd98041fc517  ./medtr.HM324.gnm1.ann1.SQH2.gene_models_main.gff3.gz
@@ -14,6 +14,7 @@ be1538625534044bd34dc83631e8da8f  ./medtr.HM324.gnm1.ann1.SQH2.gene_models_main.
 0233dc5f80c75734ef1bb858eabd902c  ./medtr.HM324.gnm1.ann1.SQH2.iprscan.gff3.gz
 d888384ee82a9377a822aa3a4e79bed1  ./medtr.HM324.gnm1.ann1.SQH2.iprscan.gff3.gz.tbi
 1179b48fb926ea53b05dcae40a9e41ce  ./medtr.HM324.gnm1.ann1.SQH2.legfed_v1_0.M65K.gfa.tsv.gz
+ac2eeffe5f23d3b38466f0a79d902f49  ./medtr.HM324.gnm1.ann1.SQH2.legume.fam3.VLMQ.gfa.tsv.gz
 6d314d52bae387cd9f895cbfff2b1619  ./medtr.HM324.gnm1.ann1.SQH2.mrna.fna.gz
 ddfb408784506ec39d6875f206a86590  ./medtr.HM324.gnm1.ann1.SQH2.mrna.fna.gz.fai
 cd1e31038ec6b05c9e14e7f03c3ceed7  ./medtr.HM324.gnm1.ann1.SQH2.mrna.fna.gz.gzi

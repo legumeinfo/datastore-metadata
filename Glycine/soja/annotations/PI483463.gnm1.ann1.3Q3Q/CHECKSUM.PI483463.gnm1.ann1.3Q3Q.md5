@@ -1,8 +1,8 @@
 9c3fd6d079ee31fec483ccf68545d202  ./BUSCO/glyso.PI483463.gnm1.ann1.3Q3Q.busco.fabales_odb10.full_table.tsv.gz
 22ff53460ab6d16e1dd821e073e7a7b3  ./BUSCO/glyso.PI483463.gnm1.ann1.3Q3Q.busco.fabales_odb10.short_summary.json
 a3e81836f53f0b5fbd47b0cb12261e68  ./BUSCO/glyso.PI483463.gnm1.ann1.3Q3Q.busco.fabales_odb10.short_summary.txt
-e3280d148f6c15a8cb93abd0bf220991  ./CHANGES.PI483463.gnm1.ann1.3Q3Q.txt
-f3d1b2d4e260bfcbd2f94bc7795d4a83  ./MANIFEST.PI483463.gnm1.ann1.3Q3Q.yml
+044bc258cf0f23f5d76428678a0abcea  ./CHANGES.PI483463.gnm1.ann1.3Q3Q.txt
+3ad18c45e3c8aecbd410000e9a78ecd9  ./MANIFEST.PI483463.gnm1.ann1.3Q3Q.yml
 92e8b67d1519fde94478cbb7691c76ba  ./README.PI483463.gnm1.ann1.3Q3Q.yml
 caccb5ad1634f62a7e200aef4937fe51  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds.fna.gz
 c83f33fea9605c5a89810f8624b14244  ./glyso.PI483463.gnm1.ann1.3Q3Q.cds.fna.gz.fai
@@ -17,6 +17,7 @@ af4e73b16e07351eb964c6d987a582e0  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_ex
 938b2cec892ebe5fc8d7e8df4971489d  ./glyso.PI483463.gnm1.ann1.3Q3Q.gene_models_main.gff3.gz.tbi
 e654eb9c268a845b3b77cb533f8217f8  ./glyso.PI483463.gnm1.ann1.3Q3Q.info_annot.txt.gz
 8724256f754dd8321ee654fb7a5ce81a  ./glyso.PI483463.gnm1.ann1.3Q3Q.legfed_v1_0.M65K.gfa.tsv.gz
+81a5bbb79304289f18ea377917fd05d5  ./glyso.PI483463.gnm1.ann1.3Q3Q.legume.fam3.VLMQ.gfa.tsv.gz
 8003ccc35ec42dfad6553d0027cf9bc8  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna.fna.gz
 8e4cd52c15ae3ce61d0d284c0196589b  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna.fna.gz.fai
 8005b7f846731d558844fb6d52e15265  ./glyso.PI483463.gnm1.ann1.3Q3Q.mrna.fna.gz.gzi

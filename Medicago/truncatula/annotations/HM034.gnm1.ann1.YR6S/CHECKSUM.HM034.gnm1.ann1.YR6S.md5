@@ -1,8 +1,8 @@
 7f2a07d3e2551d87259e28d8444b33b7  ./BUSCO/medtr.HM034.gnm1.ann1.YR6S.busco.fabales_odb10.full_table.tsv.gz
 ceba646847aca3a42db2d7bed7386f4a  ./BUSCO/medtr.HM034.gnm1.ann1.YR6S.busco.fabales_odb10.short_summary.json
 aac0845ecc146a85f3af632fdcb8726f  ./BUSCO/medtr.HM034.gnm1.ann1.YR6S.busco.fabales_odb10.short_summary.txt
-1e54f2cfd59f10fbae6f2fd308c78c4e  ./CHANGES.HM034.gnm1.ann1.YR6S.txt
-51243a2b847a3a4bca715c6c2b271b72  ./MANIFEST.HM034.gnm1.ann1.YR6S.yml
+8758cd0818f27599d5e4090eca33ff4b  ./CHANGES.HM034.gnm1.ann1.YR6S.txt
+a3aa9d9e6b110231dc119c9c3258a63c  ./MANIFEST.HM034.gnm1.ann1.YR6S.yml
 5b0242fd191a2b7ac9f9fff66530b385  ./README.HM034.gnm1.ann1.YR6S.yml
 b932b363b83c78f436d28a4ae54941cf  ./medtr.HM034.gnm1.ann1.YR6S.cds.fna.gz
 c07f9646c63e0d6ef404af196d51f071  ./medtr.HM034.gnm1.ann1.YR6S.cds.fna.gz.fai
@@ -14,10 +14,11 @@ a395525ac02648db0cb26b825f6b606f  ./medtr.HM034.gnm1.ann1.YR6S.gene_models_main.
 2ea355b1ad54bb8e89815d007a7aa3e5  ./medtr.HM034.gnm1.ann1.YR6S.iprscan.gff3.gz
 b5e7a7e2f0691190450bd21254aa9245  ./medtr.HM034.gnm1.ann1.YR6S.iprscan.gff3.gz.tbi
 2f3287f7873b05601effe80c68aeaf17  ./medtr.HM034.gnm1.ann1.YR6S.legfed_v1_0.M65K.gfa.tsv.gz
+ec97723a2e2fc686caf809ec4f4dfc5e  ./medtr.HM034.gnm1.ann1.YR6S.legume.fam3.VLMQ.gfa.tsv.gz
 a546f3e93d2a0eb2facac64d4f52c328  ./medtr.HM034.gnm1.ann1.YR6S.mrna.fna.gz
 1b73a50c1b79177e773b6694aa9f92ca  ./medtr.HM034.gnm1.ann1.YR6S.mrna.fna.gz.fai
 ec9f78ef81aa081a3963cec92233a074  ./medtr.HM034.gnm1.ann1.YR6S.mrna.fna.gz.gzi
 6d716effd52f4a38112d19e518a6a35b  ./medtr.HM034.gnm1.ann1.YR6S.phytozome_10_2.HFNR.gfa.tsv.gz
 5d48ab2b7d4dd05661a457e765fd0441  ./medtr.HM034.gnm1.ann1.YR6S.protein.faa.gz
 4aacc51658f7040f295afa1ac1354b81  ./medtr.HM034.gnm1.ann1.YR6S.protein.faa.gz.fai
-1db71833996ae97d0ca20ed62adeab9d  ./medtr.HM034.gnm1.ann1.YR6S.protein.faa.gz.gzi
+a625c7ace7112970934be04c4875d164  ./medtr.HM034.gnm1.ann1.YR6S.protein.faa.gz.gzi

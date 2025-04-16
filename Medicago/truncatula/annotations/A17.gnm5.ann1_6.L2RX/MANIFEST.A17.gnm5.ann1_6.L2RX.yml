@@ -34,3 +34,5 @@
    - MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.prot.fasta
 - name: medtr.A17.gnm5.ann1_6.L2RX.repeats.gff3.gz
   description: Repeat-masking coordinates
+- name: medtr.A17.gnm5.ann1_6.L2RX.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

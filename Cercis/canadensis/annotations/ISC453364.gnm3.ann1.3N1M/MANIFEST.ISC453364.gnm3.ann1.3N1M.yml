@@ -58,3 +58,5 @@
   description: Repeat-masking coordinates
   prior_names:
    - Ccanadensis_705_V3.1.repeatmasked_assembly_V3.0.gff3.gz
+- name: cerca.ISC453364.gnm3.ann1.3N1M.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ
