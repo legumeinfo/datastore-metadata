@@ -1,0 +1,16 @@
+---
+- name: apiam.LA2127.gnm1_hap2.3WWC.seqid_map.tsv.gz:
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: apiam.LA2127.gnm1_hap2.3WWC.genome_softmasked.fna.gz.gz:
+  description: Softmasked genome assembly
+  prior_names:
+   - Apios.americana.hap2.genome_softmasked.fna.gz
+- name: apiam.LA2127.gnm1_hap2.3WWC.genome_main.fna.gz:
+  description: Primary genome assembly
+  prior_names:
+   - Apios.americana.hap2.fna.gz
+  applications:
+   - blast
+   - mines

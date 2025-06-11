@@ -1,0 +1,17 @@
+---
+taxid: 254393
+genus: Apios
+species: priceana
+abbrev: apipr
+commonName: "Price's potato bean"
+description: "Price's potato bean (Apios priceana) is a rare legume species, found scattered locations in the 
+  North American Southeast (Alabama, Mississippi, Kentucky, and Tennessee). The plant is federally listed as 
+  a threatened species. It has a vining habit and produces an edible, thickened storage root."
+
+strains:
+  - identifier: MO19963523
+    accession: MO 19963523
+    name: MO19963523
+    origin: "This plant is from an accession from the Missouri Botanic Garden"
+    description: "This plant is from an accession from the Missouri Botanic Garden, from seed 
+      from a plant collected by Dr. George Rogers on October 13th, 1987 (1987-3021) in Lee County Mississippi"

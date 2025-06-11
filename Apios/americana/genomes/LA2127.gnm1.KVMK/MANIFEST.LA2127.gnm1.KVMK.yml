@@ -1,0 +1,16 @@
+---
+- name: apiam.LA2127.gnm1.KVMK.seqid_map.tsv.gz:
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: apiam.LA2127.gnm1.KVMK.genome_softmasked.fna.gz:
+  description: Softmasked genome assembly
+  prior_names:
+   - Apios.americana.hap1.genome_softmasked.fna.gz
+- name: apiam.LA2127.gnm1.KVMK.genome_main.fna.gz:
+  description: Primary genome assembly
+  prior_names:
+   - Apios.americana.hap1.fna.gz
+  applications:
+   - blast
+   - mines
