@@ -1,9 +1,9 @@
 ---
-- name: glyma.Harosoy.gnm3.TKJB.seqid_map.tsv.gz:
+- name: glyma.Harosoy.gnm3.TKJB.seqid_map.tsv.gz
   description: Map (hash) file of old/new chromosome and scaffold IDs
   prior_names:
    - No prior file
-- name: glyma.Harosoy.gnm3.TKJB.genome_main.fna.gz:
+- name: glyma.Harosoy.gnm3.TKJB.genome_main.fna.gz
   description: Primary genome assembly
   prior_names:
    - GCA_046254585.1.modID.genome.fasta.gz

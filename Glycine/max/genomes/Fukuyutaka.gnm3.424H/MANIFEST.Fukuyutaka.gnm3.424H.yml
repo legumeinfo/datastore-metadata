@@ -1,9 +1,9 @@
 ---
-- name: glyma.Fukuyutaka.gnm3.424H.seqid_map.tsv.gz:
+- name: glyma.Fukuyutaka.gnm3.424H.seqid_map.tsv.gz
   description: Map (hash) file of old/new chromosome and scaffold IDs
   prior_names:
    - No prior file
-- name: glyma.Fukuyutaka.gnm3.424H.genome_main.fna.gz:
+- name: glyma.Fukuyutaka.gnm3.424H.genome_main.fna.gz
   description: Primary genome assembly
   prior_names:
    - GCA_046254725.1.modID.genome.fasta.gz

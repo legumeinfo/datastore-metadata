@@ -1,9 +1,9 @@
 ---
-- name: glyma.Peking.gnm3.KKCD.seqid_map.tsv.gz:
+- name: glyma.Peking.gnm3.KKCD.seqid_map.tsv.gz
   description: Map (hash) file of old/new chromosome and scaffold IDs
   prior_names:
    - No prior file
-- name: glyma.Peking.gnm3.KKCD.genome_main.fna.gz:
+- name: glyma.Peking.gnm3.KKCD.genome_main.fna.gz
   description: Primary genome assembly
   prior_names:
    - GCA_046254555.1.modID.genome.fasta.gz

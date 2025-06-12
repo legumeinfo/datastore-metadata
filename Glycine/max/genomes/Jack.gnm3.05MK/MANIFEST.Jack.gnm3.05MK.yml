@@ -1,9 +1,9 @@
 ---
-- name: glyma.Jack.gnm3.05MK.seqid_map.tsv.gz:
+- name: glyma.Jack.gnm3.05MK.seqid_map.tsv.gz
   description: Map (hash) file of old/new chromosome and scaffold IDs
   prior_names:
    - No prior file
-- name: glyma.Jack.gnm3.05MK.genome_main.fna.gz:
+- name: glyma.Jack.gnm3.05MK.genome_main.fna.gz
   description: Primary genome assembly
   prior_names:
    - GCA_046254605.1.modID.genome.fasta.gz
