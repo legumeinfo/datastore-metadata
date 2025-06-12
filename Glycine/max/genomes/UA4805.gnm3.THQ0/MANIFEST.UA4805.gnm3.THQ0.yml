@@ -1,0 +1,12 @@
+---
+- name: glyma.UA4805.gnm3.THQ0.seqid_map.tsv.gz:
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: glyma.UA4805.gnm3.THQ0.genome_main.fna.gz:
+  description: Primary genome assembly
+  prior_names:
+   - GCA_046254595.1.modID.genome.fasta.gz
+  applications:
+   - blast
+   - mines

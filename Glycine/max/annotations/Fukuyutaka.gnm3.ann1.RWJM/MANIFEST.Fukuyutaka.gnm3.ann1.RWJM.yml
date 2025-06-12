@@ -1,0 +1,49 @@
+---
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.featid_map.tsv.gz:
+  description: Hash file of old/new gene IDs
+  prior_names:
+   - No prior file
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.scaffolds.gff3.gz:
+  description: Features on scaffolds
+  prior_names:
+   - GCA_046254725.1.modID.scaffolds.gff3.gz
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.cds.fna.gz:
+  description: CDS sequences
+  prior_names:
+   - GCA_046254725.1.modID.CDS.fna.gz
+  applications:
+   - blast
+   - mines
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.cds_primary.fna.gz:
+  description: CDS sequences - longest variant for each gene
+  prior_names:
+   - GCA_046254725.1.modID.CDS_primary.fna.gz
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.mrna.fna.gz:
+  description: mRNA sequences
+  prior_names:
+   - GCA_046254725.1.modID.transcripts.fna.gz
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.mrna_primary.fna.gz:
+  description: mRNA sequences - longest variant for each gene
+  prior_names:
+   - GCA_046254725.1.modID.transcripts_primary.fna.gz
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.protein.faa.gz:
+  description: Protein sequences
+  prior_names:
+   - GCA_046254725.1.modID.protein.faa.gz
+  applications:
+   - mines
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.protein_primary.faa.gz:
+  description: Protein sequences - longest variant for each gene
+  prior_names:
+   - GCA_046254725.1.modID.protein_primary.faa.gz
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.gff3.gz:
+  description: Primary gene models
+  prior_names:
+   - GCA_046254725.1.modID.genes_exons.gff3.gz
+  applications:
+   - mines
+   - jbrowse-index
+- name: glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.bed.gz:
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - GCA_046254725.1.modID.genes_exons.gff3.gz
