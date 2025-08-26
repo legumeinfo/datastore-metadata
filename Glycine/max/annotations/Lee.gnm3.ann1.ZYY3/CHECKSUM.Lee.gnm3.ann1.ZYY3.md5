@@ -1,7 +1,7 @@
 815eb17e85ba654baca9a7aef0b69a35  ./BUSCO/glyma.Lee.gnm3.ann1.ZYY3.busco.fabales_odb10.full_table.tsv.gz
 7d1f8c29066a96c2c405f0ea04431462  ./BUSCO/glyma.Lee.gnm3.ann1.ZYY3.busco.fabales_odb10.short_summary.json
 9997b68a2c0bbc34b8f5d8c320b87988  ./BUSCO/glyma.Lee.gnm3.ann1.ZYY3.busco.fabales_odb10.short_summary.txt
-e80e8632c38f0c58da472d72c91c2eb8  ./CHANGES.Lee.gnm3.ann1.ZYY3.txt
+93856e65dfc08a3bb54f3be7751138e7  ./CHANGES.Lee.gnm3.ann1.ZYY3.txt
 766cde51b10b3fe6258b2f847aa1f7a4  ./MANIFEST.Lee.gnm3.ann1.ZYY3.yml
 5b98c087114fcf186e5ed09022ac19b2  ./README.Lee.gnm3.ann1.ZYY3.yml
 8f39da602bc1f6f8656806048b229d51  ./glyma.Lee.gnm3.ann1.ZYY3.cds.fna.gz
@@ -10,8 +10,8 @@ be60aac3ab164fe9de9fb030b20c4bd5  ./glyma.Lee.gnm3.ann1.ZYY3.cds.fna.gz.gzi
 a457c0a6207a867cc431249d14d22995  ./glyma.Lee.gnm3.ann1.ZYY3.featid_map.tsv.gz
 94ab994663c5c6a01ee738d4c774757a  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.bed.gz
 cd0cd44aa0256cdf6e2d4e51e153eb96  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.bed.gz.tbi
-caed2a7fe9ae8232481ee280a021df92  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.gff3.gz
-b28e56415f97fe0cca7c1e3cb6fa4ff3  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.gff3.gz.tbi
+be055a53f5969d4dce810f6168a5025c  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.gff3.gz
+4c679ee5c3e25db98340ca3614ef01b6  ./glyma.Lee.gnm3.ann1.ZYY3.gene_models_main.gff3.gz.tbi
 dcebf90f4fcfc956f15f998de6bf40a3  ./glyma.Lee.gnm3.ann1.ZYY3.iprscan.gff3.gz
 311af8e6854ca75079d4a8ec580d9e36  ./glyma.Lee.gnm3.ann1.ZYY3.iprscan.gff3.gz.tbi
 35fdd32bc07438effb21650ce140e5dd  ./glyma.Lee.gnm3.ann1.ZYY3.legfed_v1_0.M65K.gfa.tsv.gz
@@ -22,4 +22,3 @@ dcebf90f4fcfc956f15f998de6bf40a3  ./glyma.Lee.gnm3.ann1.ZYY3.iprscan.gff3.gz
 89e35db9a7ca3443558b7fffe5dde2cd  ./glyma.Lee.gnm3.ann1.ZYY3.protein.faa.gz
 3c4e71efb952f31eaabd63b2b45b20be  ./glyma.Lee.gnm3.ann1.ZYY3.protein.faa.gz.fai
 225a7fdccf5b3f1f4dd7b352ade5f979  ./glyma.Lee.gnm3.ann1.ZYY3.protein.faa.gz.gzi
-e864bf43dbfff6cd986e6c1bbeebfae7  ./glyma.Lee.gnm3.ann1.ZYY3.ahrd_with_descriptions.tsv

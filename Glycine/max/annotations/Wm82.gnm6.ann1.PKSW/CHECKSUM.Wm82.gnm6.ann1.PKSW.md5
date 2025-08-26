@@ -1,9 +1,9 @@
 933dd435490fbdee363d2d6dc40ed045  ./BUSCO/glyma.Wm82.gnm6.ann1.PKSW.busco.fabales_odb10.full_table.tsv.gz
 f75a72c5a1e4b658ddf078fda6a1d7e8  ./BUSCO/glyma.Wm82.gnm6.ann1.PKSW.busco.fabales_odb10.short_summary.json
 9f70c92b700d90ec8969769da2a540d9  ./BUSCO/glyma.Wm82.gnm6.ann1.PKSW.busco.fabales_odb10.short_summary.txt
-7a8a2c98ee8bc1c0ab355aed9c7aa9b5  ./CHANGES.Wm82.gnm6.ann1.PKSW.txt
+57db62b9b3691290be68b270aa32baf8  ./CHANGES.Wm82.gnm6.ann1.PKSW.txt
 9c0a9c2993a11bcc4bba2c08bafa7583  ./MANIFEST.Wm82.gnm6.ann1.PKSW.yml
-92c391988a35488823cd50a5d3012c78  ./README.Wm82.gnm6.ann1.PKSW.yml
+48785b2374756e821f99f1c83f4df72e  ./README.Wm82.gnm6.ann1.PKSW.yml
 68e4fcb761543a1736d639edf9fc324c  ./glyma.Wm82.gnm6.ann1.PKSW.DataReleasePolicy.html
 bb6528469f23d78c70d57a9a4e99668c  ./glyma.Wm82.gnm6.ann1.PKSW.annotation_info.txt.gz
 5a1ff5f774fc3a2f2e3ae5b03f12ccda  ./glyma.Wm82.gnm6.ann1.PKSW.cds.fna.gz
@@ -38,4 +38,3 @@ a365c42d2349c04632d65b27c9de6a39  ./glyma.Wm82.gnm6.ann1.PKSW.protein_primary.fa
 42955d2fa7ac8c3e09b13515ed1cfc6b  ./glyma.Wm82.gnm6.ann1.PKSW.protein_primary.faa.gz.fai
 723b89a1b5f3de260a85037be77e2dbf  ./glyma.Wm82.gnm6.ann1.PKSW.protein_primary.faa.gz.gzi
 709872fc2910431b1e8b7074bfe38c67  ./glyma.Wm82.gnm6.ann1.PKSW.repeatmasked_assembly.gff3.gz
-edb2f22ef7a1ad96aa54649603bd1f05  ./glyma.Wm82.gnm6.ann1.PKSW.ahrd_with_descriptions.tsv

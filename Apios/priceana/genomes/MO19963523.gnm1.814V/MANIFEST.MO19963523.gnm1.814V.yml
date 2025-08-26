@@ -1,0 +1,16 @@
+---
+- name: apipr.MO19963523.gnm1.814V.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: apipr.MO19963523.gnm1.814V.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - Apios.priceana.hap1.genome_softmasked.fna.gz
+- name: apipr.MO19963523.gnm1.814V.genome_main.fna.gz
+  description: Primary genome assembly
+  prior_names:
+   - Apios.priceana.hap1.fna.gz
+  applications:
+   - blast
+   - mines
