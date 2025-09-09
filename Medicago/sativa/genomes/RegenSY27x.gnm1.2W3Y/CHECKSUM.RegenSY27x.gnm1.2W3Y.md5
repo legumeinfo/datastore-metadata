@@ -1,6 +1,6 @@
-fd047d601014117f6e84f76a38d302c7  ./BUSCO/medsa.RegenSY27x.gnm1.busco.fabales_odb10.full_table.tsv.gz
-cf98a785429ef23ecd3a156abb32af7e  ./BUSCO/medsa.RegenSY27x.gnm1.busco.fabales_odb10.short_summary.json
-e3706877ccac4bf7dc22aa52cdc5b010  ./BUSCO/medsa.RegenSY27x.gnm1.busco.fabales_odb10.short_summary.txt
+cf98a785429ef23ecd3a156abb32af7e  ./BUSCO/medsa.RegenSY27x.2W3Y.gnm1.busco.fabales_odb10.short_summary.json
+fd047d601014117f6e84f76a38d302c7  ./BUSCO/medsa.RegenSY27x.gnm1.2W3Y.busco.fabales_odb10.full_table.tsv.gz
+e3706877ccac4bf7dc22aa52cdc5b010  ./BUSCO/medsa.RegenSY27x.gnm1.2W3Y.busco.fabales_odb10.short_summary.txt
 3e2c2c1f5dad81fb3b73a2254a1e4905  ./README.RegenSY27x.gnm1.2W3Y.yml
 7d5dfcc6b3956d4baaadde237657a101  ./medsa.RegenSY27x.gnm1.2W3Y.genome_main.fna.gz
 6b1bf1af077c4e0177743e352e7be5b1  ./medsa.RegenSY27x.gnm1.2W3Y.genome_main.fna.gz.fai
