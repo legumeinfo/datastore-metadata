@@ -16,7 +16,7 @@
         "use_augustus": "False",
         "batch_mode": "False",
         "tar": "False",
-        "in": "/busco_wd/run_busco.bash.iGZM7A/medsa.RegenSY27x.gnm1_hap2.NYFT.genome_main.fna",
+        "in": "/busco_wd/run_busco.bash.plBvh7/medsa.RegenSY27x.gnm1_hap2.NYFT.genome_main.fna",
         "out": "BUSCO_genome_fabales_odb10",
         "mode": "euk_genome_met",
         "lineage_dataset": "/erdos/adf/busco_downloads/lineages/fabales_odb10",
@@ -51,6 +51,12 @@
         "Fragmented": 0.2,
         "Missing": 3.7,
         "n_markers": 5366,
-        "domain": "eukaryota"
+        "domain": "eukaryota",
+        "Number of scaffolds": "1024",
+        "Number of contigs": "1346",
+        "Total length": "789074823",
+        "Percent gaps": "0.009%",
+        "Scaffold N50": "73507436",
+        "Contigs N50": "2935843"
     }
 }
