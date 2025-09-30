@@ -1,0 +1,5 @@
+---
+- name: glyma.Wm82.gnm6.div.Song_Hyten_2015.vcf.gz
+  description: VCF file of the whole U.S. germplasm collection genotyped with SoySNP50K against Williams82 Reference genome a2 (Wm82.a2.v1) and lifted over to Wm82.a6.
+  applications:
+    - jbrowse
