@@ -25,7 +25,7 @@ description: "Files in this directory include the main results for gene families
   the base families by homology. The gene families in the base and sup1 sets correspond by family name; for example,
   Legume.fam3.01000 in the base files is the same family as Legume.fam3.01000 in sup1 (though containing different species sets).
   The A and B sets (baseA, baseB; sup1A, sup1B) designate files (A) and directories/tar-balls (B). Each of the B tar-balls
-  can be extracted to produce a directory of approximately 25,000 gene family files of the indicated ty[e (proteomes, HMM models,
+  can be extracted to produce a directory of approximately 25,000 gene family files of the indicated type (proteomes, HMM models,
   alignments, alignments trimmed of indels, and trees)."
 
 original_file_creation_date: "2024-02-27"
