@@ -22,6 +22,10 @@ supercontig_prefix: HiC_scaffold
 
 description: "This release is from an accession from the Missouri Botanic Garden, from seed collected in 2026 derived from a plant collected by Dr. George Rogers on October 13th, 1987 (1987-3021) in Lee County Mississippi."
 
+bioproject: PRJNA1252084
+
+genbank_accession: GCA_051802555.1
+
 original_file_creation_date: "2025-01-30"
 
 local_file_creation_date: "2025-04-07"

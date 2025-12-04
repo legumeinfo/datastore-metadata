@@ -22,6 +22,10 @@ supercontig_prefix: scaffold
 
 description: "This release is from an accession from Ames, Iowa, LA2127, which is clonally derived from an accession of this name from Dr William Blackmon, from a breeding project that he led in the late 1980s at the University of Louisiana. Sequencing was performed by HudsonAlpha Institute, with the assembly deriving from 191.678 Gb of CCS PacBio Revio sequence."
 
+bioproject: PRJNA1251543
+
+genbank_accession: GCA_051802465.1
+
 original_file_creation_date: "2022-10-01"
 
 local_file_creation_date: "2025-04-07"

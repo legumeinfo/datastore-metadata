@@ -1,0 +1,31 @@
+---
+identifier: Wm82.gnm5.mrk.SoySNP6K
+
+genotyping_platform: SoySNP6K
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+synopsis: "Illumina Infinium SoySNP6K BeadChip, SoySNP6Ks on Wm82 assembly version 1 are mapped on to assembly version 5 with in-house map-markers-to-assembly pipeline."
+
+description: "The limited number of recombinant events in recombinant inbred lines suggests that for a biparental population with a limited number of recombinant inbred lines, it is unnecessary to genotype the lines with many markers. For genomic prediction and selection, previous studies have demonstrated that only 1000–2000 genome-wide common markers across all lines/accessions are needed to reach maximum efficiency of genomic prediction in populations. Evaluation of too many markers will not only increase the cost but also generate redundant information. We developed a soybean (Glycine max) assay, BARCSoySNP6K, containing 6000 markers, which were carefully chosen from the SoySNP50K assay based on their position in the soybean genome and haplotype block, polymorphism among accessions and genotyping quality. The assay includes 5000 single nucleotide polymorphisms (SNPs) from euchromatic and 1000 from heterochromatic regions. The percentage of SNPs with minor allele frequency >0.10 was 95% and 91% in the euchromatic and heterochromatic regions, respectively. Analysis of progeny from two large families genotyped with SoySNP50K versus BARCSoySNP6K showed that the position of the common markers and number of unique bins along linkage maps were consistent based on the SNPs genotyped with the two assays; however, the rate of redundant markers was dramatically reduced with the BARCSoySNP6K. The BARCSoySNP6K assay is proven as an excellent tool for detecting quantitative trait loci, genomic selection and assessing genetic relationships. The assay is commercialized by Illumina Inc. and being used by soybean breeders and geneticists and the list of SNPs in the assay is an ideal resource for SNP genotyping by targeted amplicon sequencing."
+
+publication_doi: 10.1111/tpj.14960
+
+publication_title: "Soybean BARCSoySNP6K: An assay for soybean genetics and breeding research"
+
+contributors: "Qijian Song, Long Yan, Charles Quigley, Edward Fickus, He Wei, Linfeng Chen, Faming Dong, Susan Araya, Jinlong Liu, David Hyten, Vincent Pantalone, Randall L. Nelson"
+
+citation: "Song, Q. et al. Soybean BARCSoySNP6K: An assay for soybean genetics and breeding research. Plant J. 104, 800–811 (2020)"
+
+data_curators: Wei Huang
+
+public_access_level: public
+
+license: Open
