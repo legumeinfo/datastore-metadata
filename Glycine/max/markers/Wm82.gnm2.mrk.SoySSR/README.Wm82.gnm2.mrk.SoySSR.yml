@@ -3,7 +3,7 @@ identifier: Wm82.gnm2.mrk.SoySSR
 
 genotyping_platform: SoySSR
 
-synopsis: "This marker set contains SSRs developed and published by Cregan, et al. in 1999, with names starting with Satt or Sat_. SoySSR on Wm82 assembly version 1 are mapped on to assembly version 2 with in-house map-marker-to assembly pipeline."
+synopsis: "This marker set contains SSRs developed and published by Cregan, et al. in 1999, with names starting with Satt or Sat_. SoySSRs on Wm82 assembly version 1 are mapped on to assembly version 2 with in-house map-marker-to assembly pipeline."
 
 related_to: Wm82.gnm2.DTC4
 
@@ -26,7 +26,7 @@ contributors: "P.B. Cregan, T. Jarvik, A.L. Bush, R.C. Shoemaker, K.G. Lark, A.L
 
 citation: "Cregan, P.B. et al. An Integrated Genetic Linkage Map of the Soybean Genome. Crop Science vol. 39 1464–1490 (1999)"
 
-data_curators: Sam Hokin, Wei Huang
+data_curators: Wei Huang, Sam Hokin
 
 public_access_level: public
 

@@ -3,7 +3,7 @@ identifier: Wm82.gnm4.mrk.SoySSR
 
 genotyping_platform: SoySSR
 
-synopsis: "This marker set contains SSRs developed and published by Cregan, et al. in 1999, with names starting with Satt or Sat_. SoySSR on Wm82 assembly version 1 are mapped on to assembly version 4 with in-house map-marker-to assembly pipeline."
+synopsis: "This marker set contains SSRs developed and published by Cregan, et al. in 1999, with names starting with Satt or Sat_. SoySSRs on Wm82 assembly version 1 are mapped on to assembly version 4 with in-house map-marker-to assembly pipeline."
 
 related_to: Wm82.gnm4.4PTR
 

@@ -1,5 +1,5 @@
 ---
-identifier: Wm82.gnm2.mrk.NJAU355K
+identifier: Wm82.gnm6.mrk.NJAU355K
 
 genotyping_platform: NJAU355K
 
@@ -12,7 +12,7 @@ scientific_name_abbrev: glyma
 genotype:
   - Williams 82
 
-synopsis: "NJAU 355K SoySNP array used to study soybean domestication in Wang, et al. (2016). NJAU355K SoySNP on Wm82 assembly v1 were mapped on to v2 with the in-house map-markers-to-assembly pipeline."
+synopsis: "NJAU 355K SoySNP array used to study soybean domestication in Wang, et al. (2016). NJAU355K SoySNP on Wm82 assembly v1 were mapped on to v6 with the in-house map-markers-to-assembly pipeline."
 
 description: "Domestication of soybeans occurred under the intense human-directed selections aimed at developing high-yielding lines. Tracing the domestication history and identifying the genes underlying soybean domestication require further exploration. Here, we developed a high-throughput NJAU 355K SoySNP array and used this array to study the genetic variation patterns in 367 soybean accessions, including 105 wild soybeans and 262 cultivated soybeans. The population genetic analysis suggests that cultivated soybeans have tended to originate from northern and central China, from where they spread to other regions, accompanied with a gradual increase in seed weight. Genome-wide scanning for evidence of artificial selection revealed signs of selective sweeps involving genes controlling domestication-related agronomic traits including seed weight. To further identify genomic regions related to seed weight, a genome-wide association study (GWAS) was conducted across multiple environments in wild and cultivated soybeans. As a result, a strong linkage disequilibrium region on chromosome 20 was found to be significantly correlated with seed weight in cultivated soybeans. Collectively, these findings should provide an important basis for genomic-enabled breeding and advance the study of functional genomics in soybean."
 
