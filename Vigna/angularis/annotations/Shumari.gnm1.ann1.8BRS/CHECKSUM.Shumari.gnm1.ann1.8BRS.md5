@@ -12,8 +12,8 @@ d49847b4edb25ab954306bd40f73cac1  ./vigan.Shumari.gnm1.ann1.8BRS.cds_primary.fna
 675565e93b373e25bf3f1b719c1623b6  ./vigan.Shumari.gnm1.ann1.8BRS.cds_primary.fna.gz.gzi
 5d30fd596738f21480da5e461addaa47  ./vigan.Shumari.gnm1.ann1.8BRS.gene_models_main.bed.gz
 b40213d5891b42cd25f150734ecef8d8  ./vigan.Shumari.gnm1.ann1.8BRS.gene_models_main.bed.gz.tbi
-67c44a52ac1b3b1699897d93c68d1405  ./vigan.Shumari.gnm1.ann1.8BRS.gene_models_main.gff3.gz
-1d4fbe7b5715171f05bbd099d84b5ac1  ./vigan.Shumari.gnm1.ann1.8BRS.gene_models_main.gff3.gz.tbi
+09899fd08cf53d9234d3c9c230702bcb  ./vigan.Shumari.gnm1.ann1.8BRS.gene_models_main.gff3.gz
+a650797d4ffece182ae9899a0ee30bea  ./vigan.Shumari.gnm1.ann1.8BRS.gene_models_main.gff3.gz.tbi
 78f225fc42e8c77e143d5e1c9cf7537e  ./vigan.Shumari.gnm1.ann1.8BRS.iprscan.gff3.gz
 42ddf02d4453fcda48008c0484e79536  ./vigan.Shumari.gnm1.ann1.8BRS.iprscan.gff3.gz.tbi
 ab539dfc5c95945aef2fcc152c820f11  ./vigan.Shumari.gnm1.ann1.8BRS.legfed_v1_0.M65K.gfa.tsv.gz
@@ -24,6 +24,8 @@ acaecf59df6094b7d7ad3950b711ff06  ./vigan.Shumari.gnm1.ann1.8BRS.mrna.fna.gz.gzi
 2a8644f9128634b76680d0f1c4c41bff  ./vigan.Shumari.gnm1.ann1.8BRS.mrna_primary.fna.gz
 4dfcb7c49926abb07a2dad24030dfac5  ./vigan.Shumari.gnm1.ann1.8BRS.mrna_primary.fna.gz.fai
 acaecf59df6094b7d7ad3950b711ff06  ./vigan.Shumari.gnm1.ann1.8BRS.mrna_primary.fna.gz.gzi
+15243d8c87952e029f3e194d976d255c  ./vigan.Shumari.gnm1.ann1.8BRS.noncoding.gff3.gz
+7d79b9fe32a04d0c284b9db9e26d0fd4  ./vigan.Shumari.gnm1.ann1.8BRS.noncoding.gff3.gz.tbi
 bccb28ece3e4d66cfebe76d61c2b1a10  ./vigan.Shumari.gnm1.ann1.8BRS.protein.faa.gz
 9eebd047f49131ac5b2f37712f8a35e5  ./vigan.Shumari.gnm1.ann1.8BRS.protein.faa.gz.fai
 74a51a6680c371da230e026a123e1141  ./vigan.Shumari.gnm1.ann1.8BRS.protein.faa.gz.gzi

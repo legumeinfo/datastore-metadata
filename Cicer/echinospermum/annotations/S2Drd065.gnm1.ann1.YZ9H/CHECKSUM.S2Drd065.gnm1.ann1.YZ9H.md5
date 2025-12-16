@@ -5,6 +5,8 @@ c40adec554e8971d222a6006fa8a9c9e  ./BUSCO/cicec.S2Drd065.gnm1.ann1.YZ9H.busco.fa
 fef5ce7466a88caf09f7723fed3cd60c  ./MANIFEST.S2Drd065.gnm1.ann1.YZ9H.yml
 d48615baca68b7aa0c4428bf12981a5d  ./README.S2Drd065.gnm1.ann1.YZ9H.yml
 da96c9438b7102fd483dc3db9d970b9f  ./cicec.S2Drd065.gnm1.ann1.YZ9H.cds.fna.gz
+194889f98bbd1450e7d439d42cb11904  ./cicec.S2Drd065.gnm1.ann1.YZ9H.cds.fna.gz.fai
+6a0ddc38e43f8ea881584d4fc805a3e1  ./cicec.S2Drd065.gnm1.ann1.YZ9H.cds.fna.gz.gzi
 a07c494f81368f183c65cb3f9db7eb34  ./cicec.S2Drd065.gnm1.ann1.YZ9H.gcv_genes.gff3.gz
 38535dbad6e8038fad706c73813a65f6  ./cicec.S2Drd065.gnm1.ann1.YZ9H.gene_models_main.bed.gz
 c49bf01348e7ee9e64e4c4822f7978b9  ./cicec.S2Drd065.gnm1.ann1.YZ9H.gene_models_main.bed.gz.tbi
@@ -13,4 +15,8 @@ cfa664937021b5010bdaec1bb3fe3ea5  ./cicec.S2Drd065.gnm1.ann1.YZ9H.gene_models_ma
 a7947b3f301c0e6090045d4d681044d1  ./cicec.S2Drd065.gnm1.ann1.YZ9H.legfed_v1_0.M65K.gfa.tsv.gz
 aa430bb2d0c227d4c72ed7e82f29bce2  ./cicec.S2Drd065.gnm1.ann1.YZ9H.legume.fam3.VLMQ.gfa.tsv.gz
 3201483857acb1a5e4a6ae18c08e3d5d  ./cicec.S2Drd065.gnm1.ann1.YZ9H.mrna.fna.gz
+4395cb07334cbd34337c317957fadef6  ./cicec.S2Drd065.gnm1.ann1.YZ9H.mrna.fna.gz.fai
+5021121e6c18559d2b9cd1248fab5eab  ./cicec.S2Drd065.gnm1.ann1.YZ9H.mrna.fna.gz.gzi
 49eeaf6c58777d736d41f8d2278d553a  ./cicec.S2Drd065.gnm1.ann1.YZ9H.protein.faa.gz
+cd83615bf17aed59981f76d1d336219d  ./cicec.S2Drd065.gnm1.ann1.YZ9H.protein.faa.gz.fai
+1ae7a2161cfe3e67e1156ee5f78debf1  ./cicec.S2Drd065.gnm1.ann1.YZ9H.protein.faa.gz.gzi

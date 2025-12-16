@@ -5,12 +5,14 @@ b2013af6597cba82ea3d3d82dbd35b9b  ./BUSCO/medsa.RegenSY27x.gnm1_hap2.ann1.62BH.b
 0b21eb9f13b6a4a82a34390b70d691ac  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.cds.fna.gz
 8603b50c15f05fdef5d2dd497e5ea486  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.cds.fna.gz.fai
 4eaebfde9c09374883aaa3b10a631556  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.cds.fna.gz.gzi
-0303052067a179f0de4fd0f9c7442b9a  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.gene_models_main.gff3.gz
-93f7026d8f2f98c3120db347dfd7f6ea  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.gene_models_main.gff3.gz.tbi
+019da735bdf9a4d6464270e26a259772  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.gene_models_main.gff3.gz
+06f1b20759bc47731272619c623f1504  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.gene_models_main.gff3.gz.tbi
 bf6d6291b067311543997fe6f53e83dc  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.legume.fam3.VLMQ.gfa.tsv.gz
 21053b7fcbb089093fac7a3ca04725b4  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.mrna.fna.gz
 84b2ce1066fbeeace4d6163bf0c8ad70  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.mrna.fna.gz.fai
 3354c0828d8ae75b4fb06e4f87ed69a9  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.mrna.fna.gz.gzi
+3ec719bf7124bd5351a54a72ca5d463e  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.noncoding.gff3.gz
+d81660fb8dbdde2a24f89ccb30429dc5  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.noncoding.gff3.gz.tbi
 4ae3cf701740b7c391267b5019c715cc  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.protein.faa.gz
 3efbf775b0aadaae529e9fa65e113c2a  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.protein.faa.gz.fai
 e9c826cc2942cded22c11a7771467b13  ./medsa.RegenSY27x.gnm1_hap2.ann1.62BH.protein.faa.gz.gzi

@@ -5,7 +5,11 @@ fd8796ea9dd1b6c21dc79aa3594b5c1e  ./BUSCO/labpu.Highworth.gnm1.ann1.HJ3B.busco.f
 220cbebdb57c936d235532c2e91adb37  ./MANIFEST.Highworth.gnm1.ann1.HJ3B.yml
 395ede9c8e98738a96bd9d2a4dbe25f5  ./README.Highworth.gnm1.ann1.HJ3B.yml
 8e10f03da9fa6d1c2788db114eb06a43  ./labpu.Highworth.gnm1.ann1.HJ3B.cds.fna.gz
+85f915d0f4aa181c498afd3361426c0d  ./labpu.Highworth.gnm1.ann1.HJ3B.cds.fna.gz.fai
+9ec7aa1205c8641549670429c0e8de49  ./labpu.Highworth.gnm1.ann1.HJ3B.cds.fna.gz.gzi
 8e10f03da9fa6d1c2788db114eb06a43  ./labpu.Highworth.gnm1.ann1.HJ3B.cds_primary.fna.gz
+85f915d0f4aa181c498afd3361426c0d  ./labpu.Highworth.gnm1.ann1.HJ3B.cds_primary.fna.gz.fai
+9ec7aa1205c8641549670429c0e8de49  ./labpu.Highworth.gnm1.ann1.HJ3B.cds_primary.fna.gz.gzi
 b647196bc6c9576f34664debb3f0e079  ./labpu.Highworth.gnm1.ann1.HJ3B.featid_map.tsv.gz
 f1b2446c79dffa9bd10848865aaf8a80  ./labpu.Highworth.gnm1.ann1.HJ3B.gene_models_main.bed.gz
 c1307446c4ed3ba8b8b5271694bb8c36  ./labpu.Highworth.gnm1.ann1.HJ3B.gene_models_main.bed.gz.tbi
@@ -17,6 +21,14 @@ dfd66923f401dcbf8520e7d7ffdce908  ./labpu.Highworth.gnm1.ann1.HJ3B.gene_models_w
 d787078e7781a1f87eb30408d28b1f14  ./labpu.Highworth.gnm1.ann1.HJ3B.legfed_v1_0.M65K.gfa.tsv.gz
 4dbb9e70656a532cce3701379aee6e8c  ./labpu.Highworth.gnm1.ann1.HJ3B.legume.fam3.VLMQ.gfa.tsv.gz
 1c26b3fa070f54f5e0bb6f30b70d34e1  ./labpu.Highworth.gnm1.ann1.HJ3B.mrna.fna.gz
+02e404ec7dd2cc6a4d873e97ae3c8db2  ./labpu.Highworth.gnm1.ann1.HJ3B.mrna.fna.gz.fai
+7629246355cb9f66a15823bd462b7de4  ./labpu.Highworth.gnm1.ann1.HJ3B.mrna.fna.gz.gzi
 1c26b3fa070f54f5e0bb6f30b70d34e1  ./labpu.Highworth.gnm1.ann1.HJ3B.mrna_primary.fna.gz
+02e404ec7dd2cc6a4d873e97ae3c8db2  ./labpu.Highworth.gnm1.ann1.HJ3B.mrna_primary.fna.gz.fai
+7629246355cb9f66a15823bd462b7de4  ./labpu.Highworth.gnm1.ann1.HJ3B.mrna_primary.fna.gz.gzi
 23a86c7a8c933bcc15992ebd56edb3f9  ./labpu.Highworth.gnm1.ann1.HJ3B.protein.faa.gz
+70af8b147ffd787bc7b1cfcf02fa35d8  ./labpu.Highworth.gnm1.ann1.HJ3B.protein.faa.gz.fai
+a53f244ddd5de9b63a8d67f250793bae  ./labpu.Highworth.gnm1.ann1.HJ3B.protein.faa.gz.gzi
 23a86c7a8c933bcc15992ebd56edb3f9  ./labpu.Highworth.gnm1.ann1.HJ3B.protein_primary.faa.gz
+70af8b147ffd787bc7b1cfcf02fa35d8  ./labpu.Highworth.gnm1.ann1.HJ3B.protein_primary.faa.gz.fai
+a53f244ddd5de9b63a8d67f250793bae  ./labpu.Highworth.gnm1.ann1.HJ3B.protein_primary.faa.gz.gzi

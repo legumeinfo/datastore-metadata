@@ -12,8 +12,8 @@ e2580974e0a0eed3d480099c42930130  ./glyma.Zh13.gnm2.ann1.FJ3G.cds_primary.fna.gz
 64ef4577e9a7b506b1c403eb63c6aeb3  ./glyma.Zh13.gnm2.ann1.FJ3G.cds_primary.fna.gz.gzi
 86eb19d3a5f1ab5ac24b5857270245c0  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.bed.gz
 429441f7f5ee4ffbb0e63e68ba6dcac3  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.bed.gz.tbi
-b5299e7cf750eab80baadc16fe410c5d  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.gff3.gz
-7f5822a9986f619aa140698b230bb1e1  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.gff3.gz.tbi
+51b79b989884344223aff8dd8755d2ce  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.gff3.gz
+a6dfde58019fb001eac08bdae6d5e6f3  ./glyma.Zh13.gnm2.ann1.FJ3G.gene_models_main.gff3.gz.tbi
 56558d85a184d27c824e665411b83c8d  ./glyma.Zh13.gnm2.ann1.FJ3G.iprscan.gff3.gz
 00aef03c53ff04619fecffa13e36fd04  ./glyma.Zh13.gnm2.ann1.FJ3G.iprscan.gff3.gz.tbi
 a4351888b889c3167677cc3e6f62c301  ./glyma.Zh13.gnm2.ann1.FJ3G.legfed_v1_0.M65K.gfa.tsv.gz
@@ -24,6 +24,8 @@ a727c619eca6c9ac086ee87e27882c8d  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna.fna.gz.fai
 b48bfc9b033edca897332b5bc0d4a6e5  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz
 27a20d96aee77796dedd3bfff2a14db9  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz.fai
 c9c372e8ba1da94047231dda7050b89e  ./glyma.Zh13.gnm2.ann1.FJ3G.mrna_primary.fna.gz.gzi
+b98081ff82bdc7daf2c6a804780cf29f  ./glyma.Zh13.gnm2.ann1.FJ3G.noncoding.gff3.gz
+a7be054252986fdf8a3c427401009de7  ./glyma.Zh13.gnm2.ann1.FJ3G.noncoding.gff3.gz.tbi
 edd5c0b9dcd3f072e32b447c24e83830  ./glyma.Zh13.gnm2.ann1.FJ3G.protein.faa.gz
 83f5e25d2dde528ac87feb78587168ec  ./glyma.Zh13.gnm2.ann1.FJ3G.protein.faa.gz.fai
 28f8b9075c0716c72f2629e0b4c96ad2  ./glyma.Zh13.gnm2.ann1.FJ3G.protein.faa.gz.gzi

@@ -5,6 +5,8 @@ dc6a67ca2a8bc5a061294485fb824e32  ./CHANGES.Besev079.gnm1.ann1.F01Z.txt
 a84eada753223f04ecdb89e59dd0bc5a  ./MANIFEST.Besev079.gnm1.ann1.F01Z.yml
 06f8132d21234c50f48d1abc96e7cec7  ./README.Besev079.gnm1.ann1.F01Z.yml
 0663a42dbb8368edb0527d235922ba95  ./cicre.Besev079.gnm1.ann1.F01Z.cds.fna.gz
+1ff53c3ae7412e6964b57dc7d44f203e  ./cicre.Besev079.gnm1.ann1.F01Z.cds.fna.gz.fai
+ed07be75e10f5fb459b9a6eb3e5ebac5  ./cicre.Besev079.gnm1.ann1.F01Z.cds.fna.gz.gzi
 e4a9ab68db1e07c798982f95a1bad369  ./cicre.Besev079.gnm1.ann1.F01Z.gcv_genes.gff3.gz
 c67ef0f1a935db911cab0c794ae439ba  ./cicre.Besev079.gnm1.ann1.F01Z.gene_models_main.bed.gz
 7bd73dd73fcb8144eaba6f89ec1858af  ./cicre.Besev079.gnm1.ann1.F01Z.gene_models_main.bed.gz.tbi
@@ -13,4 +15,8 @@ d79d8406de728b09ef83d32f41735df8  ./cicre.Besev079.gnm1.ann1.F01Z.gene_models_ma
 33cff98eb0f38b344e438b621a64d0f1  ./cicre.Besev079.gnm1.ann1.F01Z.legfed_v1_0.M65K.gfa.tsv.gz
 aa3b452aabc299906ebbc40dc0a574da  ./cicre.Besev079.gnm1.ann1.F01Z.legume.fam3.VLMQ.gfa.tsv.gz
 a57e98a1a1fff2b460e437c4b64a1240  ./cicre.Besev079.gnm1.ann1.F01Z.mrna.fna.gz
+61de29b4da7e7b4bf912a9f131a661d9  ./cicre.Besev079.gnm1.ann1.F01Z.mrna.fna.gz.fai
+23c944b01263f6b2953091839f44e84d  ./cicre.Besev079.gnm1.ann1.F01Z.mrna.fna.gz.gzi
 d7e15efd2a0209f5d2a48696df68ed9d  ./cicre.Besev079.gnm1.ann1.F01Z.protein.faa.gz
+6d0ea425f248499f488207fde8d70807  ./cicre.Besev079.gnm1.ann1.F01Z.protein.faa.gz.fai
+4aa38934c13d8644c040a3b6408ac9ec  ./cicre.Besev079.gnm1.ann1.F01Z.protein.faa.gz.gzi

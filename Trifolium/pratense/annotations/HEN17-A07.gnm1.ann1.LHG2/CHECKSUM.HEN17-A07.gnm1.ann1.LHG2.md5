@@ -12,8 +12,8 @@ a76f7760ad2b829e6a901f9d7249f279  ./tripr.HEN17-A07.gnm1.ann1.LHG2.cds_primary.f
 d0bbbb165897b2b54d4aac19aabcbaf9  ./tripr.HEN17-A07.gnm1.ann1.LHG2.cds_primary.fna.gz.gzi
 8bf305e08aa34d5bbf59b675bdc5925b  ./tripr.HEN17-A07.gnm1.ann1.LHG2.featid_map.tsv.gz
 b1ff13319dceed0af8fca22bfbeabf01  ./tripr.HEN17-A07.gnm1.ann1.LHG2.gene_models_main.bed.gz
-1cbb364c0c7ed1cec0fc7cbe35ab8d6d  ./tripr.HEN17-A07.gnm1.ann1.LHG2.gene_models_main.gff3.gz
-6cb09aa0f80c4d3f399da02d422429f2  ./tripr.HEN17-A07.gnm1.ann1.LHG2.gene_models_main.gff3.gz.tbi
+118a9aec46e6ec9f307c275545666b97  ./tripr.HEN17-A07.gnm1.ann1.LHG2.gene_models_main.gff3.gz
+a179344946fc96472e529b7daa292ced  ./tripr.HEN17-A07.gnm1.ann1.LHG2.gene_models_main.gff3.gz.tbi
 e9d5e2b0c500c30fa6203c5cf6f5f2f8  ./tripr.HEN17-A07.gnm1.ann1.LHG2.iprscan.gff3.gz
 6d01751fbbbd5d3fdcec76ea1f21fce3  ./tripr.HEN17-A07.gnm1.ann1.LHG2.iprscan.gff3.gz.tbi
 388891887765bf7926aaf34338d72325  ./tripr.HEN17-A07.gnm1.ann1.LHG2.legfed_v1_0.M65K.gfa.tsv.gz
@@ -24,7 +24,8 @@ e9d5e2b0c500c30fa6203c5cf6f5f2f8  ./tripr.HEN17-A07.gnm1.ann1.LHG2.iprscan.gff3.
 20d3bcdf318c15f041a679e632ac3ac1  ./tripr.HEN17-A07.gnm1.ann1.LHG2.mrna_primary.fna.gz
 1dbdc8789ab5fc78608ac0f3a9bed92e  ./tripr.HEN17-A07.gnm1.ann1.LHG2.mrna_primary.fna.gz.fai
 48be10bea82035593e85b13dab9e1bc9  ./tripr.HEN17-A07.gnm1.ann1.LHG2.mrna_primary.fna.gz.gzi
-6c737555b410ee245c724b63c9f9b076  ./tripr.HEN17-A07.gnm1.ann1.LHG2.noncoding.gff3.gz
+26f1c42582cfe15db8dead67a45e8051  ./tripr.HEN17-A07.gnm1.ann1.LHG2.noncoding.gff3.gz
+b22b292713fe31c0ecdd16c3535d7cd0  ./tripr.HEN17-A07.gnm1.ann1.LHG2.noncoding.gff3.gz.tbi
 42e266c3f60ef402a2bd050dea8bf2b3  ./tripr.HEN17-A07.gnm1.ann1.LHG2.protein.faa.gz
 f4281ea7d29ad7e09bb629903bef35b3  ./tripr.HEN17-A07.gnm1.ann1.LHG2.protein.faa.gz.fai
 09f45e62710057b301fd123009ba7037  ./tripr.HEN17-A07.gnm1.ann1.LHG2.protein.faa.gz.gzi

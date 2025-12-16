@@ -12,8 +12,8 @@ c1f318d804f3f72188c82d9b3b9f3953  ./vicvi.HV-30.gnm1.ann1.6WFF.cds_primary.fna.g
 e14831b9150da24deaf340836c306455  ./vicvi.HV-30.gnm1.ann1.6WFF.cds_primary.fna.gz.gzi
 434fbc2c82093ea33ad59985a025c81a  ./vicvi.HV-30.gnm1.ann1.6WFF.featid_map.tsv.gz
 70854289824b5d0172140d6b6a4c0543  ./vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.bed.gz
-fa2c027c570369008d691706c8354adc  ./vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.gff3.gz
-0af08eabdfd873065d90ae9ed4637186  ./vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.gff3.gz.tbi
+d3b54dad32a2718e77d03b483990b736  ./vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.gff3.gz
+48acd30ad7cbeaa346601be7d1d74ca6  ./vicvi.HV-30.gnm1.ann1.6WFF.gene_models_main.gff3.gz.tbi
 4c32abe6161bcf836a29de8b248c80fb  ./vicvi.HV-30.gnm1.ann1.6WFF.iprscan.gff3.gz
 f2fb534b98d7e9430d68ff97e2af6027  ./vicvi.HV-30.gnm1.ann1.6WFF.iprscan.gff3.gz.tbi
 74b391833871bb550f5d4600014df6d8  ./vicvi.HV-30.gnm1.ann1.6WFF.legfed_v1_0.M65K.gfa.tsv.gz
@@ -24,7 +24,8 @@ ca3368e27f533e8d18fd165b40f35db1  ./vicvi.HV-30.gnm1.ann1.6WFF.mrna.fna.gz.gzi
 2e615fba1d3bd343f7269b62e2abe6f4  ./vicvi.HV-30.gnm1.ann1.6WFF.mrna_primary.fna.gz
 2e16e71acbe8777c17ed55b9dc18b809  ./vicvi.HV-30.gnm1.ann1.6WFF.mrna_primary.fna.gz.fai
 b81c81210d5ef4c5f7a69ba697323ea7  ./vicvi.HV-30.gnm1.ann1.6WFF.mrna_primary.fna.gz.gzi
-49082c23dd28950e61485020b352b3f1  ./vicvi.HV-30.gnm1.ann1.6WFF.noncoding.gff3.gz
+15e4852c060c65ac4a1c0641e73c365e  ./vicvi.HV-30.gnm1.ann1.6WFF.noncoding.gff3.gz
+1f5eb745b8162ccd8e58ebdc3a574a95  ./vicvi.HV-30.gnm1.ann1.6WFF.noncoding.gff3.gz.tbi
 21541966e591ec2aa420fbe9d148b0b5  ./vicvi.HV-30.gnm1.ann1.6WFF.protein.faa.gz
 23270b607ebe0c2f796d645fb2021551  ./vicvi.HV-30.gnm1.ann1.6WFF.protein.faa.gz.fai
 815c10b90a5c3ee7d4fb53e5e5b11c17  ./vicvi.HV-30.gnm1.ann1.6WFF.protein.faa.gz.gzi

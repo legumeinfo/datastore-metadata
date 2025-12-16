@@ -15,8 +15,8 @@ c0c47c2439eb93ad9d1b15d441562829  ./glyma.Hwangkeum.gnm1.ann1.1G4F.cds_primary.f
 b43c8760b3d70653fa9d31ea255f98ca  ./glyma.Hwangkeum.gnm1.ann1.1G4F.cds_primary.fna.gz.gzi
 dc40ad7b697d92cc50cc085b673726bd  ./glyma.Hwangkeum.gnm1.ann1.1G4F.gene_models_main.bed.gz
 e14dfb41f65a9f200468c5ad71d7a31d  ./glyma.Hwangkeum.gnm1.ann1.1G4F.gene_models_main.bed.gz.tbi
-84e53e3e9e6a4af44de58d9cdadb4056  ./glyma.Hwangkeum.gnm1.ann1.1G4F.gene_models_main.gff3.gz
-4a56dc4d6146ea816e50c23b4f2dff89  ./glyma.Hwangkeum.gnm1.ann1.1G4F.gene_models_main.gff3.gz.tbi
+b35033d0c0c7cfc7f23d93e2712f521b  ./glyma.Hwangkeum.gnm1.ann1.1G4F.gene_models_main.gff3.gz
+443618a0a28bfdd6735246e0a3dad0be  ./glyma.Hwangkeum.gnm1.ann1.1G4F.gene_models_main.gff3.gz.tbi
 5c7b7f341fa9df898c21f7f450a21367  ./glyma.Hwangkeum.gnm1.ann1.1G4F.iprscan.gff3.gz
 8a7fcbbac553629f16a2bce6ff8c3e5d  ./glyma.Hwangkeum.gnm1.ann1.1G4F.iprscan.gff3.gz.tbi
 871dda88ecc9afdfbb691c45cc729256  ./glyma.Hwangkeum.gnm1.ann1.1G4F.legfed_v1_0.M65K.gfa.tsv.gz
@@ -27,6 +27,8 @@ b04ec05b2a7f698ea710f72330d21ce3  ./glyma.Hwangkeum.gnm1.ann1.1G4F.mrna.fna.gz.f
 343179628cd65c6bd8ccfabf74ce421d  ./glyma.Hwangkeum.gnm1.ann1.1G4F.mrna_primary.fna.gz
 c115c57590552a827477ad9e60cf703f  ./glyma.Hwangkeum.gnm1.ann1.1G4F.mrna_primary.fna.gz.fai
 d6476123a09c59d081bcbd466cff34e2  ./glyma.Hwangkeum.gnm1.ann1.1G4F.mrna_primary.fna.gz.gzi
+e0ee0453820ef762bbb83b2f2f124619  ./glyma.Hwangkeum.gnm1.ann1.1G4F.noncoding.gff3.gz
+eca1e5c67a2bc5b52d1f879769379e6a  ./glyma.Hwangkeum.gnm1.ann1.1G4F.noncoding.gff3.gz.tbi
 3e705d96e21a47961178e3f3bcb2568c  ./glyma.Hwangkeum.gnm1.ann1.1G4F.protein.faa.gz
 3fb59800c87a47bb22719b9a56c1c414  ./glyma.Hwangkeum.gnm1.ann1.1G4F.protein.faa.gz.fai
 d230f8a63e6f2098b4ccd457ce9f00fd  ./glyma.Hwangkeum.gnm1.ann1.1G4F.protein.faa.gz.gzi

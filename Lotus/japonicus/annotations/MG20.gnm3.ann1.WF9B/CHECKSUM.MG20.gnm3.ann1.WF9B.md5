@@ -12,8 +12,8 @@ bcf6571e9602ea2571cb96104cebc911  ./lotja.MG20.gnm3.ann1.WF9B.cds_primary.fna.gz
 3ede040635d721583742c7f8003b37ca  ./lotja.MG20.gnm3.ann1.WF9B.cds_primary.fna.gz.gzi
 c4bca1af92659c6d97a445beadc24498  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.bed.gz
 921f1d1fb3edc91dac8d625d4cd37b7e  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.bed.gz.tbi
-69b9679a0c98087c7feffaf25e39c05c  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz
-be4d39d7d00827e593086c42670f774b  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz.tbi
+e31760e73c1adf39c2eb0363c92a58af  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz
+758a8cb1f966ca6655e10a537f1dc542  ./lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz.tbi
 29c2a503c3f5ecf5d0319474be638faf  ./lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz
 fff8da64f2ca1049414955cc900c8dd3  ./lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz.tbi
 178d6d4771232495fb8c6ce4b1380c30  ./lotja.MG20.gnm3.ann1.WF9B.legfed_v1_0.M65K.gfa.tsv.gz
@@ -29,6 +29,8 @@ c5bc2255302e295b1cb881477292e49b  ./lotja.MG20.gnm3.ann1.WF9B.mrna.fna.gz.fai
 701e5248fb4d2e5ba1ed96e240097d92  ./lotja.MG20.gnm3.ann1.WF9B.mrna_primary.fna.gz
 14494f897352153ccf78b0d58098f028  ./lotja.MG20.gnm3.ann1.WF9B.mrna_primary.fna.gz.fai
 bd8912360530a39594ca0b90d4518739  ./lotja.MG20.gnm3.ann1.WF9B.mrna_primary.fna.gz.gzi
+da84a2e640dacab40d0dfa7f0138a707  ./lotja.MG20.gnm3.ann1.WF9B.noncoding.gff3.gz
+06df3e994f133c136f7b06c0e9a8f356  ./lotja.MG20.gnm3.ann1.WF9B.noncoding.gff3.gz.tbi
 32b50f4c3f40a03060ffd68d694b11b8  ./lotja.MG20.gnm3.ann1.WF9B.phytozome_10_2.HFNR.gfa.tsv.gz
 edcd471f6581812b06a2689de9765d0c  ./lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz
 10d099ed82e17814e42d59639d23bca5  ./lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz.fai

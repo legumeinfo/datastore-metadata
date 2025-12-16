@@ -10,13 +10,15 @@ c4677e52761799a7e0d7f9e891a60362  ./lupal.Amiga.gnm1.ann1.3GKS.cds.fna.gz
 524423cec1394fcb79bd292416e5aa2c  ./lupal.Amiga.gnm1.ann1.3GKS.cds.fna.gz.gzi
 3b7cafe5bfca67cf40248b87062e5c31  ./lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.bed.gz
 ea23ac781534a2ed41008ff177155aa1  ./lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.bed.gz.tbi
-6c1d95f95af6970c6b6140d4279267ad  ./lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.gff3.gz
-b5d46f0abcdf0e671c595d2250e42d4a  ./lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.gff3.gz.tbi
+e6945a9023a09f7d5b380929f9039afa  ./lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.gff3.gz
+f531a97555bc44ff02969815741dcf3d  ./lupal.Amiga.gnm1.ann1.3GKS.gene_models_main.gff3.gz.tbi
 758b4f521c91f7d8cb06adcaaf11c43a  ./lupal.Amiga.gnm1.ann1.3GKS.legfed_v1_0.M65K.gfa.tsv.gz
 ceb474ca6bd0a9ed4295a5d94bbb412b  ./lupal.Amiga.gnm1.ann1.3GKS.legume.fam3.VLMQ.gfa.tsv.gz
 ad4b3e5ba91646d285513667e25d63de  ./lupal.Amiga.gnm1.ann1.3GKS.mrna.fna.gz
 c2f5a353c739d7e7962c660f9c36b685  ./lupal.Amiga.gnm1.ann1.3GKS.mrna.fna.gz.fai
 1290613d353dc311e4723761cb39242d  ./lupal.Amiga.gnm1.ann1.3GKS.mrna.fna.gz.gzi
+d740c1d97a56a229d3eac9a920c02149  ./lupal.Amiga.gnm1.ann1.3GKS.noncoding.gff3.gz
+c4d6d58f521c93ad33e971f9c96b57b0  ./lupal.Amiga.gnm1.ann1.3GKS.noncoding.gff3.gz.tbi
 83ad5f2444b2f5376c7475ecff6b7349  ./lupal.Amiga.gnm1.ann1.3GKS.protein.faa.gz
 02a9018cd249759556095a89c5a7211c  ./lupal.Amiga.gnm1.ann1.3GKS.protein.faa.gz.fai
 02703fc2920ddebeb8cfe072e3e0c1c6  ./lupal.Amiga.gnm1.ann1.3GKS.protein.faa.gz.gzi
