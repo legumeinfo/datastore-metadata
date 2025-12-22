@@ -1,7 +1,7 @@
 b3f3d702f0c6ee9e23add49b5a317527  ./BUSCO/glyma.Fukuyutaka.gnm3.ann1.RWJM.busco.fabales_odb10.full_table.tsv.gz
 b24ff3154da86962d3cd82327e594d7e  ./BUSCO/glyma.Fukuyutaka.gnm3.ann1.RWJM.busco.fabales_odb10.short_summary.json
 5df9f4fe5bdb1b106b5e5db676dfe48b  ./BUSCO/glyma.Fukuyutaka.gnm3.ann1.RWJM.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Fukuyutaka.gnm3.ann1.RWJM.txt
+32a4e00169f3e9ad94945ac84fa6c9d3  ./CHANGES.Fukuyutaka.gnm3.ann1.RWJM.txt
 87b4f9df77f021efdffa0a4d100f251f  ./MANIFEST.Fukuyutaka.gnm3.ann1.RWJM.yml
 0f2406298d77e879edd36b5ca79c0968  ./README.Fukuyutaka.gnm3.ann1.RWJM.yml
 0a45eff814ec65574c2d6281a56208dc  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.cds.fna.gz
@@ -12,10 +12,11 @@ f2494f625c80c22eb67ff8ed20189034  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.cds_primary.
 e1987092dc031a7344a12ca7e9f6d85e  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.cds_primary.fna.gz.gzi
 601e6f0683c9750f7f9749e2e299d2c4  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.featid_map.tsv.gz
 e49ee8f06c7874a9a597c93aba5a4f8e  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.bed.gz
-dfe175e482665d4277dc2f921719cff0  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.gff3.gz
-12d02851c261131d99a4afa656b92586  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.gff3.gz.tbi
+4176df4dfbd836f69d4a53ce951970f5  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.gff3.gz
+c183d0936b75aead78843ed1d50e134d  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.gene_models_main.gff3.gz.tbi
 2bca16762d08c036e4e1a013cfedd11b  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.iprscan.gff3.gz
 4f2d46a682dd7c72b64fe1edb1828030  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.iprscan.gff3.gz.tbi
+3762ae3110a2ae93df31a63d1013273d  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.legfed_v1_0.M65K.gfa.tsv.gz
 6d300a8a1be91640bbed8008a93ac92e  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.legume.fam3.VLMQ.gfa.tsv.gz
 a9879d22c4fead711ac1b5f56e6bb463  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.mrna.fna.gz
 fdfe650e819ab8a46cd614c52ee3db64  ./glyma.Fukuyutaka.gnm3.ann1.RWJM.mrna.fna.gz.fai

@@ -1,7 +1,7 @@
 4b2a36cd4bb8f519eb5d225cc80c0ff5  ./BUSCO/glyma.Kosuzu.gnm3.ann1.4MVB.busco.fabales_odb10.full_table.tsv.gz
 fba4d15bb21d01ff102ea36f31a9eeb4  ./BUSCO/glyma.Kosuzu.gnm3.ann1.4MVB.busco.fabales_odb10.short_summary.json
 5ff6af6d899f1e3cd93f01c427be1143  ./BUSCO/glyma.Kosuzu.gnm3.ann1.4MVB.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Kosuzu.gnm3.ann1.4MVB.txt
+ce7a9640558059b82d6beffec1a1d80b  ./CHANGES.Kosuzu.gnm3.ann1.4MVB.txt
 9e4c184583fb0fbde273012ce600926a  ./MANIFEST.Kosuzu.gnm3.ann1.4MVB.yml
 5e36831601d27a6cf9f2eca9f80e15fa  ./README.Kosuzu.gnm3.ann1.4MVB.yml
 7ec59fad59fde244a696725046eae050  ./glyma.Kosuzu.gnm3.ann1.4MVB.cds.fna.gz
@@ -12,10 +12,11 @@ eacdeac2fa8534562f74e75dac0bb64f  ./glyma.Kosuzu.gnm3.ann1.4MVB.cds_primary.fna.
 aa73fbcb9870b618480b12b2abf81924  ./glyma.Kosuzu.gnm3.ann1.4MVB.cds_primary.fna.gz.gzi
 b90e0084891012e4e8d83ef5185d63a0  ./glyma.Kosuzu.gnm3.ann1.4MVB.featid_map.tsv.gz
 26961936fc3a0a62be13d6b303579d6c  ./glyma.Kosuzu.gnm3.ann1.4MVB.gene_models_main.bed.gz
-d4ad72482a006bc06fa6f7fc10462c6b  ./glyma.Kosuzu.gnm3.ann1.4MVB.gene_models_main.gff3.gz
-8d2c433770c2d620dc5ffc3a7a2861bc  ./glyma.Kosuzu.gnm3.ann1.4MVB.gene_models_main.gff3.gz.tbi
+834fab9ebc90748f06665d9da9491390  ./glyma.Kosuzu.gnm3.ann1.4MVB.gene_models_main.gff3.gz
+dd812cfbeee20a64dcb6f6532367f297  ./glyma.Kosuzu.gnm3.ann1.4MVB.gene_models_main.gff3.gz.tbi
 4ea7db165e9bfac122ea8a7ed0d6655c  ./glyma.Kosuzu.gnm3.ann1.4MVB.iprscan.gff3.gz
 161104496c78fc083de724e2ed4c1a4c  ./glyma.Kosuzu.gnm3.ann1.4MVB.iprscan.gff3.gz.tbi
+f25b8c082b4c4c77e06f270a64a0130c  ./glyma.Kosuzu.gnm3.ann1.4MVB.legfed_v1_0.M65K.gfa.tsv.gz
 bd19ff52a9df144ae80ec426263c53e5  ./glyma.Kosuzu.gnm3.ann1.4MVB.legume.fam3.VLMQ.gfa.tsv.gz
 be5c4b2b5d80335740e288a1d3df1704  ./glyma.Kosuzu.gnm3.ann1.4MVB.mrna.fna.gz
 54005001c0571c701c519d92070d4730  ./glyma.Kosuzu.gnm3.ann1.4MVB.mrna.fna.gz.fai

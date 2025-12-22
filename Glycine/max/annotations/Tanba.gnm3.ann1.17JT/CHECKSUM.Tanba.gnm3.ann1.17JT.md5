@@ -1,7 +1,7 @@
 24f7d4fac952733bc16b13f51881e1e2  ./BUSCO/glyma.Tanba.gnm3.ann1.17JT.busco.fabales_odb10.full_table.tsv.gz
 9e50a8586adcc6688ae2f377ecf1bd85  ./BUSCO/glyma.Tanba.gnm3.ann1.17JT.busco.fabales_odb10.short_summary.json
 d30a3f2816ab6dc0809eba3e86ae53bf  ./BUSCO/glyma.Tanba.gnm3.ann1.17JT.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Tanba.gnm3.ann1.17JT.txt
+f2611a7b89bbc1ed75619c678e8b3ffa  ./CHANGES.Tanba.gnm3.ann1.17JT.txt
 9ee300810f31f0c15b790462edc4cebf  ./MANIFEST.Tanba.gnm3.ann1.17JT.yml
 42a707544d68994b6c04d3b20d01b044  ./README.Tanba.gnm3.ann1.17JT.yml
 83449720a894e552d485d7445c13e908  ./glyma.Tanba.gnm3.ann1.17JT.cds.fna.gz
@@ -12,10 +12,11 @@ ecd2d8f9507dc173c6797781f948833d  ./glyma.Tanba.gnm3.ann1.17JT.cds_primary.fna.g
 45b631834114d0cdf2d2e1e6cd4d282f  ./glyma.Tanba.gnm3.ann1.17JT.cds_primary.fna.gz.gzi
 a2268e2d0e451b2e13a3e1a91ab2a19a  ./glyma.Tanba.gnm3.ann1.17JT.featid_map.tsv.gz
 bffdb81885b60125417c1cf336e63b3d  ./glyma.Tanba.gnm3.ann1.17JT.gene_models_main.bed.gz
-efbc9448a9dd5a0dec5877a51a6c6c4a  ./glyma.Tanba.gnm3.ann1.17JT.gene_models_main.gff3.gz
-79a1448046a24d6e679189d167bfc79d  ./glyma.Tanba.gnm3.ann1.17JT.gene_models_main.gff3.gz.tbi
+96675203a7d18cf9df49c78583dc772a  ./glyma.Tanba.gnm3.ann1.17JT.gene_models_main.gff3.gz
+7439a5fe7aaab0ea2e2ded9802c0c563  ./glyma.Tanba.gnm3.ann1.17JT.gene_models_main.gff3.gz.tbi
 ef1cd9a3566545b5189e17e2d8766892  ./glyma.Tanba.gnm3.ann1.17JT.iprscan.gff3.gz
 af7c9627773de36796e675b9962718e0  ./glyma.Tanba.gnm3.ann1.17JT.iprscan.gff3.gz.tbi
+4289a884419de726dd292efe9ef57b4f  ./glyma.Tanba.gnm3.ann1.17JT.legfed_v1_0.M65K.gfa.tsv.gz
 4d78533662bceac1e8379225fd383266  ./glyma.Tanba.gnm3.ann1.17JT.legume.fam3.VLMQ.gfa.tsv.gz
 13e9ba5af1b381278f7b2bbf9c20e7bf  ./glyma.Tanba.gnm3.ann1.17JT.mrna.fna.gz
 80169fcea04aaebc8212759e0e4b1f6b  ./glyma.Tanba.gnm3.ann1.17JT.mrna.fna.gz.fai

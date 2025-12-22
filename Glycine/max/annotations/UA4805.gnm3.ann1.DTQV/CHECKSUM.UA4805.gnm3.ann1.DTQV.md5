@@ -1,7 +1,7 @@
 992d14ac681345e4dcbf3ff1f65e4e0a  ./BUSCO/glyma.UA4805.gnm3.ann1.DTQV.busco.fabales_odb10.full_table.tsv.gz
 46df5d00e9d2bdd1195223f122cb4967  ./BUSCO/glyma.UA4805.gnm3.ann1.DTQV.busco.fabales_odb10.short_summary.json
 f4ef2d7cf61e517a4489d1f58733ea01  ./BUSCO/glyma.UA4805.gnm3.ann1.DTQV.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.UA4805.gnm3.ann1.DTQV.txt
+66cd1026d16a46c99c2c7e0e4555f7d3  ./CHANGES.UA4805.gnm3.ann1.DTQV.txt
 5c2e65ec795c263604175d43652d6513  ./MANIFEST.UA4805.gnm3.ann1.DTQV.yml
 2c6b42a21cfd99b939596485cc9cd49b  ./README.UA4805.gnm3.ann1.DTQV.yml
 a044df4734b23454abced90e0eb911a2  ./glyma.UA4805.gnm3.ann1.DTQV.cds.fna.gz
@@ -12,10 +12,11 @@ a044df4734b23454abced90e0eb911a2  ./glyma.UA4805.gnm3.ann1.DTQV.cds.fna.gz
 e204faa14319c4dd71cb118cdd108643  ./glyma.UA4805.gnm3.ann1.DTQV.cds_primary.fna.gz.gzi
 c82707899928c691a6da7596d2251548  ./glyma.UA4805.gnm3.ann1.DTQV.featid_map.tsv.gz
 b309d36585599150f879cf7599da676b  ./glyma.UA4805.gnm3.ann1.DTQV.gene_models_main.bed.gz
-b7960ff7587bf1389b776e413d4df3b3  ./glyma.UA4805.gnm3.ann1.DTQV.gene_models_main.gff3.gz
-ae4f186280e48cf296ca6810fe253812  ./glyma.UA4805.gnm3.ann1.DTQV.gene_models_main.gff3.gz.tbi
+bf9e1053f3c950c0b3bc1af1cf10638d  ./glyma.UA4805.gnm3.ann1.DTQV.gene_models_main.gff3.gz
+42771e58a8f6418adc4ea2f47dbaa5e8  ./glyma.UA4805.gnm3.ann1.DTQV.gene_models_main.gff3.gz.tbi
 9ce0b962432e2e46eed55b623519b8f6  ./glyma.UA4805.gnm3.ann1.DTQV.iprscan.gff3.gz
 2b193aac692253addb3bcb30a298b726  ./glyma.UA4805.gnm3.ann1.DTQV.iprscan.gff3.gz.tbi
+afe2d9589b347ecf8aab716638e8b20a  ./glyma.UA4805.gnm3.ann1.DTQV.legfed_v1_0.M65K.gfa.tsv.gz
 56a7dad4619ae68b79cdfe95e6067abb  ./glyma.UA4805.gnm3.ann1.DTQV.legume.fam3.VLMQ.gfa.tsv.gz
 5e22d7bad45fd889189ecaed42b0bfd5  ./glyma.UA4805.gnm3.ann1.DTQV.mrna.fna.gz
 b39a1711e1598895bc4f4f7d23e671e8  ./glyma.UA4805.gnm3.ann1.DTQV.mrna.fna.gz.fai

@@ -1,7 +1,7 @@
 fcb5233f588a30799a8af8591064eede  ./BUSCO/glyma.Himeshirazu.gnm3.ann1.0KJD.busco.fabales_odb10.full_table.tsv.gz
 6aaada07c4dc7c6d814eef8efd5c7389  ./BUSCO/glyma.Himeshirazu.gnm3.ann1.0KJD.busco.fabales_odb10.short_summary.json
 7413d23b8f1353e5c2895d0db07e8de1  ./BUSCO/glyma.Himeshirazu.gnm3.ann1.0KJD.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Himeshirazu.gnm3.ann1.0KJD.txt
+5c90decad58c91883a8ae2fa33a927b9  ./CHANGES.Himeshirazu.gnm3.ann1.0KJD.txt
 bc449c8afd1be5e37cc156451958bb44  ./MANIFEST.Himeshirazu.gnm3.ann1.0KJD.yml
 329b88d16c44a749c459d4fe4de5c519  ./README.Himeshirazu.gnm3.ann1.0KJD.yml
 114a1972a710813a8801d1985395002a  ./glyma.Himeshirazu.gnm3.ann1.0KJD.cds.fna.gz
@@ -12,10 +12,11 @@ b32d9fe71d03d76953a00a52dabe94e5  ./glyma.Himeshirazu.gnm3.ann1.0KJD.cds_primary
 3224c1340cd2c8ca8972ecf0aa24f129  ./glyma.Himeshirazu.gnm3.ann1.0KJD.cds_primary.fna.gz.gzi
 bcfc1e96982770c62d0c63f43530c5cb  ./glyma.Himeshirazu.gnm3.ann1.0KJD.featid_map.tsv.gz
 369d68a02293c12377e12a78755b3219  ./glyma.Himeshirazu.gnm3.ann1.0KJD.gene_models_main.bed.gz
-b049e6d1e08507dcbd176f616f72379e  ./glyma.Himeshirazu.gnm3.ann1.0KJD.gene_models_main.gff3.gz
-f921539ddd18968c1bd0941905f4b0ba  ./glyma.Himeshirazu.gnm3.ann1.0KJD.gene_models_main.gff3.gz.tbi
+b7f222dc2110ae492f6afef28ee5d5c1  ./glyma.Himeshirazu.gnm3.ann1.0KJD.gene_models_main.gff3.gz
+5d79da113585d461385b0df88e7ac026  ./glyma.Himeshirazu.gnm3.ann1.0KJD.gene_models_main.gff3.gz.tbi
 60b58d12d1c8f12c5444e542d6d2f43b  ./glyma.Himeshirazu.gnm3.ann1.0KJD.iprscan.gff3.gz
 01db6196517608dfbf5b2e8b5634ac0f  ./glyma.Himeshirazu.gnm3.ann1.0KJD.iprscan.gff3.gz.tbi
+78ebb36952103c94cb3a24ba1f9a1fef  ./glyma.Himeshirazu.gnm3.ann1.0KJD.legfed_v1_0.M65K.gfa.tsv.gz
 702db2bbd0db44bab0ed6e9ea72889eb  ./glyma.Himeshirazu.gnm3.ann1.0KJD.legume.fam3.VLMQ.gfa.tsv.gz
 ec6e61672b0bc99c0283bed483f99e40  ./glyma.Himeshirazu.gnm3.ann1.0KJD.mrna.fna.gz
 380fa4e68e6345ed427ee415d0ae2bd9  ./glyma.Himeshirazu.gnm3.ann1.0KJD.mrna.fna.gz.fai

@@ -1,7 +1,7 @@
 268ff50adb7599a30e941067497143f6  ./BUSCO/glyma.Enrei.gnm3.ann1.YRG3.busco.fabales_odb10.full_table.tsv.gz
 afb8cca091ebf9a041da98f6ef3f2433  ./BUSCO/glyma.Enrei.gnm3.ann1.YRG3.busco.fabales_odb10.short_summary.json
 172289c9d25e545321c9471f1d832275  ./BUSCO/glyma.Enrei.gnm3.ann1.YRG3.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Enrei.gnm3.ann1.YRG3.txt
+3f9b00da8d3ca556a3e3ba7d57fa7ed3  ./CHANGES.Enrei.gnm3.ann1.YRG3.txt
 f9bb53b8049115cfb13229f78a43fdde  ./MANIFEST.Enrei.gnm3.ann1.YRG3.yml
 e3cf37f9b23282c2a07159e55e6bfba4  ./README.Enrei.gnm3.ann1.YRG3.yml
 6d1217f7734d25d6af1f3945e99d0fde  ./glyma.Enrei.gnm3.ann1.YRG3.cds.fna.gz
@@ -12,10 +12,11 @@ e3cf37f9b23282c2a07159e55e6bfba4  ./README.Enrei.gnm3.ann1.YRG3.yml
 34d5207bf8085699e550e15ad1838b57  ./glyma.Enrei.gnm3.ann1.YRG3.cds_primary.fna.gz.gzi
 18d76900178b44b184cc5e7673346974  ./glyma.Enrei.gnm3.ann1.YRG3.featid_map.tsv.gz
 e21d0d42c4d1e696a972845f2271ef28  ./glyma.Enrei.gnm3.ann1.YRG3.gene_models_main.bed.gz
-5d22e993a57d9dc261c8838e052b82fe  ./glyma.Enrei.gnm3.ann1.YRG3.gene_models_main.gff3.gz
-ebf9cdd0bccc83b050067747e569310c  ./glyma.Enrei.gnm3.ann1.YRG3.gene_models_main.gff3.gz.tbi
+9aa2428f17faa812af89eeb55a7fc031  ./glyma.Enrei.gnm3.ann1.YRG3.gene_models_main.gff3.gz
+78564c3784a05566cd134e7faefaa83e  ./glyma.Enrei.gnm3.ann1.YRG3.gene_models_main.gff3.gz.tbi
 f5e455990f03bcd174f74eac26bdd0f6  ./glyma.Enrei.gnm3.ann1.YRG3.iprscan.gff3.gz
 b4f3f7538cb7662ba013a1b1cf6d3d12  ./glyma.Enrei.gnm3.ann1.YRG3.iprscan.gff3.gz.tbi
+eadffb6cced5bf5a373b65622998638c  ./glyma.Enrei.gnm3.ann1.YRG3.legfed_v1_0.M65K.gfa.tsv.gz
 1d0de4ab8122fd164659adda4a47f0bc  ./glyma.Enrei.gnm3.ann1.YRG3.legume.fam3.VLMQ.gfa.tsv.gz
 5176e109cdc9e0f28d1913a28fc678f8  ./glyma.Enrei.gnm3.ann1.YRG3.mrna.fna.gz
 10a35e4573b4fe39b4589d193d823ed9  ./glyma.Enrei.gnm3.ann1.YRG3.mrna.fna.gz.fai

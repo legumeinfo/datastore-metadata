@@ -1,7 +1,7 @@
 2dc726827905dbc1ebd0aa7a98ae58db  ./BUSCO/glyma.Miyagishirome.gnm3.ann1.P8QZ.busco.fabales_odb10.full_table.tsv.gz
 01f2dfaae9bac2472a593f854899201d  ./BUSCO/glyma.Miyagishirome.gnm3.ann1.P8QZ.busco.fabales_odb10.short_summary.json
 905259cb3b7bd9556e4ce35018273e44  ./BUSCO/glyma.Miyagishirome.gnm3.ann1.P8QZ.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Miyagishirome.gnm3.ann1.P8QZ.txt
+9dedcbd9d6c1fe44e5d45efaaa458556  ./CHANGES.Miyagishirome.gnm3.ann1.P8QZ.txt
 f1675ee3c22e949b2742c7324eec13a7  ./MANIFEST.Miyagishirome.gnm3.ann1.P8QZ.yml
 68b132dfa3fe28d88c27016d39ed6cc7  ./README.Miyagishirome.gnm3.ann1.P8QZ.yml
 6aba811bf92908f35ebc773c3406e240  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.cds.fna.gz
@@ -12,10 +12,11 @@ f1675ee3c22e949b2742c7324eec13a7  ./MANIFEST.Miyagishirome.gnm3.ann1.P8QZ.yml
 9e6629e56a8f0238ca5dd76f448193e5  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.cds_primary.fna.gz.gzi
 5576e971673163a51a93ba07e019620a  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.featid_map.tsv.gz
 b2b586f85c6ad88b7514504f9dbb79ef  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.gene_models_main.bed.gz
-4c2a5382cd42101a8bc9a99a26b3cb23  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.gene_models_main.gff3.gz
-200528c9358c3c30a4e8686762295177  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.gene_models_main.gff3.gz.tbi
+20dcea9605a2a9b662f2d66610b146f0  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.gene_models_main.gff3.gz
+53f940824656222dc508091983a5e38a  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.gene_models_main.gff3.gz.tbi
 69270c3f6beaed611a9320c4caf5ce95  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.iprscan.gff3.gz
 c92f00d9a5892269720fdb44c08a113b  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.iprscan.gff3.gz.tbi
+9ccd6f3f8ea8788c43cfcc74fdb7b55d  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.legfed_v1_0.M65K.gfa.tsv.gz
 1396ebd36b5ae0dee4869e3d7b264882  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.legume.fam3.VLMQ.gfa.tsv.gz
 28516bb61593927aa81f1c56e74d2d7f  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.mrna.fna.gz
 b1847ab7a8670183cdd518386aaed55e  ./glyma.Miyagishirome.gnm3.ann1.P8QZ.mrna.fna.gz.fai

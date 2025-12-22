@@ -1,7 +1,7 @@
 d7c465aa2a88869dfb25b00f91616398  ./BUSCO/glyma.Harosoy.gnm3.ann1.R35Y.busco.fabales_odb10.full_table.tsv.gz
 db40e9a451a2ddc6c9a87a502746868e  ./BUSCO/glyma.Harosoy.gnm3.ann1.R35Y.busco.fabales_odb10.short_summary.json
 c351fc9ee7388d479528f96c4da745ee  ./BUSCO/glyma.Harosoy.gnm3.ann1.R35Y.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Harosoy.gnm3.ann1.R35Y.txt
+6de9a572bf9f210becc7a33d794d81b0  ./CHANGES.Harosoy.gnm3.ann1.R35Y.txt
 feaa4fbf1bde60e8338c7d372c889492  ./MANIFEST.Harosoy.gnm3.ann1.R35Y.yml
 24171176758527f9c8eebc524e32b560  ./README.Harosoy.gnm3.ann1.R35Y.yml
 9b4f9c6ddda6ca73b7c4750923be55bb  ./glyma.Harosoy.gnm3.ann1.R35Y.cds.fna.gz
@@ -12,10 +12,11 @@ b369754bb709e2a04d3dc8cddada7fe7  ./glyma.Harosoy.gnm3.ann1.R35Y.cds_primary.fna
 04bb5bf1b2655c5cadfb6f393137cb50  ./glyma.Harosoy.gnm3.ann1.R35Y.cds_primary.fna.gz.gzi
 b6f8ab050b4fc5b2f093e2b10082f99b  ./glyma.Harosoy.gnm3.ann1.R35Y.featid_map.tsv.gz
 ee04024917a6ff5fdda95a2a731110a5  ./glyma.Harosoy.gnm3.ann1.R35Y.gene_models_main.bed.gz
-863a67b1843fe3f8a12132aeb635eb65  ./glyma.Harosoy.gnm3.ann1.R35Y.gene_models_main.gff3.gz
-1da95e7997b2a6633dd074a2e98e4f8a  ./glyma.Harosoy.gnm3.ann1.R35Y.gene_models_main.gff3.gz.tbi
+936a19def158986d1f441baffc9cba8d  ./glyma.Harosoy.gnm3.ann1.R35Y.gene_models_main.gff3.gz
+4e1379c26f40ea7c2e82a6f4107b0769  ./glyma.Harosoy.gnm3.ann1.R35Y.gene_models_main.gff3.gz.tbi
 5e8a964bbd153c400ef4fa1e1c30b705  ./glyma.Harosoy.gnm3.ann1.R35Y.iprscan.gff3.gz
 89a6ce902a56a6a2b3e376467098087a  ./glyma.Harosoy.gnm3.ann1.R35Y.iprscan.gff3.gz.tbi
+699238c2b0f4c89f205e1be96356cb6d  ./glyma.Harosoy.gnm3.ann1.R35Y.legfed_v1_0.M65K.gfa.tsv.gz
 f3c2d8447cbbc5f2c2499cbf28433cb6  ./glyma.Harosoy.gnm3.ann1.R35Y.legume.fam3.VLMQ.gfa.tsv.gz
 62dc43f537d992c12259e9c2f3118f8c  ./glyma.Harosoy.gnm3.ann1.R35Y.mrna.fna.gz
 09abc08e37e7ba7b88033d45ec5ed2db  ./glyma.Harosoy.gnm3.ann1.R35Y.mrna.fna.gz.fai

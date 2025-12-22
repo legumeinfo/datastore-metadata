@@ -1,7 +1,7 @@
 4b72860f9d56e159f7075922f531f5b9  ./BUSCO/glyma.Jack.gnm3.ann1.S50K.busco.fabales_odb10.full_table.tsv.gz
 1a954469379e56098d255fa68bdc0bc4  ./BUSCO/glyma.Jack.gnm3.ann1.S50K.busco.fabales_odb10.short_summary.json
 ed8104d3f6781f7917ee1faad7e6a531  ./BUSCO/glyma.Jack.gnm3.ann1.S50K.busco.fabales_odb10.short_summary.txt
-59b1b937b0d44cfffbf15a1a967ca659  ./CHANGES.Jack.gnm3.ann1.S50K.txt
+716397bf7929af0755423a3d3bfeadcd  ./CHANGES.Jack.gnm3.ann1.S50K.txt
 150153debd859f8cc0bff230bc1c21b1  ./MANIFEST.Jack.gnm3.ann1.S50K.yml
 9c5935359b5a3b22e7b45f3e65a8d14a  ./README.Jack.gnm3.ann1.S50K.yml
 4b2968b4894d75d8472051fc0f988832  ./glyma.Jack.gnm3.ann1.S50K.cds.fna.gz
@@ -12,10 +12,11 @@ c0d5cf886e5bde6dbd23703f0136f925  ./glyma.Jack.gnm3.ann1.S50K.cds.fna.gz.gzi
 d2baaa7a74727180b7eb01999d5be093  ./glyma.Jack.gnm3.ann1.S50K.cds_primary.fna.gz.gzi
 c107c561b441d7760415870501f4e2bb  ./glyma.Jack.gnm3.ann1.S50K.featid_map.tsv.gz
 8df1e3ad66e8e29ca2546745c912bf0e  ./glyma.Jack.gnm3.ann1.S50K.gene_models_main.bed.gz
-facf2660d5e13c91d64ecc99289368e7  ./glyma.Jack.gnm3.ann1.S50K.gene_models_main.gff3.gz
-8458dc0cee2a0ef3e7473182df238646  ./glyma.Jack.gnm3.ann1.S50K.gene_models_main.gff3.gz.tbi
+679b4f6ebf2273af03403065b41a7f30  ./glyma.Jack.gnm3.ann1.S50K.gene_models_main.gff3.gz
+c852851e2021db339cc771cb90ff14a4  ./glyma.Jack.gnm3.ann1.S50K.gene_models_main.gff3.gz.tbi
 87877aa33850e2b5a976d8ed21f0eb12  ./glyma.Jack.gnm3.ann1.S50K.iprscan.gff3.gz
 f5026d5a09ae0555813a0537e057c413  ./glyma.Jack.gnm3.ann1.S50K.iprscan.gff3.gz.tbi
+ff5853ff07afb9e90085940084e60786  ./glyma.Jack.gnm3.ann1.S50K.legfed_v1_0.M65K.gfa.tsv.gz
 82dd9656645227c6c4f6317c43ae574c  ./glyma.Jack.gnm3.ann1.S50K.legume.fam3.VLMQ.gfa.tsv.gz
 3325042bf66ae89f8c0cacbfa56a3d51  ./glyma.Jack.gnm3.ann1.S50K.mrna.fna.gz
 860d99e0c9e59afb7863464b0015ac7e  ./glyma.Jack.gnm3.ann1.S50K.mrna.fna.gz.fai
