@@ -28,17 +28,17 @@ local_file_creation_date: "2025-01-10"
 
 dataset_release_date: "2025-05-01"
 
-publication_doi: XX
+publication_doi: 10.1038/s41588-025-02113-5
 
-publication_title: "XX"
+publication_title: "The genomic landscape of gene-level structural variations in Japanese and global soybean Glycine max cultivars"
 
-contributors: XX
+contributors: Yano, Li, Hiraga, Takeshima, Kobayashi, Toda, Umehara, Kajiya-Kanegae, Iwata, Kaga, Ishimoto
 
-citation: "XX"
+citation: "Yano, R., Li, F., Hiraga, S. et al. The genomic landscape of gene-level structural variations in Japanese and global soybean Glycine max cultivars. Nat Genet (2025). https://doi.org/10.1038/s41588-025-02113-5"
 
 data_curators: Steven Cannon, Jacqueline Campbell, Rex Nelson
 
-public_access_level: privateXX
+public_access_level: public
 
 license: open
 
