@@ -1,6 +1,6 @@
 ---
 - name: Glycine.pan6.RLVN.clust.tsv.gz
-  description: Pan-gene sets, in cluster format: ID in first column, followed by tab-separated gene list.
+  description: Pan-gene sets, in cluster format; ID in first column, followed by tab-separated gene list.
   prior_names:
    - 18_syn_pan_aug_extra.clust.tsv
 - name: Glycine.pan6.RLVN.counts.tsv.gz
