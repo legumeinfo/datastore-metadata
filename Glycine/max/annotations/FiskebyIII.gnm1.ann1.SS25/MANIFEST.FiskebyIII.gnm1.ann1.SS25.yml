@@ -1,0 +1,62 @@
+---
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - GmaxFiskeby_678_v1.1.cds_primaryTranscriptOnly.fa.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.defline.txt.gz
+  description: Defline for genes
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_exons.gff3.gz
+  description: Gene models, with exon features
+  applications:
+   - mines
+  prior_names:
+   - GmaxFiskeby_678_v1.1.gene_exons.gff3.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - GmaxFiskeby_678_v1.1.gene.gff3.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.info_annot.txt.gz
+  description: Annotation information
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - GmaxFiskeby_678_v1.1.transcript_primaryTranscriptOnly.fa.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - GmaxFiskeby_678_v1.1.transcript.fa.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - GmaxFiskeby_678_v1.1.protein_primaryTranscriptOnly.fa.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GmaxFiskeby_678_v1.1.protein.fa.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.reference_locus.txt.gz
+  description: MISSING
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.repeatmasked_assembly_v1.0.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - GmaxFiskeby_678_v1.1.repeatmasked_assembly_v1.0.gff3.gz
+- name: glyma.FiskebyIII.gnm1.ann1.SS25.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

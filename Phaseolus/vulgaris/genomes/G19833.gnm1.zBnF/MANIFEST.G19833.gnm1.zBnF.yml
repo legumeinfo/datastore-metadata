@@ -1,0 +1,14 @@
+---
+- name: phavu.G19833.gnm1.zBnF.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+- name: phavu.G19833.gnm1.zBnF.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Pvulgaris_218.fa.gz
+- name: phavu.G19833.gnm1.zBnF.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - Pvulgaris_218.softmasked.fa.gz

@@ -1,0 +1,28 @@
+---
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.gcv_genes.gff3.gz
+  description: MISSING
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: cicar.CDCFrontier.gnm3.ann1.NPD7.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

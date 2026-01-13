@@ -1,0 +1,12 @@
+---
+- name: glyma.Ooyachi2.gnm3.3469.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: glyma.Ooyachi2.gnm3.3469.genome_main.fna.gz
+  description: Primary genome assembly
+  prior_names:
+   - GCA_046254675.1.modID.genome.fasta.gz
+  applications:
+   - blast
+   - mines

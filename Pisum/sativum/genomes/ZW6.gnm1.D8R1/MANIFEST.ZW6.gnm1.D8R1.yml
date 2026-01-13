@@ -1,0 +1,12 @@
+---
+- name: pissa.ZW6.gnm1.D8R1.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: pissa.ZW6.gnm1.D8R1.genome_main.fna.gz
+  description: Primary genome assembly
+  prior_names:
+   - pea.assembly.ZW6.RC2.genome.fna.gz
+  applications:
+   - blast
+   - mines

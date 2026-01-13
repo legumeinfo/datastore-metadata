@@ -1,0 +1,8 @@
+---
+- name: aesev.CIAT22838.gnm1.XF73.gcv_genome.gff3.gz
+  description: gff of assembly molecule sizes
+- name: aesev.CIAT22838.gnm1.XF73.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

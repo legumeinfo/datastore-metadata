@@ -1,0 +1,6 @@
+---
+- name: lotja.MG20.gnm3.QPGB.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

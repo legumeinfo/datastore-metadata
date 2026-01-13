@@ -19,7 +19,7 @@ resources:
     URL: "https://gcv.legumeinfo.org/gene;lis=glyma.Glyma.15G255600?q=Glyma.15G255600&sources=lis&algorithm=repeat&match=10&mismatch=-1&gap=-1&score=30&threshold=25&bmatched=20&bintermediate=10&bmask=10&linkage=average&cthreshold=20&neighbors=10&matched=4&intermediate=5&bregexp=&border=chromosome&regexp=&order=distance"
     description: "Browser for dynamically discovering and viewing genomic synteny across selected species."
   - name: Grin Data Explorer
-    URL: "https://soybase.org/grindata/"
+    URL: "https://legacy.soybase.org/grindata/"
     description: "Tool to facilitate searches of GRIN Descriptor Data"
 strains:
   - identifier: Wm82
@@ -240,7 +240,67 @@ strains:
     description: Landrace Zi Hua No.4 (SoyL02 from China, Hei Long Jiang, from Liu et al. 2020
   - identifier: Wm82_NJAU
     accession: Wm82_NJAU
-    accession_group: 
-    name: "Williams 82 Nanjing Agricultural University"
-    origin: "Nanjing Agricultural University"
+    accession_group: Wang, Zhang et al. 2023
+    name: Williams 82 Nanjing Agricultural University
+    origin: Nanjing Agricultural University
     description: "Williams 82 sequenced for T2T assembly of Wang, Zhang et al. 2023"
+  - identifier: Enrei
+    accession: GCA_046254735.1
+    accession_group: Yano, Li et al., 2025
+    name: Enrei
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: Modern Japanese soybean cultivar and a reference genome for studying Japanese soybean genetics.
+  - identifier: Fukuyutaka
+    accession: GCA_046254725.1
+    accession_group: Yano, Li et al., 2025
+    name: Fukuyutaka
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: A modern Japanese soybean cultivar and is one of most produced soybeans in Japan.
+  - identifier: Himeshirazu
+    accession: GCA_046254705.1
+    accession_group: Yano, Li et al., 2025
+    name: Himeshirazu
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: Old cultivar within Japanese soybean cultivars
+  - identifier: Jack
+    accession: PI 540556
+    accession_group: Yano, Li et al., 2025
+    name: Jack
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: The Jack cultivar was developed in USA and is known for its resistance to SCN.
+  - identifier: Kosuzu
+    accession: GCA_04254715.1
+    accession_group: Yano, Li et al., 2025
+    name: Kosuzu
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: A modern Japanese soybean cultivar and highlights the diversity in seed size within Japan.
+  - identifier: Miyagishirome
+    accession: GCA_046254695.1
+    accession_group: Yano, Li et al., 2025
+    name: Miyagishirome
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: Old cultivar within Japanese soybean cultivars and known for large seed size.
+  - identifier: Ooyachi-2
+    accession: GCA_046254675.1
+    accession_group: Yano, Li et al., 2025
+    name: Ooyachi-2
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: Old cultivar within Japanese soybean cultivars
+  - identifier: Peking
+    accession: PI 548402
+    accession_group: Yano, Li et al., 2025
+    name: Peking
+    origin: Beijing Shi, China
+    description: Peking Cultivar in Yano, Li et al., 2025
+  - identifier: Tanba
+    accession: GCA_046254615.1
+    accession_group: Yano, Li et al., 2025
+    name: Tanba
+    origin: Japan, Japanese National Agriculture and Food Research Organization
+    description: Landrance from Japanese cultivars collection
+  - identifier: UA4805
+    accession: PI 639187
+    accession_group: Yano, Li et al., 2025
+    name: UA4805
+    origin: Arkansas, United States
+    description: Developed by the Arkansas Agricultural Experiment Station and has a high seed yield.

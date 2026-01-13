@@ -1,0 +1,6 @@
+---
+- name: pissa.Cameor.gnm1.P4FG.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

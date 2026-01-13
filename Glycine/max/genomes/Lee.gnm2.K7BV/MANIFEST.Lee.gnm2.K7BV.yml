@@ -1,0 +1,8 @@
+---
+- name: glyma.Lee.gnm2.K7BV.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gma.genome.fa

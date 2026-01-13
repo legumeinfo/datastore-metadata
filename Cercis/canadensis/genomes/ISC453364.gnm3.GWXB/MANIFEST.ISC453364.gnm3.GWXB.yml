@@ -1,0 +1,20 @@
+---
+- name: cerca.ISC453364.gnm3_hap2.B489.genome.fna.gz
+  description: Genome assembly; not primary
+- name: cerca.ISC453364.gnm3.GWXB.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+  prior_names:
+   - Ccanadensis_705_V3.0.hardmasked.fa.gz
+- name: cerca.ISC453364.gnm3.GWXB.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Ccanadensis_705_V3.0.fa.gz
+- name: cerca.ISC453364.gnm3.GWXB.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - Ccanadensis_705_V3.0.softmasked.fa.gz
+- name: cerca.ISC453364.gnm3.GWXB.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

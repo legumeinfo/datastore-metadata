@@ -1,0 +1,30 @@
+---
+- name: glyma.Wm82.gnm4.4PTR.BspQI_01_EXP_REFINEFINAL1.cmap.gz
+  description: Bionano data
+  prior_names:
+   - Wm82_BspQI_01_EXP_REFINEFINAL1.cmap
+- name: glyma.Wm82.gnm4.4PTR.BspQI_Molecules.bnx.gz
+  description: Bionano data
+  prior_names:
+   - Wm82_BspQI_Molecules.bnx
+- name: glyma.Wm82.gnm4.4PTR.BssSI_01_EXP_REFINEFINAL1.cmap.gz
+  description: Bionano data
+  prior_names:
+   - Wm82_BssSI_01_EXP_REFINEFINAL1.cmap
+- name: glyma.Wm82.gnm4.4PTR.BssSI_Molecules.bnx.gz
+  description: Bionano data
+  prior_names:
+   - Wm82_BssSI_Molecules.bnx
+- name: glyma.Wm82.gnm4.4PTR.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+  prior_names:
+   - Gmax_508_v4.0.hardmasked.fa.gz
+- name: glyma.Wm82.gnm4.4PTR.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: glyma.Wm82.gnm4.4PTR.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - Gmax_508_v4.0.softmasked.fa.gz

@@ -1,0 +1,80 @@
+---
+- name: medsa.XinJiangDaYe_hap1.gnm1.ann1.RKB9.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap1.gnm1.ann1.RKB9.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medsa.XinJiangDaYe_hap1.gnm1.ann1.RKB9.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap2.gnm1.ann1.RKB9.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap2.gnm1.ann1.RKB9.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medsa.XinJiangDaYe_hap2.gnm1.ann1.RKB9.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap3.gnm1.ann1.RKB9.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap3.gnm1.ann1.RKB9.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medsa.XinJiangDaYe_hap3.gnm1.ann1.RKB9.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.phytozome_10_2.HFNR.gfa.tsv.gz
+  description: gene family assignments
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.repeats.gff3.gz
+  description: Repeat-masking coordinates
+- name: medsa.XinJiangDaYe.gnm1.ann1.RKB9.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

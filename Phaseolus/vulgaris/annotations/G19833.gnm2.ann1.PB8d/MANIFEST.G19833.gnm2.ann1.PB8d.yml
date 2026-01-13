@@ -1,0 +1,40 @@
+---
+- name: phavu.G19833.gnm2.ann1.PB8d.cds_primary.fna.gz
+  description: CDS sequences - primary only
+- name: phavu.G19833.gnm2.ann1.PB8d.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: phavu.G19833.gnm2.ann1.PB8d.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: phavu.G19833.gnm2.ann1.PB8d.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: phavu.G19833.gnm2.ann1.PB8d.info_annot.txt.gz
+  description: Annotation information
+- name: phavu.G19833.gnm2.ann1.PB8d.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: phavu.G19833.gnm2.ann1.PB8d.locus_mrna_name_map.txt.gz
+  description: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
+- name: phavu.G19833.gnm2.ann1.PB8d.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: phavu.G19833.gnm2.ann1.PB8d.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: phavu.G19833.gnm2.ann1.PB8d.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: phavu.G19833.gnm2.ann1.PB8d.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: phavu.G19833.gnm2.ann1.PB8d.repeatmasking.gff3.gz
+  description: Repeat-masking coordinates
+- name: phavu.G19833.gnm2.ann1.PB8d.synonym.txt.gz
+  description: Name correspondences between Wm82.a1.v1 and Wm82.a2.v1 annotations
+- name: phavu.G19833.gnm2.ann1.PB8d.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

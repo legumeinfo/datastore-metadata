@@ -1,0 +1,43 @@
+---
+identifier: OK5.tcp.WDXM
+
+provenance: "The files in this directory originated from http://legumeinfo.org. The Legumeinfo repository is considered the primary repository and authoritative. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "http://legumeinfo.org/"
+
+synopsis: "Illumina reads (46-base), from shoot tips (ages 24-31) from an Oklahoma ecotype of Chamaecrista fasciculata, described in Singer et al., 2009"
+
+scientific_name: Chamaecrista fasciculata
+
+taxid: 53854
+
+bioproject: PRJNA291488
+
+scientific_name_abbrev: chafa
+
+genotype:
+  - OK5
+
+description: "Files in this directory are transcript reads of shoot tips (ages 24-31) from an Oklahoma accession of Chamaecrista fasciculata."
+
+original_file_creation_date: "2008-12-01"
+
+local_file_creation_date: "2025-09-15"
+
+publication_doi: 10.1104/pp.109.144774
+
+dataset_release_date: "2025-09-15"
+
+publication_title: "Venturing Beyond Beans and Peas: What Can We Learn from Chamaecrista?"
+
+contributors: "Singer SR, Maki SL, Farmer AD, Ilut D, May GD, Cannon SB, Doyle JJ."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Transcriptome, gene expression, Chamaecrista fasciculata, partridge pea
+
+citation: "Singer SR, Maki SL, Farmer AD, Ilut D, May GD, Cannon SB, Doyle JJ. Venturing beyond beans and peas: what can we learn from Chamaecrista? Plant Physiol. 2009 Nov;151(3):1041-7. doi: 10.1104/pp.109.144774. Epub 2009 Sep 15. PMID: 19755538; PMCID: PMC2773047."

@@ -1,0 +1,12 @@
+---
+- name: glyma.Miyagishirome.gnm3.5Z0W.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: glyma.Miyagishirome.gnm3.5Z0W.genome_main.fna.gz
+  description: Primary genome assembly
+  prior_names:
+   - GCA_046254695.1.modID.genome.fasta.gz
+  applications:
+   - blast
+   - mines

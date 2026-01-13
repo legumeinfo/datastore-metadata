@@ -1,0 +1,54 @@
+---
+- name: aradu.V14167.gnm1.ann1.cxSM.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: aradu.V14167.gnm1.ann1.cxSM.gene_models_lowqual_or_TE.gff.gz
+  description: Gene models, low quality or transposable elements
+  prior_names:
+   - Aradu.V14167.a1.M1.genemodels.gff.lowqual_or_TE
+- name: aradu.V14167.gnm1.ann1.cxSM.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: aradu.V14167.gnm1.ann1.cxSM.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: aradu.V14167.gnm1.ann1.cxSM.info_AED_scores.txt.gz
+  description: MAKER quality scores
+  prior_names:
+   - Aradu.V14167.a1.M1.AED_scores
+- name: aradu.V14167.gnm1.ann1.cxSM.info_annot_AHRD_full.txt.gz
+  description: annotation from the AHRD pipeline
+  prior_names:
+   - Aradu.V14167.a1.M1.AHRD.csv
+- name: aradu.V14167.gnm1.ann1.cxSM.info_annot_AHRD_slim.txt.gz
+  description: annotation from the AHRD pipeline - simplified
+  prior_names:
+   - Aradu.V14167.a1.M1.AHRD.slim
+- name: aradu.V14167.gnm1.ann1.cxSM.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: aradu.V14167.gnm1.ann1.cxSM.mrna_lowqual_or_TE.fna.gz
+  description: transcript sequences - low quality or transposable elements
+  prior_names:
+   - Aradu.V14167.a1.M1.transcript.fa.lowqual_or_TE
+- name: aradu.V14167.gnm1.ann1.cxSM.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - Aradu.V14167.a1.M1.transcript.fa
+- name: aradu.V14167.gnm1.ann1.cxSM.protein_lowqual_or_TE.faa.gz
+  description: protein sequence - low-quality or TE elements
+  prior_names:
+   - Aradu.V14167.a1.M1.peptide.fa.lowqual_or_TE
+- name: aradu.V14167.gnm1.ann1.cxSM.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Aradu.V14167.a1.M1.peptide.fa
+- name: aradu.V14167.gnm1.ann1.cxSM.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

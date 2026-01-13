@@ -1,0 +1,43 @@
+---
+identifier: G19833.gnm2.ann1.expr.Negro_jamapa.ORourke_Iniguez_2014
+
+provenance: "The files in this directory derive from supplementary data from Orourke et al., An RNA-Seq based gene expression atlas of the common bean. BMC Genomics. The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "Bean Expression Atlas for common bean cv. Negro jamapa mapped to the G19833 version 2 genome annotation."
+
+scientific_name: Phaseolus vulgaris
+  
+taxid: 3885
+
+scientific_name_abbrev: phavu
+
+genotype:
+  - Negro_jamapa
+
+expression_unit: TPM
+
+description: "We present the Phaseolus vulgaris cv. Negro jamapa expression profiles for all predicted genes in the P. vulgaris reference genome (G 19833) for 24 unique samples from seven distinct tissues; roots, nodules, stems, flowers, leaves, pods, and seeds throughout development. We identified genes differentially expressed between distinct tissues and between samples from the same tissue collected at different time points. We have also identified sequences uniquely expressed in each sample and in each tissue. Genes with stable expression patterns, to be used as housekeeping sequences in future experiments, were also identified. We utilized the expression profiles of all predicted genes in Phaseolus vulgaris to examine the biological processes related to seed and pod development, nodulation and symbiosis, and changes in gene expression due to nitrogen availability."
+
+original_file_creation_date: "2013-07-05"
+
+local_file_creation_date: "2024-09-23"
+
+dataset_release_date: "2013-07-05"
+
+publication_doi: 10.1186/1471-2164-15-866
+
+publication_title: "An RNA-Seq based gene expression atlas of the common bean"
+
+bioproject: PRJNA210619
+
+data_curators: Andrew Farmer, Evan Lavelle
+
+public_access_level: public
+
+license: open
+
+keywords: bean, Negro jamapa, expression
+
+citation: "O'Rourke et al., An RNA-Seq based gene expression atlas of the common bean. BMC Genomics. 2014 Oct 6;15:866."
+
+contributors: "O'Rourke JA, Iniguez LP, Fu F, Bucciarelli B, Miller SS, Jackson SA, McClean PE, Li J, Dai X, Zhao PX, Hernandez G, Vance CP."

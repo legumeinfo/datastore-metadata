@@ -1,0 +1,51 @@
+---
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - GWHACEN00000000.CDS_primary.fna.gz
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEN00000000.CDS.fna.gz
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.feature.tsv.gz
+  description: Table of original feature IDs and coordinates
+  prior_names:
+   - GWHACEN00000000.feature.gz
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - GWHACEN00000000.modID.gff3.gz
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+  prior_names:
+   - Calculated from protein_primary.faa file
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+  prior_names:
+   - Calculated from protein_primary.faa file and HMMs for the legfed_v1_0.M65K gene families
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - GWHACEN00000000.protein_primary.faa.gz
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEN00000000.protein.faa.gz
+- name: glyma.WanDouNo_28.gnm1.ann1.NLYP.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

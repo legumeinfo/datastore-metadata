@@ -1,0 +1,43 @@
+---
+identifier: LegSF.fam3.W6TK
+
+provenance: "The files in this directory are considered the primary instancess. The files here are held as part of the LegumeFederation and associated projects, e.g. LegumeInfo, PeanutBase, etc."
+
+synopsis: gene superfamilies and phylogenetic trees generally spanning angiosperm evolution, including a set of diverse legume species and six nonlegume dicots
+
+scientific_name: Fabaceae
+
+scientific_name_abbrev: legume
+
+taxid: 3803
+
+description: "Files in this directory include gene superfamilies based on the legume.fam3 gene families.
+  For each of the legume.fam3, a consensus sequence was calculated; then these were used as inputs to
+  mmseqs easy-cluster, with min-seq-id=0.40, coverage=0.50, cov-mode 0.
+  This produces a file of pairs of legume gene family IDs with homology above the specified cutoffs.
+  That file of homology pairs was then clustered using Markov clustering (mcl), with inflation 1.6.
+  Given those clusters of legume family IDs, sequences comprising those families were retrieved into 
+  14904 superfamily proteome files. Each of those superfamily multifasta files was then aligned and used
+  to create a superfamily HMM. Those HMMs were then used as targets for hmmsearch to place proteins 
+  from each of 18 selected species (6 non-legume outgroup species and 12 diverse legume species) into the
+  best-matching superfamily."
+
+original_file_creation_date: "2025-06-11"
+
+local_file_creation_date: "2025-06-11"
+
+dataset_release_date: "2025-08-06"
+
+contributors: "Steven Cannon, Hyunoh Lee"
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: legumes, angiosperms, gene superfamily, Aeschynomene evenia, Arabidopsis thaliana, 
+  Bauhinia variegata, Cercis canadensis, Chamaecrista fasciculata, Glycine max, Lotus japonicus, 
+  Medicago truncatula, Parasponia andersonii, Phanera championii, Phaseolus vulgaris, Prunus persica, 
+  Quillaja saponaria, Senna tomentosa, Sindora glabra, Trema orientale, Vitis vinifera
+

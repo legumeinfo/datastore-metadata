@@ -1,0 +1,10 @@
+---
+- name: glyma.58-161.gnm1.BW8J.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEE00000000.genome_modID.fasta.gz
+- name: glyma.58-161.gnm1.BW8J.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

@@ -1,0 +1,9 @@
+---
+- name: glyma.Zh35_IGA1004.gnm1.DBYJ.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - WIWZ01.1.fsa_nt.gz
+   - WIWZ01.2.fsa_nt.gz

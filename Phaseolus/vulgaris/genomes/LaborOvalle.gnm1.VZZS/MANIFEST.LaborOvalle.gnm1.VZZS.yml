@@ -1,0 +1,8 @@
+---
+- name: phavu.LaborOvalle.gnm1.VZZS.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - PvulgarisLaborOvalle_670_v1.0.fa.gz

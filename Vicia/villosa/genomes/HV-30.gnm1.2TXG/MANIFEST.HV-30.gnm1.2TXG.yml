@@ -1,0 +1,14 @@
+---
+- name: vicvi.HV-30.gnm1.2TXG.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GCF_029867415.1.modID.genome.fasta.gz
+- name: vicvi.HV-30.gnm1.2TXG.initial_seqid_map.tsv.gz
+  description: Mapping between original and modified sequence IDs
+  prior_names:
+   - GCF_029867415.1.initial_seqid_map.tsv
+- name: vicvi.HV-30.gnm1.2TXG.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

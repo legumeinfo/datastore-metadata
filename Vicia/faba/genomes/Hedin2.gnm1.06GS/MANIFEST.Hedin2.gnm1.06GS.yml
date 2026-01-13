@@ -1,0 +1,10 @@
+---
+- name: vicfa.Hedin2.gnm1.06GS.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Vfaba.Hedin2.v1.genome.fasta.gz
+- name: vicfa.Hedin2.gnm1.06GS.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

@@ -1,0 +1,8 @@
+---
+- name: glyma.Wm82.gnm5.mrk.SoySNP50K.gff3.gz
+  description: SoySNP50K
+  applications:
+   - jbrowse
+   - mines
+  prior_names:
+   - null

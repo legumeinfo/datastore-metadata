@@ -1,0 +1,6 @@
+---
+- name: vigun.CB5-2.gnm1.WDTB.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

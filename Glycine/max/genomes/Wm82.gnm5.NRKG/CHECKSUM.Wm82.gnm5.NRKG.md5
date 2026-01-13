@@ -1,0 +1,13 @@
+1d6852e3b96b9584c587c582b482f47a  ./BUSCO/glyma.Wm82.gnm5.NRKG.busco.fabales_odb10.full_table.tsv.gz
+1bce24ac44817ebe92e960547b300a47  ./BUSCO/glyma.Wm82.gnm5.NRKG.busco.fabales_odb10.short_summary.json
+8da6972bce51bb3186d93a05ae818dbf  ./BUSCO/glyma.Wm82.gnm5.NRKG.busco.fabales_odb10.short_summary.txt
+312170ad6e2374e9892aea2516e0a658  ./CHANGES.Wm82.gnm5.NRKG.txt
+b132a0a7d4d0f59491c1342d6c0eda4f  ./MANIFEST.Wm82.gnm5.NRKG.yml
+5ad755d72d6ec9f7e9ed5873c5cd98c7  ./README.Wm82.gnm5.NRKG.yml
+e237e69167ae84f3cbeb6c8658ce9d13  ./glyma.Wm82.gnm5.NRKG.genome_main.fna.gz
+caa6c4ed0d654d2dde25838f3e481932  ./glyma.Wm82.gnm5.NRKG.genome_main.fna.gz.fai
+1c198b9573720366abb095064f172a9b  ./glyma.Wm82.gnm5.NRKG.genome_main.fna.gz.gzi
+fec722617286feda6e35a6e05c54ba14  ./glyma.Wm82.gnm5.NRKG.genome_softmasked.fna.gz
+caa6c4ed0d654d2dde25838f3e481932  ./glyma.Wm82.gnm5.NRKG.genome_softmasked.fna.gz.fai
+2cd3c9d6e1e3ee1d2897b40b576245ee  ./glyma.Wm82.gnm5.NRKG.genome_softmasked.fna.gz.gzi
+697595211ddc0cc367d3552719b098e0  ./glyma.Wm82.gnm5.NRKG.seqid_map.tsv.gz

@@ -1,0 +1,74 @@
+---
+- name: glyma.Wm82.gnm6.ann1.PKSW.annotation_info.txt.gz
+  description: Table of gene annotations
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.annotation_info.txt.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.cds_primaryTranscriptOnly.fa.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.cds.fa.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.defline.txt.gz
+  description: Defline for genes
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.defline.txt.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: glyma.Wm82.gnm6.ann1.PKSW.gene_models_exons.gff3.gz
+  description: Gene models, with exon features
+  applications:
+   - mines
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.gene_exons_strip.gff3.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.gene_strip.gff3.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.gene_strip.gff3.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.Wm82.gnm6.ann1.PKSW.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Wm82.gnm6.ann1.PKSW.locus_transcript_name_map.txt.gz
+  description: Table of gene ID correspondences among Wm82 assemblies
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.locus_transcript_name_map.txt.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.transcript_primaryTranscriptOnly.fa.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.transcript.fa.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.protein_primaryTranscriptOnly.fa.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.protein.fa.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.repeatmasked_assembly.gff3.gz
+  description: Repeat-masking coordinates
+  prior_names:
+   - Gmax_880_Wm82.a6.v1.repeatmasked_assembly_v2.0.gff3.gz
+- name: glyma.Wm82.gnm6.ann1.PKSW.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

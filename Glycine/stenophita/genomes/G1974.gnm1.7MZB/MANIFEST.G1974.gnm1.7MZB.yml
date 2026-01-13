@@ -1,0 +1,8 @@
+---
+- name: glyst.G1974.gnm1.7MZB.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gst_G1974.fsa.gz

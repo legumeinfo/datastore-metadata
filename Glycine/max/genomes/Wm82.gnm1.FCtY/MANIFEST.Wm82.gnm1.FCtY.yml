@@ -1,0 +1,14 @@
+---
+- name: glyma.Wm82.gnm1.FCtY.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+  prior_names:
+   - Gmax_189_hardmasked.fa.gz
+- name: glyma.Wm82.gnm1.FCtY.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: glyma.Wm82.gnm1.FCtY.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - Gmax_189_softmasked.fa.gz

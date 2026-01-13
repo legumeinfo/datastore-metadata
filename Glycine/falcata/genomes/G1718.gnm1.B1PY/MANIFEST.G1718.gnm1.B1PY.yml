@@ -1,0 +1,8 @@
+---
+- name: glyfa.G1718.gnm1.B1PY.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gfa_G1718.fsa.gz

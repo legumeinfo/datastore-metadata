@@ -1,0 +1,6 @@
+---
+- name: phaac.W6_15578.gnm2.L2V4.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

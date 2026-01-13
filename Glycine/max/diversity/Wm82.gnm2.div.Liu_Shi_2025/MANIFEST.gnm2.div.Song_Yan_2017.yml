@@ -1,0 +1,5 @@
+---
+- name: glyma.Wm82.gnm2.div.Liu_Shi_2025.snp_effects.txt.gz
+  description: Predicted SNP effects relative to genes in Williams 82 gnm2 (Wm82.a2.v1)
+  prior_names:
+    - Genetic_variant_annotation_for_Soybase.txt

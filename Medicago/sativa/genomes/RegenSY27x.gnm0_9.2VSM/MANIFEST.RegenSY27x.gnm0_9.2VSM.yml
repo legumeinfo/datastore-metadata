@@ -1,0 +1,6 @@
+---
+- name: medsa.RegenSY27x.gnm0_9.2VSM.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

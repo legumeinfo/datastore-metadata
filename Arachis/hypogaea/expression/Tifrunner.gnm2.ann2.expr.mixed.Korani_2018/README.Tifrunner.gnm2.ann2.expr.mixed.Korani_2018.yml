@@ -1,0 +1,46 @@
+---
+identifier: Tifrunner.gnm2.ann2.expr.mixed.Korani_2018
+
+provenance: "The files in this directory derive from supplementary day from Korani et al., Insight into Genes Regulating Postharvest Aflatoxin Contamination of Tetraploid Peanut from Transcriptional Profiling. Genetics. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "RNA-seq for Aspergillus flavus infected samples of a resistant and susceptible peanut genotypes"
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype:
+  - ICG 1471
+  - Florida-07
+
+expression_unit: TPM
+
+description: "Postharvest aflatoxin contamination is a challenging issue that affects peanut quality. Aflatoxin is produced by fungi belonging to the Aspergilli group, and is known as an acutely toxic, carcinogenic, and immune-suppressing class of mycotoxins. Evidence for several host genetic factors that may impact aflatoxin contamination has been reported, e.g., genes for lipoxygenase (PnLOX1 and PnLOX2/PnLOX3 that showed either positive or negative regulation with Aspergillus infection), reactive oxygen species, and WRKY (highly associated with or differentially expressed upon infection of maize with Aspergillus flavus); however, their roles remain unclear. Therefore, we conducted an RNA-sequencing experiment to differentiate gene response to the infection by A. flavus between resistant (ICG 1471) and susceptible (Florida-07) cultivated peanut genotypes."
+
+original_file_creation_date: "2018-02-09"
+
+local_file_creation_date: "2025-05-27"
+
+dataset_release_date: "2025-05-27"
+
+publication_doi: 10.1534/genetics.118.300478 
+
+publication_title: "Insight into Genes Regulating Postharvest Aflatoxin Contamination of Tetraploid Peanut from Transcriptional Profiling"
+
+bioproject: PRJNA417591
+
+sraproject: SRP124628
+
+data_curators: Andrew Farmer, Evan Lavelle
+
+public_access_level: public
+
+license: open
+
+keywords: peanut, transcription, infection, susceptible, resistant
+
+citation: "Korani et al., Insight into Genes Regulating Postharvest Aflatoxin Contamination of Tetraploid Peanut from Transcriptional Profiling. Genetics. 2018 May;209(1):143-156."
+
+contributors: "Korani, Walid; Chu, Ye; Holbrook, C Corley; Ozias-Akins, Peggy"

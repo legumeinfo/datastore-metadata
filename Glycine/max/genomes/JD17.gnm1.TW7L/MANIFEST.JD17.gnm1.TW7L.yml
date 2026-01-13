@@ -1,0 +1,10 @@
+---
+- name: glyma.JD17.gnm1.TW7L.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - jd17_genome_figshare.fna.gz
+- name: glyma.JD17.gnm1.TW7L.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

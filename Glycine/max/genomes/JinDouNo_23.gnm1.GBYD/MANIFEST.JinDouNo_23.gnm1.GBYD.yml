@@ -1,0 +1,10 @@
+---
+- name: glyma.JinDouNo_23.gnm1.GBYD.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEQ00000000.genome_modID.fasta.gz
+- name: glyma.JinDouNo_23.gnm1.GBYD.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

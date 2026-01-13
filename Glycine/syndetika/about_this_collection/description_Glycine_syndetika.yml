@@ -6,10 +6,10 @@ abbrev: glysy
 description: "Glycine syndetika (B.E. Pfeil & Craven) is a twining perennial plant with three leathery, often persistent leaflets. Flowers are somewhat clustered towards to the top of the inflorescences and pods contain 4-9 relatively large square seeds (Pfeil. BE et al., 2006). G. syndetika is diploid (2n = 40) member of the A-genome clade. (This species was formerly part of the Glycine tomentella species complex and was referred to as G. tomentella D4. ) It is has a restricted range in the Eastern Queensland region of Australia (Ratnaparkhe et al 2011; Gonzalez-Orozco et al., 2012)."
 resources:
   - name: SoyMap2 Diversity Browser on Glyma.Wm82.a1 (Gmax1.01)
-    URL: "https://soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_syndetika_BES_alignments"
+    URL: "https://legacy.soybase.org/gb2/gbrowse/gmax1.01/?label=diversity_syndetika_BES_alignments"
     description: "GBrowse for G. syndetika Bac End Sequence alignments on Glyma.Wm82.a1 (Gmax1.01)"
   - name: SoyMap2 Diversity Browser on Glyma.Wm82.a2 (Gmax2.0)
-    URL: "https://soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_syndetika_bes_alignments_relaxed_filtering"
+    URL: "https://legacy.soybase.org/gb2/gbrowse/gmax2.0/?label=diversity_syndetika_bes_alignments_relaxed_filtering"
     description: "GBrowse for G. syndetika Bac End Sequence alignments on Glyma.Wm82.a2 (Gmax2.0)"
   - name: SoyMap II project
     URL: "/projects/zhuang_wang_2022"    

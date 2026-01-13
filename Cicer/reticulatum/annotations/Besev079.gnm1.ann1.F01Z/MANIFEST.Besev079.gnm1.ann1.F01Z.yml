@@ -1,0 +1,28 @@
+---
+- name: cicre.Besev079.gnm1.ann1.F01Z.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: cicre.Besev079.gnm1.ann1.F01Z.gcv_genes.gff3.gz
+  description: MISSING
+- name: cicre.Besev079.gnm1.ann1.F01Z.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: cicre.Besev079.gnm1.ann1.F01Z.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: cicre.Besev079.gnm1.ann1.F01Z.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: cicre.Besev079.gnm1.ann1.F01Z.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: cicre.Besev079.gnm1.ann1.F01Z.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: cicre.Besev079.gnm1.ann1.F01Z.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

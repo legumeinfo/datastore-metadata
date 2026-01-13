@@ -1,0 +1,8 @@
+---
+- name: glydo.G1134.gnm1.PP7B.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gtt_G1134.fsa.gz

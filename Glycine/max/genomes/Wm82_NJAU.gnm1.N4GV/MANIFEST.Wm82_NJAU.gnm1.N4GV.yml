@@ -1,0 +1,10 @@
+---
+- name: glyma.Wm82_NJAU.gnm1.N4GV.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHCAYC00000000.modID.genome.fasta.gz
+- name: glyma.Wm82_NJAU.gnm1.N4GV.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

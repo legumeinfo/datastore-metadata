@@ -1,0 +1,10 @@
+---
+- name: glyma.HanDouNo_5.gnm1.11MF.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACES00000000.genome_modID.fasta.gz
+- name: glyma.HanDouNo_5.gnm1.11MF.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

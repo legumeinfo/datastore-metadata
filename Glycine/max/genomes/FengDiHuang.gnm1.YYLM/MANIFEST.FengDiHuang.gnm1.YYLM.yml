@@ -1,0 +1,10 @@
+---
+- name: glyma.FengDiHuang.gnm1.YYLM.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEH00000000.genome_modID.fasta.gz
+- name: glyma.FengDiHuang.gnm1.YYLM.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

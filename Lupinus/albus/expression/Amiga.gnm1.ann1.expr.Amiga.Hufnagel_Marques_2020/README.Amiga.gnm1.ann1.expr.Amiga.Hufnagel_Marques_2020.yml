@@ -1,0 +1,43 @@
+---
+identifier: Amiga.gnm1.ann1.expr.Amiga.Hufnagel_Marques_2020
+
+provenance: "The files in this directory derive from supplementary data from Hufnagel et al., High-quality genome sequence of white lupin provides insight into soil exploration and seed quality. Nature Communications. The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "White lupin tissue samples"
+
+scientific_name: Lupinus albus
+
+taxid: 3870
+
+scientific_name_abbrev: lupal
+
+genotype:
+  - Amiga
+
+expression_unit: TPM
+
+description: "We generated a high quality assembly of the white lupin (Lupinus albus) genome sequence from the cultivated AMIGA variety. Plant DNA was sequenced using long reads (PacBio), optical maps (BioNano Genomics) and short reads (Illumina). We integrated genetic maps (from Książkiewicz et al., 2017) to further improve the assembly. This website gathers all genomic resources and information related to this project."
+
+original_file_creation_date: "2025-01-24"
+
+local_file_creation_date: "2025-01-24"
+
+dataset_release_date: "2019-12-11"
+
+publication_doi: 10.1038/s41467-019-14197-9 
+
+publication_title: "High-quality genome sequence of white lupin provides insight into soil exploration and seed quality."
+
+bioproject: PRJNA575804
+
+data_curators: Andrew Farmer, Evan Lavelle
+
+public_access_level: public
+
+license: open
+
+keywords: Lupinus albus, white lupine, expression, leaf, root, pod, hydroponic
+
+citation: "Hufnagel et al., High-quality genome sequence of white lupin provides insight into soil exploration and seed quality. Nature Commun 11, 492 (2020)."
+
+contributors: "Hufnagel B., Marques A., Soriano A. Marques L., Divol F., Doumas P., Sallet E., Mancinotti D., Carrere S., Marande W., Arribat S., Keller J., Huneau C., Blein T., Aime D., Laguerre M., Taylor J., Schubert V., Nelson M., Geu-Flores F., Crespi M., Gallardo K., Delaux P., Salse J., Berges H., Guyot R., Gouzy J., Peret B."

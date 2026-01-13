@@ -1,0 +1,50 @@
+---
+- name: glyma.JD17.gnm1.ann1.CLFP.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - jd17_CDS_primary.fna.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - jd17_CDS.fna.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: glyma.JD17.gnm1.ann1.CLFP.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.JD17.gnm1.ann1.CLFP.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - jd17_final.rename.gff3.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.JD17.gnm1.ann1.CLFP.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.JD17.gnm1.ann1.CLFP.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - jd17_transcripts_primary.fna.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - jd17_transcripts.fna.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - jd17_protein_primary.faa.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - jd17_protein.faa.gz
+- name: glyma.JD17.gnm1.ann1.CLFP.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

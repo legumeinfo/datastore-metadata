@@ -1,0 +1,8 @@
+---
+- name: aradu.K30065.gnm1.M24N.agp_unplaced.txt.gz
+  description: Golden path file, for GenBank submission
+- name: aradu.K30065.gnm1.M24N.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
