@@ -1,0 +1,8 @@
+---
+- name: glyma.Zh13.gnm2.LV9P.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHAAEV00000000.1.genome.fasta.gz

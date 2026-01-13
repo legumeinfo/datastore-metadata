@@ -1,0 +1,66 @@
+---
+- name: phalu.G27455.gnm1.ann1.JD7C.cds_low_confidence.fna.gz
+  description: MISSING
+- name: phalu.G27455.gnm1.ann1.JD7C.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Plunatus_563_V1.cds_primaryTranscriptOnly.fa.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: phalu.G27455.gnm1.ann1.JD7C.gene_models_low_confidence.gff3.gz
+  description: Gene models, low quality or transposable elements
+  prior_names:
+   - Plunatus_563_V1.gene.gff3.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: phalu.G27455.gnm1.ann1.JD7C.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Plunatus_563_V1.gene.gff3.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.iprscan_low_confidence.gff3.gz
+  description: MISSING
+- name: phalu.G27455.gnm1.ann1.JD7C.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: phalu.G27455.gnm1.ann1.JD7C.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: phalu.G27455.gnm1.ann1.JD7C.mrna_low_confidence.fna.gz
+  description: Low confidence transcript sequences
+  prior_names:
+   - Plunatus_563_V1.transcript.fa.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - Plunatus_563_V1.transcript_primaryTranscriptOnly.fa.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - Plunatus_563_V1.transcript.fa.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.protein_low_confidence.faa.gz
+  description: protein sequence - low-quality or TE elements
+  prior_names:
+   - Plunatus_563_V1.protein.fa.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Plunatus_563_V1.protein_primaryTranscriptOnly.fa.gz (subset)
+- name: phalu.G27455.gnm1.ann1.JD7C.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Plunatus_563_V1.protein.fa.gz (subset)
+- name: Plunatus_563_V1.annotation_info.txt.gz
+  description: MISSING
+- name: Plunatus_563_V1.defline.txt.gz
+  description: MISSING
+- name: phalu.G27455.gnm1.ann1.JD7C.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

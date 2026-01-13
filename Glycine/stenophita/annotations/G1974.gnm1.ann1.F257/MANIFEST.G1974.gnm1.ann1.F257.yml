@@ -1,0 +1,36 @@
+---
+- name: glyst.G1974.gnm1.ann1.F257.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gst.cds
+- name: glyst.G1974.gnm1.ann1.F257.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyst.G1974.gnm1.ann1.F257.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Gst.cds and Gst_G1974_chr.fsa via gmap
+- name: glyst.G1974.gnm1.ann1.F257.gene_models_orig.gff.gz
+  description: MISSING
+- name: glyst.G1974.gnm1.ann1.F257.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyst.G1974.gnm1.ann1.F257.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyst.G1974.gnm1.ann1.F257.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glyst.G1974.gnm1.ann1.F257.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gst.cds and Gst_G1974_chr.fsa via gffread
+- name: glyst.G1974.gnm1.ann1.F257.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

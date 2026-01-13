@@ -1,0 +1,24 @@
+---
+- name: glyso.PI483463.gnm1.YJWS.agp.txt.gz
+  description: Golden path file, for GenBank submission
+- name: glyso.PI483463.gnm1.YJWS.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+- name: glyso.PI483463.gnm1.YJWS.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: glyso.PI483463.gnm1.YJWS.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+- name: glyso.PI483463.gnm1.YJWS.order_orient.txt.gz
+  description: Order-and-orient file for pseudomolecule construction (alternate to AGP format)
+  prior_names:
+   - oo_Gsoja_QC13.txt
+- name: glyso.PI483463.gnm1.YJWS.pchr_by_scaff.tar.gz
+  description: Pseudomolecules in separate files, composed of separate scaffolds, plus remaining unanchored scaffolds
+- name: glyso.PI483463.gnm1.YJWS.pchr_entire.tar.gz
+  description: Pseudomolecule sequences, single sequence per chromosome
+- name: glyso.PI483463.gnm1.YJWS.scaffolds_split.tar.gz
+  description: Scaffold sequences, unordered, after splitting and patching as noted
+  prior_names:
+   - 02_Lee_scaffs_ge20k_patched_split; derives from Wild_soybean_genome.fasta and Wild_soybean_scaffolds.fasta

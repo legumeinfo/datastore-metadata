@@ -1,0 +1,31 @@
+---
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - IGA1007.gene.gff
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - IGA1007.pep.fasta
+- name: glyma.Huaxia3_IGA1007.gnm1.ann1.LKC7.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

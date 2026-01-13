@@ -1,0 +1,12 @@
+---
+- name: chafa.ISC494698.gnm1.8Q19.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+- name: chafa.ISC494698.gnm1.8Q19.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: chafa.ISC494698.gnm1.8Q19.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+- name: chafa.ISC494698.gnm1.8Q19.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

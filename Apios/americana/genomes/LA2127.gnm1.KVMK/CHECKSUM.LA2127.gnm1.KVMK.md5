@@ -1,0 +1,14 @@
+d41d8cd98f00b204e9800998ecf8427e  ./BUSCO/.busco.fabales_odb10.full_table.tsv.gz
+71a5034da32a6021417b15e56c85427d  ./BUSCO/apiam.LA2127.gnm1.KVMK.busco.fabales_odb10.full_table.tsv.gz
+2e8671330325aa0fdd7efa05a9d30584  ./BUSCO/apiam.LA2127.gnm1.KVMK.busco.fabales_odb10.short_summary.json
+2ea2be153493431c73a12d78aae7d16a  ./BUSCO/apiam.LA2127.gnm1.KVMK.busco.fabales_odb10.short_summary.txt
+11192cdabca32b8c54b467490580c461  ./CHANGES.LA2127.gnm1.KVMK.txt
+18f2fc940de541dc4f4314c2bf51fa6a  ./MANIFEST.LA2127.gnm1.KVMK.yml
+861f4ee641ac84335594888714d5282f  ./README.LA2127.gnm1.KVMK.yml
+3eb964544bcfa92a12b02351175913cc  ./apiam.LA2127.gnm1.KVMK.genome_main.fna.gz
+1f9181d1b3ce8177f5a047a7fd0424d1  ./apiam.LA2127.gnm1.KVMK.genome_main.fna.gz.fai
+bacbce2a66fe0e374ea0a954f0235260  ./apiam.LA2127.gnm1.KVMK.genome_main.fna.gz.gzi
+5531620bbe0ea3dadc857f4b0759f370  ./apiam.LA2127.gnm1.KVMK.genome_softmasked.fna.gz
+1f9181d1b3ce8177f5a047a7fd0424d1  ./apiam.LA2127.gnm1.KVMK.genome_softmasked.fna.gz.fai
+60e42419ad35550d68879697b3407d8b  ./apiam.LA2127.gnm1.KVMK.genome_softmasked.fna.gz.gzi
+87f7553a83530525634b52664b041509  ./apiam.LA2127.gnm1.KVMK.seqid_map.tsv.gz

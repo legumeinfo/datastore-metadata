@@ -1,0 +1,6 @@
+---
+- name: medtr.HM018.gnm1.3NVM.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

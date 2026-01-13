@@ -1,0 +1,6 @@
+---
+- name: arahy.Fuhuasheng.gnm1.XX5Y.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

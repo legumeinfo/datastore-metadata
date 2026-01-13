@@ -1,0 +1,36 @@
+---
+- name: glysy.G1300.gnm1.ann1.RRK6.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gsy.cds
+- name: glysy.G1300.gnm1.ann1.RRK6.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glysy.G1300.gnm1.ann1.RRK6.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Gsy.cds and Gsy_G1300_chr.fsa via gmap
+- name: glysy.G1300.gnm1.ann1.RRK6.gene_models_orig.gff.gz
+  description: MISSING
+- name: glysy.G1300.gnm1.ann1.RRK6.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glysy.G1300.gnm1.ann1.RRK6.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glysy.G1300.gnm1.ann1.RRK6.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glysy.G1300.gnm1.ann1.RRK6.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gsy.cds and Gsy_G1300_chr.fsa via gffread
+- name: glysy.G1300.gnm1.ann1.RRK6.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

@@ -1,0 +1,26 @@
+---
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+- name: vigun.Xiabao_II.gnm1.ann1.4JFL.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

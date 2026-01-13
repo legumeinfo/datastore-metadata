@@ -1,0 +1,10 @@
+---
+- name: glyma.Wm82.gnm5.NRKG.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Wm82.a5.genome.softmasked.fasta.gz
+- name: glyma.Wm82.gnm5.NRKG.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

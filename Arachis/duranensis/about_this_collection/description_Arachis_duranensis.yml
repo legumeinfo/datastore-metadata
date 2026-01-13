@@ -5,10 +5,7 @@ species: duranensis
 abbrev: aradu
 commonName: diploid wild peanut - A-genome
 description: "Arachis duranensis, a wild herb native to Argentina, Bolivia, and Paraguay, is thought to be one of the diploid ancestors of cultivated peanut. Its genome has been sequenced as part of the Peanut Genomics Initiative, to help in the accurate assembly of the more important cultivated peanut, A. hypogaea. Cultivated peanut derived all of its genetic material from two wild ancestors, A. duranensis and A. ipaensis whose genomes merged several thousand years ago, in a rare genetic event. The wild species, therefore, have half as much genetic material as cultivated peanut. These two simpler genomes have first been sequenced toward achieving its ultimate goal: the complete genomic sequence for cultivated peanut. The cultivated peanut is an allotetraploid (2n=4x=40) that carries both the A and B genomes and A. duranensis (2n=2x=20) has likely contributed the A genome, the smaller set of chromosomes in the karyotype. These two ancestral diploids separated from each other about 3 million years ago. The genome merger, allopolyploidy event, ocurred relatively very recently, five to ten thousand years ago, followed by domestication in South America from where it appeared in most part of the world by 1600. Arachis duranensis is described further in Bertioli et al., 2016 (doi:10.1038/ng.3517)"
-resources:
-  - name: Dowload at DS
-    URL: "https://data.legumeinfo.org/Arachis/duranensis/"
-    description: "DataStore dir for Arachis duranensis."
+
 strains:
   - identifier: V14167
     accession: V14167
@@ -16,6 +13,33 @@ strains:
     origin: Argentina, via USDA National Plant Germplasm Repository
     description: "Arachis duranensis strain V14167 originates in a region east of the Andes, in the vicinity of northern Argentina and southern Bolivia. This accession is thought to be one of the diploid ancestors of cultivated peanut. Its genome has been sequenced as part of the Peanut Genomics Initiative, to help in the accurate assembly of the more important cultivated peanut, A. hypogaea. This accession is described in Bertioli et al., 2016 (doi:10.1038/ng.3517)"
     resources:
-      - name: "Genome assembly at NCBI"
-        URL: "http://www.ncbi.nlm.nih.gov/assembly/GCA_000817695.1/"
+      - name: Download at Data Store
+        URL: "https://data.legumeinfo.org/Arachis/duranensis/"
+        description: "DataStore directory for Arachis duranensis."
+      - name: Genome assembly at NCBI
+        URL: "https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000817695.3/"
         description: "Genome assembly at NCBI, V14167"
+  - identifier: K30060
+    accession: K30060
+    name: K30060
+    origin: Argentina, via USDA National Plant Germplasm Repository
+    description: "Arachis duranensis Krapov. & W.C. Greg is a wild peanut relative native to Argentina, Bolivia, and Paraguay. Identified as one of the diploid ancestors of cultivated tetraploid peanut (A. hypogaea), contributing the A-genome to the tetraploid species. Accession K30060 is one of the closest identified to A. hypogaea. It was originally collected from 1km North of Rio Perico, on highway to Jujuy airport (El Cadillal), Argentina; seed multiplied and maintained by USDA since then. This accession was sequenced with PacBio long reads, with contributions by USDA-ARS and researchers at Mars Inc. and the University of Georgia."
+    resources:
+      - name: Download at Data Store
+        URL: "https://data.legumeinfo.org/Arachis/duranensis/"
+        description: "DataStore directory for Arachis duranensis."
+      - name: Genome assembly at NCBI
+        URL: "http://www.ncbi.nlm.nih.gov/assembly/GCA_000817695.1/"
+        description: "Genome assembly at NCBI, K30060"
+  - identifier: K30065
+    accession: K30065
+    name: K30065
+    origin: Argentina, via USDA National Plant Germplasm Repository
+    description: "Arachis duranensis is a wild annual plant native to Argentina, Bolivia, and Paraguay. It is thought to be one of the diploid ancestors of cultivated tetraploid peanut. Accession K30065 was collected from northern Argentina, from the Banks of Bio Seco at Hwy 81 bridge, 3km SE of Senda Hachada, Salta. This accession was sequenced with PacBio long reads, with contributions by USDA-ARS and researchers at Mars Inc. and the University of Georgia."
+    resources:
+      - name: Download at Data Store
+        URL: "https://data.legumeinfo.org/Arachis/duranensis/"
+        description: "DataStore directory for Arachis duranensis."
+      - name: Genome assembly at NCBI
+        URL: "https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_014805325.1/"
+        description: "Genome assembly at NCBI, K30065"

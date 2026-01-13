@@ -1,0 +1,10 @@
+---
+- name: glyma.DongNongNo_50.gnm1.XRTN.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEV00000000.genome_modID.fasta.gz
+- name: glyma.DongNongNo_50.gnm1.XRTN.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

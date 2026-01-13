@@ -1,0 +1,9 @@
+---
+- name: glyma.Wenfeng7_IGA1001.gnm1.L0QH.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - WIWY01.1.fsa_nt.gz
+   - WIWY01.2.fsa_nt.gz

@@ -1,0 +1,6 @@
+---
+- name: medru.Xinghe.gnm1.KKFS.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

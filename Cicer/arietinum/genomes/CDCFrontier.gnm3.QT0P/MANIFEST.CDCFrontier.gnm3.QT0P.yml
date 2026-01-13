@@ -1,0 +1,8 @@
+---
+- name: cicar.CDCFrontier.gnm3.QT0P.gcv_genome.gff3.gz
+  description: gff of assembly molecule sizes
+- name: cicar.CDCFrontier.gnm3.QT0P.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

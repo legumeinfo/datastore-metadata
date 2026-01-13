@@ -1,0 +1,38 @@
+---
+- name: glyma.Wm82.gnm5.ann1.J7HW.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Wm82.a5.cds.patched.fa.gz
+- name: glyma.Wm82.gnm5.ann1.J7HW.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: glyma.Wm82.gnm5.ann1.J7HW.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Wm82.gnm5.ann1.J7HW.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Wm82.a5.genes.patched.gff3.gz
+- name: glyma.Wm82.gnm5.ann1.J7HW.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.Wm82.gnm5.ann1.J7HW.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Wm82.gnm5.ann1.J7HW.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - Wm82.a5.transcripts.patched.fa.gz
+- name: glyma.Wm82.gnm5.ann1.J7HW.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Wm82.a5.proteins.patched.fa.gz
+- name: glyma.Wm82.gnm5.ann1.J7HW.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

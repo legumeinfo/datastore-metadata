@@ -1,0 +1,38 @@
+---
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - adzuki.ver3.gene.gff.cor.gff
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.info_annot_AHRD.txt.gz
+  description: annotation from the AHRD pipeline
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - adzuki.ver3.pep.fa.tr.cor.fa
+- name: vigan.Gyeongwon.gnm3.ann1.3Nz5.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

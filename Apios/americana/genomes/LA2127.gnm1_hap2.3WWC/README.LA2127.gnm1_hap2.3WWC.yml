@@ -1,0 +1,44 @@
+---
+identifier: LA2127.gnm1_hap2.3WWC
+
+provenance: "The files in this directory originated from http://legumeinfo.org. The Legumeinfo repository is considered the primary repository and authoritative. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://legumeinfo.org"
+
+synopsis: "Apios americana accession LA2127, genome assembly v1, haplotype 2"
+
+scientific_name: Apios americana
+
+taxid: 185702
+
+scientific_name_abbrev: apiam
+
+genotype:
+  - LA2127
+
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
+
+description: "This release is from an accession from Ames, Iowa, LA2127, which is clonally derived from an accession of this name from Dr William Blackmon, from a breeding project that he led in the late 1980s at the University of Louisiana. Sequencing was performed by HudsonAlpha Institute, with the assembly deriving from 191.678 Gb of CCS PacBio Revio sequence."
+
+bioproject: PRJNA1251542
+
+genbank_accession: GCA_051802325.1
+
+original_file_creation_date: "2022-10-01"
+
+local_file_creation_date: "2025-04-07"
+
+dataset_release_date: "2025-06-01"
+
+contributors: Steven Cannon, Josh Clevenger, Rachel Walstead, Jane Grimwood, Hyunoh Lee, Vikas Belamkar, Jugpreet Singh
+
+data_curators: Steven Cannon
+
+public_access_level: public, restricted
+
+license: Open, with usage agreement
+
+keywords: Apios, hopniss, American groundnut
+

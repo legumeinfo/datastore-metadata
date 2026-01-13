@@ -1,0 +1,10 @@
+---
+- name: phavu.OACRex.gnm2.NXJW.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - OAC-Rex_V2.0.fa.gz
+- name: phavu.OACRex.gnm2.NXJW.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

@@ -1,0 +1,8 @@
+---
+- name: glyd3.G1403.gnm1.CL6K.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gto_G1403.fsa.gz

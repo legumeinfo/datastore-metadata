@@ -1,0 +1,40 @@
+---
+- name: lupan.Tanjil.gnm1.ann1.nnV9.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_miRNA.gff3.gz
+  description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_pchr_plus_scaff.gff3.gz
+  description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_snRNA.gff3.gz
+  description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.gene_models_tRNA.gff3.gz
+  description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: lupan.Tanjil.gnm1.ann1.nnV9.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: lupan.Tanjil.gnm1.ann1.nnV9.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lupinus_angustifolius_pep_v1.0.fa
+- name: lupan.Tanjil.gnm1.ann1.nnV9.rgene_models_RNA.gff3.gz
+  description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.scaffolds_in_pchr.gff3.gz
+  description: MISSING
+- name: lupan.Tanjil.gnm1.ann1.nnV9.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

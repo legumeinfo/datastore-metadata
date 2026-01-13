@@ -1,0 +1,8 @@
+---
+- name: phalu.G27455.gnm1.7NXX.gcv_genome.gff3.gz
+  description: gff of assembly molecule sizes
+- name: phalu.G27455.gnm1.7NXX.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

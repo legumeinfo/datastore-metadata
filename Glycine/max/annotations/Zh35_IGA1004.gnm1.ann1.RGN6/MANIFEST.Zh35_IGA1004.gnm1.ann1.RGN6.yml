@@ -1,0 +1,31 @@
+---
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - IGA1004.gene.gff
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - IGA1004.pep.fasta
+- name: glyma.Zh35_IGA1004.gnm1.ann1.RGN6.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

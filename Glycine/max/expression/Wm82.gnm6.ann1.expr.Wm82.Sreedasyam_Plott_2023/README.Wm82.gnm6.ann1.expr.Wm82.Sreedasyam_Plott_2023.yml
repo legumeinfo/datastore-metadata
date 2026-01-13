@@ -1,0 +1,43 @@
+---
+identifier: Wm82.gnm6.ann1.expr.Wm82.Sreedasyam_Plott_2023
+
+provenance: "Transcriptome sequencing as part of the JGI Flagship Plant Gene Atlas Inititative. The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: Transcriptome sequencing as part of the JGI Flagship Plant Gene Atlas Inititative
+
+scientific_name: Glycine max  
+  
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+expression_unit: TPM
+
+description: "Transcriptome sequencing as part of the JGI Flagship Plant Gene Atlas Inititative"
+
+original_file_creation_date: "2014-04-17"
+
+local_file_creation_date: "2024-05-10"
+
+dataset_release_date: "2017-02-08"
+
+publication_doi: 10.1093/nar/gkad616
+
+publication_title: "JGI Plant Gene Atlas: an updateable transcriptome resource to improve functional gene descriptions across the plant kingdom"
+
+bioproject: PRJNA372533
+
+data_curators: Andrew Farmer, Evan Lavelle
+
+public_access_level: public
+
+license: open
+
+keywords: soybean, transcription atlas
+
+citation: "Sreedasyam A, Plott C, Hossain MS, Lovell JT, Grimwood J, Jenkins JW, Daum C, Barry K, Carlson J, Shu S, Phillips J, Amirebrahimi M, Zane M, Wang M, Goodstein D, Haas FB, Hiss M, Perroud PF, Jawdy SS, Yang Y, Hu R, Johnson J, Kropat J, Gallaher SD, Lipzen A, Shakirov EV, Weng X, Torres-Jerez I, Weers B, Conde D, Pappas MR, Liu L, Muchlinski A, Jiang H, Shyu C, Huang P, Sebastian J, Laiben C, Medlin A, Carey S, Carrell AA, Chen JG, Perales M, Swaminathan K, Allona I, Grattapaglia D, Cooper EA, Tholl D, Vogel JP, Weston DJ, Yang X, Brutnell TP, Kellogg EA, Baxter I, Udvardi M, Tang Y, Mockler TC, Juenger TE, Mullet J, Rensing SA, Tuskan GA, Merchant SS, Stacey G, Schmutz J. JGI Plant Gene Atlas: an updateable transcriptome resource to improve functional gene descriptions across the plant kingdom. Nucleic Acids Res. 2023 Sep 8;51(16):8383-8401. doi: 10.1093/nar/gkad616. PMID: 37526283; PMCID: PMC10484672."
+
+contributors: "Sreedasyam A, Plott C, Hossain MS, Lovell JT, Grimwood J, Jenkins JW, Daum C, Barry K, Carlson J, Shu S, Phillips J, Amirebrahimi M, Zane M, Wang M, Goodstein D, Haas FB, Hiss M, Perroud PF, Jawdy SS, Yang Y, Hu R, Johnson J, Kropat J, Gallaher SD, Lipzen A, Shakirov EV, Weng X, Torres-Jerez I, Weers B, Conde D, Pappas MR, Liu L, Muchlinski A, Jiang H, Shyu C, Huang P, Sebastian J, Laiben C, Medlin A, Carey S, Carrell AA, Chen JG, Perales M, Swaminathan K, Allona I, Grattapaglia D, Cooper EA, Tholl D, Vogel JP, Weston DJ, Yang X, Brutnell TP, Kellogg EA, Baxter I, Udvardi M, Tang Y, Mockler TC, Juenger TE, Mullet J, Rensing SA, Tuskan GA, Merchant SS, Stacey G, Schmutz J."

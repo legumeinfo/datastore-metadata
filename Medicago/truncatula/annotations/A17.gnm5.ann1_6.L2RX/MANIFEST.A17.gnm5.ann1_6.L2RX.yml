@@ -1,0 +1,38 @@
+---
+- name: medtr.A17.gnm5.ann1_6.L2RX.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.cds.fasta
+- name: medtr.A17.gnm5.ann1_6.L2RX.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: medtr.A17.gnm5.ann1_6.L2RX.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+- name: medtr.A17.gnm5.ann1_6.L2RX.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: medtr.A17.gnm5.ann1_6.L2RX.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: medtr.A17.gnm5.ann1_6.L2RX.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.mrna.fasta
+- name: medtr.A17.gnm5.ann1_6.L2RX.phytozome_10_2.HFNR.gfa.tsv.gz
+  description: gene family assignments
+- name: medtr.A17.gnm5.ann1_6.L2RX.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - MtrunA17r5.0-ANR-EGN-r1.6.features.fasta.zip/MtrunA17r5.0-ANR-EGN-r1.6.prot.fasta
+- name: medtr.A17.gnm5.ann1_6.L2RX.repeats.gff3.gz
+  description: Repeat-masking coordinates
+- name: medtr.A17.gnm5.ann1_6.L2RX.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

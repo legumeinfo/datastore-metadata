@@ -1,0 +1,6 @@
+---
+- name: vigun.Xiabao_II.gnm1.WDBP.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

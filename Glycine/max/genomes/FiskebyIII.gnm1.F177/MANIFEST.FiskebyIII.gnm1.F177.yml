@@ -1,0 +1,16 @@
+---
+- name: glyma.FiskebyIII.gnm1.F177.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+  prior_names:
+   - GmaxFiskeby_678_v1.0.hardmasked.fa.gz
+- name: glyma.FiskebyIII.gnm1.F177.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GmaxFiskeby_678_v1.0.fa.gz
+- name: glyma.FiskebyIII.gnm1.F177.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - GmaxFiskeby_678_v1.0.softmasked.fa.gz

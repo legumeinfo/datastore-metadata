@@ -1,0 +1,33 @@
+---
+identifier: RegenSY27x.gnm1_hap3.VMY5
+
+provenance: "The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the SoyBase, LegumeInfo, PeanutBase, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the USDA Alfalfa Genome Sequencing project and/or its collaborators of a comprehensive genome analysis (Reserved Analyses). See what is considered Reserved Analyses in the usage policy."
+
+synopsis: Genome assembly of Medicago sativa RegenSY27x
+
+scientific_name: Medicago sativa
+
+taxid: 3879
+
+scientific_name_abbrev: medsa
+
+genotype:
+  - RegenSY27x
+
+supercontig_prefix: "ptg,atg"
+
+description: "Haplotype-resolved pseudochromosome genome assembly for RegenSY27x; Pacbio HiFi hifiasm assembly"
+
+local_file_creation_date: "2025-09-01"
+
+dataset_release_date: "2025-09-01"
+
+contributors: "Deborah Samac, Harpreet Kaur, Shaun Curtin, Joann Mudge"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: alfalfa, RegenSY27x, autotetraploid

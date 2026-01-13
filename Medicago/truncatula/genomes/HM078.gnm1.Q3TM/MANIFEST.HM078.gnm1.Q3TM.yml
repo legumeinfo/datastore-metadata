@@ -1,0 +1,6 @@
+---
+- name: medtr.HM078.gnm1.Q3TM.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines

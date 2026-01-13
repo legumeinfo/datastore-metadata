@@ -1,0 +1,8 @@
+---
+- name: cicar.CDCFrontier.gnm2.S2FF.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Car.genome.fa

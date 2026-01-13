@@ -1,0 +1,10 @@
+---
+- name: vigra.VC1973A.gnm6.3nL8.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+- name: vigra.VC1973A.gnm6.3nL8.scaff_name_hash.tsv.gz
+  description: Mapping of feature names
+  prior_names:
+   - Derived from GenBank JJMO01_contigs.tsv

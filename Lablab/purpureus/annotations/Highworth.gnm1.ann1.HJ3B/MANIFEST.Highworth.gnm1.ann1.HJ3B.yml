@@ -1,0 +1,54 @@
+---
+- name: labpu.Highworth.gnm1.ann1.HJ3B.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - lablab_purpureus.non-TE.longest.cds.fasta.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - lablab_purpureus.non-TE.longest.cds.fasta.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: labpu.Highworth.gnm1.ann1.HJ3B.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: labpu.Highworth.gnm1.ann1.HJ3B.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - lablab_purpureus.non-TE.longest.gff3.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.gene_models_with-TEs.longest.gff3.gz
+  description: Gene models with TEs - longest only (not prefixed)
+  prior_names:
+   - lablab_purpureus.with-TEs.longest.gff3.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: labpu.Highworth.gnm1.ann1.HJ3B.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: labpu.Highworth.gnm1.ann1.HJ3B.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - lablab_purpureus.non-TE.longest.mrna.fasta.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+  prior_names:
+   - lablab_purpureus.non-TE.longest.mrna.fasta.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - lablab_purpureus.non-TE.longest.aa.fasta.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - lablab_purpureus.non-TE.longest.aa.fasta.gz
+- name: labpu.Highworth.gnm1.ann1.HJ3B.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

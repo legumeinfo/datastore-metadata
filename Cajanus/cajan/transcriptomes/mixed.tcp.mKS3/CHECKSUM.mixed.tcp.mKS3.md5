@@ -1,5 +1,7 @@
-0579d9f95ca3539a24788bc3d8c62631  ./README.mixed.tcp.mKS3.yml
-f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.mixed.tcp.mKS3.correspondence.yml
-87be000d7cbaf1eed32733dc418b3f84  ./cajca.mixed.tcp.mKS3.fna.gz
-8384b74de5231ac41095e621c19b3a95  ./MANIFEST.mixed.tcp.mKS3.descriptions.yml
 ea9bd92f4d704d79abd58b41874deea8  ./CHANGES.mixed.tcp.mKS3.txt
+f56fe1c465f375059c780b29489dc1c1  ./MANIFEST.mixed.tcp.mKS3.correspondence.yml
+8384b74de5231ac41095e621c19b3a95  ./MANIFEST.mixed.tcp.mKS3.descriptions.yml
+ce1768a002eb780064d81b980e9fd1ee  ./README.mixed.tcp.mKS3.yml
+f5b6d2b66f3c40bf819f1fb0b3ff57e6  ./cajca.mixed.tcp.mKS3.fna.gz
+908f5ddcec35311c41bdb6ce9819984a  ./cajca.mixed.tcp.mKS3.fna.gz.fai
+e3f42feab4dd7c732bf8d5de7ccd2a59  ./cajca.mixed.tcp.mKS3.fna.gz.gzi

@@ -1,0 +1,35 @@
+---
+identifier: Wm82.gnm4.mrk.SoySSR
+
+genotyping_platform: SoySSR
+
+synopsis: "This marker set contains SSRs developed and published by Cregan, et al. in 1999, with names starting with Satt or Sat_. SoySSRs on Wm82 assembly version 1 are mapped on to assembly version 4 with in-house map-marker-to assembly pipeline."
+
+related_to: Wm82.gnm4.4PTR
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - Williams 82
+
+description: "The objective of the work reported here was to develop and map a large set of SSR markers. A total of 606 SSR loci were mapped in one or more of three populations: the USDA/Iowa State G. max × G. soja F2 population, the Univ. of Utah Minsoy × Noir 1 recombinant inbred population, and the Univ. of Nebraska Clark × Harosoy F2 population. Each SSR mapped to a single locus in the genome, with a map order that was essentially identical in all three populations. Many SSR loci were segregating in two or all three populations. Thus, it was relatively simple to align the 20+ linkage groups derived from each of the three populations into a consensus set of 20 homologous linkage groups presumed to correspond to the 20 pairs of soybean chromosomes."
+
+publication_doi: 10.2135/cropsci1999.3951464x
+
+publication_title: "An Integrated Genetic Linkage Map of the Soybean Genome"
+
+contributors: "P.B. Cregan, T. Jarvik, A.L. Bush, R.C. Shoemaker, K.G. Lark, A.L. Kahler, N. Kaya, T.T. VanToai, D.G. Lohnes, J. Chung, J.E. Specht"
+
+citation: "Cregan, P.B. et al. An Integrated Genetic Linkage Map of the Soybean Genome. Crop Science vol. 39 1464–1490 (1999)"
+
+data_curators: Sam Hokin, Wei Huang
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, genetic markers, genotyping, SSR

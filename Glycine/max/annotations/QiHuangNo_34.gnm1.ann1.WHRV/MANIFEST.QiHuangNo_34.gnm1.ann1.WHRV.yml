@@ -1,0 +1,51 @@
+---
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - GWHACER00000000.CDS_primary.fna.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACER00000000.CDS.fna.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.feature.tsv.gz
+  description: Table of original feature IDs and coordinates
+  prior_names:
+   - GWHACER00000000.feature.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+  prior_names:
+   - GWHACER00000000.modID.gff3.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+  prior_names:
+   - Calculated from protein_primary.faa file
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+  prior_names:
+   - Calculated from protein_primary.faa file and HMMs for the legfed_v1_0.M65K gene families
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - GWHACER00000000.protein_primary.faa.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACER00000000.protein.faa.gz
+- name: glyma.QiHuangNo_34.gnm1.ann1.WHRV.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

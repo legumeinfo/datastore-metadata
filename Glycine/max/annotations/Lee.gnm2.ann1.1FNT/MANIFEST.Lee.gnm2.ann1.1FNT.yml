@@ -1,0 +1,44 @@
+---
+- name: glyma.Lee.gnm2.ann1.1FNT.cds_primary.fna.gz
+  description: CDS sequences - primary only
+  prior_names:
+   - Gma.longestmRNA.cds.fa
+- name: glyma.Lee.gnm2.ann1.1FNT.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gma.cds.fa
+- name: glyma.Lee.gnm2.ann1.1FNT.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: glyma.Lee.gnm2.ann1.1FNT.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Gma.genes.gff
+- name: glyma.Lee.gnm2.ann1.1FNT.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: glyma.Lee.gnm2.ann1.1FNT.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: glyma.Lee.gnm2.ann1.1FNT.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: glyma.Lee.gnm2.ann1.1FNT.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: glyma.Lee.gnm2.ann1.1FNT.protein_primary.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - Gma.longestmRNA.pep.fa
+- name: glyma.Lee.gnm2.ann1.1FNT.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Gma.pep.fa
+- name: glyma.Lee.gnm2.ann1.1FNT.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

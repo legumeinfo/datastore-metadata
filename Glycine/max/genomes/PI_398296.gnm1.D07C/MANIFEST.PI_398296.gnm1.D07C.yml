@@ -1,0 +1,10 @@
+---
+- name: glyma.PI_398296.gnm1.D07C.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - GWHACEF00000000.genome_modID.fasta.gz
+- name: glyma.PI_398296.gnm1.D07C.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

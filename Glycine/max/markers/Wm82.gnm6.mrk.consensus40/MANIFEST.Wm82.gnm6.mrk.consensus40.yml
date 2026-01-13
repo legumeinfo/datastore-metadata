@@ -1,0 +1,8 @@
+---
+- name: glyma.Wm82.gnm6.mrk.consensus40.gff3.gz
+  description: genetic markers on consensus map 4.0
+  applications:
+   - jbrowse
+   - mines
+  prior_names:
+   - marker_map4.gff3.gz 

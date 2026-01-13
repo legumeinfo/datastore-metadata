@@ -1,0 +1,46 @@
+---
+- name: lotja.MG20.gnm3.ann1.WF9B.cds_primary.fna.gz
+  description: CDS sequences - primary only
+- name: lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz
+  description: CDS sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lj3.0_cds.ffn
+- name: lotja.MG20.gnm3.ann1.WF9B.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+- name: lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz
+  description: Gene models - main
+  applications:
+   - mines
+   - jbrowse-index
+  prior_names:
+   - Lj3.0_gene_models.gff3.gz
+- name: lotja.MG20.gnm3.ann1.WF9B.iprscan.gff3.gz
+  description: InterPro functional information for genes (gff format)
+- name: lotja.MG20.gnm3.ann1.WF9B.legfed_v1_0.M65K.gfa.tsv.gz
+  description: gene family assignments
+- name: lotja.MG20.gnm3.ann1.WF9B.low_quality_genes.gff3.gz
+  description: MISSING
+- name: lotja.MG20.gnm3.ann1.WF9B.low_quality_transcript.fna.gz
+  description: MISSING
+- name: lotja.MG20.gnm3.ann1.WF9B.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+- name: lotja.MG20.gnm3.ann1.WF9B.mrna.fna.gz
+  description: Transcript sequences
+  applications:
+   - mines
+- name: lotja.MG20.gnm3.ann1.WF9B.phytozome_10_2.HFNR.gfa.tsv.gz
+  description: gene family assignments
+- name: lotja.MG20.gnm3.ann1.WF9B.protein_primary.faa.gz
+  description: Protein sequences - primary only
+- name: lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz
+  description: Protein sequences
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Lj3.0_pep.faa
+- name: lotja.MG20.gnm3.ann1.WF9B.legume.fam3.VLMQ.gfa.tsv.gz
+  description: gene family assignments against legume.fam3.VLMQ

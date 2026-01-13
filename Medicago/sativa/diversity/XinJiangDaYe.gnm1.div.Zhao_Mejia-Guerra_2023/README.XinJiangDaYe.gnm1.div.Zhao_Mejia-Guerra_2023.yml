@@ -1,0 +1,44 @@
+---
+identifier: XinJiangDaYe.gnm1.div.Zhao_Mejia-Guerra_2023
+
+provenance: 
+
+source: "https://breedinginsight.org/alfalfa2/"
+
+synopsis: "Haplotype data for alfalfa cultivars derived from the 3K DArTag panel"
+
+related_to: XinJiangDaYe.gnm1.12MR,XinJiangDaYe.gnm1.mrk.3KAlfaDArTagBICU01
+
+scientific_name: Medicago sativa
+
+taxid: 3879
+
+scientific_name_abbrev: medsa
+
+genotype:
+  - 10 Medicago sativa cultivars from different fall dormancy levels, also selected for whole genome assembly
+
+description: "Haplotype data for alfalfa cultivars derived from the 3K DArTag panel; dosages estimated from short read sequencing"
+
+original_file_creation_date: "2025-09-01"
+
+local_file_creation_date: "2025-09-01"
+
+dataset_release_date: "2022-02-25"
+
+publication_doi: 10.1371/journal.pone.0054985 
+
+publication_title: "A public mid-density genotyping platform for alfalfa (Medicago sativa L.)"
+
+contributors: "Dongyan Zhao, Katherine Mejia-Guerra, Marcelo Mollinari, Deborah A Samac, Brian M Irish, Kasia Heller-Uszynska, Craig T Beil, Moira J Sheehan"
+
+citation: "Dongyan Zhao, Katherine Mejia-Guerra, Marcelo Mollinari, Deborah A Samac, Brian M Irish, Kasia Heller-Uszynska, Craig T Beil, Moira J Sheehan. A public mid-density genotyping platform for alfalfa (Medicago sativa L.). Genetic Resources 2023; 4 (8), 55–63. doi:10.46265/genresj.EMOR6509"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: alfalfa, SNP, microhaplotype
+

@@ -1,0 +1,18 @@
+---
+- name: chafa.ISC494698.gnm1_hap2.G6BY.genome_hardmasked.fna.gz
+  description: Hardmasked genome assembly
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.0.hardmasked.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.G6BY.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.0.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.G6BY.genome_softmasked.fna.gz
+  description: Softmasked genome assembly
+  prior_names:
+   - Cfasciculatavar_ISC494698HAP2_855_v1.0.softmasked.fa.gz
+- name: chafa.ISC494698.gnm1_hap2.G6BY.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs

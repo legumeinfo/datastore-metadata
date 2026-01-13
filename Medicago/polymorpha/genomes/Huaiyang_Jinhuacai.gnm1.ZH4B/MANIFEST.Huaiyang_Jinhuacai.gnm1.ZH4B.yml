@@ -1,0 +1,6 @@
+---
+- name: medpo.Huaiyang_Jinhuacai.gnm1.ZH4B.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
