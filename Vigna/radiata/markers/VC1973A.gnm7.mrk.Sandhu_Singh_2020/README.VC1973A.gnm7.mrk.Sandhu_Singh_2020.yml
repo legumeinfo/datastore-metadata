@@ -1,5 +1,5 @@
 ---
-identifier: VC1973A.gnm7.mrk.Chiteri_Rairdin_2024
+identifier: VC1973A.gnm7.mrk.Sandhu_Singh_2020
 
 provenance: "The files in this directory were provided by Drs. Arti Singh and Kevin Chiteri in December, 2022. Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, SoyBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
 
@@ -18,7 +18,7 @@ description: "Genotyping with the 51,128 single nucleotide polymorphism (SNP) Il
 
 dataset_doi: 10.5061/dryad.wdbrv15mb
 
-genotyping_platform: Chiteri_Rairdin_2024
+genotyping_platform: Sandhu_Singh_2020
 
 original_file_creation_date: "2020-12-01"
 
