@@ -1,4 +1,3 @@
----
 identifier: VC1973A.gnm7.SB53
 
 provenance: "The files in this directory originated from the Crop Genomics Lab of Dr. Suk-Ha Lee, http://plantgenomics.snu.ac.kr. The Crop Genomics Lab repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
@@ -13,7 +12,7 @@ taxid: 157791
 
 scientific_name_abbrev: vigra
 
-genotype: 
+genotype:
   - VC1973A
 
 chromosome_prefix: chr
@@ -22,13 +21,13 @@ supercontig_prefix: scaffold
 
 description: "This assembly, of accession VC1973A, is a near-complete genome sequence of mungbean with a scaffold N50 value of 5.2 Mb and only a 0.4% gap, with a total scaffold size of 475 Mb. Primary sequence was generated with PacBio RS II and assembled with Canu version 1. The corrected reads were assembled into contigs using Falcon (Version 0.3.0). The contigs were scaffolded with Illumina mate-pair reads with library sizes of 5, 10, and 40 kb using SSPACE (Version 3.0). Gaps in the superscaffolds were filled by Illumina short reads using Gapfiller (Version 1.10)."
 
-bioproject: 
+bioproject:
 
 sraproject: SRRS9994113
 
-dataset_doi: 
+dataset_doi:
 
-genbank_accession: 
+genbank_accession:
 
 original_file_creation_date: "2021-07-18"
 

@@ -1,51 +1,51 @@
 ---
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.featid_map.tsv.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.featid_map.tsv.gz
   description: Hash file of old/new gene IDs
   prior_names:
    - No prior file
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.cds.fna.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.cds.fna.gz
   description: cds sequences
   prior_names:
    - GWHEQVC00000000.modID.CDS.fna.gz
   applications:
    - blast
    - mines
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.cds_primary.fna.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.cds_primary.fna.gz
   description: cds sequences - primary only
   prior_names:
    - GWHEQVC00000000.modID.CDS_primary.fna.gz
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.mrna.fna.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.mrna.fna.gz
   description: Transcript sequences
   prior_names:
    - GWHEQVC00000000.modID.transcripts.fna.gz
   applications:
    - mines
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.mrna_primary.fna.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.mrna_primary.fna.gz
   description: Transcript sequences - primary only
   prior_names:
    - GWHEQVC00000000.modID.transcripts_primary.fna.gz
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.protein.faa.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.protein.faa.gz
   description: Protein sequences
   prior_names:
    - GWHEQVC00000000.modID.protein.faa.gz
   applications:
    - mines
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.protein_primary.faa.gz.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.protein_primary.faa.gz.gz
   description: Protein sequences - primary only
   prior_names:
    - GWHEQVC00000000.modID.protein_primary.faa.gz
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.gff3.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.gff3.gz
   description: Gene models - main
   prior_names:
    - GWHEQVC00000000.modID.genes.gff3.gz
   applications:
    - mines
    - jbrowse-index
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.bed.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.bed.gz
   description: BED-format file, derived from gene_models_main.gff3
   prior_names:
    - GWHEQVC00000000.modID.genes.gff3.gz
-- name: vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_exons.gff3.gz:
+- name: vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_exons.gff3.gz
   description: Gene models, with exons
   prior_names:
    - GWHEQVC00000000.modID.genes_exons.gff3.gz

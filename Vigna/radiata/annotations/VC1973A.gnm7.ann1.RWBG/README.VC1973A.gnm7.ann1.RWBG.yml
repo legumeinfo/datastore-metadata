@@ -1,4 +1,3 @@
----
 identifier: VC1973A.gnm7.ann1.RWBG
 
 provenance: "The files in this directory originated from the Crop Genomics Lab of Dr. Suk-Ha Lee, http://plantgenomics.snu.ac.kr. The Crop Genomics Lab repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
@@ -13,18 +12,18 @@ taxid: 157791
 
 scientific_name_abbrev: vigra
 
-genotype: 
+genotype:
   - VC1973A
 
 description: "The assembled genome was annotated via the pipeline described by Ha et al. (2019) based on transcriptome data from JJMO00000000."
 
-bioproject: 
+bioproject:
 
 sraproject: SRRS9994113
 
-dataset_doi: 
+dataset_doi:
 
-genbank_accession: 
+genbank_accession:
 
 original_file_creation_date: "2021-07-18"
 

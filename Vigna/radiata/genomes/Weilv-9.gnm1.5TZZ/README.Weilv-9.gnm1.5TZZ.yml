@@ -1,4 +1,3 @@
----
 identifier: Weilv-9.gnm1.5TZZ
 
 provenance: "The files in this directory originated from https://ngdc.cncb.ac.cn/gwh/Assembly/83514/show. The Genome Warehouse repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
@@ -41,4 +40,3 @@ public_access_level: public
 license: open
 
 keywords: mung bean, Weilv-9
-
