@@ -1,0 +1,44 @@
+---
+identifier: Weilv-9.gnm1.5TZZ
+
+provenance: "The files in this directory originated from https://ngdc.cncb.ac.cn/gwh/Assembly/83514/show. The Genome Warehouse repository is considered the primary repository and authoritative; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://ngdc.cncb.ac.cn/gwh/Assembly/83514/show"
+
+synopsis: "Vigna radiata accession Weilv-9 from Kunming Institute of Botany, Chinese Academy of Sciences"
+
+scientific_name: Vigna radiata
+
+taxid: 157791
+
+scientific_name_abbrev: vigra
+
+genotype:
+  - Weilv-9
+
+chromosome_prefix: chr
+
+description: "Complete T2G genome assembly, assembled with hifiasm 0.19.5-r592, from ~100x PacBio data"
+
+original_file_creation_date: "2023-08-19"
+
+local_file_creation_date: "2024-08-20"
+
+dataset_release_date: "2026-02-02"
+
+publication_doi: 10.1093/hr/uhae337
+
+publication_title: "Telomere-to-telomere, gap-free genome of mung bean (Vigna radiata) provides insights into domestication under structural variation"
+
+contributors: Jia KH, Li G, Wang L, Liu M, Wang ZW, Li RZ, Li LL, Xie K, Yang YY, Tian RM, Chen X, Si YJ, Zhang XY, Song FJ, Li L, Li NN.
+
+citation: "Jia KH, Li G, Wang L, Liu M, Wang ZW, Li RZ, Li LL, Xie K, Yang YY, Tian RM, Chen X, Si YJ, Zhang XY, Song FJ, Li L, Li NN. Telomere-to-telomere, gap-free genome of mung bean (Vigna radiata) provides insights into domestication under structural variation. Hortic Res. 2024 Dec 2;12(3):uhae337. doi: 10.1093/hr/uhae337. PMID: 40061812; PMCID: PMC11886820."
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: mung bean, Weilv-9
+
