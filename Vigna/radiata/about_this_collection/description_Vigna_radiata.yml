@@ -17,3 +17,8 @@ strains:
     name: VC1973A
     origin: South Korea
     description: "Vigna radiata accession VC1973A was chosen for genome sequencing. VC1973A was developed at the AVRDC-The World Vegetable Center in 1982; since then, it has been widely grown in Korea, Thailand, Taiwan, Canada and China as a heteronymous cultivar called 'Seonhwanogdu' in Korea, 'Kamphaeng Saen 1' in Thailand and 'Zhong Lu' in China. Accession description is from Kang et al., 2014 (DOI:10.1038/ncomms6443)."
+  - identifier: Weilv-9
+    accession: Weilv-9
+    name: Weilv-9
+    origin: China
+    description: "Vigna radiata accession Weilv-9 is a Chinese cultivar selected for sequencing due to its high yield, stress resistance, and compact plant form. The genome assembly and annotations are described in Jia, Li et al., 2025 (DOI:10.1093/hr/uhae337)."
