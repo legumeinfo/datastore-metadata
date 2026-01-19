@@ -1,4 +1,4 @@
-7f8488607cb1b4411cf3dfbb2e651be7  ./CHANGES.Weilv-9.gnm1.ann1.FPGC.txt
+25b05b496de243660acabef091464a4e  ./CHANGES.Weilv-9.gnm1.ann1.FPGC.txt
 df687a1d9b913d722bc475d9081cf8d1  ./MANIFEST.Weilv-9.gnm1.ann1.FPGC.yml
 c41643602a5654749e948da4b1ea3c5f  ./README.Weilv-9.gnm1.ann1.FPGC.yml
 5b05679eca7e9332e7e387616e3d565e  ./vigra.Weilv-9.gnm1.ann1.FPGC.cds.fna.gz
@@ -12,6 +12,8 @@ da7e1361d5c3206926372ab7c0d095b0  ./vigra.Weilv-9.gnm1.ann1.FPGC.cds_primary.fna
 b018f854f53854718c7471d57338aa92  ./vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.bed.gz
 acd02152143f2c38a9f3444ede5b1fc7  ./vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.gff3.gz
 1ae00515a257086e9c3de33d0da08d25  ./vigra.Weilv-9.gnm1.ann1.FPGC.gene_models_main.gff3.gz.tbi
+67aed971233dd5362af95c1d6dcac5ef  ./vigra.Weilv-9.gnm1.ann1.FPGC.legfed_v1_0.M65K.gfa.tsv.gz
+4364990f812d4419973fdcf7f063bc68  ./vigra.Weilv-9.gnm1.ann1.FPGC.legume.fam3.VLMQ.gfa.tsv.gz
 b41dfc07bb02320ed9c8064d65d15f0e  ./vigra.Weilv-9.gnm1.ann1.FPGC.mrna.fna.gz
 e553c3797dc1c82a2b22f13315552997  ./vigra.Weilv-9.gnm1.ann1.FPGC.mrna.fna.gz.fai
 8deef2f5353a729025549687ed4ac18d  ./vigra.Weilv-9.gnm1.ann1.FPGC.mrna.fna.gz.gzi
