@@ -1,0 +1,41 @@
+---
+- name: Vigna.pan4.TT59.clust.tsv.gz:
+  description: Pan-gene sets, in cluster format; ID in first column, followed by tab-separated gene list.
+  prior_names:
+   - 18_syn_pan_aug_extra.clust.tsv
+- name: Vigna.pan4.TT59.counts.tsv.gz:
+  description: Matrix of counts of genes per annotation set for each pan-gene set.
+  prior_names:
+   - 18_syn_pan_aug_extra.counts.tsv
+- name: Vigna.pan4.TT59.hsh.tsv.gz:
+  description: Pan-gene sets, in a two-column hash format, with the set ID in the first column and genes in the second.
+  prior_names:
+   - 18_syn_pan_aug_extra.hsh.tsv
+- name: Vigna.pan4.TT59.table.tsv.gz:
+  description: Table of genes in each family or pangene, in columns by accession
+  prior_names:
+   - 18_syn_pan_aug_extra.table.tsv
+- name: Vigna.pan4.TT59.inclusive_cds.fna.gz:
+  description: CDS pan-gene sequence, inclusive (not filtered by minimum cluster size or annotation-set representation).
+  prior_names:
+   - 21_pan_fasta_clust_rep_cds.fna
+- name: Vigna.pan4.TT59.inclusive_protein.faa.gz:
+  description: Protein pan-gene sequence, inclusive (not filtered by minimum cluster size or annotation-set representation).
+  prior_names:
+   - 21_pan_fasta_clust_rep_prot.faa
+- name: Vigna.pan4.TT59.pctl25_named_cds.fna.gz:
+  description: CDS pan-gene sequence, omitting pan-genes smaller than 25% of the mode, with derived pan-gene IDs corresponding with consensus chromosome and ordinal position.
+  prior_names:
+   - 23_syn_pan_pctl25_posn_cds.fna
+- name: Vigna.pan4.TT59.pctl25_named_protein.faa.gz:
+  description: Protein pan-gene sequence, omitting pan-genes smaller than 25% of the mode, with derived pan-gene IDs corresponding with consensus chromosome and ordinal position.
+  prior_names:
+   - 23_syn_pan_pctl25_posn_prot.faa
+- name: Vigna.pan4.TT59.complement.fna.gz:
+  description: Complement of genes in this pan-gene set; i.e. not clustered, presumed to be singletons.
+  prior_names:
+   - 18_syn_pan_aug_extra_complement.fna
+- name: Vigna.pan4.TT59.stats.txt.gz:
+  description: Descriptive statistics about program parameters, input sequences, and pan-gene products.
+  prior_names:
+   - stats.txt
