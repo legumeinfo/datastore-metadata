@@ -8,6 +8,8 @@
   applications:
    - blast
    - mines
+  prior_names:
+    - Gmax_189.fa.gz
 - name: glyma.Wm82.gnm1.FCtY.genome_softmasked.fna.gz
   description: Softmasked genome assembly
   prior_names:
