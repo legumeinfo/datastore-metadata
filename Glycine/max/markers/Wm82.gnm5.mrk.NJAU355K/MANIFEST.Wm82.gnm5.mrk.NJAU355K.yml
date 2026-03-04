@@ -1,0 +1,8 @@
+---
+- name: glyma.Wm82.gnm5.mrk.NJAU355K.gff3.gz
+  description: NJAU355K
+  applications:
+   - jbrowse
+   - mines
+  prior_names:
+   - null
