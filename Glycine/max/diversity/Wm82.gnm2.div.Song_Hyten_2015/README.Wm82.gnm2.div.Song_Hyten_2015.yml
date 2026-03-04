@@ -5,7 +5,7 @@ provenance: "The files in this directory originated from NCBI dbSNP (https://www
 
 source: "ftp://ftp.ncbi.nih.gov/snp/organisms/soybean_3847/viewBatch/snpBatch_BARC_1059007.gz"
 
-synopsis: "VCF, HapMap, and Flapjack files containing genotype information of the whole U.S. soybean germplasm collection using the SoySNP50K BeadChip."
+synopsis: "VCF file containing genotype information of the whole U.S. soybean germplasm collection using the SoySNP50K BeadChip."
 
 scientific_name: Glycine max
 
@@ -16,25 +16,23 @@ scientific_name_abbrev: glyma
 genotype:
   - U.S. Soybean Germplasm Collection (Glycine max and Glycine soja)
 
-description: "Multiple files containing genotype information of the U.S. soybean germplasm collection genotyped with the SoySNP50K BeadChip. Data included in this set are VCF files, HapMap files, and files to be used for the program Flapjack."
+description: "VCF file containing genotype information of the U.S. soybean germplasm collection genotyped with the SoySNP50K BeadChip. VCF file included in this set is generated with in-house script map-markers-to-assembly, mapping markers from initial Wm82.gnm1 coordinates into the present genome assembly."
 
 genotyping_platform: SoySNP50K
 
-genbank_accession: "ss715578401, ss715639200, rs121965363, rs864620262"
-
 original_file_creation_date: "2015-07-28"
 
-local_file_creation_date: "2016-10-01"
+local_file_creation_date: "2026-02-23"
 
 publication_doi: 10.1534/g3.115.019000
 
-dataset_release_date: "2015-07-28"
+dataset_release_date: "2026-02-23"
 
 publication_title: Fingerprinting Soybean Germplasm and Its Utility in Genomic Research
 
 contributors: Qijian Song, David L. Hyten, Gaofeng Jia, Charles V. Quigley, Edward W. Fickus, Randall L. Nelson, and Perry B. Cregan
 
-data_curators: Anne V. Brown, Jacqueline D. Campbell
+data_curators: Anne V. Brown, Jacqueline D. Campbell, Wei Huang 
 
 public_access_level: public
 

@@ -1,2 +1,2 @@
-  - 2024-06-13 (sbc) Restructure MANIFEST files, combining correspondence and descriptions into a single file
+  - 2026-02-25 Remapping with in-house script map-markers-to-assembly, mapping markers from initial Wm82.gnm1 coordinates into the present genome assembly 
 
