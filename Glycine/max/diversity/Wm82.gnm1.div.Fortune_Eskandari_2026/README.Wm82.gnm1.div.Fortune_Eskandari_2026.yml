@@ -1,0 +1,46 @@
+---
+identifier: Wm82.gnm1.div.Fortune_Eskandari_2026
+
+provenance: "The files in this directory originated from Milad Eschandari and Sayed M. Hashemi. The files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo, SoyBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, SoyBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "Multi-Parent Advanced Generation Inter-Cross (MAGIC) populations, comprising 721 recombinant inbred lines (RILs), through conical inter-mating of eight soybean lines as parents."
+
+scientific_name: Glycine max
+
+taxid: 3847
+
+scientific_name_abbrev: glyma
+
+genotype:
+  - OAC Prosper
+  - OAC 13-55C-HL
+  - OAC 07-78CLL
+  - AC X790P
+  - RG 46
+  - RG 22
+  - RG 11
+  - RG 23
+
+description: "Multi-Parent Advanced Generation Inter-Cross (MAGIC) populations are emerging genetic platforms for high-resolution and fine mapping of quantitative traits, such as agronomic and seed composition traits in soybean. We have established an eight-parent MAGIC population, comprising 721 recombinant inbred lines (RILs), through conical inter-mating of eight soybean lines (SoyMAGIC). The RILs were evaluated for important seed composition traits using replicated field trials in Palmayra and Ridgetown Ontario in 2021. The SoyMAGIC population is a powerful platform for genetic studies and breeding activities in soybean, and the data generated from this population can be used to identify genomic regions associated with important traits and to develop improved soybean varieties. Note that the REF allele in the VCF file represents the major allele in the MAGIC population not the reference allele for the GCA_000004515.4 (Glyma2.1) genome assembly as indicted in the VCF metadata section."
+
+genotyping_platform: SoySNP50K
+
+genotyping_method: Assay of SoyMAGIC population using the SoySNP50K iSelect BeadChip
+
+publication_doi: 10.3389/fpls.2022.945471
+
+dataset_release_date: "2026-03-03"
+
+publication_title: "SoyMAGIC: An Unprecedented Platform for Genetic Studies and Breeding Activities in Soybean"
+
+contributors: Hashemi SM, Perry G, Rajcan I, Eskandari M
+
+data_curators: Rex Nelson, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: soybean, germplasm, genotyping, SoyMAGIC, genetic diversity, haplotype block, map
+
+citation: "Hashemi SM, Perry G, Rajcan I, Eskandari M. SoyMAGIC: An Unprecedented Platform for Genetic Studies and Breeding Activities in Soybean. Front Plant Sci. 2022 Jul 7;13:945471. doi: 10.3389/fpls.2022.945471. PMID: 35874009; PMCID: PMC9301248."
