@@ -4,3 +4,6 @@
   applications:
     - jbrowse
   prior_names: 50KSNPchip_SoyMAGIC.vcf
+- name: original_50KSNPchip_SoyMAGIC.vcf.gz
+  description: Original vcf from authors, with original experiment IDs
+  prior_names: 50KSNPchip_SoyMAGIC.vcf.gz

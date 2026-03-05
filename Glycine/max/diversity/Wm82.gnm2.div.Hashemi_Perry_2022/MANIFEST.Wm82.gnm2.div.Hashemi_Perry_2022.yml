@@ -1,20 +1,16 @@
 ---
-- name: glyma.Wm82.gnm2.div.Hashemi_Perry_2022.GBS_SoyMAGIC.vcf
+- name: glyma.Wm82.gnm2.div.Hashemi_Perry_2022.GBS_SoyMAGIC.vcf.gz
   description: genotype information for SoyMAGIC population, from GBS resequencing
     Coordinate system GCF_000004515.5/Glycine_max_v2.1/glyma.Wm82.gnm2.DTC4
   applications:
     - jbrowse
   prior_names: GBS_SoyMAGIC.vcf
-- name: original_GBS_SoyMAGIC.vcf
+- name: original_GBS_SoyMAGIC.vcf.gz
   description: Original VCF file described in Hashemi et al. (2022); doi 10.3389/fpls.2022.945471
     Coordinate system GCF_000004515.4/Glycine_max_v2.0
-  applications:
-  prior_names: GBS_SoyMAGIC.vcf
 - name: glyma.Wm82.gnm2.div.Hashemi_Perry_2022.Pheno_Data-Palmyra_2021.xlsx
   description: Phenotype data from Palmyra location for UoGuelph SoyMAGIC population, collected 2021
-  applications:
   prior_names: Pheno_Data-Palmyra_2021.xlsx
 - name: glyma.Wm82.gnm2.div.Hashemi_Perry_2022.Pheno_Data-Ridgetown_2021.xlsx
   description: Phenotype data from Ridgetown location for UoGuelph SoyMAGIC population, collected 2021
-  applications:
   prior_names: Pheno_Data-Ridgetown_2021.xlsx
