@@ -23,7 +23,7 @@ genotype:
 
 description: "Multi-Parent Advanced Generation Inter-Cross (MAGIC) populations are emerging genetic platforms for high-resolution and fine mapping of quantitative traits, such as agronomic and seed composition traits in soybean. We have established an eight-parent MAGIC population, comprising 721 recombinant inbred lines (RILs), through conical inter-mating of eight soybean lines (SoyMAGIC). The RILs were evaluated for important seed composition traits using replicated field trials in Palmayra and Ridgetown Ontario in 2021. The SoyMAGIC population is a powerful platform for genetic studies and breeding activities in soybean, and the data generated from this population can be used to identify genomic regions associated with important traits and to develop improved soybean varieties. Note that the REF allele in the VCF file represents the major allele in the MAGIC population not the reference allele for the GCA_000004515.4 (Glyma2.1) genome assembly as indicted in the VCF metadata section."
 
-genotyping_platform: SoySNP50K
+genotyping_platform: Hashemi_Perry_2022
 
 publication_doi: 10.3389/fpls.2022.945471
 
