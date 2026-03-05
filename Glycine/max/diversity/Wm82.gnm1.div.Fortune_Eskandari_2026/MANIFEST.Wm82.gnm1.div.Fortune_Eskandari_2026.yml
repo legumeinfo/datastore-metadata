@@ -1,5 +1,5 @@
 ---
-- name: glyma.Wm82.gnm1.div.50KSNPchip_SoyMAGIC.vcf.gz
+- name: glyma.Wm82.gnm1.div.Fortune_Eskandari_2026.50KSNPchip_SoyMAGIC.vcf.gz
   description: genotype information for UoGuelph SoyMAGIC population, from 50KSNPchip assay
   applications:
     - jbrowse
