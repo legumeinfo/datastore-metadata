@@ -1,7 +1,0 @@
----
-- name: glyma.Wm82.gnm1.mrk.Fortune_Eskandari_2026.gff3.gz
-  description: markers from GBS of SoyMAGIC population from U Guelph
-  applications:
-  prior_names:
-   - derived from GBS_SoyMAGIC.vcf
-
