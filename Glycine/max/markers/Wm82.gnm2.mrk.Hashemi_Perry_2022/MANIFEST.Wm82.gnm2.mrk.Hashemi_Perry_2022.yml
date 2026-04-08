@@ -1,0 +1,7 @@
+---
+- name: glyma.Wm82.gnm2.mrk.Hashemi_Perry_2022.gff3.gz
+  description: markers from GBS of SoyMAGIC population from U Guelph
+  applications:
+  prior_names:
+   - derived from GBS_SoyMAGIC.vcf
+
