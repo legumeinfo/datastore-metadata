@@ -14,7 +14,9 @@ scientific_name_abbrev: medsa
 genotype:
   - RegenSY27x
 
-supercontig_prefix: "ptg,atg"
+chromosome_prefix: Chr
+
+supercontig_prefix: scaffold
 
 description: "Haplotype-resolved pseudochromosome genome assembly for RegenSY27x; Pacbio HiFi hifiasm assembly"
 
