@@ -13,10 +13,9 @@ taxid: 3818
 
 scientific_name_abbrev: arahy
 
-genotype:
-  - C76-16
+genotype: C76-16
 
-description: "Obtained from Josh Clevenger's group, Hudsonalpha. Description to be completed later."
+description: "Genome assembly contributed by Josh Clevenger's group, Hudsonalpha. Description of genotype: C76-16, a runner type breeding line, is used for drought tolerance and aflatoxin mitigation in peanut breeding." 
 
 chromosome_prefix: chr
 

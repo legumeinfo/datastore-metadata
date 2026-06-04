@@ -13,10 +13,9 @@ taxid: 3818
 
 scientific_name_abbrev: arahy
 
-genotype:
-  - F07
+genotype: F07
 
-description: "Obtained from Josh Clevenger's group, Hudsonalpha. Description to be completed later."
+description: "Genome assembly contributed by Josh Clevenger's group, Hudsonalpha. Genotype description: A high yielding and  high oleic runner type cv with TSWV resistance."
 
 chromosome_prefix: chr
 

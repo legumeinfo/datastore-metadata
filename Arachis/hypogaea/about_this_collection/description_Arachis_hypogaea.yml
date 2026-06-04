@@ -59,5 +59,19 @@ strains:
     accession: BaileyII
     name: Bailey II
     origin: Southeast US
-    description: Virginia-type peanut cultivar developed by NCSU breeding program. Bailey II is a near-isogenic line to Bailey, 
-      possessing high-oleic trait and resistance to several important pathogens, derived from A. cardenasii introgressions.
+    description: Virginia-type peanut cultivar developed by NCSU breeding program. Bailey II is a near-isogenic line to Bailey, possessing high-oleic trait and resistance to several important pathogens, derived from A. cardenasii introgressions.
+  - identifier: F07
+    accession: Florida-07
+    name: Florida-07
+    origin: Southeast US
+    description: Florida-07(F07) is a widely grown, high-yielding runner peanut variety. It is a medium maturity, large seeded, high oleic cultivar with resistance to Tomato Spotted Wilt was developed by the University of Florida, Institute of Food and Agricultural Sciences. The variety was released in 2006 because of its outstanding pod-yield potential, competitive grades, high oleic oil chemistry and resistance to tomato spotted wilt virus (TSWV) from C-99R in its pedigree. 
+  - identifier: C76-16
+    accession: C76-16
+    name: C76-16
+    origin: Southeast US
+    description: C76-16, known for its drought tolerance and aflatoxin mitigation traits, is a runner-type advanced peanut breeding line developed by the USDA Agricultural Research Service (USDA-ARS) in Dawson, Georgia. It is heavily utilized for its improved resistance to pre-harvest aflatoxin contamination (PAC). 
+  - identifier: ICG1471
+    accession: ICG1471
+    name: ICG 1471
+    origin: ICRISAT(Senegal)
+    description: ICG 1471 (also known in by its cross designation 55-437) is a highly specialized, drought-tolerant peanut germplasm line. It is globally recognized as a premier resource for studying and breeding resistance to post-harvest and pre-harvest aflatoxin contamination.
