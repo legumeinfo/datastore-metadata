@@ -16,7 +16,7 @@ scientific_name_abbrev: arahy
 genotype:
   - C76-16
 
-description: "Obtained from Josh Clevenger's group, Hudsonalpha. Description to be completed later."
+description: "Annotation generated at PeanutBase by liftover process from Tifrunner.gnm2.ann2."
 
 chromosome_prefix: chr
 
@@ -28,13 +28,13 @@ local_file_creation_date: "2025-05-01"
 
 dataset_release_date: "2025-07-08"
 
-publication_doi: "Not available"
+publication_doi: 
 
-publication_title: "NA"
+publication_title: 
 
 contributors: S. DASH, A.D. FARMER, S. CANNON, Y. CHU, P. OZIAS-AKINS, J. CLEVENGER, W. KORANI, H. WRIGHT 
 
-citation: "NA" 
+citation: 
 
 data_curators: Sudhansu Dash
 
