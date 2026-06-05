@@ -13,7 +13,8 @@ taxid: 3818
 
 scientific_name_abbrev: arahy
 
-genotype: ICG1471
+genotype: 
+  - ICG1471
 
 description: "Genome assembly contributed by Josh Clevenger's group, Hudsonalpha. Description of genotype: ICG 1471 is a highly specialized, drought-tolerant peanut germplasm line used in breeding resistance to aflatoxin contamination."
 
