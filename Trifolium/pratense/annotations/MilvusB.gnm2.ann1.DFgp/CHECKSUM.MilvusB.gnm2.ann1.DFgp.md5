@@ -1,7 +1,7 @@
 6918f385b171f71c807696818d971e1b  ./BUSCO/tripr.MilvusB.gnm2.ann1.DFgp.busco.fabales_odb10.full_table.tsv.gz
 9b470ef7158b2421dad96c5a9a6c5e10  ./BUSCO/tripr.MilvusB.gnm2.ann1.DFgp.busco.fabales_odb10.short_summary.json
 46b22fdb4abb71483e200a109c2ab237  ./BUSCO/tripr.MilvusB.gnm2.ann1.DFgp.busco.fabales_odb10.short_summary.txt
-60d618ff96e922e1b56b6edb060c3551  ./CHANGES.MilvusB.gnm2.ann1.DFgp.txt
+58572a33e51d4b81b9a64e73e403d86a  ./CHANGES.MilvusB.gnm2.ann1.DFgp.txt
 98047a3c1ee58efb3c1b81952ab343ea  ./MANIFEST.MilvusB.gnm2.ann1.DFgp.yml
 3b207597be8da10e2d242b495716d974  ./README.MilvusB.gnm2.ann1.DFgp.yml
 27cc1de52d58128630c6738cbccd1e07  ./tripr.MilvusB.gnm2.ann1.DFgp.cds.fna.gz
@@ -14,8 +14,8 @@ c68ddc292c0bb6934820daf8852ca2bb  ./tripr.MilvusB.gnm2.ann1.DFgp.cds_primary.fna
 8d8590a21885e60297fd5f438f388af7  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_gbrowse.gff3.gz.tbi
 198c7db8fde00838efc6dfeaca69e3d3  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.bed.gz
 e3580814e6bd4939516e8a1e0acd0445  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.bed.gz.tbi
-3cfe8ac41d7a857089f8eb9cddbf3f01  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz
-2b8936f92c81012533ad4d904d4ced31  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz.tbi
+3a4f746958aec825d6a6ee9292064ceb  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz
+810facbf6c7a682036235689b27dea99  ./tripr.MilvusB.gnm2.ann1.DFgp.gene_models_main.gff3.gz.tbi
 c737fe28048b36928e0b05bc1e8cfbe2  ./tripr.MilvusB.gnm2.ann1.DFgp.info_annot_AHRD.txt.gz
 6cc64f820eb23fd1aa1ad7da57347d1f  ./tripr.MilvusB.gnm2.ann1.DFgp.legfed_v1_0.M65K.gfa.tsv.gz
 af6274a9c60a8ea83d677dd6aceb15da  ./tripr.MilvusB.gnm2.ann1.DFgp.legume.fam3.VLMQ.gfa.tsv.gz
