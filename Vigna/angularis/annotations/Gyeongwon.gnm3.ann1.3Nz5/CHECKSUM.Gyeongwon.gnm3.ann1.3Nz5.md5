@@ -1,7 +1,7 @@
 16021461ccb2e049aa808214d0683bd4  ./BUSCO/vigan.Gyeongwon.gnm3.ann1.3Nz5.busco.fabales_odb10.full_table.tsv.gz
 0c026a3245f14b63695f378d60cc0274  ./BUSCO/vigan.Gyeongwon.gnm3.ann1.3Nz5.busco.fabales_odb10.short_summary.json
 639a8f11c15498dc08b3cd0b732f3228  ./BUSCO/vigan.Gyeongwon.gnm3.ann1.3Nz5.busco.fabales_odb10.short_summary.txt
-cfef3ee6e8220e0f384d470c2cf1cb5a  ./CHANGES.Gyeongwon.gnm3.ann1.3Nz5.txt
+c95636a7ab2a4ee68c55df057b678d4d  ./CHANGES.Gyeongwon.gnm3.ann1.3Nz5.txt
 3792e734cb5f24c4e8fec407df039733  ./MANIFEST.Gyeongwon.gnm3.ann1.3Nz5.yml
 c3a82e409933f577fe504a28fbe138c3  ./README.Gyeongwon.gnm3.ann1.3Nz5.yml
 e1109752aaf212b077331faf0aefdec8  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.cds.fna.gz
@@ -12,8 +12,8 @@ ab7675fbfb601148caf168779d79e413  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.cds_primary.f
 3b3e9e289eaf84803124b237d4ccac36  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.cds_primary.fna.gz.gzi
 559d7d6e50961ee2aa6cb6995921310d  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.bed.gz
 3c1a334ededc32f2f1fa48be0acd774d  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.bed.gz.tbi
-9b3dfdd6bd9de711883af7822f100c72  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz
-08b74c095671d740df1ad657e9cbd850  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz.tbi
+5411dd31ef8e924b2462bce3f76caf16  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz
+c7039b2936ffbc03837ef044114b7bb1  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.gene_models_main.gff3.gz.tbi
 46728954ba530df730fd02b512f5884a  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.info_annot_AHRD.txt.gz
 34db43ad2896450e7b20cb351967de80  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.legfed_v1_0.M65K.gfa.tsv.gz
 2e869561cc49b7f3b065535260a5f77f  ./vigan.Gyeongwon.gnm3.ann1.3Nz5.legume.fam3.VLMQ.gfa.tsv.gz
