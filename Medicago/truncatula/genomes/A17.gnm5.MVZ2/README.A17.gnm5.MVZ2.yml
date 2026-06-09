@@ -18,7 +18,7 @@ scientific_name_abbrev: medtr
 genotype:
   - A17
 
-chromosome_prefix: "MtrunA17Chr1,MtrunA17Chr2,MtrunA17Chr3,MtrunA17Chr4,MtrunA17Chr5,MtrunA17Chr6,MtrunA17Chr7,MtrunA17Chr8"
+chromosome_prefix: "MtrunA17Chr1,MtrunA17Chr2,MtrunA17Chr3,MtrunA17Chr4,MtrunA17Chr5,MtrunA17Chr6,MtrunA17Chr7,MtrunA17Chr8,MtrunA17CP,MtrunA17MT"
 
 supercontig_prefix: MtrunA17Chr0c
 
