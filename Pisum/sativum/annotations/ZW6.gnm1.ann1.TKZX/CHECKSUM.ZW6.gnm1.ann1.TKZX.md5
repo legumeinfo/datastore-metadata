@@ -1,8 +1,8 @@
 0107194216ad7618cf3555f76785d0c7  ./BUSCO/pissa.ZW6.gnm1.ann1.TKZX.busco.fabales_odb10.full_table.tsv.gz
 6ca85bcb65f313ee73df29b372d2229c  ./BUSCO/pissa.ZW6.gnm1.ann1.TKZX.busco.fabales_odb10.short_summary.json
 8af44f88ce3d15f78f71093940524479  ./BUSCO/pissa.ZW6.gnm1.ann1.TKZX.busco.fabales_odb10.short_summary.txt
-82a51e44e5b1dbbea774a902920a07c8  ./CHANGES.ZW6.gnm1.ann1.TKZX.txt
-a55990697094d3d0fb4178f195c181f9  ./MANIFEST.ZW6.gnm1.ann1.TKZX.yml
+4d13b8a24375ea95954436a7116ff714  ./CHANGES.ZW6.gnm1.ann1.TKZX.txt
+06b576361de9e8c444cfffc18ed340bb  ./MANIFEST.ZW6.gnm1.ann1.TKZX.yml
 e94f33fb80208b9ca9beef0d67c3b718  ./README.ZW6.gnm1.ann1.TKZX.yml
 c8496820477e33eade2432c91a13626c  ./pissa.ZW6.gnm1.ann1.TKZX.cds.fna.gz
 f96761b9a72d68ac31faffafa9fe605d  ./pissa.ZW6.gnm1.ann1.TKZX.cds.fna.gz.fai
@@ -16,6 +16,7 @@ d006786709ccb08eb7d98429ab031889  ./pissa.ZW6.gnm1.ann1.TKZX.featid_map.tsv.gz
 41d48f1a77c184231c6bfe31270551ed  ./pissa.ZW6.gnm1.ann1.TKZX.gene_models_main.gff3.gz.csi
 e355baa7a793210c2604fccf30ec2327  ./pissa.ZW6.gnm1.ann1.TKZX.iprscan.gff3.gz
 de14592fa9d843aa362397d063ec1dce  ./pissa.ZW6.gnm1.ann1.TKZX.iprscan.gff3.gz.tbi
+b74ac0cd3a761c278c4820db6bbb052f  ./pissa.ZW6.gnm1.ann1.TKZX.legfed_v1_0.M65K.gfa.tsv.gz
 17873a21bd9e50bd7e4ee02c409eadf1  ./pissa.ZW6.gnm1.ann1.TKZX.legume.fam3.VLMQ.gfa.tsv.gz
 8f2d8794a8ab98a16aa74eeb9621fa7f  ./pissa.ZW6.gnm1.ann1.TKZX.mrna.fna.gz
 7c8f6f38000031317378195ac1696195  ./pissa.ZW6.gnm1.ann1.TKZX.mrna.fna.gz.fai
