@@ -15,7 +15,7 @@ scientific_name_abbrev: vigra
 genotype:
   - Weilv-9
 
-chromosome_prefix: chr
+chromosome_prefix: chr,Pt,Mt
 
 description: "Complete T2G genome assembly, assembled with hifiasm 0.19.5-r592, from ~100x PacBio data"
 
