@@ -16,6 +16,7 @@ ea3590558726d3fb9b30f12ecd4463f0  ./phaco.PHA8298.gnm1.ann1.0Q14.cds_primary.fna
 2cd4b96c83efad480b7ce2b6772aed7b  ./phaco.PHA8298.gnm1.ann1.0Q14.featid_map.tsv.gz
 29ece03dff47e28564be65124cd2e46e  ./phaco.PHA8298.gnm1.ann1.0Q14.gene_models_exons.gff3.gz
 93b4854431bbdc0b683fbe9a50c2b6fa  ./phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.bed.gz
+ba537ef3c7ddb78ac76e6f380a53a021  ./phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.bed.gz.tbi
 aa679077433ff7dece8e36de5cc834c2  ./phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.gff3.gz
 65214225e66944a09a0ab1b1b8d9abc1  ./phaco.PHA8298.gnm1.ann1.0Q14.gene_models_main.gff3.gz.tbi
 8d293517329ddf90c0d3a023176a21ae  ./phaco.PHA8298.gnm1.ann1.0Q14.iprscan.gff3.gz

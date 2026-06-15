@@ -12,6 +12,7 @@ f13d383da3bcd16ce0d3ed36f8f23177  ./arast.V10309.gnm1.ann1.CZRZ.cds_primary.fna.
 e51c407bba22d794708af7a2f676d9d9  ./arast.V10309.gnm1.ann1.CZRZ.cds_primary.fna.gz.gzi
 a42667d65ef4eeabcb4723cf1750cdf7  ./arast.V10309.gnm1.ann1.CZRZ.featid_map.tsv.gz
 08b0df71a91663ad547ac82f608eddff  ./arast.V10309.gnm1.ann1.CZRZ.gene_models_main.bed.gz
+0fcd428995545e387d85c39e759d962c  ./arast.V10309.gnm1.ann1.CZRZ.gene_models_main.bed.gz.tbi
 9b1eddf29fbaf76c6f918d108f1556e5  ./arast.V10309.gnm1.ann1.CZRZ.gene_models_main.gff3.gz
 611d8e2cf39eb9b370fcd4d0d0b47f84  ./arast.V10309.gnm1.ann1.CZRZ.gene_models_main.gff3.gz.tbi
 14807557f83a5bdb86fcdc38f071ee5c  ./arast.V10309.gnm1.ann1.CZRZ.iprscan.gff3.gz

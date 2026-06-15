@@ -8,6 +8,7 @@
 7aa585668de3bb04501efdb0d28f869f  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.cds.fna.gz.fai
 8ba07cce6cfa30bb111789183503b102  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.cds.fna.gz.gzi
 9dd9f35b94c3745d43b4a0e81a80090a  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.gene_models_main.bed.gz
+2d2c51d182476a3b8e6f3eeaaa857609  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.gene_models_main.bed.gz.tbi
 b28a125c49ac829f615dc106a0664a93  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.gene_models_main.gff3.gz
 9fe63f3fe0eac8c3755dc98a2780033b  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.gene_models_main.gff3.gz.tbi
 c2fce1457344cbd60cd93bd71ce5bdbc  ./medsa.XinJiangDaYe.gnm1.ann1.RKB9.iprscan.gff3.gz
@@ -46,6 +47,7 @@ f79c01abd3d1355a50ad6a429f0d8c79  ./medsa.XinJiangDaYe_hap3.gnm1.ann1.RKB9.prote
 80253dd8c7da749b6c8b3f423a082a91  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.cds.fna.gz.fai
 0754030638c2c038dd35eea1a9e2fe3d  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.cds.fna.gz.gzi
 e912890cb4985d54cb0e4f250398af9e  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.gene_models_main.bed.gz
+8d4d1f7c5552bc5f3b9a3bcfd24895b6  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.gene_models_main.bed.gz.tbi
 a45e7b331b87df497f8512e0fefa091c  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.protein.faa.gz
 dda4330fead04aa491640a8e3b5471d5  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.protein.faa.gz.fai
 67b4b688dbc15b201fa4163f6386194c  ./medsa.XinJiangDaYe_hap4.gnm1.ann1.RKB9.protein.faa.gz.gzi

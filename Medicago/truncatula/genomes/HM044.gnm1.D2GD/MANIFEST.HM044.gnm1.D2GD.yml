@@ -1,0 +1,6 @@
+---
+- name: medtr.HM044.gnm1.D2GD.genome_main.fna.gz
+  description: Primary genome assembly
+  applications:
+   - blast
+   - mines
