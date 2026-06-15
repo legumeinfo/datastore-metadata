@@ -17,7 +17,7 @@ genotype:
 
 chromosome_prefix: Chr
 
-supercontig_prefix: scaffold
+supercontig_prefix: Scaffold_
 
 description: Genome assembly for the Vigna angularis, accession Shumari
 
