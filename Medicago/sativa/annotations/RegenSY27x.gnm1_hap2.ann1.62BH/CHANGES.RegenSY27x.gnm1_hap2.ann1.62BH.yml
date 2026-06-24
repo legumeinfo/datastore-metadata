@@ -1,1 +1,2 @@
 2026-06-10 adf: added medsa.RegenSY27x.gnm1_hap2.ann1.62BH.legfed_v1_0.M65K.gfa.tsv.gz
+2026-06-23 adf: redo fastas by gffread following the removal of non-coding to their own file
