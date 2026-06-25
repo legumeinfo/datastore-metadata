@@ -34,15 +34,15 @@ publication_doi: 10.1073/pnas.2104899118
 
 publication_title: "Legacy genetics of Arachis cardenasii in the peanut crop shows the profound benefits of international seed exchange."
 
-contributors: Bertioli,D.J., Clevenger,J., Cannon,S.B., Youngblood,C., Abernathy,B., Vaughn,J. and Scheffler,B.
+contributors: Bertioli,D.J., Clevenger,J., Cannon,S.B., Farmer,A.D., Dash,S., Cameron, C., Youngblood,C., Abernathy,B., Vaughn,J. and Scheffler,B.
 
 citation: "Bertioli DJ, Clevenger J, Godoy IJ, Stalker HT, Wood S, Santos JF, Ballen-Taborda C, Abernathy B, Azevedo V, Campbell J, Chavarro C, Chu Y, Farmer AD, Fonceka D, Gao D, Grimwood J, Halpin N, Korani W, Michelotto MD, Ozias-Akins P, Vaughn J, Youngblood R, Moretzsohn MC, Wright GC, Jackson SA, Cannon SB, Scheffler BE, Leal-Bertioli SCM. Legacy genetics of Arachis cardenasii in the peanut crop shows the profound benefits of international seed exchange. Proc Natl Acad Sci U S A. 2021 Sep 21;118(38):e2104899118. doi: 10.1073/pnas.2104899118. PMID: 34518223; PMCID: PMC8463892."
 
-data_curators: Steven Cannon
+data_curators: Steven Cannon, Andrew Farmer, Sudhansu Dash
 
-public_access_level: public, restricted
+public_access_level: public
 
-license: Open, with usage agreement
+license: open
 
 keywords: Arachis, cardenasii, wild peanut
 

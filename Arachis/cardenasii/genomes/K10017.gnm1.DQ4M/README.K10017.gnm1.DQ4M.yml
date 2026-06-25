@@ -38,6 +38,8 @@ contributors: "David J. Bertioli, Josh Clevenger, Ignacio J. Godoy, H. T. Stalke
 
 data_curators: Steven Cannon
 
-public_access_level: public, with usage agreement 
+license: open
+
+public_access_level: public
 
 keywords: Arachis cardenasii, genome assembly
