@@ -1,0 +1,7 @@
+---
+- name: pissa.Cameor.gnm2.div.Kreplak_Novak_2026.vcf.gz
+  description: SNP Genotyping matrix recalled on cameor v2 for AMS dataset by Aubert et al., 2023.
+  prior_names:
+    - AMS_v2_raw.vcf.gz
+  applications:
+    - jbrowse

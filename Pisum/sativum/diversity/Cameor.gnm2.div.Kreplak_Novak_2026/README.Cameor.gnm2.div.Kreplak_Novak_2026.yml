@@ -1,0 +1,41 @@
+---
+identifier: Cameor.gnm2.div.Kreplak_Novak_2026
+
+provenance: "The files in this directory originated from European Nucleotide Archive (https://www.ebi.ac.uk). Files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo project, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo projects). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: "https://www.ebi.ac.uk/ena/browser/view/GCA_977071245"
+
+synopsis: "SNP Genotyping matrix recalled on cameor v2 for AMS dataset by Aubert et al. 2023."
+
+scientific_name: Pisum sativum
+
+taxid: 3888
+
+scientific_name_abbrev: pissa
+
+genotype:
+  - Cameor
+
+description: "SNP Genotyping matrix recalled on cameor v2 for AMS dataset by Aubert et al. 2023."
+
+original_file_creation_date: "2025-04-01"
+
+local_file_creation_date: "2026-06-23"
+
+publication_doi: 10.24072/pci.genomics.100237
+
+dataset_release_date: "2026-06-23"
+
+publication_title: "A new genome assembly of the pea cultivar 'Cameor' provides resources for functional genomics and genetics."
+
+contributors: Kreplak, J., Novák, P., Ávila, Robledillo L, Aubert, G., Imbert, B., Kaur, P,, Gouil, Q., Lopez-Roques C, Rodde N, Bouchez O, Tayeh N, Macas J, Burstin J.
+
+data_curators: Wei Huang, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: pea, SNP, genotyping, genetic diversity, Lathyrus oleraceus
+
+citation: "Kreplak, J., Novák, P., Ávila, Robledillo L, Aubert, G., Imbert, B., Kaur, P,, Gouil, Q., Lopez-Roques, C., Rodde, N., Bouchez, O., Tayeh, N., Macas, J., Burstin, J., A new genome assembly of the pea cultivar 'Caméor' provides resources for functional genomics and genetics. Sci Data. 2026 May 12. doi: 10.1038/s41597-026-07347-4. Epub ahead of print. PMID: 42120873."
