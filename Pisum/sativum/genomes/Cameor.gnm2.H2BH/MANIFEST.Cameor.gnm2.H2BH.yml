@@ -1,9 +1,9 @@
 ---
-- name: pissa.Cameor.gnm2.H2BH.seqid_map.tsv.gz:
+- name: pissa.Cameor.gnm2.H2BH.seqid_map.tsv.gz
   description: Map (hash) file of old/new chromosome and scaffold IDs
   prior_names:
    - No prior file
-- name: pissa.Cameor.gnm2.H2BH.genome_main.fna.gz:
+- name: pissa.Cameor.gnm2.H2BH.genome_main.fna.gz
   description: Primary genome assembly
   prior_names:
    - cameor_v2.fa.gz

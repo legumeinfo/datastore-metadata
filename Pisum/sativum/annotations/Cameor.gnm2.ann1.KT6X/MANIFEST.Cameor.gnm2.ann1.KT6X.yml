@@ -1,54 +1,54 @@
 ---
-- name: pissa.Cameor.gnm2.ann1.KT6X.featid_map.tsv.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.featid_map.tsv.gz
   description: Hash file of old/new gene IDs
   prior_names:
    - No prior file
-- name: pissa.Cameor.gnm2.ann1.KT6X.cds.fna.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.cds.fna.gz
   description: cds sequences
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.cds.fna.gz
   applications:
    - blast
    - mines
-- name: pissa.Cameor.gnm2.ann1.KT6X.cds_primary.fna.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.cds_primary.fna.gz
   description: cds sequences - primary only
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.cds_primary.fna.gz
   applications:
    - blast
    - mines
-- name: pissa.Cameor.gnm2.ann1.KT6X.mrna.fna.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.mrna.fna.gz
   description: Transcript sequences
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.transcripts.fna.gz
   applications:
    - mines
-- name: pissa.Cameor.gnm2.ann1.KT6X.mrna_primary.fna.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.mrna_primary.fna.gz
   description: Transcript sequences - primary only
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.transcripts_primary.fna.gz
   applications:
    - mines
-- name: pissa.Cameor.gnm2.ann1.KT6X.protein.faa.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.protein.faa.gz
   description: Protein sequences
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.protein.faa.gz
   applications:
    - mines
-- name: pissa.Cameor.gnm2.ann1.KT6X.protein_primary.faa.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.protein_primary.faa.gz
   description: Protein sequences - primary only
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.protein_primary.faa.gz
   applications:
    - mines
-- name: pissa.Cameor.gnm2.ann1.KT6X.gene_models_main.gff3.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.gene_models_main.gff3.gz
   description: Gene models - main
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.gff3.gz
   applications:
    - mines
    - jbrowse index
-- name: pissa.Cameor.gnm2.ann1.KT6X.gene_models_main.bed.gz:
+- name: pissa.Cameor.gnm2.ann1.KT6X.gene_models_main.bed.gz
   description: BED-format file, derived from gene_models_main.gff3
   prior_names:
    - CAMEOR_V2_ANNOTATION_1.gff3.gz
