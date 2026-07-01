@@ -1,0 +1,50 @@
+---
+identifier: Cameor.gnm2.H2BH
+
+provenance: "The files in this directory originated from https://doi.org/10.57745/5MDE99. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://doi.org/10.57745/5MDE99"
+
+synopsis: "Pisum sativum accession Cameor, genome assembly v2"
+
+scientific_name: Pisum sativum
+
+taxid: 3888
+
+scientific_name_abbrev: pissa
+
+genotype:
+  - Cameor
+
+chromosome_prefix: chr
+
+supercontig_prefix: scaffold
+
+description: "This genome assembly was produced by the INRAE. It corresponds with GenBank assembly GCA_977071245. It was produced using Nanopore and PacBio long-read sequencing, Hi-C contact maps and Bionano maps."
+
+dataset_doi: "10.57745/5MDE99"
+
+genbank_accession: GCA_977071245
+
+original_file_creation_date: "2026-02-26"
+
+local_file_creation_date: "2026-05-22"
+
+dataset_release_date: "2025-06-25"
+
+publication_doi: 10.1038/s41597-026-07347-4
+
+publication_title: "Genomic and Genetic Insights into Mendel’s Pea Genes"
+
+contributors: Kreplak J, Novak P, Avila Robledillo L, Aubert G, Imbert B, Kaur P, Gouil Q, Lopez-Roques C, Rodde N, Bouchez O, Tayeh N, Macas J, Burstin J.
+
+citation: "Kreplak J, Novak P, Avila Robledillo L, Aubert G, Imbert B, Kaur P, Gouil Q, Lopez-Roques C, Rodde N, Bouchez O, Tayeh N, Macas J, Burstin J. A new genome assembly of the pea cultivar 'Cameor' provides resources for functional genomics and genetics. Sci Data. 2026 May 12. doi: 10.1038/s41597-026-07347-4. Epub ahead of print. PMID: 42120873."
+
+data_curators: Steven Cannon, Wei Huang
+
+public_access_level: public, restricted
+
+license: Open, with usage agreement
+
+keywords: pea, Pisum sativum, Lathyrus oleraceus
+

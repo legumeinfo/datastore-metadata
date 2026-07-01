@@ -1,0 +1,7 @@
+---
+- name: pissa.JI2822.gnm1.div.Powers_Boatwright_2021.vcf.gz
+  description: VCF file containing SNP data pertaining to the USDA Pea Single Plant Plus Collection. The VCF file included in this collection was generated with the worflow map-markers-to-assembly, which mapped markers from the initial PSPPC coordinates into the JI2822 assembly (pissa.JI2822.gnm1.QBWW.genome_main.fna), removing 35% of the markers that did not have placements with at least 1000 bases flanking sequence and >= 80% query coverage of those bases in the genome.
+  prior_names:
+    - PSPPC.vcf
+  applications:
+    - jbrowse

@@ -1,0 +1,12 @@
+---
+- name: pissa.JI2822.gnm1.QBWW.seqid_map.tsv.gz:
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: pissa.JI2822.gnm1.QBWW.genome_main.fna.gz:
+  description: Primary genome assembly
+  prior_names:
+   - GCA_964186695.1.modID.genome.fasta.gz
+  applications:
+   - blast
+   - mines
