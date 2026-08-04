@@ -28,7 +28,11 @@ original_file_creation_date: "2022-02-25"
 
 local_file_creation_date: "2022-02-25"
 
+publication_doi: 10.1111/mec.16602
+
 dataset_release_date: "2022-02-25"
+
+publication_title: "Combining GWAS and population genomic analyses to characterize coevolution in a legume-rhizobia symbiosis"
 
 contributors: "Epstein, Brendan; Young, Nevin"
 
@@ -40,3 +44,4 @@ license: Open
 
 keywords: Medicago, SNP, GWAS
 
+citation: "Epstein B, Burghardt LT, Heath KD, Grillo MA, Kostanecki A, Hämälä T, Young ND, Tiffin P. Combining GWAS and population genomic analyses to characterize coevolution in a legume-rhizobia symbiosis. Mol Ecol. (2023) Jul;32(14):3798-3811."
