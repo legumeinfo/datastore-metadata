@@ -1,0 +1,48 @@
+---
+identifier: NC.gnm1.K6PZ
+
+provenance: "The files here are held as part of the LegumeInfo and PeanutBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and PeanutBase project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory. This is unpublished data. Please contact PeanutBase.org if you want to publish using this dataset."  
+
+source: "https://peanutbase.org/"  
+
+synopsis: "Arachis hypogaea accession NC94022(NC), genome assembly 1"
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype: 
+  - NC94022
+
+description: "Genome assembly contributed by Josh Clevenger's group(Ethan Thompson), Hudsonalpha. \n\
+Genotype description: \n\
+NC94022(NC) is a valuable peanut (Arachis hypogaea) breeding line known for its strong field resistance to the Tomato spotted wilt virus (TSWV). It was developed from a cross between an early-maturing Virginia-type line (N91026E) and a Mexican hirsuta-type line (PI 576638).
+It is one of the founder parents in an advanced peanut genetic mapping populations, PeanutMAGIC(https://doi.org/10.1002/csc2.21402)."
+
+chromosome_prefix: chr
+
+supercontig_prefix: 
+
+original_file_creation_date: "2026-06-01"
+
+local_file_creation_date: "2026-06-01"
+
+dataset_release_date: "2026-06-01"
+
+publication_doi: "https://doi.org/10.1038/s41467-025-67371-7"
+
+publication_title: "Population-specific pangenome unveils a third FAD2 gene and solves the peanut mid-oleic fatty acid mystery" 
+
+contributors: 
+
+citation: "Thompson, E., Korani, W., Wu, D. et al. Population-specific pangenome unveils a third FAD2 gene and solves the peanut mid-oleic fatty acid mystery. Nat Commun 17, 654 (2026). https://doi.org/10.1038/s41467-025-67371-7"
+
+data_curators: Sudhansu Dash
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: Peanut, NC94022, NC

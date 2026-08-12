@@ -1,0 +1,47 @@
+---
+identifier: WS16.gnm1.3F94
+
+provenance: "The files here are held as part of the LegumeInfo and PeanutBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and PeanutBase project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory. This is unpublished data. Please contact PeanutBase.org if you want to publish using this dataset."  
+
+source: "https://peanutbase.org/"  
+
+synopsis: "Arachis hypogaea accession GP-NC WS16(WS16), genome assembly 1"
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype: 
+  - GP-NC WS16
+
+description: "Genome assembly contributed by Josh Clevenger's group(Ethan Thompson), Hudsonalpha. \n\
+Genotype description: \n\
+GP-NC WS16 (often called WS16) is a specialized peanut genetic line derived from an interspecific hybrid containing wild chromosomal segments from Arachis cardenasii. It is valued for disease resistance traits and its unique oleic acid genetics. It has unique alleles introgressed from the diploid wild species. The line is also unique in that it exhibits multiple disease resistances superior to the germplasm lines derived from A. cardenasii that were released previously by NCSU. Resistance to multiple diseases included early leaf spot (ELS), Cylindrocladium black rot (CBR), Sclerotinia blight (SB), and tomato spotted wilt (TSW). It also served as a founder parent in the advanced peanut genetic mapping population, PeanutMAGIC(https://doi.org/10.1002/csc2.21402)."
+
+chromosome_prefix: chr
+
+supercontig_prefix: 
+
+original_file_creation_date: "2026-06-01"
+
+local_file_creation_date: "2026-06-01"
+
+dataset_release_date: "2026-06-01"
+
+publication_doi: "https://doi.org/10.1038/s41467-025-67371-7"
+
+publication_title: "Population-specific pangenome unveils a third FAD2 gene and solves the peanut mid-oleic fatty acid mystery" 
+
+contributors: 
+
+citation: "Thompson, E., Korani, W., Wu, D. et al. Population-specific pangenome unveils a third FAD2 gene and solves the peanut mid-oleic fatty acid mystery. Nat Commun 17, 654 (2026). https://doi.org/10.1038/s41467-025-67371-7"
+
+data_curators: Sudhansu Dash
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: Peanut, GP-NC WS16, WS16

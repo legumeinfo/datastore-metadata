@@ -1,0 +1,47 @@
+---
+identifier: 97R.gnm1.N3PF
+
+provenance: "The files here are held as part of the LegumeInfo and PeanutBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and PeanutBase project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory. This is unpublished data. Please contact PeanutBase.org if you want to publish using this dataset."  
+
+source: "https://peanutbase.org/"  
+
+synopsis: "Arachis hypogaea accession SunOleic 97R(97R), genome assembly 1"
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype: 
+  - SunOleic 97R
+
+description: "Genome assembly contributed by Josh Clevenger's group(Ethan Thompson), Hudsonalpha. \n\
+Genotype description: \n\
+SunOleic 97R(97R) is a landmark high-oleic runner market-type peanut variety released in 1996 by the University of Florida. It serves as a foundational genetic parent in global peanut breeding, particularly valued for its oil chemistry and use in disease-resistance mapping populations. SunOleic 97R is also utilized as a key founder parent in advanced multi-parent crosses like PeanutMAGIC to improve overall genetic diversity in cultivated peanuts (https://doi.org/10.1002/csc2.21402)."
+
+chromosome_prefix: chr
+
+supercontig_prefix: 
+
+original_file_creation_date: "2026-06-01"
+
+local_file_creation_date: "2026-06-01"
+
+dataset_release_date: "2026-06-01"
+
+publication_doi: "https://doi.org/10.1038/s41467-025-67371-7"
+
+publication_title: "Population-specific pangenome unveils a third FAD2 gene and solves the peanut mid-oleic fatty acid mystery" 
+
+contributors: 
+
+citation: "Thompson, E., Korani, W., Wu, D. et al. Population-specific pangenome unveils a third FAD2 gene and solves the peanut mid-oleic fatty acid mystery. Nat Commun 17, 654 (2026). https://doi.org/10.1038/s41467-025-67371-7"
+
+data_curators: Sudhansu Dash
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: Peanut, SunOleic 97R, 97R
