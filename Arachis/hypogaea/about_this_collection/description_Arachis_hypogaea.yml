@@ -74,4 +74,34 @@ strains:
     accession: ICG1471
     name: ICG 1471
     origin: ICRISAT(Senegal)
-    description: ICG 1471 (also known in by its cross designation 55-437) is a highly specialized, drought-tolerant peanut germplasm line. It is globally recognized as a premier resource for studying and breeding resistance to post-harvest and pre-harvest aflatoxin contamination.
+    description: ICG 1471 (also known in by its cross designation 55-437) is a highly specialized, drought-tolerant peanut germplasm line. It is globally recognized as a premier resource for studying and breeding resistance to post-harvest and pre-harvest aflatoxin contamination.   
+  - identifier: 13M
+    accession: Georgia-13M
+    name: Georgia-13M
+    origin: Georgia USA
+    description: Georgia-13M (or 13M) is a high-oleic, runner-type peanut cultivar released in 2014. Developed from a cross between 'Georgia-02C' and 'Georgia-09B', it is recognized for high disease resistance and serves as a founder parent in advanced peanut genetic mapping populations like PeanutMAGIC(https://doi.org/10.1002/csc2.21402). 
+  - identifier: 97R
+    accession: SunOleic 97R
+    name: SunOleic 97R
+    origin: Florida USA
+    description: SunOleic 97R(97R) is a landmark high-oleic runner market-type peanut variety released in 1996 by the University of Florida. It serves as a foundational genetic parent in global peanut breeding, particularly valued for its oil chemistry and use in disease-resistance mapping populations. SunOleic 97R is also utilized as a key founder parent in advanced multi-parent crosses like PeanutMAGIC to improve overall genetic diversity in cultivated peanuts (https://doi.org/10.1002/csc2.21402).  
+  - identifier: C20
+    accession: GT-C20
+    name: GT-C20
+    origin: Southeast USA
+    description: The GT-C20(C20) peanut genetic line, commonly referenced as GT-C20, is a non-dormant Spanish-type peanut genotype widely utilized in peanut research for studying disease resistance, seed traits, and gene editing. It exhibits strong resistance to Aspergillus species colonization and reduced susceptibility to secondary aflatoxin contamination. It has been utilized as a founder parent in advanced peanut genetic mapping populations like PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+  - identifier: NC
+    accession: NC94022
+    name: NC94022
+    origin: North Carolina USA
+    description: NC94022(NC) is a valuable peanut (Arachis hypogaea) breeding line known for its strong field resistance to the Tomato spotted wilt virus (TSWV). It was developed from a cross between an early-maturing Virginia-type line (N91026E) and a Mexican hirsuta-type line (PI 576638). It is one of the founder parents in an advanced peanut genetic mapping populations, PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+  - identifier: TNV
+    accession: TifNV-High O/L
+    name: TifNV-High O/L
+    origin: Georgia USA
+    description: TifNV-High O/L(TNV) is a runner-type peanut cultivar that combines high oleic acid levels with resistance to root-knot nematodes and tomato spotted wilt virus. Developed by the USDA-ARS and the University of Georgia, it originates from a cross between Tifguard and Florida-07. This line has served as a founder parent in advanced peanut genetic mapping population,  PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+  - identifier: WS16
+    accession: GP-NC WS16
+    name: GP-NC WS16
+    origin: Southeast USA
+    description: GP-NC WS16 (often called WS16) is a specialized peanut genetic line derived from an interspecific hybrid containing wild chromosomal segments from Arachis cardenasii. It is valued for disease resistance traits and its unique oleic acid genetics. It has unique alleles introgressed from the diploid wild species. The line is also unique in that it exhibits multiple disease resistances superior to the germplasm lines derived from A. cardenasii that were released previously by NCSU. Resistance to multiple diseases included early leaf spot (ELS), Cylindrocladium black rot (CBR), Sclerotinia blight (SB), and tomato spotted wilt (TSW). It also served as a founder parent in the advanced peanut genetic mapping population, PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
