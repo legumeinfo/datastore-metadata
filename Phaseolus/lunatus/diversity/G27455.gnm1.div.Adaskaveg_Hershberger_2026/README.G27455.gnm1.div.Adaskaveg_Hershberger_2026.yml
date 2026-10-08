@@ -1,0 +1,51 @@
+---
+identifier: G27455.gnm1.div.Adaskaveg_Hershberger_2026
+
+provenance: "Data in this directory were provided by the publication authors. Files in this present directory are derived, and may have changes, as noted below.  The files here are held as part of the LegumeInfo, PeanutBase, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo, PeanutBase, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+source: 
+
+synopsis: "Non-imputed biallelic SNP calls derived using the HudsonAlpha Khufu platform across a diverse set of lima bean germplasm sourced primarily from the USDA NPGS collection"
+
+related_to: G27455.gnm1.7NXX
+
+scientific_name: Phaseolus lunatus
+
+taxid: 3884
+
+scientific_name_abbrev: phalu
+
+genotype:
+  - 810 unique accessions mostly representing those available in the USDA National Plant Germplasm System collection, with independent sampling of some accessions leading to 1034 total samples
+
+description: "The accessions in this study were primarily obtained from the USDA NPGS lima bean
+collection, representing all accessions from the collection available in October 2022. Other materials
+included represent breeding materials from UC Davis, the University of Delaware, commercially 
+available heirloom lines, and accessions sourced from a previous diversity panel."
+
+bioproject: PRJNA1531942
+
+sraproject: 
+
+original_file_creation_date: "2023-04-24"
+
+local_file_creation_date: "2026-09-15"
+
+dataset_release_date: "2026-10-08"
+
+publication_doi: 10.64898/2026.06.03.729973
+
+publication_title: "Genotypic and multi-environment phenotypic evaluation of the lima bean USDA National Plant Germplasm System collection."
+
+contributors: ""
+
+citation: "Adaskaveg J, Hershberger J, Farmer A, Penmetsa R, Garcia-Lopez I, Garcia-Abadillo J, Zhou X, Huynh B, Roberts P, Ernest E, Warburton M, Jarquin D, Dohle S, Palkovic A, Parker T, Gepts P, Diepenbrock C. Genotypic and multi-environment phenotypic evaluation of the lima bean USDA National Plant Germplasm System collection. [Preprint]. 2026 June. doi: 10.64898/2026.06.03.729973"
+
+data_curators: Andrew Farmer
+
+public_access_level: public
+
+license: Open
+
+keywords: lima bean, SNP, GWAS
+
