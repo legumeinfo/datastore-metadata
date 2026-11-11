@@ -25,8 +25,8 @@ resources:
   - name: Germplasm GIS
     URL: "https://germplasm-map.legumeinfo.org/#?zoom=6&maxRecs=200&taxonQuery=&traitOverlay=&traitScale=global&country=&geocodedOnly=false&traitExcludeUnchar=false&limitToMapExtent&lat=35.87&lng=-109.48&mapHeight=210.25&baseMap=ESRI%20-%20NatGeo%20(default,%20reference%20map)&ne_lat=37.71859032558816&ne_lng=-95.00976562500001&sw_lat=33.97980872872457&sw_lng=-123.94775390625001"
     description: "Geographic information system viewer, showing collection locations for Arachis data held by the U.S. National Plant Germplasm System."
-  - name: Dowload at DS  
-    URL: "https://data.legumeinfo.org/Arachis/hypogaea/"  
+  - name: Dowload at DS
+    URL: "https://data.legumeinfo.org/Arachis/hypogaea/"
     description: "DataStore dir for Arachis hypogaea."
 
 strains:
@@ -40,20 +40,20 @@ strains:
         URL: "https://www.ncbi.nlm.nih.gov/nuccore/PIVG00000000"
         description: "Tifrunner gnm2.ann2 (assembly 2.0 annotation 2.0) at NCBI"
       - name: LIS SequenceServer
-        URL: "https://www.peanutbase.org/tools/sequenceserver/" 
+        URL: "https://www.peanutbase.org/tools/sequenceserver/"
         description: "SequenceServer BLAST against the Tifrunner v2 assembly"
   - identifier: Fuhuasheng
     accession: GH00910
     name: Fuhuasheng
     origin: North China
-    description: The mid-twentieth century landrace Fuhuasheng, from North China, is a widely used parent from 
+    description: The mid-twentieth century landrace Fuhuasheng, from North China, is a widely used parent from
       which ∼70% of Chinese peanut cultivars released during the past half century have been derived.
   - identifier: Shitouqi
     accession: zh.h0235
     name: Shitouqi
     origin: China
-    description: Arachis hypogaea var. Shitouqi (zh.h0235), the most widely cultivated peanut ecotype in the world, 
-      is a Chinese cultivar and breeding parent belonging to subspecies fastigiata, botanical type 
+    description: Arachis hypogaea var. Shitouqi (zh.h0235), the most widely cultivated peanut ecotype in the world,
+      is a Chinese cultivar and breeding parent belonging to subspecies fastigiata, botanical type
       vulgaris and agronomic type Spanish with heterozygosity only 1/6,537 nucleotides on average.
   - identifier: BaileyII
     accession: BaileyII
@@ -64,44 +64,64 @@ strains:
     accession: Florida-07
     name: Florida-07
     origin: Southeast US
-    description: Florida-07(F07) is a widely grown, high-yielding runner peanut variety. It is a medium maturity, large seeded, high oleic cultivar with resistance to Tomato Spotted Wilt was developed by the University of Florida, Institute of Food and Agricultural Sciences. The variety was released in 2006 because of its outstanding pod-yield potential, competitive grades, high oleic oil chemistry and resistance to tomato spotted wilt virus (TSWV) from C-99R in its pedigree. 
+    description: Florida-07(F07) is a widely grown, high-yielding runner peanut variety. It is a medium maturity, large seeded, high oleic cultivar with resistance to Tomato Spotted Wilt was developed by the University of Florida, Institute of Food and Agricultural Sciences. The variety was released in 2006 because of its outstanding pod-yield potential, competitive grades, high oleic oil chemistry and resistance to tomato spotted wilt virus (TSWV) from C-99R in its pedigree.
   - identifier: C76-16
     accession: C76-16
     name: C76-16
     origin: Southeast US
-    description: C76-16, known for its drought tolerance and aflatoxin mitigation traits, is a runner-type advanced peanut breeding line developed by the USDA Agricultural Research Service (USDA-ARS) in Dawson, Georgia. It is heavily utilized for its improved resistance to pre-harvest aflatoxin contamination (PAC). 
+    description: C76-16, known for its drought tolerance and aflatoxin mitigation traits, is a runner-type advanced peanut breeding line developed by the USDA Agricultural Research Service (USDA-ARS) in Dawson, Georgia. It is heavily utilized for its improved resistance to pre-harvest aflatoxin contamination (PAC).
   - identifier: ICG1471
     accession: ICG1471
     name: ICG 1471
     origin: ICRISAT(Senegal)
-    description: ICG 1471 (also known in by its cross designation 55-437) is a highly specialized, drought-tolerant peanut germplasm line. It is globally recognized as a premier resource for studying and breeding resistance to post-harvest and pre-harvest aflatoxin contamination.   
+    description: ICG 1471 (also known in by its cross designation 55-437) is a highly specialized, drought-tolerant peanut germplasm line. It is globally recognized as a premier resource for studying and breeding resistance to post-harvest and pre-harvest aflatoxin contamination.
   - identifier: 13M
     accession: Georgia-13M
     name: Georgia-13M
     origin: Georgia USA
-    description: Georgia-13M (or 13M) is a high-oleic, runner-type peanut cultivar released in 2014. Developed from a cross between 'Georgia-02C' and 'Georgia-09B', it is recognized for high disease resistance and serves as a founder parent in advanced peanut genetic mapping populations like PeanutMAGIC(https://doi.org/10.1002/csc2.21402). 
+    description: Georgia-13M (or 13M) is a high-oleic, runner-type peanut cultivar released in 2014. Developed from a cross between 'Georgia-02C' and 'Georgia-09B', it is recognized for high disease resistance and serves as a founder parent in advanced peanut genetic mapping populations like PeanutMAGIC(https://doi.org/10.1002/csc2.21402).
   - identifier: 97R
     accession: SunOleic 97R
     name: SunOleic 97R
     origin: Florida USA
-    description: SunOleic 97R(97R) is a landmark high-oleic runner market-type peanut variety released in 1996 by the University of Florida. It serves as a foundational genetic parent in global peanut breeding, particularly valued for its oil chemistry and use in disease-resistance mapping populations. SunOleic 97R is also utilized as a key founder parent in advanced multi-parent crosses like PeanutMAGIC to improve overall genetic diversity in cultivated peanuts (https://doi.org/10.1002/csc2.21402).  
+    description: SunOleic 97R(97R) is a landmark high-oleic runner market-type peanut variety released in 1996 by the University of Florida. It serves as a foundational genetic parent in global peanut breeding, particularly valued for its oil chemistry and use in disease-resistance mapping populations. SunOleic 97R is also utilized as a key founder parent in advanced multi-parent crosses like PeanutMAGIC to improve overall genetic diversity in cultivated peanuts (https://doi.org/10.1002/csc2.21402).
   - identifier: C20
     accession: GT-C20
     name: GT-C20
     origin: Southeast USA
-    description: The GT-C20(C20) peanut genetic line, commonly referenced as GT-C20, is a non-dormant Spanish-type peanut genotype widely utilized in peanut research for studying disease resistance, seed traits, and gene editing. It exhibits strong resistance to Aspergillus species colonization and reduced susceptibility to secondary aflatoxin contamination. It has been utilized as a founder parent in advanced peanut genetic mapping populations like PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+    description: The GT-C20(C20) peanut genetic line, commonly referenced as GT-C20, is a non-dormant Spanish-type peanut genotype widely utilized in peanut research for studying disease resistance, seed traits, and gene editing. It exhibits strong resistance to Aspergillus species colonization and reduced susceptibility to secondary aflatoxin contamination. It has been utilized as a founder parent in advanced peanut genetic mapping populations like PeanutMAGIC(https://doi.org/10.1002/csc2.21402).
   - identifier: NC
     accession: NC94022
     name: NC94022
     origin: North Carolina USA
-    description: NC94022(NC) is a valuable peanut (Arachis hypogaea) breeding line known for its strong field resistance to the Tomato spotted wilt virus (TSWV). It was developed from a cross between an early-maturing Virginia-type line (N91026E) and a Mexican hirsuta-type line (PI 576638). It is one of the founder parents in an advanced peanut genetic mapping populations, PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+    description: NC94022(NC) is a valuable peanut (Arachis hypogaea) breeding line known for its strong field resistance to the Tomato spotted wilt virus (TSWV). It was developed from a cross between an early-maturing Virginia-type line (N91026E) and a Mexican hirsuta-type line (PI 576638). It is one of the founder parents in an advanced peanut genetic mapping populations, PeanutMAGIC(https://doi.org/10.1002/csc2.21402).
   - identifier: TNV
     accession: TifNV-High O/L
     name: TifNV-High O/L
     origin: Georgia USA
-    description: TifNV-High O/L(TNV) is a runner-type peanut cultivar that combines high oleic acid levels with resistance to root-knot nematodes and tomato spotted wilt virus. Developed by the USDA-ARS and the University of Georgia, it originates from a cross between Tifguard and Florida-07. This line has served as a founder parent in advanced peanut genetic mapping population,  PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+    description: TifNV-High O/L(TNV) is a runner-type peanut cultivar that combines high oleic acid levels with resistance to root-knot nematodes and tomato spotted wilt virus. Developed by the USDA-ARS and the University of Georgia, it originates from a cross between Tifguard and Florida-07. This line has served as a founder parent in advanced peanut genetic mapping population,  PeanutMAGIC(https://doi.org/10.1002/csc2.21402).
   - identifier: WS16
     accession: GP-NC WS16
     name: GP-NC WS16
     origin: Southeast USA
-    description: GP-NC WS16 (often called WS16) is a specialized peanut genetic line derived from an interspecific hybrid containing wild chromosomal segments from Arachis cardenasii. It is valued for disease resistance traits and its unique oleic acid genetics. It has unique alleles introgressed from the diploid wild species. The line is also unique in that it exhibits multiple disease resistances superior to the germplasm lines derived from A. cardenasii that were released previously by NCSU. Resistance to multiple diseases included early leaf spot (ELS), Cylindrocladium black rot (CBR), Sclerotinia blight (SB), and tomato spotted wilt (TSW). It also served as a founder parent in the advanced peanut genetic mapping population, PeanutMAGIC(https://doi.org/10.1002/csc2.21402).  
+    description: GP-NC WS16 (often called WS16) is a specialized peanut genetic line derived from an interspecific hybrid containing wild chromosomal segments from Arachis cardenasii. It is valued for disease resistance traits and its unique oleic acid genetics. It has unique alleles introgressed from the diploid wild species. The line is also unique in that it exhibits multiple disease resistances superior to the germplasm lines derived from A. cardenasii that were released previously by NCSU. Resistance to multiple diseases included early leaf spot (ELS), Cylindrocladium black rot (CBR), Sclerotinia blight (SB), and tomato spotted wilt (TSW). It also served as a founder parent in the advanced peanut genetic mapping population, PeanutMAGIC(https://doi.org/10.1002/csc2.21402).
+  - identifier: HN51
+    accession: HN51
+    name: Huayu23
+    origin: Chinese cultivar; widespread
+    description: Subspecies var. hypogaea. A widely cultivated oil-type peanut variety developed through hybridization and selection by the Shandong Peanut Research Institute.
+  - identifier: HN873
+    accession: HN873
+    name: Chedouzi
+    origin: Nanchong, Sichuan Province, Southwest China
+    description: Subspecies var. vulgaris. A landrace accession.
+  - identifier: S245
+    accession: S245
+    name: Laiyang Silihong
+    origin: Laiyang, Shandong Province, North China
+    description: Subspecies var. fastigiata. A representative peanut variety known for its high seed count (four seeds).
+  - identifier: S83
+    accession: S83
+    name: S83
+    origin: Yunnan Province, China
+    description: Subspecies var. hirsuta. Named for the color variations in its seed coat. Collected from Yunnan Province, China.
