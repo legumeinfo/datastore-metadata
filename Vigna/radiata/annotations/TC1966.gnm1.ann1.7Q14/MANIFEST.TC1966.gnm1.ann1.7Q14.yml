@@ -1,0 +1,37 @@
+---
+- name: vigra.TC1966.gnm1.ann1.7Q14.featid_map.tsv.gz
+  description: Hash file of old/new gene IDs
+  prior_names:
+   - No prior file
+- name: vigra.TC1966.gnm1.ann1.7Q14.cds.fna.gz
+  description: cds sequences
+  prior_names:
+   - GWHFDOU00000000.1.modID.CDS.fna.gz
+  applications:
+   - blast
+   - mines
+- name: vigra.TC1966.gnm1.ann1.7Q14.mrna.fna.gz
+  description: Transcript sequences
+  prior_names:
+   - GWHFDOU00000000.1.modID.transcripts.fna.gz
+  applications:
+   - mines
+- name: vigra.TC1966.gnm1.ann1.7Q14.mrna_primary.fna.gz
+  description: Transcript sequences - primary only
+  prior_names:
+   - GWHFDOU00000000.1.modID.transcripts_primary.fna.gz
+- name: vigra.TC1966.gnm1.ann1.7Q14.protein.faa.gz
+  description: Protein sequences - primary only
+  prior_names:
+   - GWHFDOU00000000.1.modID.protein.faa.gz
+- name: vigra.TC1966.gnm1.ann1.7Q14.gene_models_main.gff3.gz
+  description: Gene models - main
+  prior_names:
+   - GWHFDOU00000000.1.modID.genes_exons.gff3.gz
+  applications:
+   - mines
+   - jbrowse-index
+- name: vigra.TC1966.gnm1.ann1.7Q14.gene_models_main.bed.gz
+  description: BED-format file, derived from gene_models_main.gff3
+  prior_names:
+   - GWHFDOU00000000.1.modID.genes_exons.gff3.gz

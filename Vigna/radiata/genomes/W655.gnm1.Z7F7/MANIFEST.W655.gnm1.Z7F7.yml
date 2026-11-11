@@ -1,0 +1,12 @@
+---
+- name: vigra.W655.gnm1.Z7F7.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: vigra.W655.gnm1.Z7F7.genome_main.fna.gz
+  description: Primary genome assembly
+  prior_names:
+   - GWHFDOT00000000.1.modID.genome.fasta.gz
+  applications:
+   - blast
+   - mines

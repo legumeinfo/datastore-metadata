@@ -1,0 +1,12 @@
+---
+- name: vigra.TC1966.gnm1.JCV1.seqid_map.tsv.gz
+  description: Map (hash) file of old/new chromosome and scaffold IDs
+  prior_names:
+   - No prior file
+- name: vigra.TC1966.gnm1.JCV1.genome_main.fna.gz
+  description: Primary genome assembly
+  prior_names:
+   - GWHFDOU00000000.1.modID.genome.fasta.gz
+  applications:
+   - blast
+   - mines

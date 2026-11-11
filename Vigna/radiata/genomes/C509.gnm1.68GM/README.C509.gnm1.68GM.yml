@@ -1,0 +1,46 @@
+---
+identifier: C509.gnm1.68GM
+
+provenance: "The files in this directory originated from Genome Warehouse (GWH), for RefSeq genome sequence GWHFDOO00000000.1, submitted by College of Life  Science, HeBei  University China in 2026. The GWH is considered the primary repository and authoritative from China; files in this present directory are derived, and may have changes, as noted below. The files here are held as part of the LegumeInfo and SoyBase projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the LegumeInfo and SoyBase projects. If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please respect any usage restrictions in the present and original repositories, and cite the data appropriately."
+
+source: "https://ngdc.cncb.ac.cn/gwh/Assembly/86090/show"
+
+synopsis: "Vigna radiata (mungbean) accession C509, assembly version 1 (2026)"
+
+scientific_name: Vigna radiata
+
+taxid: 157791
+
+scientific_name_abbrev: vigra
+
+genotype:
+  - C509
+
+chromosome_prefix: Chr
+
+supercontig_prefix: scaf
+
+description: "Genome assembly (scaffolds and pseudomolecules) for Vigna radiata C509, genome assembly 1, annotation 1."
+
+original_file_creation_date: "2026-04-07"
+
+local_file_creation_date: "2026-09-18"
+
+dataset_release_date: "2026-09-25"
+
+publication_doi: 10.1038/s41588-026-02644-5
+
+publication_title: "Graph-based pan-genome reveals structural variations associated with agronomic traits in mung bean"
+
+contributors: Honglin Chen, Longsheng Xing, Chaonan Guan, Yang Liu, Tianxiao Chen, Rong Cao, Qiannan Song, Rutwik Barmukh, Reyazul Rouf Mir, Liangliang Hu, Bin Zhou, Gaoling Luo, Dongxu Xu, Fengxiang Yin, Xingxing Yuan, Suhua Wang, Xin Chen, Lixia Wang, Chengzhi Jiao, Huilong Du, Meiliang Zhou, Rajeev K Varshney, Xuzhen Cheng
+
+citation: "Honglin Chen, Longsheng Xing, Chaonan Guan, Yang Liu, Tianxiao Chen, Rong Cao, Qiannan Song, Rutwik Barmukh, Reyazul Rouf Mir, Liangliang Hu, Bin Zhou, Gaoling Luo, Dongxu Xu, Fengxiang Yin, Xingxing Yuan, Suhua Wang, Xin Chen, Lixia Wang, Chengzhi Jiao, Huilong Du, Meiliang Zhou, Rajeev K Varshney, Xuzhen Cheng. Graph-based pan-genome reveals structural variations associated with agronomic traits in mung bean, Nat Genet. 2026 Jul;58(7):1696-1710.  doi: 10.1038/s41588-026-02644-5.  Epub 2026 Jul 10."
+
+data_curators: Wei Huang, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: Vigna radiata, mungbean, pan-genome
+
