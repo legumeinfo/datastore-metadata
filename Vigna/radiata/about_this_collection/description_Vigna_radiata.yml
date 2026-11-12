@@ -22,3 +22,58 @@ strains:
     name: Weilv-9
     origin: China
     description: "Vigna radiata accession Weilv-9 is a Chinese cultivar selected for sequencing due to its high yield, stress resistance, and compact plant form. The genome assembly and annotations are described in Jia, Li et al., 2025 (DOI:10.1093/hr/uhae337)."
+  - identifier: C34
+    accession: C34
+    name: C34
+    origin: Northern China, Shandong Province
+    description: A landrace accession from Northern China, Shandong Province
+  - identifier: C95
+    accession: C95
+    name: C95
+    origin: Philippines
+    description: A large-seeded landrace from the Philippines
+  - identifier: C509
+    accession: C509
+    name: C509
+    origin: Northern China; Beijing
+    description: A landrace from Northern China; Beijing
+  - identifier: C591
+    accession: C591
+    name: C591
+    origin: Mayanmar
+    description: A large-seeded landrace from Mayanmar
+  - identifier: ZL19
+    accession: ZL19
+    name: Zhonglv No. 19
+    origin: Northern China
+    description: Zhonglv No. 19, an early-maturing, high-yielding cultivar, with bruchid resistance, bred by the Institute of Crop Sciences at the Chinese Academy of Agricultural Sciences (CAAS).
+  - identifier: ZL5
+    accession: ZL5
+    name: ZL5
+    origin: Northern China; Beijing
+    description: Zhonglv No. 5; an elite cultivar from Northern China; Beijing
+  - identifier: F287
+    accession: F287
+    name: F287
+    origin: Northern China, Ningxia Province
+    description: A wild or landrace accession from Northern China; Ningxia Province
+  - identifier: F333
+    accession: F333
+    name: F333
+    origin: Kenya
+    description: A wild or landrace accession, with bruchid resistance, from Kenya
+  - identifier: F487
+    accession: F487
+    name: F487
+    origin: India
+    description: A wild or landrace accession from India
+  - identifier: TC1966
+    accession: TC1966
+    name: TC1966
+    origin: Madagascar
+    description: A landrace from Madagascar, with indeterminate or vining habit, with strong bruchid resistance
+  - identifier: W655
+    accession: W655
+    name: W655
+    origin: China; Hebei Province
+    description: A wild accession, var. sublobata, with indeterminate or vining habit, from China; Hebei Province
