@@ -1,5 +1,9 @@
 ---
-identifier: CDCFrontier.gnm3.ann1.expr.mixed.Moenga_2018
+identifier: CDCFrontier.gnm3.ann1.expr.mixed.Moenga_2018 
+
+provenance: "The files here are held as part of the SoyBase, LegumeInfo, and LegumeFederation projects, and are made available here for the purpose of reproducibility of analyses at these sites (e.g. gene family alignments and phylogenies, genome browsers, etc.) and for further use by researchers, as that research extends other analyses at the SoyBase, LegumeInfo, and Legume Federation project(s). If you are conducting research on large-scale data sets for this species, please consider retrieving the data from the primary repositories. If you use the data in the present directory, please 1) please cite the data appropriately - generally referring to the original publications for this data; and if you make use of any significant modifications in the files (noted below under Transformations where applicable), then please also cite the respective database project(s) related to this directory."
+
+synopsis: "Study of drought stress effects on gene expression from contrasting drought tolerance chickpea genotypes ICC14778 and ICC8058, with reads mapped to the CDCFrontier.gnm3.ann1 genome annotation."
 
 scientific_name: Cicer arietinum
 
@@ -10,15 +14,21 @@ scientific_name_abbrev: cicar
 genotype:
   - ICC14778 (drought tolerant)
   - ICC8058 (drought sensitive)
-  
-synopsis: "Study of drought stress effects on gene expression from contrasting drought tolerance chickpea genotypes ICC14778 and ICC8058, with reads mapped to the CDCFrontier.gnm3.ann1 genome annotation."
-
-description: "To decipher the most important changes occurring in chickpea under water stress, we implemented an integrated quantitative and qualitative analysis of morpho-physiological changes and associated transcriptional regulation by whole transcriptome co-expression network analysis. We investigated the root and shoot responses of accessions that possess varying drought tolerance capacities by exposing plants to similar treatments of soil moisture deficit. Cultivated genotypes ICC14778 and ICC8058 have comparable overall phenology but are categorized as drought tolerant and drought sensitive, respectively, based on previous studies of canopy conductance rates and patterns of water use across developmental stages. Plants were grown to the onset of flowering, the developmental stage at which drought is most frequent for chickpea, and soil moisture was reduced in a moderated fashion to achieve 80%, 40% or 20% available soil water (ASW), representing non-stress, mild and severe drought stress treatments."
 
 expression_unit: TPM
+  
+description: "To decipher the most important changes occurring in chickpea under water stress, we implemented an integrated quantitative and qualitative analysis of morpho-physiological changes and associated transcriptional regulation by whole transcriptome co-expression network analysis. We investigated the root and shoot responses of accessions that possess varying drought tolerance capacities by exposing plants to similar treatments of soil moisture deficit. Cultivated genotypes ICC14778 and ICC8058 have comparable overall phenology but are categorized as drought tolerant and drought sensitive, respectively, based on previous studies of canopy conductance rates and patterns of water use across developmental stages. Plants were grown to the onset of flowering, the developmental stage at which drought is most frequent for chickpea, and soil moisture was reduced in a moderated fashion to achieve 80%, 40% or 20% available soil water (ASW), representing non-stress, mild and severe drought stress treatments." 
+
+original_file_creation_date: "2022-07-14"
 
 local_file_creation_date: "2022-07-14"
 
-contributors: "Susan Moenga, Andrew Farmer"
+data_curators: Andrew Farmer, Evan Lavelle
 
-license: public
+public_access_level: public
+
+license: open
+
+keywords: chickpea, drought, leaf, root
+
+contributors: "Susan Moenga, Andrew Farmer"

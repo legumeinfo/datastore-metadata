@@ -1,4 +1,11 @@
-d8075af9a76f8634545a8608f0d397ac  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.samples.tsv.gz
-593307c262d9a366a810f6aa2237198b  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.obo.tsv.gz
-cb02a1ae5c7ecb4952c7a79933a4021b  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.values.tsv.gz
-d1ba2aa8bb39ffd950669eafacefa6e5  ./README.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.yml
+64314ee9dff2ed3e6ac06dc00834938b  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018a.obo.tsv.gz
+2ec731e1e784290739afd83203cda253  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.Yorker_control.bw
+008ec20322c068417511ba5a65ec5997  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.samples.tsv.gz
+87e422d9ee64f65a6cd7ef29be728ad7  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.Rupali_inoculated.bw
+b7ebc2e837c0e7716152104519417b03  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.coexpression.tsv.gz
+e07c8b5c11ef619a80d1f8812ce6e582  ./README.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.yml
+94a71405c9d03dce39ac11607e08fd10  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.Rupali_control.bw
+dc43c90cc43e81bc81519bbf1b75a05b  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.Yorker_inoculated.bw
+c56c23c45d51328940313400fb9bc291  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.counts.tsv.gz
+b44c6bb69ea686986271f81976414fc0  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.values.tsv.gz
+236c354c5987964bb8393b85b1ec15e9  ./cicar.CDCFrontier.gnm3.ann1.expr.mixed.Sutton_2018b.obo.tsv.gz

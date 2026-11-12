@@ -1,4 +1,8 @@
-544f86d67023e9be73f5ac562e00f2fd  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.values.tsv.gz
 f084c38652689cd5911df391712bc182  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.obo.tsv.gz
-f8d4dbc364c58dcb6c28db112f92fdb2  ./README.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.yml
-d8e0470bb4558ad8cc161729d917278f  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.samples.tsv.gz
+f40a475d4a7d7692444cd28120281b01  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.flower.bw
+2e4ac17b257cbc76e7bc6d2acfe9ad8d  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.coexpression.tsv.gz
+070cdbcfc2a71a79215d93c784ac05e0  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.samples.tsv.gz
+9c13819040b9a72fc1e15948fd6ce373  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.seed.bw
+123f76fa478ea7a8a3bb6e9d6cfd9050  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.counts.tsv.gz
+a5cf9f177b9048d4c3f004c5d5fd16b2  ./cicar.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.values.tsv.gz
+97ae7ae660518e176974d13d9a757d75  ./README.CDCFrontier.gnm3.ann1.expr.Hybrid.Cook_2018.yml
