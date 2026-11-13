@@ -6,8 +6,9 @@ bb662cec0fe431243d213b7c5b7c0085  ./CHANGES.ICG1471.gnm1.ann1.BK1B.txt
 4f76494a8d4075fdef493f16079b254b  ./arahy.ICG1471.gnm1.ann1.BK1B.cds.fna.gz
 60a4a34e2f59891f9d73a8b218d58379  ./arahy.ICG1471.gnm1.ann1.BK1B.cds.fna.gz.fai
 be30d7b389f6a73ef8886a802be6e2f9  ./arahy.ICG1471.gnm1.ann1.BK1B.cds.fna.gz.gzi
+c01f07ceb4810dfb60af2ee43b986518  ./arahy.ICG1471.gnm1.ann1.BK1B.gene_models_main.bed.gz
 4cf8de790947208ced902727ecf0fcbf  ./arahy.ICG1471.gnm1.ann1.BK1B.gene_models_main.gff3.gz
-cfd180f9ce760b8b39fd76f9472ce3ab  ./arahy.ICG1471.gnm1.ann1.BK1B.gene_models_main.gff3.gz.tbi
+9dd52b8e88b5384d642df889ad11ca5e  ./arahy.ICG1471.gnm1.ann1.BK1B.gene_models_main.gff3.gz.tbi
 59c3bf468e672e867955762b5ea0df3e  ./arahy.ICG1471.gnm1.ann1.BK1B.iprscan.gff3.gz
 d386aacaec44c36a53ce081e96edd845  ./arahy.ICG1471.gnm1.ann1.BK1B.iprscan.gff3.gz.tbi
 3c849f57320c195fc4ec78e9c8193df0  ./arahy.ICG1471.gnm1.ann1.BK1B.legfed_v1_0.M65K.gfa.tsv.gz
