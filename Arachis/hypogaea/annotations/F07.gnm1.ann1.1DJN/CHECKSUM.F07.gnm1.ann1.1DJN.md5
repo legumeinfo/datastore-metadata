@@ -6,8 +6,9 @@ ba88ae78c90f17edafa182bf825c5558  ./BUSCO/arahy.F07.gnm1.ann1.1DJN.busco.fabales
 ab5d9e0914e1199cb0ba96e87b9bae5b  ./arahy.F07.gnm1.ann1.1DJN.cds.fna.gz
 3ac6638c1935a67f3fe636e3fb1e5309  ./arahy.F07.gnm1.ann1.1DJN.cds.fna.gz.fai
 8f5e6d8fd7664cb22f33c13926533d97  ./arahy.F07.gnm1.ann1.1DJN.cds.fna.gz.gzi
+939ce3a895c94abe923077b3ac569c2e  ./arahy.F07.gnm1.ann1.1DJN.gene_models_main.bed.gz
 4912d65d585480a0d158e1ad292b1a6b  ./arahy.F07.gnm1.ann1.1DJN.gene_models_main.gff3.gz
-58d79865f7b83216063743e521445375  ./arahy.F07.gnm1.ann1.1DJN.gene_models_main.gff3.gz.tbi
+6ef60a39f02afc8a3a26e71549ca82e0  ./arahy.F07.gnm1.ann1.1DJN.gene_models_main.gff3.gz.tbi
 b7671ead1638bf9b74d8051039115765  ./arahy.F07.gnm1.ann1.1DJN.iprscan.gff3.gz
 50c4fc819022cd6d7a5fd934c1527ee6  ./arahy.F07.gnm1.ann1.1DJN.iprscan.gff3.gz.tbi
 fd1ca63f369fe3ee9d561f09d9d5b5f4  ./arahy.F07.gnm1.ann1.1DJN.legfed_v1_0.M65K.gfa.tsv.gz

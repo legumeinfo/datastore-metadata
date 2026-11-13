@@ -6,8 +6,9 @@ e3ab5aa2cb8755506de8f0c5dc39d46b  ./BUSCO/arahy.C76-16.gnm1.ann1.5MP1.busco.faba
 d6adde9ca5c2dc83c0f8e9f8f12b73d1  ./arahy.C76-16.gnm1.ann1.5MP1.cds.fna.gz
 c7cd748bbd599e323085580181910bf0  ./arahy.C76-16.gnm1.ann1.5MP1.cds.fna.gz.fai
 583569f936b1b584ae97724f14ae90f5  ./arahy.C76-16.gnm1.ann1.5MP1.cds.fna.gz.gzi
+2dcf42bca00fd48da496e2676044aecc  ./arahy.C76-16.gnm1.ann1.5MP1.gene_models_main.bed.gz
 db5faefb73c0923f69cb3ceea4cf20e4  ./arahy.C76-16.gnm1.ann1.5MP1.gene_models_main.gff3.gz
-791718c77bc2b13a2592aee475e1fcf5  ./arahy.C76-16.gnm1.ann1.5MP1.gene_models_main.gff3.gz.tbi
+0a71ef378be366d1414e07033447f198  ./arahy.C76-16.gnm1.ann1.5MP1.gene_models_main.gff3.gz.tbi
 8564b443f77cbab8bd018ebee58754f3  ./arahy.C76-16.gnm1.ann1.5MP1.iprscan.gff3.gz
 9e8e23d25869cad8b4399fabb7ead110  ./arahy.C76-16.gnm1.ann1.5MP1.iprscan.gff3.gz.tbi
 d859213fec3650377dc3036c6f257f47  ./arahy.C76-16.gnm1.ann1.5MP1.legfed_v1_0.M65K.gfa.tsv.gz
